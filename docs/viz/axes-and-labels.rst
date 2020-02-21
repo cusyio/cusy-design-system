@@ -15,13 +15,11 @@ sodass ein kleiner Unterschied signifikanter erscheint als er tatsächlich ist.
 
 .. figure:: axislabel-zero-a.png
    :alt: Beginnend mit Null
-   :align: left
 
    Bei Balkendiagrammen sollte die numerische Achse bei Null beginnen.
 
 .. figure:: axislabel-zero-b.png
    :alt: Beginnend mit 60%
-   :align: left
 
    Wenn eine Achse nicht bei Null beginnt, sind die prozentualen Unterschiede
    zwischen den Balken übertrieben.
