@@ -2,8 +2,8 @@
 Cusy Design System
 ==================
 
-`Cusy Design System <https://cusy-design-system.readthedocs.io/>`_ besteht aus
-Richtlinien für Benutzeroberflächen, Code-Beispielen, Designtools und
+Das `Cusy Design System <https://cusy-design-system.readthedocs.io/>`_ besteht
+aus Richtlinien für Benutzeroberflächen, Code-Beispielen, Designtools und
 -Ressourcen.
 
 .. toctree::
@@ -12,6 +12,7 @@ Richtlinien für Benutzeroberflächen, Code-Beispielen, Designtools und
     :maxdepth: 0
 
     intro
+    accessibility/index
     viz/index
     resources
     genindex
