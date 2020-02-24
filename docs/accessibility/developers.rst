@@ -142,8 +142,8 @@ Stellt Videos mit Untertitenl oder Transkriptionen in Audiodateien bereit:
       <track kind="subtitles" src="example_subtitles.vtt" srclang="en" />
     </video>
 
-Vermeiden Schriftsymbolbibliotheken
------------------------------------
+Schriftsymbolbibliotheken
+-------------------------
 
 Wir sind bei der Verwendung von Schriftsymbolbibliotheken auf zwei verschiedene
 Anwendungsfälle gestoßen, die ihr berücksichtigen solltet:
