@@ -74,7 +74,7 @@ html_theme = 'alabaster'
 # documentation.
 #
 html_theme_options = {
-    'description': 'Cusy Design System besteht aus Richtlinien für Benutzeroberflächen, Code-Beispielen, Designtools und -Ressourcen.',
+    'description': 'Das Cusy Design System besteht aus Richtlinien für Benutzeroberflächen, Code-Beispielen, Designtools und -Ressourcen.',
     'fixed_sidebar': False,
     'show_powered_by': False,
     'github_user': 'cusyio',
