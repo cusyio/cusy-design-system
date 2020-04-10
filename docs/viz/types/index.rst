@@ -5,7 +5,6 @@ Identifiziert zunächst den Zweck der Visualisierung, i.B. Vergleiche, Trends
 oder Anteile, und wählt anschließend einen der folgenden Diagrammtypen aus:
 
 .. toctree::
-    :hidden:
     :titlesonly:
     :maxdepth: 0
 
