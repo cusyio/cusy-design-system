@@ -5,13 +5,12 @@ Einführung
 ----------
 
 Die Komponenten des Cusy-Design-System wurden entwickelt, um das gesamte
-Spektrum von Sehbehinderungen zu berücksichtigen. Die Entwickler müssen jedoch
-noch Sorgfalt walten lassen, um sicherzustellen, dass die Komponenten auch
-korrekt verwendet werden.
+Spektrum von Sehbehinderungen zu berücksichtigen. Die Entwickler*innen müssen
+jedoch noch Sorgfalt walten lassen, um sicherzustellen, dass die Komponenten
+auch korrekt verwendet werden.
 
 Farbkontrast
 ------------
-
 
 Das Cusy-Design-System erfüllt die `WCAG AA-Standards
 <https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html>`_
@@ -30,13 +29,13 @@ Großer Text
 Großer Text (mindestens 24px normal und hell oder 19px halbfett) muss ein
 Kontrastverhältnis von 3:1 haben.
 
-Text vor nicht statischem Hintergrund
+Text vor nicht statischem-Hintergrund
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Wenn Text auf einem Verlaufshintergrund oder Bild gerendert wird, muss
 sichergestellt werden, dass die Textfarbe an allen Stellen, an denen sie
 angezeigt wird, den Kontraststandards entspricht. Dies ist besonders
-wichtig für Parallaxenanwendungen oder Animationen, bei denen sich Text und
+wichtig für Parallax-Anwendungen oder Animationen, bei denen sich Text und
 Hintergrund unabhängig voneinander bewegen.
 
 UI-Komponenten
@@ -77,7 +76,7 @@ sowohl das Übermitteln von Informationen, das Anzeigen von Aktionen, das
 Auffordern der Benutzer*innen zur Beantwortung oder das Unterscheiden eines
 visuellen Elements von einem anderen. Beim Entwerfen mit Farbe kann es hilfreich
 sein, einen Simulator für Farbenblindheit zu verwenden, um die Sichtbarkeit von
-Inhalten zu überprüfen, wie z.B. das `Stark <http://www.getstark.co/>`_-Plogin
+Inhalten zu überprüfen, wie z.B. das `Stark <http://www.getstark.co/>`_-Plugin
 für Sketch.
 
 .. figure:: color-accessibility-1.png
