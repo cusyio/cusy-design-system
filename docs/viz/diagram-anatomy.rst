@@ -79,7 +79,7 @@ Etikett
 
 Leistungskennzahl
    Er besteht aus einer Zahl mit einer einzelnen Wortbeschreibung. Beispiele
-   hierfür sind *15.250 Browser*, *1,3 Millionen US-Dollar Umsatz* oder
+   hierfür sind *15,250 Browser*, *1,3 Millionen US-Dollar Umsatz* oder
    *Insgesamt 450*. Sie kann innerhalb eines Ringdiagramms verwendet
    werden, um eine Gesamtsumme oder die individuelle Anzahl eines Teils bei
    Interaktion anzuzeigen. Dieses Element kann auch unabhängig in
