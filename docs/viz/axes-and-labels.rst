@@ -25,7 +25,7 @@ sodass ein kleiner Unterschied signifikanter erscheint als er tatsächlich ist.
    zwischen den Balken übertrieben.
 
 Linien- und Streudiagramme können jedoch mit einem Wert über Null starten. Diese
-Arten von Visualisierungen reagiere nweniger empfindlich auf Verzerrungen, da
+Arten von Visualisierungen reagieren weniger empfindlich auf Verzerrungen, da
 sie eher Trends als Unterschiede in Größe oder Menge kommunizieren. In diesen
 Fällen hilft das Zuschneiden der Y-Achse dem Betrachtern, die Änderungsrichtung
 besser zu identifizieren.
