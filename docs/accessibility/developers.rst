@@ -1,8 +1,8 @@
 HTML-Best-Practices
 ===================
 
-Strukturiert Code und Navigation
---------------------------------
+Code und Navigation strukturieren
+---------------------------------
 
 Denkt bei der Strukturierung eurer Inhalte an die Code-Hierarchie, damit
 Screen Reader und Benutzer*innen, die nur über die Tastatur verfügen, über
@@ -12,8 +12,8 @@ Hauptnavigation, dann der Seitennavigation (von links nach rechts und von oben
 nach unten) und enden Sie mit der Fußzeile. Ziel ist es, Tastaturbenutzer*innen
 eine vergleichbare Benutzung zu ermöglichen wie Benutzer*innen von Mäusen.
 
-Verwendet semantisches HTML
----------------------------
+Semantisches HTML
+-----------------
 
 Verwendet native HTML-Elemente so oft wie möglich und verwendet sie für den
 richtigen Zweck. Diese Elemente bieten integrierte Vorteile für die
@@ -75,8 +75,8 @@ Suchmaschinenoptimierung verbessern.
         </footer>
       </body>
 
-Verwendet eine klare Sprache
-----------------------------
+Klare Sprache
+-------------
 
 Berücksichtigt beim Hinzufügen von Inhalten kognitive Behinderungen,
 Personen, deren Muttersprache nicht die Sprache ist, in der Ihre Inhalte
@@ -89,8 +89,8 @@ bei Abkürzungen das native ``<abbr/>``-Element mit dem ``title``-Attribut.
 
     <abbr title="HyperText Markup Language">HTML</abbr>
 
-Verwendet aussagekräftige Textbeschriftungen
---------------------------------------------
+Aussagekräftige Textbeschriftungen
+----------------------------------
 
 Berücksichtigt beim Beschriften von Elementen sehbehinderte Personen und stellt
 sicher, dass für Screen-Reader ein Textkontext vorhanden ist.
@@ -101,8 +101,8 @@ sicher, dass für Screen-Reader ein Textkontext vorhanden ist.
       <!-- content of the contact form -->
     </div>
 
-Zugängliche Tabellen erstellen
-------------------------------
+Zugängliche Tabellen
+--------------------
 
 * Gebt Tabellenüberschriften immer mit ``<th/>``-Elementen an und stellt sicher,
   dass sie herausragen.
@@ -116,8 +116,8 @@ Zugängliche Datenvisualisierungen
 ---------------------------------
 
 Es ist wichtig, sehbehinderte Benutzer*innen bei der Einbeziehung von
-Datenvisualisierungen zu berücksichtigen. Betrachtet Datentabellen können dabei
-eine Alternative zu den Datenvisualisierungen für Screen-Reader sein. Auch die
+Datenvisualisierungen zu berücksichtigen. Datentabellen können dabei eine
+Alternative zu den Datenvisualisierungen für Screen-Reader sein. Auch die
 Farbauswahl für farbenblinde Benutzer*innen ist zu berücksichtigen.
 
 Multimedia-Textalternativen
@@ -125,14 +125,16 @@ Multimedia-Textalternativen
 
 Jedes Bild, das nicht dekorativ ist, sollte mit ``alt``-Text und einer
 aussagekräftigen Beschreibung des Bildes sowie einem ``title``-Attribut versehen
-sein. Ihr könnr auch ``aria-labelledby`` zusammen mit dem ``id``-Attribut verwenden.
+sein. Ihr könnt auch `aria-labelledby
+<https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-labelledby_attribute>`_
+zusammen mit dem ``id``-Attribut verwenden.
 Für dekorative Bilder solltet ihr ein leeres ``alt``-Attribut verwenden, da
 andernfalls der Screen-Reader die gesamte Bild-URL liest.
 
 Audio-Alternativen
 ------------------
 
-Stellt Videos mit Untertitenl oder Transkriptionen in Audiodateien bereit:
+Stellt Videos mit Untertiteln oder Transkriptionen in Audiodateien bereit:
 
 .. code-block:: html
 
@@ -161,7 +163,7 @@ Dekorative Symbole
         <i class="fas fa-camera-retro" aria-hidden="true"></i>
 
 Semantische Symbole
-    sind solche, mit denen beudeutendes vermittelt werden soll, z.B. für Button,
+    sind solche, mit denen bedeutendes vermittelt werden soll, z.B. für Button,
     Formularelemente etc.
 
     Neben dem ``aria-hidden="true"``-Attribut sollten zwei weitere Ergänzungen
