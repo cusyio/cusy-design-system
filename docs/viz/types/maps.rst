@@ -36,7 +36,7 @@ einer Eigenschaft oder Menge in diesen Bereichen anzugeben.
 Symbole für Proportionen
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-Geographische Regionen werden von durch Daten gesteuerte Symbolen für
+Geographische Regionen werden von, durch Daten gesteuerten Symbolen für
 Proportionen überlagert. Ein häufig verwendetes Symbol ist eine Blase, deren
 Kreisfläche proportional zu ihrem Wert im Datensatz ist.
 
