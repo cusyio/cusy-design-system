@@ -8,8 +8,8 @@ Daten.
 Präsentation-Dashboards
 -----------------------
 
-Präsentation-Dashboards zeigen den Betrachern den aktuellen Status eines
-Problems mit den relevanten Leistungsindikatoren.Ein gutes
+Präsentation-Dashboards zeigen den Betrachtern den aktuellen Status eines
+Problems mit den relevanten Leistungsindikatoren. Ein gutes
 Präsentation-Dashboard bietet eine Gesamtansicht der Daten und dient
 gleichzeitig als Leitfaden für die Betrachter, um zu entscheiden, auf welche
 Bereiche sie sich konzentrieren sollten um sie weiter zu erkunden.
@@ -46,11 +46,8 @@ Vorgehensweise
    Unterschiedliche Leerräume trennen oder verbinden Elemente, wodurch die
    Betrachter durch ein Dashboard geführt werden.
 
-   | Layout on a Web page (…) may not measurably influence performance,
-   | but it does influence satisfaction.
-
-   (Chaparro, B. S., Shaikh, A. D., and Baker, J. R. (2005). «Reading Online
-   Text with a Poor Layout: Is Performance Worse?» Usability News, 7.
+    «Layout on a Web page (…) may not measurably influence performance,
+    but it does influence satisfaction.»[#]_
 
 Exploration-Dashboards
 ----------------------
@@ -80,6 +77,10 @@ Vorgehensweise
    Verwendet Anmerkungen, um Trends, Durchschnittswerte, Spitzen und Täler
    hervorzuheben und zusätzliche Informationen bereitzustellen. Anmerkungen
    sollen den Benutzern helfen, Schwankungen in den Daten zu interpretieren.
-   Umgekehrt solltet ihr Anmerkungen Vermeiden, die die Ansicht von Daten
+   Umgekehrt solltet ihr Anmerkungen vermeiden, die die Ansicht von Daten
    behindern.
+
+.. [#] (Chaparro, B. S., Shaikh, A. D., and Baker, J. R. (2005). «Reading Online
+   Text with a Poor Layout: Is Performance Worse?» Usability News, 7.
+
 
