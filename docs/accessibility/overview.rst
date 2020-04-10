@@ -4,22 +4,22 @@
 Zugänglichkeit
 --------------
 
-Barrierefreies Design hilft nicht nur Benutzern mit Behinderungen, es bietet
-auch  bessere Erfahrungen für alle. Alle Cusy-Design-Komponenten berücksichtigen
-die `Web Content Accessibility Guidelines (WCAG) 2.0
+Barrierefreies Design hilft nicht nur Benutzer*innen mit Behinderungen, es
+bietet auch  bessere Erfahrungen für alle. Alle Cusy-Design-Komponenten
+berücksichtigen die `Web Content Accessibility Guidelines (WCAG) 2.0
 <https://www.w3.org/Translations/WCAG20-de/>`_, `Section 508
 <https://www.section508.gov/>`_ und europäischen Standards. Die Muster des
-Cusy-Design-System sind für Benutzer wahrnehmbar, bedienbar und verständlich,
-selbst wenn ein Screen-Reader oder eine andere unterstützende Technologien
-verwendet werden.
+Cusy-Design-System sind für Benutzer*innen wahrnehmbar, bedienbar und
+verständlich, selbst wenn ein Screen-Reader oder andere unterstützende
+Technologien verwendet werden.
 
 Die Verwendung des Cusy Design System wirkt sich jedoch auch auf die
 Zugänglichkeit eines Produkts aus. Lest diese Seite, um mehr über
 Barrierefreiheit im Allgemeinen zu erfahren. Verwendet dann während der Arbeit
 die rollenspezifischen Richtlinien zur Barrierefreiheit des Cusy Design System,
-um Produkte herzustellen, die jeder verwenden kann.
+um Produkte herzustellen, die jede*r verwenden kann.
 
-Damit ein Produkt als zugänglich angesehen werden kann, sollte es:
+Damit ein Produkt als zugänglich angesehen werden kann, sollte es
 
 * für alle Benutzer*innen die gleichen Vorteile erhalten, unabhängig von ihren
   Fähigkeiten
@@ -36,7 +36,7 @@ Behinderungen können in drei Haupttypen unterteilt werden:
 | situationsbedingt        |  Eine Person mit typischer Sehstärke kann z.B.      |
 |                          |  Schwierigkeiten mit einem Bildschirm in heller     |
 |                          |  Umgebung haben. Oder eine andere Person kann in    |
-|                          |  einer Bibliothek ein Viedo nur mit ausgeschaltetem |
+|                          |  einer Bibliothek ein Video nur mit ausgeschaltetem |
 |                          |  Ton ansehen.                                       |
 +--------------------------+-----------------------------------------------------+
 | temporär                 | Eine Person mit gebrochenem Handgelenk kann         |
@@ -47,8 +47,8 @@ Behinderungen können in drei Haupttypen unterteilt werden:
 |                          | verstanden.                                         |
 +--------------------------+-----------------------------------------------------+
 
-Blinde Benutzer*innen
-~~~~~~~~~~~~~~~~~~~~~
+Blinde
+~~~~~~
 
 * Können Screen-Reader verwendet werden?
 * Können Braille-Reader verwendet werden?
@@ -57,8 +57,8 @@ Blinde Benutzer*innen
   Plots nur durch die Metadaten verstanden werden?
 * Lässt sich die Website oder die Software auch nur akustisch erfahren?
 
-Sehbehinderte Benutzer*innen
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Sehbehinderte
+~~~~~~~~~~~~~
 
 Sehbehinderung kann ein teilweises Sehen mit einem oder beiden Augen umfassen
 und von leicht bis schwer reichen. Sie betrifft ungefähr 4% der Weltbevölkerung.
@@ -74,8 +74,8 @@ und von leicht bis schwer reichen. Sie betrifft ungefähr 4% der Weltbevölkerun
   o.ä. verwendet um ein besseres Verständnis der verschiedenen Sehbehinderungen
   zu erhalten?
 
-Farbenblinde Benutzer*innen
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Farbenblinde
+~~~~~~~~~~~~
 
 Farbenblindheit betrifft 8% aller Männer und 0,4% der Frauen.
 
@@ -83,22 +83,22 @@ Farbenblindheit betrifft 8% aller Männer und 0,4% der Frauen.
   Farbenblindheit überprüft, z.B. mit dem Sketch-Plugin `Stark
   <https://www.getstark.co/>`_?
 
-Gehörlose und schwerhörige Benutzer*innen
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Gehörlose und Schwerhörige
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Gibt es Untertitel und alternative Darstellungen von Audio? Beachtet dabei,
   dass alle davon profitieren können, z.B. in einer sehr lauten Umgebung.
 * Werden Videos und Animationen transkribiert?
 
-Benutzer*innen mit Körperlichen Behinderungen
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Körperlich Behinderte
+~~~~~~~~~~~~~~~~~~~~~
 
 * Sind alle Aktionen über die Tastatur zugänglich und effizient? Viele
-  Benutzer*ininen können die Navigation mit einer Tastatur und nicht mit einer
-  Maus bevorzugen, da dies die Produktivität erhöhen kann.
+  Benutzer*innen bevorzugen die Navigation mit einer Tastatur vor der mit einer
+  Maus, da dies die Produktivität erhöhen kann.
 
-Benutzer*innen mit kognitiven Behinderungen
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Kognitiv Behinderte
+~~~~~~~~~~~~~~~~~~~
 
 * Bleiben Informationen sichtbar, die zu einem späteren Zeitpunkt benötigt
   werden?
