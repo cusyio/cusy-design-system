@@ -5,24 +5,25 @@ Zugänglichkeit
 --------------
 
 Barrierefreies Design hilft nicht nur Benutzern mit Behinderungen, es bietet
-eine bessere Erfahrung für alle. Alle Cusy-Design-Komponenten berücksichtigen
-die WCAG AA, Section 508 und europäischen Standards. Die Muster des
+auch  bessere Erfahrungen für alle. Alle Cusy-Design-Komponenten berücksichtigen
+die `Web Content Accessibility Guidelines (WCAG) 2.0
+<https://www.w3.org/Translations/WCAG20-de/>`_, `Section 508
+<https://www.section508.gov/>`_ und europäischen Standards. Die Muster des
 Cusy-Design-System sind für Benutzer wahrnehmbar, bedienbar und verständlich,
 selbst wenn ein Screen-Reader oder eine andere unterstützende Technologien
 verwendet werden.
 
-Die Verwendung des Cusy-Design-System wirkt sich jedoch auch auf die
+Die Verwendung des Cusy Design System wirkt sich jedoch auch auf die
 Zugänglichkeit eines Produkts aus. Lest diese Seite, um mehr über
 Barrierefreiheit im Allgemeinen zu erfahren. Verwendet dann während der Arbeit
-die rollenspezifischen Richtlinien zur Barrierefreiheit des Cusy-Design-System,
+die rollenspezifischen Richtlinien zur Barrierefreiheit des Cusy Design System,
 um Produkte herzustellen, die jeder verwenden kann.
 
 Damit ein Produkt als zugänglich angesehen werden kann, sollte es:
 
-* alle Benutzer*innen sollten die gleichen Vortiele erhalten, unabhängig von
-  ihren Fähigkeiten
-* das Produkt sollte von allem Benutzer*innen dem jeweiligen Kontext angepasst
-  werden können.
+* für alle Benutzer*innen die gleichen Vorteile erhalten, unabhängig von ihren
+  Fähigkeiten
+* von allem Benutzer*innen dem jeweiligen Kontext angepasst werden können.
 
 Kategorien von Behinderungen
 ----------------------------
@@ -35,7 +36,7 @@ Behinderungen können in drei Haupttypen unterteilt werden:
 | situationsbedingt        |  Eine Person mit typischer Sehstärke kann z.B.      |
 |                          |  Schwierigkeiten mit einem Bildschirm in heller     |
 |                          |  Umgebung haben. Oder eine andere Person kann in    |
-|                          |  einer Bibliothek ein Vido nur mit ausgeschaltetem  |
+|                          |  einer Bibliothek ein Viedo nur mit ausgeschaltetem |
 |                          |  Ton ansehen.                                       |
 +--------------------------+-----------------------------------------------------+
 | temporär                 | Eine Person mit gebrochenem Handgelenk kann         |
@@ -59,10 +60,10 @@ Blinde Benutzer*innen
 Sehbehinderte Benutzer*innen
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Sehbehinderung kann ein teilweises Sehen in einem oder beiden Augen umfassen und
-von leicht bis schwer reichen. Es betrifft ungefähr 4% der Weltbevölkerung.
+Sehbehinderung kann ein teilweises Sehen mit einem oder beiden Augen umfassen
+und von leicht bis schwer reichen. Sie betrifft ungefähr 4% der Weltbevölkerung.
 
-* Können Bildschirmleser, Bildschirmlupen, kontrastreiche Modi und/oder
+* Können sie Bildschirmleser, Bildschirmlupen, kontrastreiche Modi und/oder
   monochrome Anzeigen verwenden?
 * Lässt sich die Website erfahren, wenn der Browser auf eine größere Schrift
   eingestellt ist?
@@ -93,8 +94,8 @@ Benutzer*innen mit Körperlichen Behinderungen
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Sind alle Aktionen über die Tastatur zugänglich und effizient? Viele
-  Benutzer*innen bevorzugen mit einer Tastatur und nicht mit einer Maus zu
-  navigieren, da dies die Produktivität erhöhen kann.
+  Benutzer*ininen können die Navigation mit einer Tastatur und nicht mit einer
+  Maus bevorzugen, da dies die Produktivität erhöhen kann.
 
 Benutzer*innen mit kognitiven Behinderungen
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
