@@ -13,6 +13,7 @@ aus Richtlinien für Benutzeroberflächen, Code-Beispielen, Designtools und
 
     intro
     accessibility/index
+    themes
     viz/index
     resources
     genindex
