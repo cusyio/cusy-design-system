@@ -134,4 +134,5 @@ Werkzeuge
   <https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl>`_
 * `Kontrastrechner
   <https://www.leserlich.info/werkzeuge/kontrastrechner/>`_
+* `Pa11y <https://pa11y.org/>`_
 
