@@ -69,10 +69,8 @@ und von leicht bis schwer reichen. Sie betrifft ungefähr 4% der Weltbevölkerun
   eingestellt ist?
 * Ist eine `Keyboard-Only Navigation
   <https://www.nngroup.com/articles/keyboard-accessibility/>`_ möglich?
-* Wird das Chrome-Plugin `NoCoffee
-  <https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl>`_
-  o.ä. verwendet um ein besseres Verständnis der verschiedenen Sehbehinderungen
-  zu erhalten?
+* Wird `NoCoffee <https://github.com/eeejay/NoCoffee>`_ o.ä. verwendet um ein
+  besseres Verständnis der verschiedenen Sehbehinderungen zu erhalten?
 
 Farbenblinde
 ~~~~~~~~~~~~
