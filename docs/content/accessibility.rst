@@ -56,7 +56,6 @@ Alternative Texte für aussagekräftige Bilder und visuelle Daten
 
   .. seealso::
      * `Complex Images <https://www.w3.org/WAI/tutorials/images/complex/>`_
-       <https://www.w3.org/WAI/tutorials/images/functional/>`_
 
 Namen und Symbole für Videos
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
