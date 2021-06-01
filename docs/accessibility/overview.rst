@@ -127,9 +127,8 @@ Werkzeuge
 
 * `High-contrast Chrome plugin
   <https://chrome.google.com/webstore/detail/high-contrast/djcfdncoelnlbldjfhinnjlhdjlikmph>`_
-* `NoCoffee vision simulator
-  <https://github.com/eeejay/NoCoffee>`_
 * `Stark Sketch plugin <https://www.getstark.co/>`_
+* `NoCoffee vision simulator <https://github.com/eeejay/NoCoffee>`_
 * `Kontrastrechner
   <https://www.leserlich.info/werkzeuge/kontrastrechner/>`_
 * `Pa11y <https://pa11y.org/>`_
