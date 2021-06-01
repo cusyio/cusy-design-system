@@ -13,4 +13,4 @@ Status
 .. |License| image:: https://img.shields.io/github/license/cusyio/cusy-design-system.svg
    :target: https://github.com/cusyio/cusy-design-system/blob/main/LICENSE
 .. |Docs| image:: https://readthedocs.org/projects/cusy-design-system/badge/?version=latest
-   :target: https:///cusy-design-system.readthedocs.io/de/latest/
+   :target: https://cusy-design-system.readthedocs.io/de/latest/
