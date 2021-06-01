@@ -76,7 +76,7 @@ sowohl das Übermitteln von Informationen, das Anzeigen von Aktionen, das
 Auffordern der Benutzer*innen zur Beantwortung oder das Unterscheiden eines
 visuellen Elements von einem anderen. Beim Entwerfen mit Farbe kann es hilfreich
 sein, einen Simulator für Farbenblindheit zu verwenden, um die Sichtbarkeit von
-Inhalten zu überprüfen, wie z.B. das `Stark <http://www.getstark.co/>`_-Plugin
+Inhalten zu überprüfen, wie z.B. das `Stark <https://www.getstark.co/>`_-Plugin
 für Sketch.
 
 .. figure:: color-accessibility-1.png
