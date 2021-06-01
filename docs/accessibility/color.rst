@@ -113,8 +113,10 @@ Entwerfen für Sehschwäche
 
 Um ein Verständnis für die verschiedenen Sehschwächen zu erhalten, empfehlen wir
 die Verwendung des `NoCoffee Vision Simulator
-<https://github.com/eeejay/NoCoffee>`_ zur Vorschau von Websites. Benutzer*innen
-mit Sehschwächen verwenden möglicherweise einen Screen-Reader, um eine Vorschau
-der Website anzuzeigen. Daher sollten unbedingt die :doc:`Tastaturrichtlinien
-<keyboard>` befolgt werden, um sicherzustellen, dass die Seite den
-Benutzer*innen in einer logischen Reihenfolge vorgelesen wird.
+<https://github.com/eeejay/NoCoffee>`_ zur Vorschau von Websites. Ihr könnt ihn
+auch direkt als `Firefox add-on
+<https://addons.mozilla.org/en-US/firefox/addon/nocoffee/>`_ installieren.
+Benutzer*innen mit Sehschwächen verwenden möglicherweise einen Screen-Reader, um
+eine Vorschau der Website anzuzeigen. Daher sollten unbedingt die
+:doc:`Tastaturrichtlinien <keyboard>` befolgt werden, um sicherzustellen, dass
+die Seite den Benutzer*innen in einer logischen Reihenfolge vorgelesen wird.
