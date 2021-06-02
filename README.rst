@@ -51,7 +51,7 @@ Installation
 
     $ pipenv run sphinx-build -b html docs/ docs/_build/
 
-   Mit `sphinx-autobuild <https://github.com/executablebooks/sphinx-autobuild>_`
+   Mit `sphinx-autobuild <https://github.com/executablebooks/sphinx-autobuild>`_
    steht eine Erweiterung zur Verfügung, welche die Dokumentation bei Änderungen
    automatisch neu generiert und auch die Dokumentation im Browser neu lädt.
 
