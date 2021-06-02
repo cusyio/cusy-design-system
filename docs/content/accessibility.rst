@@ -37,9 +37,9 @@ Alternative Texte für aussagekräftige Bilder und visuelle Daten
   Wenn das Bild anderes Material auf der Seite nur verstärkt, sollten nur sehr
   wenige Wörter verwendet werden. Viele Bilder benötigen nur ein Nomen,
   `alt="Portrait"` oder eine Nomen-Verb-Substantiv-Beschreibung `alt="Wahl der
-  richtigen Datenbank"`. Bei Bildern mit aussagekräftigem Text, z.B. dem
-  Screenshot einer Fehlermeldung, sollte die Textalternative dieselben Wörter
-  wiederholen.
+  richtigen Datenbank"`. Bei Bildern mit aussagekräftigem Text, :abbr:`z.B. (zum
+  Beispiel)` dem Screenshot einer Fehlermeldung, sollte die Textalternative
+  dieselben Wörter wiederholen.
 
 * Ist das Bild ein Steuerelement, soll die Alternative den Zweck beschreiben,
   nicht das Bild.

@@ -10,7 +10,7 @@ Continuous Integration
 
 Wir überprüfen systematisch, ob die Dokumentation des Cusy-Design-System
 erstellt werden kann und zeigen Euch dies auch mit folgendem Abzeichen
-(:abbr:`engl.`: Badge) an: |Docs|.
+(:abbr:`engl. (englisch)`: Badge) an: |Docs|.
 
 .. |Docs| image:: https://readthedocs.org/projects/cusy-design-system/badge/?version=latest
    :target: https:///cusy-design-system.readthedocs.io/de/latest/
@@ -34,9 +34,10 @@ Build-Fehler
 
 Ihr habt jedoch auch die Möglichkeit, vor der Veröffentlichung Eurer Änderungen
 zu überprüfen, ob Eure Inhalte ordnungsgemäß erstellt werden. Hierfür hat
-:abbr:`z.B.` das für die Erstellung des Cusy-Design-System verwendete `Sphinx
-<https://www.sphinx-doc.org/>`_ einen pingelig (:abbr:`engl.` nitpicky)-Modus,
-der mit der Option ``-n`` aufgerufen werden kann, also :abbr:`z.B.` mit:
+:abbr:`z.B. (zum Beispiel)` das für die Erstellung des Cusy-Design-System
+verwendete `Sphinx <https://www.sphinx-doc.org/>`_ einen pingelig (:abbr:`engl.
+(englisch)` nitpicky)-Modus, der mit der Option ``-n`` aufgerufen werden kann,
+also :abbr:`z.B. (zum Beispiel)` mit:
 
 .. code-block:: console
 
@@ -47,13 +48,14 @@ Links überprüfen
 
 Ihr könnt auch automatisiert sicherstellen, dass die von Euch angegebenen
 Linkziele erreichbar sind. Unser Dokumentationswerkzeug Sphinx verwendet hierfür
-einen ``linkcheck``-Builder, den Ihr :abbr:`ggf.` aufrufen könnt mit:
+einen ``linkcheck``-Builder, den Ihr :abbr:`ggf. (gegebenenfalls)` aufrufen
+könnt mit:
 
 .. code-block:: console
 
     $ pipenv run sphinx-build -b linkcheck docs/ docs/_build/
 
-Die Ausgabe kann dann :abbr:`z.B.` so aussehen:
+Die Ausgabe kann dann :abbr:`z.B. (zum Beispiel)` so aussehen:
 
 .. code-block:: console
 
@@ -73,15 +75,18 @@ Die Ausgabe kann dann :abbr:`z.B.` so aussehen:
     (accessibility/color: line  114) broken    https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl - 404 Client Error: Not Found for url: https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl
 
 Falls Ihr ein anderes Werkzeug zum technischen Schreiben verwendet, könnt Ihr
-:abbr:`z.B.` `HTMLProofer <https://github.com/gjtorikian/html-proofer>`_ verwenden um Links, Bilder, Titel
+:abbr:`z.B. (zum Beispiel)` `HTMLProofer
+<https://github.com/gjtorikian/html-proofer>`_ verwenden um Links, Bilder, Titel
 und Tags zu überprüfen.
 
 Code überprüfen
 ---------------
 
-Ihr könnt automatisch Euren Quellcode überprüfen und :abbr:`ggf.` auch neu formatieren lassen. Einen
-Überblick über solche Werkzeuge erhaltet Ihr in unserem Jupyter-Tutorial unter `Checker
-<https://jupyter-tutorial.readthedocs.io/de/latest/refactoring/qa/index.html#checker>`_ und `Formatter
+Ihr könnt automatisch Euren Quellcode überprüfen und :abbr:`ggf.
+(gegebenenfalls)` auch neu formatieren lassen. Einen Überblick über solche
+Werkzeuge erhaltet Ihr in unserem Jupyter-Tutorial unter `Checker
+<https://jupyter-tutorial.readthedocs.io/de/latest/refactoring/qa/index.html#checker>`_
+und `Formatter
 <https://jupyter-tutorial.readthedocs.io/de/latest/refactoring/qa/index.html#formatter>`_.
 
 Syntax-Überprüfung

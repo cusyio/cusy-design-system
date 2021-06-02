@@ -31,19 +31,21 @@ Großbuchstaben
 Großbuchstaben sollten verwendet werden
 
 * wenn das Wort einen Satz oder eine Phrase beginnt
-* bei Namen, :abbr:`z.B.` *Cusy-Design-System*
-* bei Initialismen wie :abbr:`z.B.` BBC, HTML oder Akronymen wie NASA
+* bei Namen, :abbr:`z.B. (zum Beispiel)` *Cusy-Design-System*
+* bei Initialismen wie :abbr:`z.B. (zum Beispiel)` BBC, HTML oder Akronymen wie
+  :abbr:`NASA (National Aeronautics and Space Administration)`
 * bei Verweisen auf Label der Bedienoberfläche, die selbst großgeschrieben
   werden.
 
 .. note::
    Manchmal verwenden offizielle Firmen- und Produktnamen jedoch unübliche
    Groß-/Kleinschreibung. Wenn Ihr Euch auf sie beziehen wollt, solltet Ihr die
-   Schreibweise beibehalten, also :abbr:`z.B.` bei *GitHub* und *iOS*.
+   Schreibweise beibehalten, also :abbr:`z.B. (zum Beispiel)` bei *GitHub* und
+   *iOS*.
 
 .. note::
    Mehrere Wörter eines Hashtags sollten mit Großbuchstaben gekennzeichnet
-   werden, also :abbr:`z.B.` ``#EinfacheSprache``.
+   werden, also :abbr:`z.B. (zum Beispiel)` ``#EinfacheSprache``.
 
 Einfaches Schreiben
 -------------------
@@ -124,17 +126,17 @@ Geschlechtergerechte Sprache
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Bevorzugt Begriffe, die eine geschlechtergerechte Sprache ermöglichen, also
-:abbr:`z.B.` *Person* anstatt *Benutzer*.
+:abbr:`z.B. (zum Beispiel)` *Person* anstatt *Benutzer*.
 
 Akronyme
 ~~~~~~~~
 
 Nicht geläufige Akronyme sollten vollständig erläutert werden bevor sie das erste Mal
 verwendet werden. Zudem sollten sie durch das ``abbr``-Tag gekennzeichnet sein,
-:abbr:`z.B.`:
+:abbr:`z.B. (zum Beispiel)`:
 
-    Das User Interface (:abbr:`UI`) erlaubt die vollständige Bedienung über
-    Tastatureingaben.
+    Das User Interface (:abbr:`UI (User Interface)`) erlaubt die vollständige
+    Bedienung über Tastatureingaben.
 
 .. note::
    In unserem Dokumentationssystem `Sphinx <https://www.sphinx-doc.org/en/master/>`_ könnt
@@ -149,7 +151,8 @@ Inhalte wie *hier klicken*.
 Anmaßende Aussagen
 ~~~~~~~~~~~~~~~~~~
 
-Vermeidet wertende Begriffe wie *nur*, *einfach*, *offensichtlich* :abbr:`usw`.
+Vermeidet wertende Begriffe wie *nur*, *einfach*, *offensichtlich* :abbr:`usw
+(und so weiter)`.
 
 Ableistische Sprache
 ~~~~~~~~~~~~~~~~~~~~
@@ -181,9 +184,10 @@ Pronomen
 Verwendet so oft wie möglich die freundliche und engagierte zweite Person (*Ihr*, *Euer* etc.) um Euer Publikum zu adressieren. 
 
 Die erste Person kann in Überschriften oder Label verwendet werden, die
-spezifisch für die betreffende Person sind, :abbr:`z.B.` *Mein Konto* oder
-*Meine Einstellungen*. Wechselt jedoch im erklärenden Text wieder zur zweiten
-Person, :abbr:`z.B.` *Eure Nutzung wird am Ende des Monats berechnet*.
+spezifisch für die betreffende Person sind, :abbr:`z.B. (zum Beispiel)` *Mein
+Konto* oder *Meine Einstellungen*. Wechselt jedoch im erklärenden Text wieder
+zur zweiten Person, :abbr:`z.B. (zum Beispiel)` *Eure Nutzung wird am Ende des
+Monats berechnet*.
 
 Vermeidet geschlechtsspezifische Pronomen in der dritten Person.
 
@@ -195,7 +199,8 @@ Aktivsätze sind direkt und betonen das Thema. So enthält der Satz *Als Nächst
 
 Der Passivsatz dreht die Konstruktion so um, dass das Subjekt dem Verb und dem
 Objekt untergeordnet ist. In bestimmten Anwendungsfällen kann jedoch das Passiv
-natürlicher erscheinen, :abbr:`z.B.` *Dies startet die Datenbankverbindung neu*.
+natürlicher erscheinen, :abbr:`z.B. (zum Beispiel)` *Dies startet die
+Datenbankverbindung neu*.
 
 Leseniveau überprüfen
 ---------------------
