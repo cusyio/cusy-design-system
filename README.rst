@@ -35,7 +35,7 @@ Installation
 
    .. code-block:: console
 
-    $ cd jupyter-tutorial
+    $ cd cusy-design-system
     $ pipenv install
     Creating a virtualenv for this project…
     …
@@ -80,4 +80,3 @@ einen `Fork <https://github.com/cusyio/cusy-design-system/fork>`_ meines
 und darin eure Änderungen vorzunehmen. Gerne dürft ihr auch einen *Pull Request*
 stellen. Sofern die darin enthaltenen Änderungen klein und atomar sind, schaue ich
 mir eure Vorschläge gerne an.
-
