@@ -78,7 +78,7 @@ Suchmaschinenoptimierung verbessern.
 Klare Sprache
 -------------
 
-Berücksichtigt beim Hinzufügen von Inhalten kognitive Behinderungen,
+Berücksichtigt beim Hinzufügen von Inhalten kognitive Einschränkungen,
 Personen, deren Muttersprache nicht die Sprache ist, in der Ihre Inhalte
 geschrieben sind und Nutzer+innen von Screen-Reader. Vermeidet nach
 Möglichkeit Bindestriche, Abkürzungen, Akronyme (zumindest beim ersten

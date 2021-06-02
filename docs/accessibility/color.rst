@@ -98,7 +98,7 @@ leicht bis schwer reichen. Sie betreffen etwa 4% der Weltbevölkerung.
 | Kontrastarme        |  Verminderte Fähigkeit, feine Details zu bestimmen   |
 | Empfindlichkeit     |  und ein Objekt von einem anderen Rzu unterscheiden  |
 +---------------------+------------------------------------------------------+
-| Eingeschränktes     |  Die Sicht des Benutzers ist teilweise behindert.    |
+| Eingeschränktes     |  Die Sicht des Benutzers ist teilweise eingeschränkt.|
 | Sichtfeld           |  Kann zentrales Sehen und fleckiges Sehen umfassen.  |
 +---------------------+------------------------------------------------------+
 | Retinitis           |  Auch als *Tunnelblick* bekannt. Der Benutzer kann   |

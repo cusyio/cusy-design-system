@@ -4,7 +4,7 @@
 Zugänglichkeit
 --------------
 
-Barrierefreies Design hilft nicht nur Benutzer*innen mit Behinderungen, es
+Barrierefreies Design hilft nicht nur Benutzer*innen mit Einschränkungen, es
 bietet auch  bessere Erfahrungen für alle. Alle Cusy-Design-Komponenten
 berücksichtigen die `Web Content Accessibility Guidelines (WCAG) 2.0
 <https://www.w3.org/Translations/WCAG20-de/>`_, `Section 508
@@ -25,10 +25,10 @@ Damit ein Produkt als zugänglich angesehen werden kann, sollte es
   Fähigkeiten
 * von allem Benutzer*innen dem jeweiligen Kontext angepasst werden können.
 
-Kategorien von Behinderungen
-----------------------------
+Kategorien von Einschränkungen
+------------------------------
 
-Behinderungen können in drei Haupttypen unterteilt werden:
+Einschränkungen können in drei Haupttypen unterteilt werden:
 
 +--------------------------+-----------------------------------------------------+
 | Art                      | Beschreibung                                        |
@@ -88,15 +88,15 @@ Gehörlose und Schwerhörige
   dass alle davon profitieren können, z.B. in einer sehr lauten Umgebung.
 * Werden Videos und Animationen transkribiert?
 
-Körperlich Behinderte
-~~~~~~~~~~~~~~~~~~~~~
+Körperliche Einschränkungen 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Sind alle Aktionen über die Tastatur zugänglich und effizient? Viele
   Benutzer*innen bevorzugen die Navigation mit einer Tastatur vor der mit einer
   Maus, da dies die Produktivität erhöhen kann.
 
-Kognitiv Behinderte
-~~~~~~~~~~~~~~~~~~~
+Kognitive Einschränkungen
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Bleiben Informationen sichtbar, die zu einem späteren Zeitpunkt benötigt
   werden?
