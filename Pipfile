@@ -9,6 +9,7 @@ jupyter = "*"
 nbsphinx = "*"
 jupyter-sphinx = "*"
 pillow = "*"
+sphinx-autobuild = "*"
 
 [dev-packages]
 
