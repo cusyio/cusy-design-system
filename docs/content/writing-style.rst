@@ -128,6 +128,9 @@ Geschlechtergerechte Sprache
 Bevorzugt Begriffe, die eine geschlechtergerechte Sprache ermöglichen, also
 :abbr:`z.B. (zum Beispiel)` *Person* anstatt *Benutzer*.
 
+.. seealso::
+   * `Das Genderwörterbuch <https://geschicktgendern.de/>`_.
+
 Akronyme
 ~~~~~~~~
 
