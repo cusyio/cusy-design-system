@@ -1,7 +1,7 @@
 Tastaturzugriff
 ===============
 
-Tastaturzugriffe sind hilfreich für Benutzer*innen, die sich auf eine Tastatur
+Tastaturzugriffe sind hilfreich für Personen, die sich auf eine Tastatur
 verlassen oder diese bevorzugen. Stellt sicher, dass alle interaktiven Inhalte
 über Tastaturfunktionen verfügen. Zu den allgemeinen Tastaturinteraktionen
 gehört die Verwendung der Tabulatortaste zum Auswählen verschiedener interaktiver
@@ -30,8 +30,8 @@ Navigationsreihenfolge
 Die Reihenfolge, in der interaktive Elemente den Fokus erhalten, sollte logisch
 und vorhersehbar sein. Ein allgemeiner Ablauf kann mit der Kopfzeile beginnen,
 gefolgt von der Hauptnavigation, der Inhaltsnavigation (von links nach rechts
-und von oben nach unten) und mit der Fußzeile enden. Versucht, allen
-Benutzer*innen die gleiche Erfahrung zu bieten.
+und von oben nach unten) und mit der Fußzeile enden. Versucht, allen Personen
+die gleiche Erfahrung zu bieten.
 
 Verwendet nativ zugängliche Elemente in der Navigation, um Links, Schaltflächen
 und Formularsteuerelemente mit einer Tastatur zu aktivieren. Verstärkt
@@ -47,9 +47,9 @@ um `aria-label
 ARIA-Landmarks
 --------------
 
-Kommuniziert den Leser*Innen eines Screen-Reader die verschiedenen Bereiche des
+Kommuniziert den Personen mit Screen-Reader die verschiedenen Bereiche des
 Bildschirms und eure Vorgehensweise mit ARIA-Landmarks und mithilfe geeigneter
-HTML5-Label. Benutzer*innen von Screen-Reader können dann schnell zu einem
+HTML5-Label. Personen mit Screen-Reader können dann schnell zu einem
 beliebigen Bereich springen.
 
 .. seealso::

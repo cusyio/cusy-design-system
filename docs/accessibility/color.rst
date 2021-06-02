@@ -5,9 +5,9 @@ Einführung
 ----------
 
 Die Komponenten des Cusy-Design-System wurden entwickelt, um das gesamte
-Spektrum von Sehbehinderungen zu berücksichtigen. Die Entwickler*innen müssen
-jedoch noch Sorgfalt walten lassen, um sicherzustellen, dass die Komponenten
-auch korrekt verwendet werden.
+Spektrum von Sehbehinderungen zu berücksichtigen. Beim Entwickeln des Systems
+achten wir jedoch sorgfältig darauf, dass die Komponenten auch korrekt
+verwendet werden.
 
 Farbkontrast
 ------------
@@ -71,13 +71,17 @@ ungefähr einen von zwölf Männern und eine von zweihundert Frauen weltweit.
 Entwerfen für Farbenblindheit
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Verlasst euch nicht nur auf Farbe, um Bedeutung zu vermitteln. Bedeutung ist
-sowohl das Übermitteln von Informationen, das Anzeigen von Aktionen, das
-Auffordern der Benutzer*innen zur Beantwortung oder das Unterscheiden eines
-visuellen Elements von einem anderen. Beim Entwerfen mit Farbe kann es hilfreich
-sein, einen Simulator für Farbenblindheit zu verwenden, um die Sichtbarkeit von
-Inhalten zu überprüfen, wie z.B. das `Stark <https://www.getstark.co/>`_-Plugin
-für Sketch.
+Verlasst euch nicht nur auf Farbe, um Bedeutung zu vermitteln. Von Bedeutung ist
+sowohl
+
+* Informationen übermitteln
+* Aktionen anzeigen
+* zum beantworten von Fragen auffordern
+* oder zwischen visuellen Elementen zu unterscheiden.
+
+Wenn Ihr mit Farbe entwerft, kann für Euch ein Simulator für Farbenblindheit
+hilfreich sein, um die Sichtbarkeit von Inhalten zu überprüfen, wie :abbr:`z.B.
+(zum Beispiel)` das `Stark <https://www.getstark.co/>`_-Plugin für Sketch.
 
 .. figure:: color-accessibility-1.png
    :alt: Trichomatische und Dichomatische Simulationen der Regenbogenfarben
@@ -101,8 +105,8 @@ leicht bis schwer reichen. Sie betreffen etwa 4% der Weltbevölkerung.
 | Eingeschränktes     |  Die Sicht des Benutzers ist teilweise eingeschränkt.|
 | Sichtfeld           |  Kann zentrales Sehen und fleckiges Sehen umfassen.  |
 +---------------------+------------------------------------------------------+
-| Retinitis           |  Auch als *Tunnelblick* bekannt. Der Benutzer kann   |
-| pigmentosa          |  nur zentrale Elemente sehen.                        |
+| Retinitis           |  Auch als *Tunnelblick* bekannt, bei dem nur zentrale|
+| pigmentosa          |  Elemente zu sehen sind.                             |
 +---------------------+------------------------------------------------------+
 
 .. figure:: color-accessibility-2.png
@@ -116,7 +120,7 @@ die Verwendung des `NoCoffee Vision Simulator
 <https://github.com/eeejay/NoCoffee>`_ zur Vorschau von Websites. Ihr könnt ihn
 auch direkt als `Firefox add-on
 <https://addons.mozilla.org/en-US/firefox/addon/nocoffee/>`_ installieren.
-Benutzer*innen mit Sehschwächen verwenden möglicherweise einen Screen-Reader, um
-eine Vorschau der Website anzuzeigen. Daher sollten unbedingt die
+Personen mit Sehschwächen verwenden möglicherweise einen Screen-Reader, um eine
+Vorschau der Website anzuzeigen. Daher sollten unbedingt die
 :doc:`Tastaturrichtlinien <keyboard>` befolgt werden, um sicherzustellen, dass
-die Seite den Benutzer*innen in einer logischen Reihenfolge vorgelesen wird.
+die Seite in einer logischen Reihenfolge vorgelesen wird.

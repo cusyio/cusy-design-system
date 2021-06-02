@@ -5,19 +5,19 @@ Code und Navigation strukturieren
 ---------------------------------
 
 Denkt bei der Strukturierung eurer Inhalte an die Code-Hierarchie, damit
-Screen Reader und Benutzer*innen, die nur über die Tastatur verfügen, über
-Tabulatoren in einer logischen und vorhersehbaren Reihenfolge auf interaktive
-Elemente zugreifen können. Beginnt mit der Kopfzeile, gefolgt von der
-Hauptnavigation, dann der Seitennavigation (von links nach rechts und von oben
-nach unten) und enden Sie mit der Fußzeile. Ziel ist es, Tastaturbenutzer*innen
-eine vergleichbare Benutzung zu ermöglichen wie Benutzer*innen von Mäusen.
+Screen Reader und Personen, die nur über die Tastatur verfügen, über Tabulatoren
+in einer logischen und vorhersehbaren Reihenfolge auf interaktive Elemente
+zugreifen können. Beginnt mit der Kopfzeile, gefolgt von der Hauptnavigation,
+dann der Seitennavigation (von links nach rechts und von oben nach unten) und
+enden Sie mit der Fußzeile. Ziel ist es, Personen über die Tastatur eine
+vergleichbare Benutzung zu ermöglichen wie Personen, die eine Maus benutzen.
 
 Semantisches HTML
 -----------------
 
 Verwendet native HTML-Elemente so oft wie möglich und verwendet sie für den
 richtigen Zweck. Diese Elemente bieten integrierte Vorteile für die
-Barrierefreiheit. Sie informieren Nutzer*innen von Screen-Reader darüber, wo sie
+Barrierefreiheit. Sie informieren Personen mit Screen-Reader darüber, wo sie
 sind und welche Interaktionen ihnen in diesem Kontext zur Verfügung stehen.
 Abgesehen von einer erhöhten Zugänglichkeit werden die Seiten auch einfacher zu
 entwickeln und zu warten sein, besser auf Mobilgeräten funktionieren und die
@@ -115,10 +115,10 @@ Zugängliche Tabellen
 Zugängliche Datenvisualisierungen
 ---------------------------------
 
-Es ist wichtig, sehbehinderte Benutzer*innen bei der Einbeziehung von
+Es ist wichtig, sehbehinderte Personen bei der Einbeziehung von
 Datenvisualisierungen zu berücksichtigen. Datentabellen können dabei eine
 Alternative zu den Datenvisualisierungen für Screen-Reader sein. Auch die
-Farbauswahl für farbenblinde Benutzer*innen ist zu berücksichtigen.
+Farbauswahl für farbenblinde Personen ist zu berücksichtigen.
 
 Multimedia-Textalternativen
 ---------------------------
@@ -152,7 +152,7 @@ Anwendungsfälle gestoßen, die ihr berücksichtigen solltet:
 
 Dekorative Symbole
     werden nur zu dekorativen Zwecken verwendet. Wenn sie von der Seite entfernt
-    würden, würden Benutzer*innen  eure Seite weiterhin verstehen und verwenden
+    würden, würden Personen Eure Seite weiterhin verstehen und verwenden
     können.
 
     In diesem Fall kann dem Element ein ``aria-hidden="true"``-Attribut
@@ -172,7 +172,7 @@ Semantische Symbole
     * eine Textalternative z.B. in einem ``<span>``-Tag, das via CSS ausgeblendet
       wird.
     * ein ``title``- Attribut auf dem Symbol, um einen Tooltip für sehende
-      Benutzer*innen bereitzustellen.
+      Personen bereitzustellen.
 
     .. code-block:: html
 

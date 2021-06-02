@@ -1,8 +1,8 @@
 Typographie
 ===========
 
-Typographie kann dabei helfen, Texte zu organisieren und Benutzer*innen durch
-eine Seite zu führen. Dabei wird der geiegnete Schriftstil durch den Bereich im
+Typographie kann dabei helfen, Texte zu organisieren und Personen durch eine
+Seite zu führen. Dabei wird der geiegnete Schriftstil durch den Bereich im
 Layout bestimmt.
 
 Schrift
