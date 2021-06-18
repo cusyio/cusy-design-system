@@ -32,7 +32,7 @@ release = '0.1.0'
 # ones.
 extensions = [
     'nbsphinx',
-    'jupyter_sphinx.execute',
+    'jupyter_sphinx',
     'sphinx.ext.autodoc',
     'sphinx.ext.intersphinx',
     'sphinx.ext.graphviz',
