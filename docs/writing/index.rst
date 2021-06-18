@@ -1,12 +1,12 @@
-Inhalt
-======
+Schreiben
+=========
 
-Gut gestaltete Inhalte ermöglichen es den Menschen, unsere Informationen mit
+Gut geschriebene Texte ermöglichen es Menschen, unsere Informationen mit
 Leichtigkeit zu nutzen. Diese Richtlinien wurden anhand von Beispielen aus der
 Praxis entwickelt und richten sich an alle, die für Cusy technische
 Dokumentationen schreiben.
 
-Cusy-Inhalte sind bestens wenn
+Cusy-Texte sind bestens wenn
 
 * sie schön dargestellt sind
 * sie keine impliziten Annahmen treffen

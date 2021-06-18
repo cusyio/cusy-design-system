@@ -13,7 +13,7 @@ aus Richtlinien für Benutzeroberflächen, Code-Beispielen, Designtools und
 
     intro
     accessibility/index
-    content/index
+    writing/index
     themes
     typography
     viz/index
