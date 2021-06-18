@@ -13,7 +13,7 @@ erstellt werden kann und zeigen Euch dies auch mit folgendem Abzeichen
 (:abbr:`engl. (englisch)`: Badge) an: |Docs|.
 
 .. |Docs| image:: https://readthedocs.org/projects/cusy-design-system/badge/?version=latest
-   :target: https:///cusy-design-system.readthedocs.io/de/latest/
+   :target: https://cusy-design-system.readthedocs.io/de/latest/
 
 Dieses Abzeichen wird vom Dokumentationsserver `Read the Docs
 <https://readthedocs.org/>`_, auf dem unsere Dokumentation des
