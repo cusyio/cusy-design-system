@@ -57,11 +57,49 @@ Wenn Euch etwas fehlt oder Ihr Erläuterungen zu einem bestimmten Anwendungsfall
 benötigt, könnt Ihr uns gerne Fragen stellen in einer `GitHub-Aufgabe
 <https://github.com/cusyio/cusy-design-system/issues>`_.
 
+Einführung
+----------
+
 .. toctree::
-    :hidden:
     :titlesonly:
     :maxdepth: 0
 
-    writing-style
+    about
+
+Schlüsselanweisungen
+--------------------
+
+.. toctree::
+    :titlesonly:
+    :maxdepth: 0
+
+    highlights
+    wordlist
+
+Grundlagen
+----------
+
+.. toctree::
+    :titlesonly:
+    :maxdepth: 0
+
     accessibility
+    writing-style
+
+Verlinkung
+----------
+
+.. toctree::
+    :titlesonly:
+    :maxdepth: 0
+
+    link-text
+
+Testen
+------
+
+.. toctree::
+    :titlesonly:
+    :maxdepth: 0
+
     testing
