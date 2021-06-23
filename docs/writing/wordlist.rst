@@ -77,6 +77,9 @@ Hier klicken
     :doc:`link-text`.
 ⚠️ Kontoname
     solltet Ihr nicht verwenden; nutzt stattdessen Anmeldename
+🚫 Man-Power
+    Vermeidet die Verwendung geschlechtsspezifischer Begriffe. Verwendet
+    stattdessen Begriffe wie *Personal* oder *Arbeitskraft*.
 und/oder
     ist manchmal die klarste und effizienteste Art, etwas auszudrücken. Dennoch
     solltet Ihr überlegen, ob sich die Aussage umschreiben lässt ohne dass sie
