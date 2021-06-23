@@ -80,10 +80,11 @@ Klare Sprache
 
 Berücksichtigt beim Hinzufügen von Inhalten kognitive Einschränkungen,
 Personen, deren Muttersprache nicht die Sprache ist, in der Ihre Inhalte
-geschrieben sind und Nutzer+innen von Screen-Reader. Vermeidet nach
-Möglichkeit Bindestriche, Abkürzungen, Akronyme (zumindest beim ersten
-Mal) und Tabellenlayouts, wenn keine Tabelleninhalte vorhanden sind. Verwendet
-bei Abkürzungen das native ``<abbr/>``-Element mit dem ``title``-Attribut.
+geschrieben sind und Personen, die sich die Inhalte mit einem Screen-Reader
+erschließen. Vermeidet nach Möglichkeit Bindestriche, Abkürzungen, Akronyme
+(zumindest beim ersten Mal) und Tabellenlayouts, wenn keine Tabelleninhalte
+vorhanden sind. Verwendet bei Abkürzungen das native ``<abbr/>``-Element mit dem
+``title``-Attribut.
 
 .. code:: html
 
