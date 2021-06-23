@@ -80,6 +80,11 @@ Hier klicken
 🚫 Man-Power
     Vermeidet die Verwendung geschlechtsspezifischer Begriffe. Verwendet
     stattdessen Begriffe wie *Personal* oder *Arbeitskraft*.
+Markdown
+    Wird immer großgeschrieben, auch wenn Ihr Euch auf eine nicht
+    standardisierte Version bezieht.
+Markup (Substantiv)
+    Ohne Bindestrich.
 und/oder
     ist manchmal die klarste und effizienteste Art, etwas auszudrücken. Dennoch
     solltet Ihr überlegen, ob sich die Aussage umschreiben lässt ohne dass sie
