@@ -85,6 +85,33 @@ Markdown
     standardisierte Version bezieht.
 Markup (Substantiv)
     Ohne Bindestrich.
+🚫 Master
+    Verwendet es niemals in Verbindung mit *slave*. Wenn möglich, ersetzt
+    *master* durch einen spezifischen Begriff, der für den Kontext zutreffend
+    ist, z.B. *primär*, *main*, *Original*, *Elternteil*,  *Aggregator* oder
+    *aktiv*.
+
+    Wenn Ihr einen Befehl oder Code dokumentiert, der wörtlich *master*
+    verwendet, dann verwendet dieses Wort nur in direktem Bezug auf den
+    formatierten Code und macht deutlich, worauf Ihr Euch bezieht. Verwendet
+    danach einen spezifischeren Begriff.
+
+    Siehe Slave.
+
+🚫 Slave
+    Verwendet stattdessen alternative Begriffe, die für Eure Domäne besser
+    geeignet sind, z.B. *Worker* oder *Replik*. Wenn Ihr die Begriffe *Master*
+    und *Slave* gemeinsam ersetzen wollt, dann zieht Kombinationen wie
+    *primär/sekundär*, *Original/Replik*, *Controller/Worker*,
+    *Publisher/Subscriber* oder *aktiv/standby* in Betracht.
+
+    Wenn der Befehl oder Code, den Ihr dokumentiert, wörtlich *Slave* verwendet,
+    dann formattiert ihn als Code und macht deutlich, worauf Ihr Euch bezieht.
+    Verwendet danach einen spezifischeren Begriff, z.B.
+
+        Startet den sekundären Prozess mit ``slave:start``, wenn Ihr Probleme
+        zwischen dem primären und sekundären Prozess analysieren wollt.
+
 und/oder
     ist manchmal die klarste und effizienteste Art, etwas auszudrücken. Dennoch
     solltet Ihr überlegen, ob sich die Aussage umschreiben lässt ohne dass sie
