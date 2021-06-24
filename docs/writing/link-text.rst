@@ -21,7 +21,7 @@ Um effektiven Linktext zu schreiben, verwendet eine der folgenden Formen:
 * Sorgt dafür, dass der Linktext genau dem Text des Titels entspricht, auf den
   er verweist.
 
-  * 👍 Weitere Informationen findet Ihr unter `writing-style`_.
+  * 👍 Weitere Informationen findet Ihr unter :doc:`Schreibstil <writing-style>`.
 
   Informationen zur Großschreibung solcher Verweise findet Ihr unter
   Großschreibung in Verweisen auf Titel und Überschriften.
