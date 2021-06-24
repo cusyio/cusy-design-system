@@ -17,7 +17,7 @@ erstellt werden kann und zeigen Euch dies auch mit folgendem Abzeichen
 
 Dieses Abzeichen wird vom Dokumentationsserver `Read the Docs
 <https://readthedocs.org/>`_, auf dem unsere Dokumentation des
-Cusy-Design-System veröffentlicht wird.
+Cusy-Design-System veröffentlicht wird, bereitgestellt.
 
 Weitere automatisch generierte Abzeichen findet Ihr auf unserer Seite
 :doc:`../intro` mit Hinweisen zur Anzahl der Mitwirkenden, zur

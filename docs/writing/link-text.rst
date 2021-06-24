@@ -7,7 +7,7 @@ Link-Text
 Um Linktext zu schreiben, verwendet beschreibende Phrasen, die Kontext für den
 Inhalt liefert, auf den Ihr verlinkt.
 
-Personen, die Euren Text lesen, erleben die Links unterschiedlichR. Einige
+Personen, die Euren Text lesen, erleben die Links unterschiedlich. Einige
 springen von einem Link zum nächsten um relevante Quellen zu finden ohne jedoch
 den Text zwischen den Links zu lesen; andere erwarten, dass der Link vorher im
 Text beschrieben wird. Effektiver Link-Text hilft, die Zugänglichkeit und
@@ -21,7 +21,7 @@ Um effektiven Linktext zu schreiben, verwendet eine der folgenden Formen:
 * Sorgt dafür, dass der Linktext genau dem Text des Titels entspricht, auf den
   er verweist.
 
-  * 👍 Weitere Informationen findet Ihr unter `writing-style`_.
+  * 👍 Weitere Informationen findet Ihr unter :doc:`Schreibstil <writing-style>`.
 
   Informationen zur Großschreibung solcher Verweise findet Ihr unter
   Großschreibung in Verweisen auf Titel und Überschriften.
@@ -63,7 +63,7 @@ Kontrastiert die Farbe des Linktextes mit der Farbe des normalen Textes. Um Eure
 Publikum das Erkennen von Links zu erleichtern, sollte sich der Linktext vom
 restlichen Text auf der Seite abheben.
 
-Unterstreicht Link-Text. Die horizontale Linie sehr klar an, wo ein Link endet
+Unterstreicht Link-Text. Die horizontale Linie zeigt sehr klar an, wo ein Link endet
 und der nächste beginnt. Dies erleichtert das Scannen der Website und hilft,
 Links zu finden.
 
