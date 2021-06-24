@@ -7,7 +7,7 @@ Link-Text
 Um Linktext zu schreiben, verwendet beschreibende Phrasen, die Kontext für den
 Inhalt liefert, auf den Ihr verlinkt.
 
-Personen, die Euren Text lesen, erleben die Links unterschiedlichR. Einige
+Personen, die Euren Text lesen, erleben die Links unterschiedlich. Einige
 springen von einem Link zum nächsten um relevante Quellen zu finden ohne jedoch
 den Text zwischen den Links zu lesen; andere erwarten, dass der Link vorher im
 Text beschrieben wird. Effektiver Link-Text hilft, die Zugänglichkeit und
