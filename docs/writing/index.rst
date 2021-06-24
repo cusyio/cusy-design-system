@@ -84,6 +84,7 @@ Grundlagen
     :maxdepth: 0
 
     accessibility
+    gender
     writing-style
 
 Verlinkung
