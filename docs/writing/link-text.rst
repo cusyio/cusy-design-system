@@ -63,7 +63,7 @@ Kontrastiert die Farbe des Linktextes mit der Farbe des normalen Textes. Um Eure
 Publikum das Erkennen von Links zu erleichtern, sollte sich der Linktext vom
 restlichen Text auf der Seite abheben.
 
-Unterstreicht Link-Text. Die horizontale Linie sehr klar an, wo ein Link endet
+Unterstreicht Link-Text. Die horizontale Linie zeigt sehr klar an, wo ein Link endet
 und der nächste beginnt. Dies erleichtert das Scannen der Website und hilft,
 Links zu finden.
 
