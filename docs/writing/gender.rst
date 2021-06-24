@@ -50,3 +50,12 @@ Dies wird als *Ausdrucksfunktion* im Organon-Modell von Karl Bühler oder als
 *Selbstkundgabe* im Kommunikationsquadrat von Schulz von Thun beschrieben. Mit
 der Verwendung des Gendersternchen können wir also bewußt darauf hinweisen, dass
 wir nicht-binäre Menschen wahrnehmen.
+
+.. seealso::
+    * `Geschickt gendern – das Genderwörterbuch <https://geschicktgendern.de/>`_
+    * `Genderleicht.de <https://www.genderleicht.de/>`_
+    * `Luise F. Pusch und der Genderstern
+      <https://www.genderleicht.de/luise-f-pusch-und-der-genderstern/>`_
+    * ` <>`_
+    * ` <>`_
+    * ` <>`_
