@@ -1,0 +1,10 @@
+div.sphinxsidebarwrapper p.logo {
+    margin-top: -10px;
+    margin-bottom: 5px;
+    text-align: left;
+    font-size: 2em;
+    font-weight: bold;
+}
+div.sphinxsidebar p.logo a, div.sphinxsidebar p.logo a:hover {
+    border-bottom: 1px dotted #999;
+}
