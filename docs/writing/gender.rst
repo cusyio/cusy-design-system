@@ -54,8 +54,3 @@ wir nicht-binäre Menschen wahrnehmen.
 .. seealso::
     * `Geschickt gendern – das Genderwörterbuch <https://geschicktgendern.de/>`_
     * `Genderleicht.de <https://www.genderleicht.de/>`_
-    * `Luise F. Pusch und der Genderstern
-      <https://www.genderleicht.de/luise-f-pusch-und-der-genderstern/>`_
-    * ` <>`_
-    * ` <>`_
-    * ` <>`_
