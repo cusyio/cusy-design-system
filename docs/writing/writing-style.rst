@@ -194,6 +194,8 @@ Monats berechnet*.
 
 Vermeidet geschlechtsspezifische Pronomen in der dritten Person.
 
+.. _aktiv-und-passiv:
+
 Aktiv und Passiv
 ----------------
 

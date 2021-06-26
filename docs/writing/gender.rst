@@ -1,56 +1,91 @@
 Gendergerechte Sprache
 ======================
 
-Beim Gendersternchen oder -doppelpunkt wird uns meist nur Pro oder Kontra
-zugebilligt. Dabei wird das Thema häufig auf eine Meinungsfrage reduziert.
-Dies ist sehr ärgerlich, da dann meist völlig außer acht gelassen wird, wie
-das Geschriebene interpretiert wird. Aktuell gibt es jedoch unseres Wissens kaum
-Studien, die dies genauer untersucht hätten. Eine davon ist der
-Assoziationstest `Effekte des generischen Maskulinums und alternativer
-Sprachformen auf den gedanklichen Einbezug von Frauen
-<https://www.researchgate.net/publication/247397952_Effekte_des_generischen_Maskulinums_und_alternativer_Sprachformenauf_den_gedanklichen_Einbezug_von_Frauen>`_
-aus dem Jahr 2001. Dabei wurden die Versuchspersonen gebeten, bekannte Personen
-bestimmter Gruppen aus Musik, Romanen, Schauspiel etc. zu nennen. Entscheidend
-war, in welcher Form diese Gruppe präsentiert wurde, ob im generischen
-Maskulinum (Musiker), in der Doppelform (Musiker und Musikerin) oder eben auch
-alternativen Sprachformen. Die Antworten wurden dann daraufhin vergleichen,
-wieviele Männer, Frauen oder non-binäre Personen genannt wurden. Dies wurde als
-Hinweis gewertet, wie die jeweilige Form interpretiert wurde. Das Ergebnis war
-eindeutig: Das generische Maskulinum ließ fast ausschließlich an Männer denken
-während bei geschlechtsneutralen Wörtern und Doppelformen etwas häufiger auch an
-Frauen gedacht wurde.
+Genderneutrale Sprache
+----------------------
 
-In einer Studie der Markforschungsagentur EARSandEYES zu `Gendersternchen
-<https://www.earsandeyes.com/blog/geschlechtergerechte-sprache-gendersternchen-17097/>`_
-wurde ein ähnliches Forschungsdesign verwendet wie in der vorherigen Studie, neu
-hinzugekommen ist jedoch das Gendersternchen. Aus den `Ergebnisse
-<https://www.datawrapper.de/_/yRT8H/>`_ angegeben. Auch hier ergibt sich, dass
-das generische Maskulinum nicht geeignet ist, neben Männern auch an Frauen zu
-denken. Außerdem denken wir bei jeder sprachlichen Form hauptsächlich an Männer.
-Das Gendersternchen wie auch die Doppelform und das Binnen-I erhöhen jedoch
-signifikant die Wahrscheinlichkeit, dass wir auch an Frauen denken.
+Sofern wir in unseren Texten nicht auf spezifische Geschlechter abzielen,
+verwenden wir eine genderneutrale Sprache. Hierfür verwenden wir unter anderem 
 
-Das Gendersternchen soll jedoch, anders als die Doppelform, neben Frauen auch
-nicht-binäre Menschen einschließen, also solche, die sich nicht in *Mann* oder
-*Frau* einordnen. Empirisch scheint dies jedoch nicht nachweisbar. Eine Ursache
-hierfür könnte sein, dass die öffentliche Diskussion um das Gendersternchen
-meist völlig außer Acht lässt, dass damit die Inklusion von nicht-binären
-Menschen ausgedrückt werden soll. Meist wird das Thema auf die Meinung zu einen
-Schreibstil reduziert. Wenn es jedoch keine breite gesellschaftliche Diskussion
-um die Integration nicht-binärer Menschen gibt, werden auch die Testpersonen
-kaum Menschen kennen, die nicht-binär sind. Daher erscheint uns das
-Gendersternchen nicht als Lösung des gesellschaftlichen Problems, dass
-nicht-binäre Menschen meist unsichtbar sind.
+Direkte Anrede
+    Häufig sprechen wir unser Publikum direkt an, z.B. mit *Ihr könnt …*.
 
-Doch was heißt dies jetzt für uns? Können wir nun also auf das Gendersternchen
-verzichten, weil die Bedeutung eh nicht verstanden wird? Oder kann es ein erster
-Schritt sein, um auf nicht-binäre Menschen hinzuweisen? Wir bilden mit unserer
-Sprache ja nicht nur Inhalte ab, sondern stellen auch unsere Perspektive dar.
-Dies wird als *Ausdrucksfunktion* im Organon-Modell von Karl Bühler oder als
-*Selbstkundgabe* im Kommunikationsquadrat von Schulz von Thun beschrieben. Mit
-der Verwendung des Gendersternchen können wir also bewußt darauf hinweisen, dass
-wir nicht-binäre Menschen wahrnehmen.
+    Damit umgehen wir meist, für die gendergerechte Sprache Passivkonstruktionen
+    zu verwenden, :abbr:`s.a. (siehe auch)` :ref:`Aktiv und Passiv
+    <aktiv-und-passiv>`.
+
+    Auch das passive Gerundiv, wie :abbr:`z.B. (zum Beispiel)` *Studierende*
+    können wir damit vermeiden.
+
+Direkte persönliche Anrede
+    Sofern wir die Geschlechteridentität nicht kennen, wählen wir zunächst eine
+    genderneutrale Anrede, so :abbr:`z.B. (zum Beispiel)` statt *Lieber
+    Kai* sprechen wir die Person mit *Hallo Kai* an.
+
+    Auch bei der Anschrift in Briefen legen wir das Geschlecht nicht voreilig
+    fest und verwenden statt *Herr Kai Mustermann* nur *Kai Mustermann*.
+
+Konjugationen
+    Institutions- und Kollektivbezeichnungen lassen sich häufig durch
+    Konjugationen ersetzen. So kann :abbr:`z.B. (zum Beispiel)` *Es waren 20
+    Teilnehmer* ersetzt werden durch *20 Personen haben teilgenommen*.
+
+Partizip Perfekt
+    Auch mit dem Partizip Perfekt betonen wir die aktive Tätigkeit gegenüber der
+    zugeschriebenen Rolle; :abbr:`z.B. (zum Beispiel)` statt *Herausgeber ist …*
+    verwenden wir *…  wird herausgegeben von …*.
+
+Adjektive
+    *Die Beratung des Betriebsarztes* kann durch *Betriebsärztliche Beratung*
+    ersetzt werden.
+
+Substantive mit den Endungen *-kraft*, *-person*, *-berechtigte* und *-ung*
+    * *Eine Fortbildung für Lehrer* kann ersetzt werden durch *eine Fortbildung
+      für Lehrkräfte*
+    * *Den Wählern wurde mitgeteilt* kann ersetzt werden durch *Den
+      Wahlberechtigten wurde mitgeteilt*
+    * *Der Geschäftsführer* kann ersetzt werden durch *Die Geschäftsführung*
+
+Genderneutrale Begriffe
+    In anderen Fällen wählen wir genderneutrale Begriffe wie das vorher schon
+    erwähnte *Publikum*, aber auch *Person*, *Mitglied* :abbr:`usw (und so
+    weiter)`. Meist finden wir auch genderneutrale Pronomen; wie :abbr:`z.B.
+    (zum Beispiel)` folgende Ersetzungen:
+
+    * *jede* und *jeder* durch *alle*
+    * *keine* und *keiner* durch *niemand*
+    * *Redakteure, die den Kurs besucht haben …* durch *Diejenigen, die den
+      Kurs besucht haben …* oder *Wer den Kurs besucht hat …* oder *Jene, die
+      den Kurs besucht haben …*
+
+Gendersensible Sprache
+----------------------
+
+Bei gendersensibler Sprache werden alle Geschlechter oder Identitäten
+gleichermaßen sichtbar und wertschätzend angesprochen. Wenn wir bei Cusy diese
+Vielfalt sichtbar machen wollen, verwenden wir das Gendersternchen in
+geschlechtlichen Begriffen. Damit wollen wir zum Ausdruck bringen, dass es mehr
+als nur zwei Geschlechter gibt und die Zuordnungen soziale Konstrukte sind.
+
+.. note::
+   Auch der :abbr:`DBSV (Deutsche Blinden- und Sehbehindertenverband)` empfiehlt
+   in solchen Fällen das Gendersternchen; es sei die am häufigsten verwendete
+   Form und käme dem Wunsch nach einem Konsenszeichen am nächsten.  Zudem seien
+   Unterstrich und Doppelpunkt für sehbehinderte Menschen schlechter erkennbar.
+   [#]_
+
+Zum Weiterlesen
+---------------
 
 .. seealso::
+    * Bundesverband der Kommunikatoren: `Kompendium Gendersensible Sprache.
+      Strategien zum fairen Formulieren
+      <https://bdkom.de/sites/default/files/kompendium_gendersensible_sprache.pdf>`_
+      (2020)
     * `Geschickt gendern – das Genderwörterbuch <https://geschicktgendern.de/>`_
     * `Genderleicht.de <https://www.genderleicht.de/>`_
+
+----
+
+.. [#] `Gendern mit Sternchen, Unterstrich und Doppelpunkt
+       <https://www.dbsv.org/gendern.html#kurzformen>`_, März 2021
