@@ -157,6 +157,8 @@ Anmaßende Aussagen
 Vermeidet wertende Begriffe wie *nur*, *einfach*, *offensichtlich* :abbr:`usw
 (und so weiter)`.
 
+.. _`ableistische-sprache`:
+
 Ableistische Sprache
 ~~~~~~~~~~~~~~~~~~~~
 

@@ -75,6 +75,7 @@ Schlüsselanweisungen
 
     highlights
     wordlist
+    voice-tone
 
 Grundlagen
 ----------
