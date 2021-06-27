@@ -1,9 +1,6 @@
 Gendergerechte Sprache
 ======================
 
-Genderneutrale Sprache
-----------------------
-
 Sofern wir in unseren Texten nicht auf spezifische Geschlechter abzielen,
 verwenden wir eine genderneutrale Sprache. Hierfür verwenden wir unter anderem 
 
@@ -58,9 +55,6 @@ Genderneutrale Begriffe
       Kurs besucht haben …* oder *Wer den Kurs besucht hat …* oder *Jene, die
       den Kurs besucht haben …*
 
-Gendersensible Sprache
-----------------------
-
 Bei gendersensibler Sprache werden alle Geschlechter oder Identitäten
 gleichermaßen sichtbar und wertschätzend angesprochen. Wenn wir bei Cusy diese
 Vielfalt sichtbar machen wollen, verwenden wir das Gendersternchen in
@@ -73,9 +67,6 @@ als nur zwei Geschlechter gibt und die Zuordnungen soziale Konstrukte sind.
    Form und käme dem Wunsch nach einem Konsenszeichen am nächsten.  Zudem seien
    Unterstrich und Doppelpunkt für sehbehinderte Menschen schlechter erkennbar.
    [#]_
-
-Zum Weiterlesen
----------------
 
 .. seealso::
     * Bundesverband der Kommunikatoren: `Kompendium Gendersensible Sprache.
