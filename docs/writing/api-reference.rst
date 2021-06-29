@@ -1,7 +1,7 @@
 API-Referenz
 ============
 
-Wenn Ihr eine :abbr:`API (englisch: application programming interface; deutsch:
+Wenn ihr eine :abbr:`API (englisch: application programming interface; deutsch:
 Programmierschnittstelle)` dokumentiert, stellt eine vollständige API-Referenz
 bereit, die in der Regel aus dem Quellcode unter Verwendung von Kommentaren
 generiert wird und alle öffentlichen Klassen, Methoden, Konstanten :abbr:`etc.
@@ -10,7 +10,7 @@ generiert wird und alle öffentlichen Klassen, Methoden, Konstanten :abbr:`etc.
 Verwendet die grundlegenden Richtlinien in diesem Dokument, wie es für eine
 bestimmte Programmiersprache angemessen ist. In diesem Dokument wird nicht
 angegeben, wie die Kommentare formattiert sein sollen; weitere Informationen
-findet Ihr in den spezifischen Richtlinien für jede Programmiersprache.
+findet ihr in den spezifischen Richtlinien für jede Programmiersprache.
 
 .. seealso::
     * `Docstrings
@@ -39,7 +39,7 @@ Veralteter Code
 ---------------
 
 Wenn Code veraltet ist, sagt, was alternativ verwendet werden soll. Und wenn
-Ihr Eure API versioniert, erwähnt, in welcher Version es zuerst veraltet war.
+ihr eure API versioniert, erwähnt, in welcher Version es zuerst veraltet war.
 
 Nur der erste Satz einer Beschreibung erscheint in der Zusammenfassung und im
 Index, also fügt die wichtigsten Informationen dort ein. Die folgenden Sätze
@@ -47,10 +47,10 @@ können erklären, warum die Methode veraltet ist, zusammen mit allen anderen
 Informationen, die für die weitere Entwicklung und Nutzung der API nützlich
 sind.
 
-Wenn eine Methode veraltet ist, sagt Eurem Publikum, was es tun muss, damit der
+Wenn eine Methode veraltet ist, sagt eurem Publikum, was es tun muss, damit der
 Code weiterhin funktioniert.
 
-`Sphinx <https://www.sphinx-doc.org/>`_ unterstützt Euch mit folgender
+`Sphinx <https://www.sphinx-doc.org/>`_ unterstützt euch mit folgender
 Direktive:
 
 .. rst:directive:: .. deprecated:: version

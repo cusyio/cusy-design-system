@@ -8,7 +8,7 @@ Codebeispielen) eine nicht-proportionale Schriftart, um Code auszuzeichnen.
 * in Markdown einen Backtick ````` vor und nach dem Code
 * in reStructuredText zwei Backticks `````` davor und danach
 
-Diese Seite erklärt, wie Ihr Code in normalen Textsätzen formatiert.
+Diese Seite erklärt, wie ihr Code in normalen Textsätzen formatiert.
 
 Einige spezifische Code-Elemente
 --------------------------------
@@ -35,7 +35,7 @@ sie ist jedoch nicht vollständig.
 * Ordner und Verzeichnisse
 
 .. note::
-    Generell solltet Ihr keinen Code in Anführungszeichen setzen, es sei denn,
+    Generell solltet ihr keinen Code in Anführungszeichen setzen, es sei denn,
     die Anführungszeichen sind Teil des Codes.
 
 Sprachunterstützung in Sphinx

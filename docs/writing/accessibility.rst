@@ -6,7 +6,7 @@ Textalternativen
 
 Personen, die nicht gut sehen oder hören können, müssen sich auf
 Textalternativen für visuelle oder auditive Inhalte verlassen. Auf dieser Seite
-wird beschrieben, wie Ihr Bilder, Grafiken, Audio und Video zugänglich machen
+wird beschrieben, wie ihr Bilder, Grafiken, Audio und Video zugänglich machen
 könnt.
 
 Alternative Texte für aussagekräftige Bilder und visuelle Daten
@@ -17,7 +17,7 @@ Alternative Texte für aussagekräftige Bilder und visuelle Daten
   Manche Bilder enthalten keine aussagekräftigen Informationen oder
   Zusammenhänge sondern sind dekorativ oder dienen nur der visuellen
   Formatierung. Idealerweise sollten solche Bilder entfernt werden. Falls dies
-  nicht möglich ist, solltet Ihr sie als *dekorativ* kommentieren oder mit ``alt
+  nicht möglich ist, solltet ihr sie als *dekorativ* kommentieren oder mit ``alt
   = ""``.
 
   .. seealso::
@@ -48,10 +48,10 @@ Alternative Texte für aussagekräftige Bilder und visuelle Daten
      * `Functional Images
        <https://www.w3.org/WAI/tutorials/images/functional/>`_
 
-* Wird der Alternativtext länger, solltet Ihr andere Optionen in Betracht ziehen
+* Wird der Alternativtext länger, solltet ihr andere Optionen in Betracht ziehen
 
   Viele Browser und Leseprogramme beschränken die Zeichenlänge des alternativen
-  Textes. In diesem Fall solltet Ihr einen kurzen alternativen Text zusammen mit
+  Textes. In diesem Fall solltet ihr einen kurzen alternativen Text zusammen mit
   ausführlicheren Bildunterschriften erwägen.
 
   .. seealso::

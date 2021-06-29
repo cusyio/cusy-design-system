@@ -26,7 +26,7 @@ Text für Platzhaltervariablen
   * 👎 :file:`https://cusy.io/{language-code}/`
   * 👎 :file:`https://cusy.io/{LanguageCode}/`
 
-* Wenn der Kontext, in dem Ihr Platzhaltervariablen verwenden wollt,
+* Wenn der Kontext, in dem ihr Platzhaltervariablen verwenden wollt,
   Großbuchstaben und Unterstriche missverständlich sein können, dann verwendet
   etwas anderes, aber seid intern konsistent.
 
@@ -38,10 +38,10 @@ Text für Platzhaltervariablen
 Erläutert Platzhalter
 ---------------------
 
-Wenn Ihr einen Platzhalter in Text oder Code verwendet, fügt bei der ersten
+Wenn ihr einen Platzhalter in Text oder Code verwendet, fügt bei der ersten
 Verwendung eine Erklärung für den Platzhalter ein. Wenn nach der Verwendung
 dieses Platzhalters noch weitere Schritte und andere Platzhalter folgen, könnt
-Ihr sie auch alle auf einmal erklären.
+ihr sie auch alle auf einmal erklären.
 
 Verwendet bei Prozeduren die folgende Reihenfolge:
 
@@ -54,7 +54,7 @@ Verwendet bei Prozeduren die folgende Reihenfolge:
 
 * 👍
 
-  #. Damit Euch die Spack-Umgebung zur Verfügung steht, müsst Ihr folgendes
+  #. Damit euch die Spack-Umgebung zur Verfügung steht, müsst ihr folgendes
      in die :file:`~/.bashrc` oder :file:`~/.profile` eingetragen:
 
      .. code-block:: console
@@ -62,10 +62,10 @@ Verwendet bei Prozeduren die folgende Reihenfolge:
         export SPACK_ROOT=~/spack
         . $SPACK_ROOT/share/spack/setup-env.sh
 
-  #. :envvar:`SPACK_ROOT` gibt dabei den Pfad zu Eurer Spack-Installation an.
+  #. :envvar:`SPACK_ROOT` gibt dabei den Pfad zu eurer Spack-Installation an.
 
-     :envvar:`.` definiert den Pfad zur Datei :file:`setup-env.sh`, wodurch Ihr
-     zukünftig die Spack-Befehle direkt in Eurer Konsole aufrufen könnt.
+     :envvar:`.` definiert den Pfad zur Datei :file:`setup-env.sh`, wodurch ihr
+     zukünftig die Spack-Befehle direkt in eurer Konsole aufrufen könnt.
 
   #. Die geänderte Konfiguration wird nun übernommen mit ``source``,
      :abbr:`z.B. (zum Beispiel)` mit:
@@ -74,7 +74,7 @@ Verwendet bei Prozeduren die folgende Reihenfolge:
 
         $ source ~/.bashrc
 
-  #. Schließlich könnt Ihr Eure Shell-Konfiguration überprüfen, :abbr:`z.B.
+  #. Schließlich könnt ihr eure Shell-Konfiguration überprüfen, :abbr:`z.B.
      (zum Beispiel)`:
 
      .. code-block:: console

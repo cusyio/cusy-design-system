@@ -20,10 +20,10 @@ Tonfall und Inhalt
 Sprache und Grammatik
 ~~~~~~~~~~~~~~~~~~~~~
 
-* Verwendet die zweite Person und *Ihr* eher als *wir*
+* Verwendet die zweite Person und *ihr* eher als *wir*
 * Verwendet die aktive Stimme: Macht deutlich, wer die Handlung ausführt
 * Setzt Konditionalsätze vor Anweisungen, nicht danach
-* Informationen zur Verwendung und Schreibweise bestimmter Wörter findet Ihr in
+* Informationen zur Verwendung und Schreibweise bestimmter Wörter findet .hr in
   der :doc:`wordlist`
 
 Formatierung, Zeichensetzung und Organisation

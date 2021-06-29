@@ -39,7 +39,7 @@ Großbuchstaben sollten verwendet werden
 
 .. note::
    Manchmal verwenden offizielle Firmen- und Produktnamen jedoch unübliche
-   Groß-/Kleinschreibung. Wenn Ihr Euch auf sie beziehen wollt, solltet Ihr die
+   Groß-/Kleinschreibung. Wenn ihr euch auf sie beziehen wollt, solltet ihr die
    Schreibweise beibehalten, also :abbr:`z.B. (zum Beispiel)` bei *GitHub* und
    *iOS*.
 
@@ -58,14 +58,14 @@ Verwendet einfache Wörter und Sätze
   *Diminutiv*.
 * Seit prägnant und haltet die Sätze so kurz und einfach wie möglich. Lasst
   wortreiche oder überflüssige Sätze weg.
-* Ermöglicht die Dinge schnell und einfach lesen zu können. Beschränkt Euch auf
+* Ermöglicht die Dinge schnell und einfach lesen zu können. Beschränkt euch auf
   so wenige Wörter wie möglich, aber seid nicht zu knapp.
 * Vermeidet Höflichkeitsformen wie *Bitte* und *Danke* in der Bedienoberfläche,
   da sie in manchen kulturellen Kontexten unangemessen oder beleidigend sein
   könnten.
 
 .. note::
-   Erstellt eine Liste mit Wörtern für Euer Thema, die sowohl bevorzugte wie auch nicht zu
+   Erstellt eine Liste mit Wörtern für euer Thema, die sowohl bevorzugte wie auch nicht zu
    verwendende Wörter enthält. Dieses einfache Werkzeug kann im Laufe der Zeit zur
    Konsistenz beitragen, insbesondere wenn mehrere Personen zu diesem Thema schreiben.
 
@@ -73,10 +73,10 @@ Verwendet die einfache Gegenwartsform
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Verwendet einfache Verben und Zeitformen und haltet die Sätze prägnant, einfach,
-freundlich und ausdrucksvoll. Konzentriert Euch auf den Kontext des Publikums
+freundlich und ausdrucksvoll. Konzentriert euch auf den Kontext des Publikums
 und macht die Inhalte relevant.
 
-Wenn Ihr Vergangenheits- oder Zukunftsformen verwenden müsst, vermeidet
+Wenn ihr Vergangenheits- oder Zukunftsformen verwenden müsst, vermeidet
 Verbformen mit den Wörtern *haben*, *hat*, *hatte*, *gewesen*, *sollten*,
 *würden* und *werden*.
 
@@ -107,7 +107,7 @@ erwartet.
 * Sätze können mit *Und*, *Aber* oder *So* beginnen wenn hierdurch kürzere,
   prägnantere Sätze möglich sind. Diese Möglichkeit sollte jedoch nicht
   überbeansprucht werden.
-* Verwendet Ausrufezeichen nur positiv, nicht negativ. Stellt sicher, dass Ihr
+* Verwendet Ausrufezeichen nur positiv, nicht negativ. Stellt sicher, dass ihr
   nicht mehr als ein Ausrufezeichen im Kontext verwendet.
 
 Inklusive Sprache
@@ -143,7 +143,7 @@ verwendet werden. Zudem sollten sie durch das ``abbr``-Tag gekennzeichnet sein,
 
 .. note::
    In unserem Dokumentationssystem `Sphinx <https://www.sphinx-doc.org/en/master/>`_ könnt
-   Ihr diesen Tag mit der ``:abbr:``-Rolle hinzufügen.
+   ihr diesen Tag mit der ``:abbr:``-Rolle hinzufügen.
 
 Links
 ~~~~~
@@ -186,12 +186,12 @@ Zeichensetzung
 Pronomen
 --------
 
-Verwendet so oft wie möglich die freundliche und engagierte zweite Person (*Ihr*, *Euer* etc.) um Euer Publikum zu adressieren. 
+Verwendet so oft wie möglich die freundliche und engagierte zweite Person (*ihr*, *euer* etc.) um euer Publikum zu adressieren. 
 
 Die erste Person kann in Überschriften oder Label verwendet werden, die
 spezifisch für die betreffende Person sind, :abbr:`z.B. (zum Beispiel)` *Mein
 Konto* oder *Meine Einstellungen*. Wechselt jedoch im erklärenden Text wieder
-zur zweiten Person, :abbr:`z.B. (zum Beispiel)` *Eure Nutzung wird am Ende des
+zur zweiten Person, :abbr:`z.B. (zum Beispiel)` *eure Nutzung wird am Ende des
 Monats berechnet*.
 
 Vermeidet geschlechtsspezifische Pronomen in der dritten Person.
@@ -201,7 +201,7 @@ Vermeidet geschlechtsspezifische Pronomen in der dritten Person.
 Aktiv und Passiv
 ----------------
 
-Aktivsätze sind direkt und betonen das Thema. So enthält der Satz *Als Nächstes konfiguriert Ihr Eure Einstellungen* sehr viel direkter und auffordernder als
+Aktivsätze sind direkt und betonen das Thema. So enthält der Satz *Als Nächstes konfiguriert ihr eure Einstellungen* sehr viel direkter und auffordernder als
 *Als nächstes können die Einstellungen konfiguriert werden*.
 
 Der Passivsatz dreht die Konstruktion so um, dass das Subjekt dem Verb und dem
@@ -215,5 +215,5 @@ Leseniveau überprüfen
 Versucht, das Leseniveau der siebten Klasse nicht zu überschreiten. Vermeidet
 unnötigen Jargon und ähnliche Metaphern. Mit dem `Lesbarkeitsindex
 <https://www.psychometrica.de/lix.html#online>`_ oder für die englische Sprache
-mit der `Hemingway App <https://hemingwayapp.com/>`_ könnt Ihr berechnen, wie
-komplex Euer Text ist.
+mit der `Hemingway App <https://hemingwayapp.com/>`_ könnt ihr berechnen, wie
+komplex euer Text ist.

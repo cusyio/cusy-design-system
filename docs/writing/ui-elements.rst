@@ -1,15 +1,15 @@
 UI-Elemente und Interaktionen
 =============================
 
-Konzentriert Euch auf die Aufgabe
+Konzentriert euch auf die Aufgabe
 ---------------------------------
 
-Wenn es sinnvoll ist, solltet Ihr Anweisungen in Bezug auf das formulieren, was
-Ihr erreichen wollt. Indem Ihr den Verweis auf UI-Elemente vermeidet, helft Ihr,
+Wenn es sinnvoll ist, solltet ihr Anweisungen in Bezug auf das formulieren, was
+ihr erreichen wollt. Indem ihr den Verweis auf UI-Elemente vermeidet, helft ihr,
 den Zweck einer Anweisung zu verstehen, und tragt dazu bei, Abläufe
 effektiver zu machen.
 
-Allerdings solltet Ihr die Zielgruppe kennen und den Kontext verstehen. Zudem
+Allerdings solltet ihr die Zielgruppe kennen und den Kontext verstehen. Zudem
 kann es auch sinnvoll sein, zunächst alle Elemente einer Seite vorzustellen.
 
 * 👍 Klickt auf :guilabel:`Aktualisieren`
@@ -20,7 +20,7 @@ kann es auch sinnvoll sein, zunächst alle Elemente einer Seite vorzustellen.
 Formatieren von UI-Elementen
 ----------------------------
 
-Wenn Ihr auf den Namen eines beliebigen UI-Elements verweisen wollt, setzt den
+Wenn ihr auf den Namen eines beliebigen UI-Elements verweisen wollt, setzt den
 Namen in serifenloser Schrift. Dazu gehören Namen für Schaltflächen, Menüs,
 Dialoge, Fenster, Listenelemente oder jede andere Funktion auf der Seite, die
 einen sichtbaren Namen hat. Verwendet keine Code-Schrift für UI-Elemente, es sei
@@ -59,8 +59,8 @@ Sphinx
 
    Ein Tastenkürzel für die GUI-Beschriftung kann mit einem et-Zeichen (&)
    eingefügt werden; dieses führt in der Ausgabe zur Unterstreichung des
-   Folgebuchstabens. (Beispiel: ``:guilabel:`&Cancel```). Wenn Ihr ein
-   et-Zeichen einfügen wollt, könnt Ihr es einfach verdoppeln.
+   Folgebuchstabens. (Beispiel: ``:guilabel:`&Cancel```). Wenn ihr ein
+   et-Zeichen einfügen wollt, könnt ihr es einfach verdoppeln.
 
 .. rst:role:: kbd
 

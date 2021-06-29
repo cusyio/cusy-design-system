@@ -6,7 +6,7 @@ Wortliste
    beleidigend betrachtet. Die Begriffe sind hier aufgeführt, um Hinweise 
    zu alternativen Begriffe zu geben.
 
-Wenn der Begriff, den Ihr sucht, nicht auf dieser Seite zu finden ist, schaut
+Wenn der Begriff, den ihr sucht, nicht auf dieser Seite zu finden ist, schaut
 bitte in :doc:`about` unter *Andere Redaktionsleitfäden*.
 
 Wortliste
@@ -23,7 +23,7 @@ Symbole
 
 & (et-Zeichen)
     Verwendet *&* nicht anstelle von *und*  in Überschriften oder Texten; wenn
-    Ihr auf Elementen der Benutzeroberfläche oder in Tabellenüberschriften eine
+    ihr auf Elementen der Benutzeroberfläche oder in Tabellenüberschriften eine
     Abkürzung verwenden wollt, dann nutzt *u.*; und natürlich kann das *&* auch
     in Quellcode verwendet werden.
 
@@ -31,19 +31,19 @@ A-Z
 ~~~
 
 🚫 agnostisch
-    solltet Ihr nicht verwenden. Nutzt stattdessen präzisere Begriffe wie
+    solltet ihr nicht verwenden. Nutzt stattdessen präzisere Begriffe wie
     *plattformunabhängig*
 API
-    verwendet das Akronym API erst, nachdem Ihr den Begriff erläutert habt,
+    verwendet das Akronym API erst, nachdem ihr den Begriff erläutert habt,
     nämlich (engl. **A**\pplication **P**\rogramming **I**\nterface)
 Authentifizierung und Autorisierung
-    solltet Ihr nur verwenden, wenn *authentifiziert* sich auf Personen bezieht,
+    solltet ihr nur verwenden, wenn *authentifiziert* sich auf Personen bezieht,
     und *autorisiert* nur, um sich auf Berechtigungen zu beziehen, die von einer
     Anwendung im Namen einer authentifizierten Person gesendet werden. Eine
     authentifizierte Person hat einen Identitätsnachweis erbracht, z.B. durch die
     Eingabe eines Passworts.
 best effort
-    solltet Ihr wenn möglich vermeiden; verwendet stattdessen spezifischere
+    solltet ihr wenn möglich vermeiden; verwendet stattdessen spezifischere
     Formulierungen.
 Beta
     geschrieben mit Großbuchstaben am Anfang.
@@ -52,15 +52,15 @@ Beta
     * 👍 PACKAGE_NAME ist derzeit in der Beta-Phase.
 
 CLI
-    verwendet das Akronym CLI erst, nachdem Ihr den Begriff erläutert habt,
+    verwendet das Akronym CLI erst, nachdem ihr den Begriff erläutert habt,
     nämlich (engl. **C**\ommand **L**\ine **I**\nterface)
 🚫 erlauben
-    solltet Ihr nicht verwenden. Nutzt stattdessen *ermöglichen*
+    solltet ihr nicht verwenden. Nutzt stattdessen *ermöglichen*
 🚫 oberhalb, unterhalb
     verwendet es nicht, da es ein spezifisches Layout voraussetzt; verwendet
     stattdessen *vorausgehend* oder *nachfolgend*
 🚫 Schwarze Liste, Blacklist, Black-List
-    solltet Ihr ebensowenig verwenden wie *Whitelist* und *Graylist*; verwendet
+    solltet ihr ebensowenig verwenden wie *Whitelist* und *Graylist*; verwendet
     stattdessen Begriffe, die für die jeweilige Fachdomäne präziser sind wie
     z.B. *Excludelist* oder *Blocklist*. Beachtet bitte auch, dass es sich
     häufig nicht wirklich um Listen handelt.
@@ -73,15 +73,15 @@ CLI
       `dos.yaml` hinzu.
 
 Hier klicken
-    solltet Ihr nicht verwenden; für Details und Alternativen siehe
+    solltet ihr nicht verwenden; für Details und Alternativen siehe
     :doc:`link-text`.
 ⚠️ Kontoname
-    solltet Ihr nicht verwenden; nutzt stattdessen Anmeldename
+    solltet ihr nicht verwenden; nutzt stattdessen Anmeldename
 🚫 Man-Power
     Vermeidet die Verwendung geschlechtsspezifischer Begriffe. Verwendet
     stattdessen Begriffe wie *Personal* oder *Arbeitskraft*.
 Markdown
-    Wird immer großgeschrieben, auch wenn Ihr Euch auf eine nicht
+    Wird immer großgeschrieben, auch wenn ihr euch auf eine nicht
     standardisierte Version bezieht.
 Markup (Substantiv)
     Ohne Bindestrich.
@@ -91,30 +91,30 @@ Markup (Substantiv)
     ist, z.B. *primär*, *main*, *Original*, *Elternteil*,  *Aggregator* oder
     *aktiv*.
 
-    Wenn Ihr einen Befehl oder Code dokumentiert, der wörtlich *master*
+    Wenn ihr einen Befehl oder Code dokumentiert, der wörtlich *master*
     verwendet, dann verwendet dieses Wort nur in direktem Bezug auf den
-    formatierten Code und macht deutlich, worauf Ihr Euch bezieht. Verwendet
+    formatierten Code und macht deutlich, worauf ihr euch bezieht. Verwendet
     danach einen spezifischeren Begriff.
 
     Siehe Slave.
 
 🚫 Slave
-    Verwendet stattdessen alternative Begriffe, die für Eure Domäne besser
-    geeignet sind, z.B. *Worker* oder *Replik*. Wenn Ihr die Begriffe *Master*
+    Verwendet stattdessen alternative Begriffe, die für eure Domäne besser
+    geeignet sind, z.B. *Worker* oder *Replik*. Wenn ihr die Begriffe *Master*
     und *Slave* gemeinsam ersetzen wollt, dann zieht Kombinationen wie
     *primär/sekundär*, *Original/Replik*, *Controller/Worker*,
     *Publisher/Subscriber* oder *aktiv/standby* in Betracht.
 
-    Wenn der Befehl oder Code, den Ihr dokumentiert, wörtlich *Slave* verwendet,
-    dann formattiert ihn als Code und macht deutlich, worauf Ihr Euch bezieht.
+    Wenn der Befehl oder Code, den ihr dokumentiert, wörtlich *Slave* verwendet,
+    dann formattiert ihn als Code und macht deutlich, worauf ihr euch bezieht.
     Verwendet danach einen spezifischeren Begriff, z.B.
 
-        Startet den sekundären Prozess mit ``slave:start``, wenn Ihr Probleme
+        Startet den sekundären Prozess mit ``slave:start``, wenn ihr Probleme
         zwischen dem primären und sekundären Prozess analysieren wollt.
 
 und/oder
     ist manchmal die klarste und effizienteste Art, etwas auszudrücken. Dennoch
-    solltet Ihr überlegen, ob sich die Aussage umschreiben lässt ohne dass sie
+    solltet ihr überlegen, ob sich die Aussage umschreiben lässt ohne dass sie
     schwerer zu verstehen ist.
 ⚠️ Zugriff
     Vermeidet es, wenn möglich. Verwendet stattdessen freundlichere und

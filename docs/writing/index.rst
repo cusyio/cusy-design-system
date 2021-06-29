@@ -27,19 +27,19 @@ Themen
 Kurz
     Strebt kurze und prägnante Textbeiträge an
 Fokussiert
-    Beschränkt Euch in einem Beitrag auf ein Thema. Beiträge, die mehrere Themen
+    Beschränkt euch in einem Beitrag auf ein Thema. Beiträge, die mehrere Themen
     umfassen, sollten aufgebrochen werden.
 Zugänglich
     Verwendet eine möglichst einfache Sprache ohne Fachjargon. Erklärt
-    komplizierte Konzepte, indem Ihr sie aufschlüsselt.
+    komplizierte Konzepte, indem ihr sie aufschlüsselt.
 
-Verweist zu öffentlich zugänglichen Artikeln um mehr Details zu Eurem Thema zu
-erhalten oder einen alternativen Zugang zu Eurem Thema zu erhalten.
+Verweist zu öffentlich zugänglichen Artikeln um mehr Details zu eurem Thema zu
+erhalten oder einen alternativen Zugang zu eurem Thema zu erhalten.
 
 Barrierefrei schreiben
 ----------------------
 
-Im Abschnitt :doc:`accessibility` findet Ihr detaillierte Anleitungen zum
+Im Abschnitt :doc:`accessibility` findet ihr detaillierte Anleitungen zum
 barrierefreien Schreiben, vor allem zu den Themen:
 
 * Textalternativen für Bild- und Audioinhalte
@@ -53,8 +53,8 @@ barrierefreien Schreiben, vor allem zu den Themen:
 Fragen und Feedback
 -------------------
 
-Wenn Euch etwas fehlt oder Ihr Erläuterungen zu einem bestimmten Anwendungsfall
-benötigt, könnt Ihr uns gerne Fragen stellen in einer `GitHub-Aufgabe
+Wenn euch etwas fehlt oder ihr Erläuterungen zu einem bestimmten Anwendungsfall
+benötigt, könnt ihr uns gerne Fragen stellen in einer `GitHub-Aufgabe
 <https://github.com/cusyio/cusy-design-system/issues>`_.
 
 Einführung

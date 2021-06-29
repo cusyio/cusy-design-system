@@ -5,7 +5,7 @@ Sofern wir in unseren Texten nicht auf spezifische Geschlechter abzielen,
 verwenden wir eine genderneutrale Sprache. Hierfür verwenden wir unter anderem 
 
 Direkte Anrede
-    Häufig sprechen wir unser Publikum direkt an, z.B. mit *Ihr könnt …*.
+    Häufig sprechen wir unser Publikum direkt an, z.B. mit *ihr könnt …*.
 
     Damit umgehen wir meist, für die gendergerechte Sprache Passivkonstruktionen
     zu verwenden, :abbr:`s.a. (siehe auch)` :ref:`Aktiv und Passiv

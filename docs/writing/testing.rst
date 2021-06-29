@@ -1,7 +1,7 @@
 Testen
 ======
 
-Durch das Testen Eurer Inhalte könnt Ihr sicherstellen, dass sie sich in einem
+Durch das Testen eurer Inhalte könnt ihr sicherstellen, dass sie sich in einem
 konsistenten Zustand befinden. Die Erfahrung beim Lesen wird besser und
 problemloser.
 
@@ -9,7 +9,7 @@ Continuous Integration
 ----------------------
 
 Wir überprüfen systematisch, ob die Dokumentation des Cusy-Design-System
-erstellt werden kann und zeigen Euch dies auch mit folgendem Abzeichen
+erstellt werden kann und zeigen euch dies auch mit folgendem Abzeichen
 (:abbr:`engl. (englisch)`: Badge) an: |Docs|.
 
 .. |Docs| image:: https://readthedocs.org/projects/cusy-design-system/badge/?version=latest
@@ -19,21 +19,21 @@ Dieses Abzeichen wird vom Dokumentationsserver `Read the Docs
 <https://readthedocs.org/>`_, auf dem unsere Dokumentation des
 Cusy-Design-System veröffentlicht wird, bereitgestellt.
 
-Weitere automatisch generierte Abzeichen findet Ihr auf unserer Seite
+Weitere automatisch generierte Abzeichen findet ihr auf unserer Seite
 :doc:`../intro` mit Hinweisen zur Anzahl der Mitwirkenden, zur
 Aktualisierungshäufigkeit und zur Lizenz.
 
-Solche Abzeichen lassen sich jedoch nicht nur verwenden um den Status Eures
+Solche Abzeichen lassen sich jedoch nicht nur verwenden um den Status eures
 Projekts zu dokumentieren, sondern auch um einen stets aktuellen Überblick über
-viele verschiedene Projekte zu erhalten. Ein Beispiel hierfür findet Ihr in
+viele verschiedene Projekte zu erhalten. Ein Beispiel hierfür findet ihr in
 unserem `PyViz-Tutorial
 <https://pyviz-tutorial.readthedocs.io/de/latest/overview.html#aktivitaten-und-lizenzen>`_.
 
 Build-Fehler
 ------------
 
-Ihr habt jedoch auch die Möglichkeit, vor der Veröffentlichung Eurer Änderungen
-zu überprüfen, ob Eure Inhalte ordnungsgemäß erstellt werden. Hierfür hat
+Ihr habt jedoch auch die Möglichkeit, vor der Veröffentlichung eurer Änderungen
+zu überprüfen, ob eure Inhalte ordnungsgemäß erstellt werden. Hierfür hat
 :abbr:`z.B. (zum Beispiel)` das für die Erstellung des Cusy-Design-System
 verwendete `Sphinx <https://www.sphinx-doc.org/>`_ einen pingelig (:abbr:`engl.
 (englisch)` nitpicky)-Modus, der mit der Option ``-n`` aufgerufen werden kann,
@@ -46,9 +46,9 @@ also :abbr:`z.B. (zum Beispiel)` mit:
 Links überprüfen
 ----------------
 
-Ihr könnt auch automatisiert sicherstellen, dass die von Euch angegebenen
+Ihr könnt auch automatisiert sicherstellen, dass die von euch angegebenen
 Linkziele erreichbar sind. Unser Dokumentationswerkzeug Sphinx verwendet hierfür
-einen ``linkcheck``-Builder, den Ihr :abbr:`ggf. (gegebenenfalls)` aufrufen
+einen ``linkcheck``-Builder, den ihr :abbr:`ggf. (gegebenenfalls)` aufrufen
 könnt mit:
 
 .. code-block:: console
@@ -74,7 +74,7 @@ Die Ausgabe kann dann :abbr:`z.B. (zum Beispiel)` so aussehen:
     …
     (accessibility/color: line  114) broken    https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl - 404 Client Error: Not Found for url: https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl
 
-Falls Ihr ein anderes Werkzeug zum technischen Schreiben verwendet, könnt Ihr
+Falls ihr ein anderes Werkzeug zum technischen Schreiben verwendet, könnt ihr
 :abbr:`z.B. (zum Beispiel)` `HTMLProofer
 <https://github.com/gjtorikian/html-proofer>`_ verwenden um Links, Bilder, Titel
 und Tags zu überprüfen.
@@ -82,9 +82,9 @@ und Tags zu überprüfen.
 Code überprüfen
 ---------------
 
-Ihr könnt automatisch Euren Quellcode überprüfen und :abbr:`ggf.
+Ihr könnt automatisch euren Quellcode überprüfen und :abbr:`ggf.
 (gegebenenfalls)` auch neu formatieren lassen. Einen Überblick über solche
-Werkzeuge erhaltet Ihr in unserem Jupyter-Tutorial unter `Checker
+Werkzeuge erhaltet ihr in unserem Jupyter-Tutorial unter `Checker
 <https://jupyter-tutorial.readthedocs.io/de/latest/refactoring/qa/index.html#checker>`_
 und `Formatter
 <https://jupyter-tutorial.readthedocs.io/de/latest/refactoring/qa/index.html#formatter>`_.
@@ -92,7 +92,7 @@ und `Formatter
 Syntax-Überprüfung
 ------------------
 
-Es gibt auch Werkzeuge, die Eure Inhalte anhand von Regeln überprüfen.
+Es gibt auch Werkzeuge, die eure Inhalte anhand von Regeln überprüfen.
 
 .. seealso::
    * `Regulating English with retext-mapbox-standard
