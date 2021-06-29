@@ -50,12 +50,25 @@ sind.
 Wenn eine Methode veraltet ist, sagt Eurem Publikum, was es tun muss, damit der
 Code weiterhin funktioniert.
 
-`Sphinx <https://www.sphinx-doc.org/>`_ unterstützt Euch zumindest in der
-Programmiersprache Python mit der folgenden Direktive:
+`Sphinx <https://www.sphinx-doc.org/>`_ unterstützt Euch mit folgender
+Direktive:
+
+.. rst:directive:: .. deprecated:: version
+
+   Beschreibt, wann die Funktion veraltet wurde. Es kann auch eine Erklärung
+   angegeben werden, um :abbr:`z.B.` darüber zu informieren, was stattdessen
+   verwendet werden sollte. Beispiel::
+
+       .. deprecated:: 4.1
+          verwende stattdessen :func:`new_function`.
+
+   .. deprecated:: 4.1
+      verwende stattdessen :func:`new_function`.
+
+Für Python-Module gibt es darüberhinaus noch folgende Direktive:
 
 .. rst:directive:option:: py:module:deprecated
    :type: no argument
 
    Markiert ein Modul als veraltet; es wird dann an verschiedenen Stellen als
    solches gekennzeichnet.
-
