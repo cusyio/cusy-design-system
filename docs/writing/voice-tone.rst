@@ -39,8 +39,8 @@ Was ihr vermeiden solltet
 * Vereinnahmende Formulierungen wie *Lasst uns das machen*.
 * Die Verwendung von Ausdrücken wie *einfach*, *es ist so einfach* oder
   *schnell*
-* Internet-Slang oder -Abkürzungen wie *:abbr:`tl;dr (Too long; didn’t read)`* oder
-  *:abbr:`ymmv <englisch: Je nach dem, wie weit ihr geht, kann das variieren>`*
+* Internet-Slang oder -Abkürzungen wie :abbr:`tl;dr (Too long; didn’t read)` oder
+  :abbr:`ymmv (englisch: Je nach dem, wie weit ihr geht, kann das variieren)`
 
 Was ihr berücksichtigen solltet
 -------------------------------
@@ -52,7 +52,7 @@ Was ihr berücksichtigen solltet
 * Versucht, Teile eures Dokuments laut vorzulesen oder zumindest die Wörter mit
   dem Mund zu sprechen. Klingt es natürlich?
   
-  Beachtet jedoch, dass Nicht jeder Satz natürlich klingen muss; es sind
+  Beachtet jedoch, dass nicht jeder Satz natürlich klingen muss; es sind
   schließlich schriftliche Dokumente. Aber wenn ihr auf einen Satz stoßt, der
   beim Sprechen unbeholfen oder verwirrend ist, überlegt, ob ihr ihn
   umgangssprachlicher formulieren könnt.
