@@ -106,7 +106,7 @@ Sphinx unterscheidet die folgenden Platzhaltervariablen:
 
         … is installed in :file:`/usr/lib/python3.{x}/site-packages` …
 
-    In der generierten HTML-Dokumentation wird das ``x`` mit``em .pre``
+    In der generierten HTML-Dokumentation wird das ``x`` mit ``em .pre``
     besonders ausgezeichnet und kursiv dargestellt, um zu zeigen, dass es durch
     die spezifische Python-Version ersetzt werden soll.
 
@@ -118,8 +118,7 @@ Sphinx unterscheidet die folgenden Platzhaltervariablen:
 
     Textbeispiel, wie :abbr:`z.B. (zum Beispiel)` Code, innerhalb dessen
     geschweifte Klammern verwendet werden können, um einen variablen Teil
-    anzuzeigen, wie in :rst:role:`file` oder in ``:samp:`print 1+{variable}```,
-    in denen der variable Teil hervorgehoben werden.
+    anzuzeigen, wie in :rst:role:`file` oder in ``:samp:`print 1+{VARIABLE}```.
 
     Ab Sphinx≥1.8 können geschweifte Klammern mit einem Backslash (``\``)
     angezeigt werden.
