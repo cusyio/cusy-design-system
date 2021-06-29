@@ -162,6 +162,11 @@ Vermeidet wertende Begriffe wie *nur*, *einfach*, *offensichtlich* :abbr:`usw
 Ableistische Sprache
 ~~~~~~~~~~~~~~~~~~~~
 
+Die Diskriminierung von Menschen mit Behinderungen wird als Ableismus (englisch
+Ableism) bezeichnet. Personen dürfen nicht auf ihre Beeinträchtigung reduziert
+werden; auch Vorstellungen von Minderwertigkeit sind genausowenig akzeptabel wie
+Grenzüberschreitungen, Einschränkungen der Autonomie und Ausschluss.
+
 .. seealso::
    * `Autistic Hoya: Ableism/Language
      <https://www.autistichoya.com/p/ableist-words-and-terms-to-avoid.html>`_
