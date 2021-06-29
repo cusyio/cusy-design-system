@@ -35,10 +35,10 @@ Die API-Referenz muss für jeden der folgenden Punkte eine Beschreibung enthalte
 * jede Methode, mit einer Beschreibung für jeden Parameter, den Rückgabewert
   und alle möglichen Exceptions (engl.: Ausnahmen)
 
-Deprication
------------
+Veralteter Code
+---------------
 
-Wenn etwas veraltet ist, sagt, was alternativ verwendet werden soll. Und wenn
+Wenn Code veraltet ist, sagt, was alternativ verwendet werden soll. Und wenn
 Ihr Eure API versioniert, erwähnt, in welcher Version es zuerst veraltet war.
 
 Nur der erste Satz einer Beschreibung erscheint in der Zusammenfassung und im
@@ -49,3 +49,13 @@ sind.
 
 Wenn eine Methode veraltet ist, sagt Eurem Publikum, was es tun muss, damit der
 Code weiterhin funktioniert.
+
+`Sphinx <https://www.sphinx-doc.org/>`_ unterstützt Euch zumindest in der
+Programmiersprache Python mit der folgenden Direktive:
+
+.. rst:directive:option:: py:module:deprecated
+   :type: no argument
+
+   Markiert ein Modul als veraltet; es wird dann an verschiedenen Stellen als
+   solches gekennzeichnet.
+
