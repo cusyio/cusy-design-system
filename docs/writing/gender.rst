@@ -77,17 +77,17 @@ geschlechtlichen Begriffen. Damit wollen wir zum Ausdruck bringen, dass es mehr
 als nur zwei Geschlechter gibt und die Zuordnungen soziale Konstrukte sind.
 
 .. note::
-   Die Quarks-Redaktion versucht in `Was Gendern bringt – und was nicht
-   <https://www.quarks.de/gesellschaft/psychologie/was-gendern-bringt-und-was-nicht/>`_
-   die häufig emotionale Diskussion zu versachlichen und stellt einige
-   Untersuchungsergebnisse zum Veständnis geschlechtergerechter Sprache vor.
-
-.. note::
    Auch der :abbr:`DBSV (Deutsche Blinden- und Sehbehindertenverband)` empfiehlt
    in solchen Fällen das Gendersternchen; es sei die am häufigsten verwendete
    Form und käme dem Wunsch nach einem Konsenszeichen am nächsten.  Zudem seien
    Unterstrich und Doppelpunkt für sehbehinderte Menschen schlechter erkennbar.
    [#]_
+
+.. note::
+   Die Quarks-Redaktion versucht in `Was Gendern bringt – und was nicht
+   <https://www.quarks.de/gesellschaft/psychologie/was-gendern-bringt-und-was-nicht/>`_
+   die häufig emotionale Diskussion zu versachlichen und stellt einige
+   Untersuchungsergebnisse zum Veständnis geschlechtergerechter Sprache vor.
 
 .. seealso::
     * Bundesverband der Kommunikatoren: `Kompendium Gendersensible Sprache.
