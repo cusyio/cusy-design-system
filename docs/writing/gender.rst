@@ -16,10 +16,9 @@ diskriminierend sein, :abbr:`z.B. (zum Beispiel)`:
 Wir sind uns jedoch bewusst, `bis Gendern zur Alltagssprache gehört, dauert es
 lange
 <https://www.genderleicht.de/sprachwandel-beim-gendern-braucht-20-jahre/>`_.
-Dennoch wollen wir in unseren Veröffentlichungen schon jetzt um eine gerechtere
-Sprache bemühen. So werden wir, sofern wir in unseren Texten nicht auf
-spezifische Geschlechter abzielen, eine genderneutrale Sprache verwenden, unter
-anderem:
+Dennoch bemühen wir uns schon jetzt um eine gerechtere Sprache. So werden wir,
+sofern wir in unseren Texten nicht auf spezifische Geschlechter abzielen, eine
+genderneutrale Sprache verwenden, unter anderem:
 
 Direkte Anrede
     Häufig sprechen wir unser Publikum direkt an, z.B. mit *ihr könnt …*.
