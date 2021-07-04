@@ -3,7 +3,7 @@ Gendergerechte Sprache
 
 Mit diesen Richtlinien zu gendergerechter Sprache wollen wir möglichst präzise
 und frei von Diskriminierungen formulieren. Viele alltägliche Redewendungen sind
-leider sehr ungenau, lassen viel Interpretationsspielram zu und können
+leider sehr ungenau, lassen viel Interpretationsspielraum zu und können
 diskriminierend sein, :abbr:`z.B. (zum Beispiel)`:
 
 * 👎 Neue Vorschriften für Software-Entwickler
@@ -13,8 +13,7 @@ diskriminierend sein, :abbr:`z.B. (zum Beispiel)`:
 * 👍 Die Fortbildung richtet sich an alle Vortragenden
 * 👍 Suche Personal für Büroreinigung
 
-Wir sind uns jedoch bewusst, `bis Gendern zur Alltagssprache gehört, dauert es
-lange
+Wir sind uns bewusst: `Bis Gendern zur Alltagssprache gehört, dauert es lange
 <https://www.genderleicht.de/sprachwandel-beim-gendern-braucht-20-jahre/>`_.
 Dennoch bemühen wir uns schon jetzt um eine gerechtere Sprache. So werden wir,
 sofern wir in unseren Texten nicht auf spezifische Geschlechter abzielen, eine
@@ -78,17 +77,17 @@ geschlechtlichen Begriffen. Damit wollen wir zum Ausdruck bringen, dass es mehr
 als nur zwei Geschlechter gibt und die Zuordnungen soziale Konstrukte sind.
 
 .. note::
-   Die Quarks-Redaktion versucht in `Was Gendern bringt – und was nicht
-   <https://www.quarks.de/gesellschaft/psychologie/was-gendern-bringt-und-was-nicht/>`_
-   die häufig emotionale Diskussion zu versachlichen und stellt einige
-   Untersuchungsergebnisse zum Veständnis geschlechtergerechter Sprache vor.
-
-.. note::
    Auch der :abbr:`DBSV (Deutsche Blinden- und Sehbehindertenverband)` empfiehlt
    in solchen Fällen das Gendersternchen; es sei die am häufigsten verwendete
    Form und käme dem Wunsch nach einem Konsenszeichen am nächsten.  Zudem seien
    Unterstrich und Doppelpunkt für sehbehinderte Menschen schlechter erkennbar.
    [#]_
+
+.. note::
+   Die Quarks-Redaktion versucht in `Was Gendern bringt – und was nicht
+   <https://www.quarks.de/gesellschaft/psychologie/was-gendern-bringt-und-was-nicht/>`_
+   die häufig emotionale Diskussion zu versachlichen und stellt einige
+   Untersuchungsergebnisse zum Veständnis geschlechtergerechter Sprache vor.
 
 .. seealso::
     * Bundesverband der Kommunikatoren: `Kompendium Gendersensible Sprache.
