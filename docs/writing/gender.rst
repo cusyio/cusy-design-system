@@ -11,8 +11,8 @@ Direkte Anrede
     zu verwenden, :abbr:`s.a. (siehe auch)` :ref:`Aktiv und Passiv
     <aktiv-und-passiv>`.
 
-    Auch das Gerundiv, wie :abbr:`z.B. (zum Beispiel)` *Studierende*, können wir
-    damit vermeiden.
+    Auch substantivierte Partizipien, wie :abbr:`z.B. (zum Beispiel)`
+    *Studierende*, können wir damit vermeiden.
 
 Direkte persönliche Anrede
     Sofern wir die Geschlechteridentität nicht kennen, wählen wir zunächst eine
