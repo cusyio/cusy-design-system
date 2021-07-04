@@ -13,8 +13,7 @@ diskriminierend sein, :abbr:`z.B. (zum Beispiel)`:
 * 👍 Die Fortbildung richtet sich an alle Vortragenden
 * 👍 Suche Personal für Büroreinigung
 
-Wir sind uns jedoch bewusst: `Bis Gendern zur Alltagssprache gehört, dauert es
-lange
+Wir sind uns bewusst: `Bis Gendern zur Alltagssprache gehört, dauert es lange
 <https://www.genderleicht.de/sprachwandel-beim-gendern-braucht-20-jahre/>`_.
 Dennoch bemühen wir uns schon jetzt um eine gerechtere Sprache. So werden wir,
 sofern wir in unseren Texten nicht auf spezifische Geschlechter abzielen, eine
