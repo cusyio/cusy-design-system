@@ -1,6 +1,15 @@
 Gendergerechte Sprache
 ======================
 
+Mit diesen Richtlinien zu gendergerechter Sprache wollen wir möglichst präzise
+und frei von Diskriminierungen formulieren. Viele alltägliche Redewendungen sind
+leider sehr ungenau, lassen viele Interpretationen zu und können diskriminierend
+sein, :abbr:`z.B. (zum Beispiel)`:
+
+* Neue Vorschriften für Software-Entwickler
+* Die Fortbildung richtet sich an alle Referenten
+* Suche Putzfrau für Büroreinigung
+
 Sofern wir in unseren Texten nicht auf spezifische Geschlechter abzielen,
 verwenden wir eine genderneutrale Sprache. Hierfür verwenden wir unter anderem 
 
