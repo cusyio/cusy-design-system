@@ -112,10 +112,54 @@ Markup (Substantiv)
         Startet den sekundären Prozess mit ``slave:start``, wenn ihr Probleme
         zwischen dem primären und sekundären Prozess analysieren wollt.
 
+🚫 Smartphone
+    Verwendet stattdessen *Mobiltelefon*.
+ssh und SSH
+    Verwendet ssh wenn ihr euch auf das Terminal-Werkzeug bezieht. Verwendet
+    hingegen SSH wenn ihr euch auf das Kommunikationsprotokoll bezieht.
+🚫 Tarball
+    verwendet stattdessen tar-Datei.
+🚫 :abbr:`tl;dr (Too long; didn’t read)`
+    Verwendet stattdessen etwas wie *Zusammenzufassend*.
 und/oder
     ist manchmal die klarste und effizienteste Art, etwas auszudrücken. Dennoch
     solltet ihr überlegen, ob sich die Aussage umschreiben lässt ohne dass sie
     schwerer zu verstehen ist.
+🚫 untar, unzip
+    verwendet stattdessen *entpacken*.
+URL
+    in Großbuchstaben; der Plural ist URLs. Schreibt *der URL*.
+:abbr:`v (Version)`
+    verwendet die Kleinschreibung zur Abkürzung von Version.
+🚫 via
+    Verwendet stattdessen *über* um Zwischenstationen zu benennen.
+🚫 Vice versa
+    Verwendet es nicht. Verwendet stattdessen eine Phrase wie *andersherum*,
+    *umgekehrt* oder *anders*. In manchen Kontexten ist vice versa unklar oder
+    ungenau, weil in einem komplexen Satz schwer zu wissen ist, welche zwei
+    Dinge miteinander vertauscht werden. Macht in solchen Fällen explizit klar,
+    welche zwei Dinge vertauscht werden.
+🚫 vs.
+    Verwendet vs. nicht als Abkürzung für versus; verwendet stattdessen das
+    ungekürzte versus.
+🚫 Webmaster
+    Verwendet stattdessen einen genaueren Begriff, um die spezifische Rolle zu
+    beschreiben, :abbr:`z.B. (zum Beispiel)` Website von …,
+    Website-Administration etc.
+Web-Server
+    nicht Webserver
+Website
+    nicht web site
+🚫 White-box
+    Vermeidet die Verweundung von white-box und verwendet stattdessen präzisere
+    Begriffe wie
+
+    * introspektives Monitoring
+    * Clear-Box-Testing
+
+Wi-Fi, nicht wifi oder WiFi
+    bezeichnet sowohl das Firmenkonsortium wie auch die zugehörigen
+    Markenbegriffe; WLAN hingegen das Funknetzwerk.
 ⚠️ Zugriff
     Vermeidet es, wenn möglich. Verwendet stattdessen freundlichere und
     präzisere Wörter wie *sehen*, *bearbeiten*, *finden*, *verwenden* oder
