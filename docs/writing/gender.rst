@@ -13,6 +13,11 @@ diskriminierend sein, :abbr:`z.B. (zum Beispiel)`:
 * 👍 Die Fortbildung richtet sich an alle Vortragenden
 * 👍 Suche Personal für Büroreinigung
 
+.. note::
+    Auch im Englischen solltet Ihr auf eine gendergerechte Sprache achten; seht
+    hierzu :abbr:`z.B. (zum Beispiel)` `Singular “their” in Jane Austen and
+    elsewhere <https://pemberley.com/janeinfo/austheir.html>`_.
+
 Wir sind uns bewusst: `Bis Gendern zur Alltagssprache gehört, dauert es lange
 <https://www.genderleicht.de/sprachwandel-beim-gendern-braucht-20-jahre/>`_.
 Dennoch bemühen wir uns schon jetzt um eine gerechtere Sprache. So werden wir,
