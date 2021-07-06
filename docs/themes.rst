@@ -1,14 +1,14 @@
-Themes
-======
+Design-Themen
+=============
 
-Mithilfe von *Themes* können vorhandene Komponenten an einen bestimmten
+Mithilfe von Design-Themen können vorhandene Komponenten an einen bestimmten
 visuellen Stil angepasst werden. Dabei werden im Cusy Design System meist nur
 eine Reihe universeller Variablen geändert und die meisten Komponenten passen
 sich dann automatisch an. Lediglich in Ausnahmefällen müssen einzelne
 Komponenten geändert werden.
 
-Das Cusy Design System bietet zwei verschiedene Themes, wie auf der Seite
-:doc:`viz/colors` gezeigt: *Dark* und *Light*. Beide Themes können in CSS
+Das Cusy Design System bietet zwei verschiedene Design-Themen, wie auf der Seite
+:doc:`viz/colors` gezeigt: *Dark* und *Light*. Beide Themen können in CSS
 angegeben werden mit:
 
 .. code-block:: css
@@ -35,7 +35,7 @@ CSS-Anweisungen bei benutzerdefinierten Eigenschaften oder Variablen beginnen:
         color: var(--link-color);
     }
 
-Das *Light*-Theme wird dann in einer ``@media``-Anweisung definiert:
+Das *Light*-Thema wird dann in einer ``@media``-Anweisung definiert:
 
 .. code-block:: css
 
