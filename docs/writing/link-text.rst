@@ -93,16 +93,16 @@ einer Webadresse :abbr:`z.B. (zum Beispiel)` einfach ``mailto:info@cusy.io``
 verwenden. Auch Betreff, CC, BCC und Haupttext können in einem solchen Link
 angegeben werden:
 
-.. code-block::
+.. code-block:: html
 
     mailto:info@cusy.io?cc=info@cusy.io, support@cusy.io&subject=Cusy%20Support&body=Hier%20kann%der%20Haupttext%20stehen.
 
 Ein Link kann auch automatisch eine Telefonnummer wählen, :abbr:`z.B. (zum
 Beispiel)` `+49 30 22430082 <tel:+493022430082>`_.
 
-.. code-block::
+.. code-block:: html
 
-    ``tel:+493022430082``
+    tel:+493022430082
 
 Links zu  Dateien
 -----------------
