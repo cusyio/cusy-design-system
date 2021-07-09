@@ -1,5 +1,5 @@
-HTML-Best-Practices
-===================
+HTML-und CSS Best-Practices
+===========================
 
 Code und Navigation strukturieren
 ---------------------------------
