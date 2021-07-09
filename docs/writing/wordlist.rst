@@ -36,7 +36,7 @@ A-Z
 
 .. glossary::
 
-    🚫 agnostisch
+    ❌ agnostisch
         solltet ihr nicht verwenden. Nutzt stattdessen präzisere Begriffe wie
         *plattformunabhängig*
 
@@ -58,21 +58,21 @@ A-Z
     Beta
         geschrieben mit Großbuchstaben am Anfang.
 
-        * 👍 PACKAGE_NAME Beta
-        * 👍 PACKAGE_NAME ist derzeit in der Beta-Phase.
+        * ✅ PACKAGE_NAME Beta
+        * ✅ PACKAGE_NAME ist derzeit in der Beta-Phase.
 
     CLI
         verwendet das Akronym CLI erst, nachdem ihr den Begriff erläutert habt,
         nämlich (engl. **C**\ommand **L**\ine **I**\nterface)
 
-    🚫 cons
+    ❌ cons
         Verwendet stattdessen *Nachteile*.
 
-    🚫 erlauben
+    ❌ erlauben
         solltet ihr nicht verwenden. Nutzt stattdessen *ermöglichen*
 
-    🚫 Graylist
-        siehe :term:`🚫 Schwarze Liste, Blacklist, Black-List`
+    ❌ Graylist
+        siehe :term:`❌ Schwarze Liste, Blacklist, Black-List`
 
     Hier klicken
         solltet ihr nicht verwenden; für Details und Alternativen siehe
@@ -84,13 +84,13 @@ A-Z
     IPsec
         nicht *IPSec* or *IPSEC*. Akronym für *Internet Protocol Security*.
 
-    🚫 K8s
+    ❌ K8s
         Verwendet stattdessen *Kubernetes*.
 
     ⚠️ Kontoname
         solltet ihr nicht verwenden; nutzt stattdessen Anmeldename
 
-    🚫 Man-Power
+    ❌ Man-Power
         Vermeidet die Verwendung geschlechtsspezifischer Begriffe. Verwendet
         stattdessen Begriffe wie *Personal* oder *Arbeitskraft*.
 
@@ -101,7 +101,7 @@ A-Z
     Markup (Substantiv)
         Ohne Bindestrich.
 
-    🚫 Master
+    ❌ Master
         Verwendet es niemals in Verbindung mit *slave*. Wenn möglich, ersetzt
         *master* durch einen spezifischen Begriff, der für den Kontext
         zutreffend ist, z.B. *primär*, *main*, *Original*, *Elternteil*, 
@@ -112,53 +112,53 @@ A-Z
         formatierten Code und macht deutlich, worauf ihr euch bezieht. Verwendet
         danach einen spezifischeren Begriff.
 
-        Siehe :term:`🚫 Slave`.
+        Siehe :term:`❌ Slave`.
 
     N/A
         nicht NA. Erläutert es bei der ersten Verwendung als *nicht verfügbar*
         oder *nicht anwendbar*.
 
-    🚫 oberhalb
+    ❌ oberhalb
         verwendet es nicht, da es ein spezifisches Layout voraussetzt; verwendet
         stattdessen *vorausgehend*.
 
-    🚫 Pros
+    ❌ Pros
         Verwendet stattdessen *Vorteile*.
 
-    🚫 regex
+    ❌ regex
         Verwendet stattdessen *regulärer Ausdruck*.
 
-    🚫 Repo
+    ❌ Repo
         Verwendet stattdessen Repository.
 
-    🚫 Representational State Transfer
+    ❌ Representational State Transfer
         Erläutert stattdessen, wofür REST theoretisch steht, da Für Personen,
         die mit REST nicht vertraut sind auch die ausgeschriebenen Worte des
         Akronyms bedeutungslos bleiben.
 
-    🚫 RTFM
+    ❌ RTFM
         Verwendet stattdessen :abbr:`z.B. (zum Beispiel)` *Für weitere
         Informationen siehe …*.
 
-    🚫 Sanity Check
+    ❌ Sanity Check
         Verwendet stattdessen einen spezifischeren Begriff wie *Vorprüfung* oder
         Kohärenzprüfung.
 
-    🚫 Schwarze Liste, Blacklist, Black-List
-        solltet ihr ebensowenig verwenden wie :term:`🚫 Whitelist` und
-        :term:`🚫 Graylist`; verwendet stattdessen Begriffe, die für die
+    ❌ Schwarze Liste, Blacklist, Black-List
+        solltet ihr ebensowenig verwenden wie :term:`❌ Whitelist` und
+        :term:`❌ Graylist`; verwendet stattdessen Begriffe, die für die
         jeweilige Fachdomäne präziser sind wie z.B. *Excludelist* oder
         *Blocklist*. Beachtet bitte auch, dass es sich häufig nicht wirklich um
         Listen handelt.
 
-        * 👍 Um Anfragen von einer IP-Adresse zu verweigern, fügt sie der Datei
+        * ✅ Um Anfragen von einer IP-Adresse zu verweigern, fügt sie der Datei
           `dos.yaml` hinzu.
-        * 👎 Um Anfragen von einer IP-Adresse zu verweigern, fügt sie der
+        * ❌ Um Anfragen von einer IP-Adresse zu verweigern, fügt sie der
           Denylist hinzu.
-        * 👎 Um eine IP-Adresse auf die schwarze Liste zu setzen, fügt sie der
+        * ❌ Um eine IP-Adresse auf die schwarze Liste zu setzen, fügt sie der
           Datei `dos.yaml` hinzu.
 
-    🚫 Slave
+    ❌ Slave
         Verwendet stattdessen alternative Begriffe, die für eure Domäne besser
         geeignet sind, z.B. *Worker* oder *Replik*. Wenn ihr die Begriffe
         *Master* und *Slave* gemeinsam ersetzen wollt, dann zieht Kombinationen
@@ -173,17 +173,17 @@ A-Z
             Probleme zwischen dem primären und sekundären Prozess analysieren
             wollt.
 
-    🚫 Smartphone
+    ❌ Smartphone
         Verwendet stattdessen *Mobiltelefon*.
 
     ssh und SSH
         Verwendet ssh wenn ihr euch auf das Terminal-Werkzeug bezieht. Verwendet
         hingegen SSH wenn ihr euch auf das Kommunikationsprotokoll bezieht.
 
-    🚫 Tarball
+    ❌ Tarball
         verwendet stattdessen tar-Datei.
 
-    🚫 :abbr:`tl;dr (Too long; didn’t read)`
+    ❌ :abbr:`tl;dr (Too long; didn’t read)`
         Verwendet stattdessen etwas wie *Zusammenzufassend*.
 
     und/oder
@@ -191,10 +191,10 @@ A-Z
         Dennoch solltet ihr überlegen, ob sich die Aussage umschreiben lässt
         ohne dass sie schwerer zu verstehen ist.
 
-    🚫 untar, unzip
+    ❌ untar, unzip
         verwendet stattdessen *entpacken*.
 
-    🚫 unterhalb
+    ❌ unterhalb
         verwendet es nicht, da es ein spezifisches Layout voraussetzt; verwendet
         stattdessen *nachfolgend*.
 
@@ -204,21 +204,21 @@ A-Z
     :abbr:`v (Version)`
         verwendet die Kleinschreibung zur Abkürzung von Version.
 
-    🚫 via
+    ❌ via
         Verwendet stattdessen *über* um Zwischenstationen zu benennen.
 
-    🚫 Vice versa
+    ❌ Vice versa
         Verwendet es nicht. Verwendet stattdessen eine Phrase wie *andersherum*,
         *umgekehrt* oder *anders*. In manchen Kontexten ist vice versa unklar
         oder ungenau, weil in einem komplexen Satz schwer zu wissen ist, welche
         zwei Dinge miteinander vertauscht werden. Macht in solchen Fällen
         explizit klar, welche zwei Dinge vertauscht werden.
 
-    🚫 vs.
+    ❌ vs.
         Verwendet vs. nicht als Abkürzung für *versus*; verwendet stattdessen
         das ungekürzte *versus*.
 
-    🚫 Webmaster
+    ❌ Webmaster
         Verwendet stattdessen einen genaueren Begriff, um die spezifische Rolle
         zu beschreiben, :abbr:`z.B. (zum Beispiel)` *Website von …*,
         *Website-Administration* etc.
@@ -229,15 +229,15 @@ A-Z
     Website
         nicht Web-Site
 
-    🚫 White-box
+    ❌ White-box
         Vermeidet die Verweundung von white-box und verwendet stattdessen
         präzisere Begriffe wie
 
         * introspektives Monitoring
         * Clear-Box-Testing
 
-    🚫 Whitelist
-        siehe :term:`🚫 Schwarze Liste, Blacklist, Black-List`
+    ❌ Whitelist
+        siehe :term:`❌ Schwarze Liste, Blacklist, Black-List`
 
     Wi-Fi
         nicht wifi oder WiFi. Dies bezeichnet sowohl das Firmenkonsortium wie

@@ -69,10 +69,10 @@ Seid höfflich
 Es ist schön, höflich zu sein, aber die Verwendung von *bitte* in einer
 Anweisung ist übertrieben.
 
-* 👍 Klickt auf Ansicht, um das Dokument anzuzeigen.
-* 👎 Um das Dokument anzusehen, klickt bitte auf Anzeigen.
-* 👍 Weitere Informationen finden Sie unter …
-* 👎 Für weitere Informationen klickt bitte auf …
+* ✅ Klickt auf Ansicht, um das Dokument anzuzeigen.
+* ❌ Um das Dokument anzusehen, klickt bitte auf Anzeigen.
+* ✅ Weitere Informationen finden Sie unter …
+* ❌ Für weitere Informationen klickt bitte auf …
 
 Beispiele
 ---------

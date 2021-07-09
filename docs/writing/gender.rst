@@ -6,12 +6,12 @@ und frei von Diskriminierungen formulieren. Viele alltägliche Redewendungen sin
 leider sehr ungenau, lassen viel Interpretationsspielraum zu und können
 diskriminierend sein, :abbr:`z.B. (zum Beispiel)`:
 
-* 👎 Neue Vorschriften für Software-Entwickler
-* 👎 Die Fortbildung richtet sich an alle Referenten
-* 👎 Suche Putzfrau für Büroreinigung
-* 👍 Neue Vorschriften für die Software-Entwicklung
-* 👍 Die Fortbildung richtet sich an alle Vortragenden
-* 👍 Suche Personal für Büroreinigung
+* ❌ Neue Vorschriften für Software-Entwickler
+* ❌ Die Fortbildung richtet sich an alle Referenten
+* ❌ Suche Putzfrau für Büroreinigung
+* ✅ Neue Vorschriften für die Software-Entwicklung
+* ✅ Die Fortbildung richtet sich an alle Vortragenden
+* ✅ Suche Personal für Büroreinigung
 
 .. note::
     Auch im Englischen solltet Ihr auf eine gendergerechte Sprache achten; seht

@@ -21,10 +21,10 @@ Text für Platzhaltervariablen
 
 * Verwendet Großbuchstaben mit Unterstrich als Trennzeichen.
 
-  * 👍 :file:`https://cusy.io/{LANGUAGE_CODE}/`
-  * 👎 :file:`https://cusy.io/LANGUAGE_CODE/`
-  * 👎 :file:`https://cusy.io/{language-code}/`
-  * 👎 :file:`https://cusy.io/{LanguageCode}/`
+  * ✅ :file:`https://cusy.io/{LANGUAGE_CODE}/`
+  * ❌ :file:`https://cusy.io/LANGUAGE_CODE/`
+  * ❌ :file:`https://cusy.io/{language-code}/`
+  * ❌ :file:`https://cusy.io/{LanguageCode}/`
 
 * Wenn der Kontext, in dem ihr Platzhaltervariablen verwenden wollt,
   Großbuchstaben und Unterstriche missverständlich sein können, dann verwendet
@@ -32,8 +32,8 @@ Text für Platzhaltervariablen
 
 * Verwendet keine Possessivpronomen in Platzhaltern.
 
-  * 👎 :file:`https://cusy.io/{MY_LANGUAGE}/`
-  * 👎 :file:`https://cusy.io/{YOUR_LANGUAGE}/`
+  * ❌ :file:`https://cusy.io/{MY_LANGUAGE}/`
+  * ❌ :file:`https://cusy.io/{YOUR_LANGUAGE}/`
 
 Erläutert Platzhalter
 ---------------------
@@ -52,7 +52,7 @@ Verwendet bei Prozeduren die folgende Reihenfolge:
 #. Führt die Ausgabe auf, falls erforderlich
 #. Erläutert ggf. die Ausgabe
 
-* 👍
+* ✅
 
   #. Damit euch die Spack-Umgebung zur Verfügung steht, müsst ihr folgendes
      in die :file:`~/.bashrc` oder :file:`~/.profile` eingetragen:

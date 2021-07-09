@@ -12,10 +12,10 @@ effektiver zu machen.
 Allerdings solltet ihr die Zielgruppe kennen und den Kontext verstehen. Zudem
 kann es auch sinnvoll sein, zunächst alle Elemente einer Seite vorzustellen.
 
-* 👍 Klickt auf :guilabel:`Aktualisieren`
-* 👎 Klickt auf die Schaltfläche  :guilabel:`Aktualisieren`
-* 👎 Wählt :guilabel:`Erweiterte Optionen`
-* 👍 Wählt :menuselection:`Einstellungen --> Erweiterte Optionen`
+* ✅ Klickt auf :guilabel:`Aktualisieren`
+* ❌ Klickt auf die Schaltfläche  :guilabel:`Aktualisieren`
+* ❌ Wählt :guilabel:`Erweiterte Optionen`
+* ✅ Wählt :menuselection:`Einstellungen --> Erweiterte Optionen`
 
 Formatieren von UI-Elementen
 ----------------------------
@@ -32,19 +32,19 @@ Großbuchstaben geschrieben werden, verwendet die übliche Schreibweise im Satz.
 Verwendet UI-Elemente jedoch nicht so, als wären sie Verben oder Substantive im
 Satz.
 
-* 👍 Aktiviert im Fenster :guilabel:`Neues Projekt` das Kontrollkästchen
+* ✅ Aktiviert im Fenster :guilabel:`Neues Projekt` das Kontrollkästchen
   :guilabel:`Neue Aktivität` und klickt dann auf :guilabel:`Weiter`
-* 👎 Aktiviert im Fenster »Neues Projekt« das Kontrollkästchen »Neue Aktivität«
+* ❌ Aktiviert im Fenster »Neues Projekt« das Kontrollkästchen »Neue Aktivität«
   und klickt dann auf die Schaltfläche »Weiter«
-* 👍 Klickt auf :guilabel:`⟳ Aktualisieren`
-* 👎 Klickt auf :guilabel:`AKTUALISIEREN`
-* 👍 Gebt im Feld :guilabel:`Name` einen Kontonamen ein
-* 👎 Gebt den :guilabel:`Namen` für das Konto ein
-* 👍 Um die Einstellungen zu speichern, klickt auf :guilabel:`Speichern`
-* 👎 :guilabel:`Speichern` Sie die Einstellungen
-* 👍 Gebt im Feld :guilabel:`Servicekonto-ID` einen Namen ein
-* 👎 Gebt eine :guilabel:`Servicekonto-ID` ein
-* 👍 Gebt für :guilabel:`Servicekonto-ID` einen Namen an
+* ✅ Klickt auf :guilabel:`⟳ Aktualisieren`
+* ❌ Klickt auf :guilabel:`AKTUALISIEREN`
+* ✅ Gebt im Feld :guilabel:`Name` einen Kontonamen ein
+* ❌ Gebt den :guilabel:`Namen` für das Konto ein
+* ✅ Um die Einstellungen zu speichern, klickt auf :guilabel:`Speichern`
+* ❌ :guilabel:`Speichern` Sie die Einstellungen
+* ✅ Gebt im Feld :guilabel:`Servicekonto-ID` einen Namen ein
+* ❌ Gebt eine :guilabel:`Servicekonto-ID` ein
+* ✅ Gebt für :guilabel:`Servicekonto-ID` einen Namen an
 
 Sphinx
 ------
