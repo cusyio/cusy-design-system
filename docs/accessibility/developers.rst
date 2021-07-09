@@ -125,6 +125,14 @@ Zugängliche Tabellen
        +-------+-------+
        …
 
+  oder::
+
+    .. csv-table:: Tabellentitel
+
+  oder::
+
+    .. list-table:: Tabellentitel
+
   Dies führt zu folgendem HTML:
 
   .. code-block:: html
