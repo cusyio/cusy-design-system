@@ -141,6 +141,33 @@ Zugängliche Tabellen
         …
     </table>
 
+Unterscheiden zwischen Mäusen und Touchscreens
+----------------------------------------------
+
+Ihr könnt die Gestaltung von Links, Tasten etc. einfach mit der `hover
+<https://www.w3.org/TR/mediaqueries-5/#hover>`_-Funktion variieren, je nachdem
+ob euer Publikum eine Maus oder einen Touchscreen verwendet. Dies funktioniert
+in den meisten aktuellen Browsern gut, bei einigen Android-Versionen emuliert
+langes Drücken jedoch *Hover*, sodass die Medienabfrage ``hover: hover`` wahr
+bewertet wird. Daher sollte auch noch eine zweite Abfrage nach ``pointer: fine``
+erfolgen:
+
+.. code-block:: css
+
+    .some-component {
+      /* Stil für Touchscreens, einschließlich Android-Geräte */
+    }
+
+    @media (hover: hover) and (pointer: fine) {
+      .some-component {
+        /* Stil für Mäuse und ähnliche Geräte */
+      }
+    }
+
+.. seealso::
+   * `Detecting Hover-Capable Devices
+     <https://css-irl.info/detecting-hover-capable-devices/>`_
+
 Zugängliche Datenvisualisierungen
 ---------------------------------
 
