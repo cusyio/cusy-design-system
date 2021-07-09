@@ -90,6 +90,10 @@ vorhanden sind. Verwendet bei Abkürzungen das native ``<abbr/>``-Element mit de
 
     <abbr title="HyperText Markup Language">HTML</abbr>
 
+In Sphinx könnt Ihr dies erreichen mit der ``abbr``-Rolle::
+
+    :abbr:`HTML (HyperText Markup Language)`
+
 Aussagekräftige Textbeschriftungen
 ----------------------------------
 
