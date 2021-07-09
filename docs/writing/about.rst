@@ -33,19 +33,21 @@ Reihenfolge zu verwenden:
    Wenn die vorangegangenen Referenzen keine explizite Anleitung bieten, dann
    lest diese Referenzen von Drittanbietern, abhängig von der Art ihrer Frage:
 
-   +-----------------------+-------------------------------------------------------+
-   | Art der Frage         | Referenz                                              |
-   +=======================+=======================================================+
-   | Rechtschreibung       | `Duden`_, siehe auch  `Rechtschreibregeln`_           |
-   +-----------------------+-------------------------------------------------------+
-   | Nichttechnischer Stil | Universität Stuttgart: `Redaktionsleitfaden und       |
-   |                       | Webstyleguide`_, siehe auch Bundeszentrale für        |
-   |                       | politische Bildung: `einfach POLITIK: Lexikon`_       |
-   +-----------------------+-------------------------------------------------------+
-   | Technischer Stil      | `Microsoft German Style Guide`_; beachtet jedoch, dass|
-   |                       | einige Richtlinien nur für Microsoft und deren        |
-   |                       | Produkte zutreffend sein werden.                      |
-   +-----------------------+-------------------------------------------------------+
+   .. table:: Externe Referenzen je nach Fragestellung
+
+       +-----------------------+-------------------------------------------------------+
+       | Art der Frage         | Referenz                                              |
+       +=======================+=======================================================+
+       | Rechtschreibung       | `Duden`_, siehe auch  `Rechtschreibregeln`_           |
+       +-----------------------+-------------------------------------------------------+
+       | Nichttechnischer Stil | Universität Stuttgart: `Redaktionsleitfaden und       |
+       |                       | Webstyleguide`_, siehe auch Bundeszentrale für        |
+       |                       | politische Bildung: `einfach POLITIK: Lexikon`_       |
+       +-----------------------+-------------------------------------------------------+
+       | Technischer Stil      | `Microsoft German Style Guide`_; beachtet jedoch, dass|
+       |                       | einige Richtlinien nur für Microsoft und deren        |
+       |                       | Produkte zutreffend sein werden.                      |
+       +-----------------------+-------------------------------------------------------+
 
 Andere Redaktionsleitfäden
 ~~~~~~~~~~~~~~~~~~~~~~~~~~

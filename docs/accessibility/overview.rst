@@ -30,22 +30,24 @@ Kategorien von Einschränkungen
 
 Einschränkungen können in drei Haupttypen unterteilt werden:
 
-+--------------------------+-----------------------------------------------------+
-| Art                      | Beschreibung                                        |
-+==========================+=====================================================+
-| situationsbedingt        |  Eine Person mit typischer Sehstärke kann z.B.      |
-|                          |  Schwierigkeiten mit einem Bildschirm in heller     |
-|                          |  Umgebung haben. Oder eine andere Person kann in    |
-|                          |  einer Bibliothek ein Video nur mit ausgeschaltetem |
-|                          |  Ton ansehen.                                       |
-+--------------------------+-----------------------------------------------------+
-| temporär                 | Eine Person mit gebrochenem Handgelenk kann         |
-|                          | möglicherweise nicht tippen, erlangt jedoch die     |
-|                          | Fähigkeit nach der Heilung zurück.                  |
-+--------------------------+-----------------------------------------------------+
-| andauernd                | Meist wird nur diese Art als »Behinderung«          |
-|                          | verstanden.                                         |
-+--------------------------+-----------------------------------------------------+
+.. table:: Typen von Einschränkungen
+
+    +--------------------------+-----------------------------------------------------+
+    | Art                      | Beschreibung                                        |
+    +==========================+=====================================================+
+    | situationsbedingt        |  Eine Person mit typischer Sehstärke kann z.B.      |
+    |                          |  Schwierigkeiten mit einem Bildschirm in heller     |
+    |                          |  Umgebung haben. Oder eine andere Person kann in    |
+    |                          |  einer Bibliothek ein Video nur mit ausgeschaltetem |
+    |                          |  Ton ansehen.                                       |
+    +--------------------------+-----------------------------------------------------+
+    | temporär                 | Eine Person mit gebrochenem Handgelenk kann         |
+    |                          | möglicherweise nicht tippen, erlangt jedoch die     |
+    |                          | Fähigkeit nach der Heilung zurück.                  |
+    +--------------------------+-----------------------------------------------------+
+    | andauernd                | Meist wird nur diese Art als »Behinderung«          |
+    |                          | verstanden.                                         |
+    +--------------------------+-----------------------------------------------------+
 
 Blinde
 ~~~~~~

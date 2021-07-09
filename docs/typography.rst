@@ -33,19 +33,21 @@ Die Cusy Schriftskala basiert auf einerseits auf dem Goldenen Schnitt,
 andererseits auf der Verdoppelung, um die Texte hierarchisch zu
 strukturieren:
 
-+--------+--------+
-| rem    | px     |
-+========+========+
-| 0.625  | 10     |
-+--------+--------+
-| 0.813  | 13     |
-+--------+--------+
-| 1      | 16     |
-+--------+--------+
-| 1.313  | 21     |
-+--------+--------+
-| 1.625  | 26     |
-+--------+--------+
+.. table:: Cusy Schriftskala
+
+    +--------+--------+
+    | rem    | px     |
+    +========+========+
+    | 0.625  | 10     |
+    +--------+--------+
+    | 0.813  | 13     |
+    +--------+--------+
+    | 1      | 16     |
+    +--------+--------+
+    | 1.313  | 21     |
+    +--------+--------+
+    | 1.625  | 26     |
+    +--------+--------+
 
 Gewichte
 --------
@@ -54,23 +56,26 @@ Die Schriftgröße wird im Cusy Design System für die hierarchische Gliederung
 der Texte verwendet. Eine fettere Schrift innerhalb eines Textes betont jedoch
 diesen Textabschnitt.
 
-Die Wirkung der Gewichte unterscheidet sich jedoch zwischen dem Cusy-Dark-Theme
-und dem Cusy-Light-Theme:
+Die Wirkung der Schriftstärke unterscheidet sich jedoch zwischen dem
+Cusy-Dark-Theme und dem Cusy-Light-Theme:
 
-+-----------------+--------------------------+--------------------------+
-| Format          | Cusy-Dark-Theme          | Cusy-Light-Theme         |
-+=================+==========================+==========================+
-| Überschrift     | Bold                     | Medium                   |
-+-----------------+--------------------------+--------------------------+
-| Unterüberschrift| Bold                     | Medium                   |
-+-----------------+--------------------------+--------------------------+
-| Zusammenfassung | Regular                  | Light                    |
-+-----------------+--------------------------+--------------------------+
-| Textkörper      | Regular                  | Light                    |
-+-----------------+--------------------------+--------------------------+
-| Fußnoten,       | Regular                  | Light                    |
-| Marginalien     |                          |                          |
-+-----------------+--------------------------+--------------------------+
+.. table:: Schriftstärke in Abhängigkeit von Textabschnitt, Dark- und
+           Light-Theme
+
+    +-----------------+--------------------------+--------------------------+
+    | Format          | Cusy-Dark-Theme          | Cusy-Light-Theme         |
+    +=================+==========================+==========================+
+    | Überschrift     | Bold                     | Medium                   |
+    +-----------------+--------------------------+--------------------------+
+    | Unterüberschrift| Bold                     | Medium                   |
+    +-----------------+--------------------------+--------------------------+
+    | Zusammenfassung | Regular                  | Light                    |
+    +-----------------+--------------------------+--------------------------+
+    | Textkörper      | Regular                  | Light                    |
+    +-----------------+--------------------------+--------------------------+
+    | Fußnoten,       | Regular                  | Light                    |
+    | Marginalien     |                          |                          |
+    +-----------------+--------------------------+--------------------------+
 
 Kursiv
 ------

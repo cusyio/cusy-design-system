@@ -76,17 +76,20 @@ Anweisung ist übertrieben.
 
 Beispiele
 ---------
-+-------------------------------+-------------------------------+-------------------------------+
-| zu informell                  | passend                       | zu formell                    |
-+===============================+===============================+===============================+
-| Cool! Die API ist total       | Mit dieser API könnt ihr die  | Diese Dokumentation beschreibt|
-| genial!                       | gewünschten Daten erhalten.   | die API vollständig.          |
-+-------------------------------+-------------------------------+-------------------------------+
-| Mit diesem Aufruf erhältst du | Ihr könnt die Telefonnummer   | Für das Abfragen der          |
-| sofort jede Telefonnummer.    | abfragen mit                  | Telefonnummer wird zunächst   |
-|                               | ``user.getPhoneNumber``       | der Wert für ``user``         |
-|                               |                               | benötigt. Anschließend kann   |
-|                               |                               | die Telefonnummer mit der     |
-|                               |                               | Methode ``getPhoneNumber``    |
-|                               |                               | abgefragt werden.             |
-+-------------------------------+-------------------------------+-------------------------------+
+
+.. table:: Beispiele für zu informelle, passende und zu formelle Sprache
+
+    +-------------------------------+-------------------------------+-------------------------------+
+    | zu informell                  | passend                       | zu formell                    |
+    +===============================+===============================+===============================+
+    | Cool! Die API ist total       | Mit dieser API könnt ihr die  | Diese Dokumentation beschreibt|
+    | genial!                       | gewünschten Daten erhalten.   | die API vollständig.          |
+    +-------------------------------+-------------------------------+-------------------------------+
+    | Mit diesem Aufruf erhältst du | Ihr könnt die Telefonnummer   | Für das Abfragen der          |
+    | sofort jede Telefonnummer.    | abfragen mit                  | Telefonnummer wird zunächst   |
+    |                               | ``user.getPhoneNumber``       | der Wert für ``user``         |
+    |                               |                               | benötigt. Anschließend kann   |
+    |                               |                               | die Telefonnummer mit der     |
+    |                               |                               | Methode ``getPhoneNumber``    |
+    |                               |                               | abgefragt werden.             |
+    +-------------------------------+-------------------------------+-------------------------------+
