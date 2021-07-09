@@ -18,14 +18,14 @@ Um effektiven Linktext zu schreiben, verwendet eine der folgenden Formen:
 * Sorgt dafür, dass der Linktext genau dem Text des Titels entspricht, auf den
   er verweist.
 
-  * 👍 Weitere Informationen findet ihr unter :doc:`Schreibstil <writing-style>`.
+  * ✅ Weitere Informationen findet ihr unter :doc:`Schreibstil <writing-style>`.
 
   Informationen zur Großschreibung solcher Verweise findet ihr unter
   Großschreibung in Verweisen auf Titel und Überschriften.
 
 * Beschreibt die Zielseite im Linktext so, als ob sie Teil des Satzes wäre.
 
-  * 👍 Ihr könnt :ref:`vale` verwenden um eure Dokumentation automatisch
+  * ✅ Ihr könnt :ref:`vale` verwenden um eure Dokumentation automatisch
     überprüfen zu lassen.
 
 Manchmal müsst ihr einen Satz überarbeiten, um eine Phrase einzuschließen, die
@@ -107,9 +107,9 @@ Beispiel)` `+49 30 22430082 <tel:+493022430082>`_.
 Links zu  Dateien
 -----------------
 
-* 👎 `WebAIM Quick Reference
+* ❌ `WebAIM Quick Reference
   <https://webaim.org/resources/quickref/quickref.pdf>`_
-* 👍 `WebAIM Quick Reference (PDF, 327 KB)
+* ✅ `WebAIM Quick Reference (PDF, 327 KB)
   <https://webaim.org/resources/quickref/quickref.pdf>`_
 
 Der erste Link sieht aus wie ein normaler Link, und diejenige Person, die auf
