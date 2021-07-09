@@ -113,6 +113,30 @@ Zugängliche Tabellen
 * Für die Beschreibung der Tabelle wird ``<caption/>`` bevorzugt, aber
   ``<table summary=""/>`` funktioniert auch.
 
+  In reStructuredText könnt ihr die ``table``-Direktive verwenden, :abbr:`z.B.
+  (zum Beispiel)`::
+
+    .. table:: Tabellentitel
+
+       +-------+-------+
+       …
+
+  Dies führt zu folgendem HTML:
+
+  .. code-block:: html
+
+    <table class="docutils align-default" id="id1">
+        <caption>
+            <span class="caption-text">
+                Tabellentitel
+            </span>
+            <a class="headerlink" href="#id1" title="Link zu dieser Tabelle">
+                ¶
+            </a>
+        </caption>
+        …
+    </table>
+
 Zugängliche Datenvisualisierungen
 ---------------------------------
 
