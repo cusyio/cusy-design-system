@@ -173,6 +173,8 @@ erfolgen:
     }
 
 .. seealso::
+   * `Media features
+     <https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries#media_features>`_
    * `Detecting Hover-Capable Devices
      <https://css-irl.info/detecting-hover-capable-devices/>`_
 
