@@ -106,7 +106,7 @@ Vale
 ~~~~
 
 `Vale <https://docs.errata.ai/vale/about>`__ wird von vielen
-Open-Source-Projekten genutzt, :abbr:`u.a. (unter anderem) von
+Open-Source-Projekten genutzt, :abbr:`u.a. (unter anderem)` von
 
 * GitLab (`.vale.ini <https://gitlab.com/gitlab-org/gitlab/blob/master/.vale.ini>`_, `Regeln
   <https://gitlab.com/gitlab-org/gitlab/-/tree/master/doc/.vale/gitlab>`__)
