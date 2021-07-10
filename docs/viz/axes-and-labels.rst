@@ -97,9 +97,9 @@ standardmäßig das ISO 8601-Format ``YYYY-MM-DD hh:mm:ss``.
 Orientierungspunktetiketten
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Wenn Daten in einen neuen Zeitzyklus übergehen, z.B. einen neuen Tag, einen
-neuen Monat oder ein neues Jahr, wird das Etikett halbfett beschriftet, um den
-Übergang hervorzuheben.
+Wenn Daten in einen neuen Zeitzyklus übergehen, :abbr:`z.B. (zum Beispiel)`
+einen neuen Tag, einen neuen Monat oder ein neues Jahr, wird das Etikett
+halbfett beschriftet, um den Übergang hervorzuheben.
 
 .. figure:: axislabel-timeseries.png
    :alt: Lücke in den Daten, die durch Textur gekennzeichnet ist

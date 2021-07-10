@@ -49,7 +49,7 @@ Das *Light*-Thema wird dann in einer ``@media``-Anweisung definiert:
 
 Dabei ist jedoch zu beachten, dass Grafiken und Bilder auf unterschiedlichen
 Hintergründen meist anders dargestellt werden sollten. Für SVG-Dateien können
-die Farben einfach überschrieben werden, z.B. mit:
+die Farben einfach überschrieben werden, :abbr:`z.B. (zum Beispiel)` mit:
 
 .. code-block:: css
 

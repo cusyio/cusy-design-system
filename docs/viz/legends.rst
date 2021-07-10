@@ -30,7 +30,8 @@ auch für Titel und Achsenbeschriftungen.
    :alt: In-Chart-Beschriftungen
 
    Beschriftungen in einer Grafik sind ideal für Diagramme mit vorhersehbaren
-   Daten und viel Leerraum, z.B. innerhalb eines Ringdiagramms.
+   Daten und viel Leerraum, :abbr:`z.B. (zum Beispiel)` innerhalb eines
+   Ringdiagramms.
 
 Farbe und Textur
 ----------------
@@ -55,7 +56,7 @@ Oben (Standard) und unten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Positioniert die Legende oben oder unten in einem Diagramm, wenn der Platz knapp
-ist, z.B. in einem Dashboard.
+ist, :abbr:`z.B. (zum Beispiel)` in einem Dashboard.
 
 .. figure:: legends-pos-1.png
    :alt: Oben positionierte Legende (Standard)
@@ -67,8 +68,8 @@ Rechts
 ~~~~~~
 
 Positioniert die Legende rechts neben dem Diagramm, wenn genügend Platz
-vorhanden ist oder wenn es den Kontext erhöht, z.B. bei gestapelten
-Balkendiagrammen.
+vorhanden ist oder wenn es den Kontext erhöht, :abbr:`z.B. (zum Beispiel)` bei
+gestapelten Balkendiagrammen.
 
 .. figure:: legends-pos-3.png
    :alt: Gestapeltes Balkendiagramm mit rechts positionierter  Legende

@@ -9,7 +9,8 @@ Baumdiagramme
 
 Ein Baumdiagramm, auch Stemma genannt, ist eine graphische Darstellung, welche
 hierarchische Abhängigkeiten durch Verbindungslinien darstellt. Mögliche
-Anwendungsfälle sind z.B. Stammbäume, Entscheidungsbäume und Mindmaps.
+Anwendungsfälle sind :abbr:`z.B. (zum Beispiel)` Stammbäume, Entscheidungsbäume
+und Mindmaps.
 
 .. figure:: treediagram.png
    :alt: Baumdiagramm
@@ -19,7 +20,7 @@ Anwendungsfälle sind z.B. Stammbäume, Entscheidungsbäume und Mindmaps.
 Flussdiagramme
 --------------
 
-Es gibt verschiedene Typen von Flussdiagrammen, z.B. 
+Es gibt verschiedene Typen von Flussdiagrammen, :abbr:`z.B. (zum Beispiel)` 
 
 Alluviale Diagramme
     betont signifikante Veränderungen in Netzwerken und fasst sie ggf.
@@ -27,7 +28,7 @@ Alluviale Diagramme
 Kontrollflussdiagramme
     zur Beschreibung von Regelkreisläufen
 Kumulative Flussdiagramme
-    werden z.B. in der `Queueing Theory
+    werden :abbr:`z.B. (zum Beispiel)` in der `Queueing Theory
     <https://en.wikipedia.org/wiki/Queueing_theory>`_ verwendet.
 Zustandsübergangsdiagramme
     zur grafischen Darstellung endlicher Automaten

@@ -49,7 +49,7 @@ A-Z
         bezieht, und *autorisiert* nur, um sich auf Berechtigungen zu beziehen,
         die von einer Anwendung im Namen einer authentifizierten Person gesendet
         werden. Eine authentifizierte Person hat einen Identitätsnachweis
-        erbracht, z.B. durch die Eingabe eines Passworts.
+        erbracht, :abbr:`z.B. (zum Beispiel)` durch die Eingabe eines Passworts.
 
     best effort
         solltet ihr wenn möglich vermeiden; verwendet stattdessen spezifischere
@@ -104,8 +104,8 @@ A-Z
     ❌ Master
         Verwendet es niemals in Verbindung mit *slave*. Wenn möglich, ersetzt
         *master* durch einen spezifischen Begriff, der für den Kontext
-        zutreffend ist, z.B. *primär*, *main*, *Original*, *Elternteil*, 
-        *Aggregator* oder *aktiv*.
+        zutreffend ist, :abbr:`z.B. (zum Beispiel)` *primär*, *main*,
+        *Original*, *Elternteil*,  *Aggregator* oder *aktiv*.
 
         Wenn ihr einen Befehl oder Code dokumentiert, der wörtlich *master*
         verwendet, dann verwendet dieses Wort nur in direktem Bezug auf den
@@ -147,9 +147,9 @@ A-Z
     ❌ Schwarze Liste, Blacklist, Black-List
         solltet ihr ebensowenig verwenden wie :term:`❌ Whitelist` und
         :term:`❌ Graylist`; verwendet stattdessen Begriffe, die für die
-        jeweilige Fachdomäne präziser sind wie z.B. *Excludelist* oder
-        *Blocklist*. Beachtet bitte auch, dass es sich häufig nicht wirklich um
-        Listen handelt.
+        jeweilige Fachdomäne präziser sind wie :abbr:`z.B. (zum Beispiel)`
+        *Excludelist* oder *Blocklist*. Beachtet bitte auch, dass es sich häufig
+        nicht wirklich um Listen handelt.
 
         * ✅ Um Anfragen von einer IP-Adresse zu verweigern, fügt sie der Datei
           `dos.yaml` hinzu.
@@ -167,7 +167,8 @@ A-Z
 
         Wenn der Befehl oder Code, den ihr dokumentiert, wörtlich *Slave*
         verwendet, dann formattiert ihn als Code und macht deutlich, worauf ihr
-        euch bezieht. Verwendet danach einen spezifischeren Begriff, z.B.
+        euch bezieht. Verwendet danach einen spezifischeren Begriff, :abbr:`z.B.
+        (zum Beispiel)` 
 
             Startet den sekundären Prozess mit ``slave:start``, wenn ihr
             Probleme zwischen dem primären und sekundären Prozess analysieren
@@ -221,7 +222,7 @@ A-Z
     ❌ Webmaster
         Verwendet stattdessen einen genaueren Begriff, um die spezifische Rolle
         zu beschreiben, :abbr:`z.B. (zum Beispiel)` *Website von …*,
-        *Website-Administration* etc.
+        *Website-Administration* :abbr:`etc. (etcetera)`
 
     Web-Server
         nicht Webserver

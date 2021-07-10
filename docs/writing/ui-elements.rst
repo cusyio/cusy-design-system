@@ -79,8 +79,8 @@ Sphinx
     beliebiger Untersequenzen. Die Namen der einzelnen Auswahlen sollten durch
     ``-->`` getrennt werden.
 
-   So nutzt z.B. :menuselection:`View --> Cell Toolbar --> Slideshow` folgende
-   Auszeichnung::
+   So nutzt :abbr:`z.B. (zum Beispiel)` :menuselection:`View --> Cell Toolbar
+   --> Slideshow` folgende Auszeichnung::
 
     :menuselection:`View --> Cell Toolbar --> Slideshow`
 

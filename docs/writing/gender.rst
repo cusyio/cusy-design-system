@@ -25,7 +25,8 @@ sofern wir in unseren Texten nicht auf spezifische Geschlechter abzielen, eine
 genderneutrale Sprache verwenden, unter anderem:
 
 Direkte Anrede
-    Häufig sprechen wir unser Publikum direkt an, z.B. mit *ihr könnt …*.
+    Häufig sprechen wir unser Publikum direkt an, :abbr:`z.B. (zum Beispiel)`
+    mit *ihr könnt …*.
 
     Damit umgehen wir meist, für die gendergerechte Sprache Passivkonstruktionen
     zu verwenden, :abbr:`s.a. (siehe auch)` :ref:`Aktiv und Passiv

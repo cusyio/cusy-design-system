@@ -83,8 +83,8 @@ Kursiv
 Es gibt keine Kursive. Dabei werden die Titel von Werken, Fachbegriffe und
 Namen unterschiedlich kenntlich gemacht:
 
-* Titel von Werken werden in Anführungszeichen gesetzt, z.B. das
-  »PyViz-Tutorial«.
+* Titel von Werken werden in Anführungszeichen gesetzt, :abbr:`z.B. (zum
+  Beispiel)` das »PyViz-Tutorial«.
 * Für Fachbegriffe wird bei Mouseover ein Tooltip mit dem Beginn der
   Kurzbeschreibung angezeigt.
 * Namen werden nur mit ®, ™ o.ä. ausgezeichnet, sofern zutreffend.
@@ -104,7 +104,8 @@ Syntax-Hervorhebungen in Quellcode erfolgen mit `Highlight.js plugin for Vue.js
 <https://github.com/highlightjs/vue-plugin>`_  und unterscheiden zwischen
 Cusy-Dark-Theme und Cusy-Light-Theme.
 
-Weitere Farben dürfen nur verwendet werden, sofern sie bedeutend sind, z.B.
+Weitere Farben dürfen nur verwendet werden, sofern sie bedeutend sind,
+:abbr:`z.B. (zum Beispiel)` 
 
 * *Red* für Fehler
 * *Orange* für Warnungen

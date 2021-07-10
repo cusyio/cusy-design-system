@@ -80,14 +80,15 @@ Farbenblinde
 Farbenblindheit betrifft 8% aller Männer und 0,4% der Frauen.
 
 * Werden die Kontraste der Website oder der Software in Hinblick auf
-  Farbenblindheit überprüft, z.B. mit dem Sketch-Plugin `Stark
-  <https://www.getstark.co/>`_?
+  Farbenblindheit überprüft, :abbr:`z.B. (zum Beispiel)` mit dem
+  Sketch-Plugin `Stark <https://www.getstark.co/>`_?
 
 Gehörlose und Schwerhörige
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Gibt es Untertitel und alternative Darstellungen von Audio? Beachtet dabei,
-  dass alle davon profitieren können, z.B. in einer sehr lauten Umgebung.
+  dass alle davon profitieren können, :abbr:`z.B. (zum Beispiel)` in einer sehr
+  lauten Umgebung.
 * Werden Videos und Animationen transkribiert?
 
 Körperliche Einschränkungen 

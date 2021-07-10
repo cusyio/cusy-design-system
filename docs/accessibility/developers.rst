@@ -152,13 +152,13 @@ Zugängliche Tabellen
 Unterscheiden zwischen Mäusen und Touchscreens
 ----------------------------------------------
 
-Ihr könnt die Gestaltung von Links, Tasten etc. einfach mit der `hover
-<https://www.w3.org/TR/mediaqueries-5/#hover>`_-Funktion variieren, je nachdem
-ob euer Publikum eine Maus oder einen Touchscreen verwendet. Dies funktioniert
-in den meisten aktuellen Browsern gut, bei einigen Android-Versionen emuliert
-langes Drücken jedoch *Hover*, sodass die Medienabfrage ``hover: hover`` wahr
-bewertet wird. Daher sollte auch noch eine zweite Abfrage nach ``pointer: fine``
-erfolgen:
+Ihr könnt die Gestaltung von Links, Tasten :abbr:`etc. (etcetera)` einfach mit
+der `hover <https://www.w3.org/TR/mediaqueries-5/#hover>`_-Funktion variieren,
+je nachdem ob euer Publikum eine Maus oder einen Touchscreen verwendet. Dies
+funktioniert in den meisten aktuellen Browsern gut, bei einigen
+Android-Versionen emuliert langes Drücken jedoch *Hover*, sodass die
+Medienabfrage ``hover: hover`` wahr bewertet wird. Daher sollte auch noch eine
+zweite Abfrage nach ``pointer: fine`` erfolgen:
 
 .. code-block:: css
 
@@ -222,21 +222,21 @@ Dekorative Symbole
     können.
 
     In diesem Fall kann dem Element ein ``aria-hidden="true"``-Attribut
-    hinzugefügt werden, z.B.:
+    hinzugefügt werden, :abbr:`z.B. (zum Beispiel)`:
 
     .. code-block:: html
 
         <i class="fas fa-camera-retro" aria-hidden="true"></i>
 
 Semantische Symbole
-    sind solche, mit denen bedeutendes vermittelt werden soll, z.B. für Button,
-    Formularelemente etc.
+    sind solche, mit denen bedeutendes vermittelt werden soll, :abbr:`z.B. (zum
+    Beispiel)` für Button, Formularelemente :abbr:`etc. (etcetera)`
 
     Neben dem ``aria-hidden="true"``-Attribut sollten zwei weitere Ergänzungen
     hinzugefügt werden:
   
-    * eine Textalternative z.B. in einem ``<span>``-Tag, das via CSS ausgeblendet
-      wird.
+    * eine Textalternative :abbr:`z.B. (zum Beispiel)` in einem ``<span>``-Tag,
+      das via CSS ausgeblendet wird.
     * ein ``title``- Attribut auf dem Symbol, um einen Tooltip für sehende
       Personen bereitzustellen.
 

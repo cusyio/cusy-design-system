@@ -45,11 +45,12 @@ Achsen
 
 Tooltip
     Ein Tooltip ist eine Meldung, die angezeigt wird, wenn sich ein Cursor über
-    einem Element befindet, z.B. über einem Datenpunkt oder über einer
-    Schaltfläche. Standardmäßig werden Tooltips bei ``hover`` angezeigt, um
-    detailliertere Informationen oder den Kontext für bestimmte Diagrammelemente
-    anzuzeigen. Ein Tooltip sollte die entsprechenden Werte des Datenpunkts auf
-    beiden Achsen wiederholen und weitere relevante Details anzeigen.
+    einem Element befindet, :abbr:`z.B. (zum Beispiel)` über einem Datenpunkt
+    oder über einer Schaltfläche. Standardmäßig werden Tooltips bei ``hover``
+    angezeigt, um detailliertere Informationen oder den Kontext für bestimmte
+    Diagrammelemente anzuzeigen. Ein Tooltip sollte die entsprechenden Werte des
+    Datenpunkts auf beiden Achsen wiederholen und weitere relevante Details
+    anzeigen.
 
 Grafikrahmen
     Der Grafikrahmen ist der Bereich, in dem Daten mit Grafiken visualisiert
