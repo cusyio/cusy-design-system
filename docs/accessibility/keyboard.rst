@@ -55,7 +55,7 @@ Elemente um `aria-label
    * `Optimizing keyboard navigation using tabindex and ARIA
      <https://www.sarasoueidan.com/blog/keyboard-friendlier-article-listings/>`_
    * `IBM Checkpoint 2.4.3 Focus Order
-     <https://www.ibm.com/able/guidelines/ci162/focus_order.html>`_
+     <https://www.ibm.com/able/requirements/requirements/?version=7_1#2_4_3>`_
 
 ARIA-Landmarks
 --------------
