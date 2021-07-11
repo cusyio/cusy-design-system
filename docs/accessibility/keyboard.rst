@@ -40,6 +40,15 @@ das Erscheinungsbild eines Elements zu definieren. Erweitert bei Bedarf die
 Elemente um `aria-label
 <https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-label_attribute>`_-Attribute.
 
+.. note::
+   Fügt keine nicht-interaktiven Elemente in die Tabulatorreihenfolge ein.
+   Vermeidet auch mehrfach aufeinanderfolgende Links zum selben Ziel, indem ihr
+   einige :abbr:`ggf. (gegebenenfalls)` aus der Tastaturreihenfolge ausnehmt mit
+
+   .. code-block:: html
+
+        tabindex = "-1"
+
 .. seealso::
    * `WCAG success criterion: Focus Order
      <https://www.w3.org/WAI/WCAG21/Understanding/focus-order>`_
