@@ -190,6 +190,7 @@ Farbauswahl für farbenblinde Personen ist zu berücksichtigen.
    * `Case Study: Implementing Accessible Data Charts for the Khan Academy 2018
      Annual Report
      <https://www.sarasoueidan.com/blog/accessible-data-charts-for-khan-academy-2018-annual-report/>`_
+   * `Accessible SVGs <https://css-tricks.com/accessible-svgs/>`_
    * `Accessible SVG line graphs <https://tink.uk/accessible-svg-line-graphs/>`_
    * `Accessible SVG flowcharts <https://tink.uk/accessible-svg-flowcharts/>`_
 
