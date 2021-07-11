@@ -12,9 +12,9 @@ verwendet werden.
 Semantik
 --------
 
-Farben können in HTML und SVG mit `aria-label
+hr könnt in in HTML und SVG Farben mit `aria-label
 <https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-label_attribute>`_
-semantisch ausgezeichnet werden, :abbr:`z.B. (zum Beispiel)`:
+semantisch auszeichnen, :abbr:`z.B. (zum Beispiel)`:
 
 .. code-block:: xml
 
