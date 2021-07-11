@@ -33,11 +33,11 @@ gefolgt von der Hauptnavigation, der Inhaltsnavigation (von links nach rechts
 und von oben nach unten) und mit der Fußzeile enden. Versucht, allen Personen
 die gleiche Erfahrung zu bieten.
 
-Verwendet nativ zugängliche Elemente in der Navigation, um Links, Schaltflächen
-und Formularsteuerelemente mit einer Tastatur zu aktivieren. Verstärkt
-semantisches HTML, um Absicht und Bedeutung zu vermitteln, anstatt nur das
-Erscheinungsbild eines Elements zu definieren. Erweitert bei Bedarf die Elemente
-um `aria-label
+Verwendet einfach zugängliche Elemente in der Navigation, um Links,
+Schaltflächen und Formularsteuerelemente mit einer Tastatur zu aktivieren.
+Verstärkt semantisches HTML, um Absicht und Bedeutung zu vermitteln, anstatt nur
+das Erscheinungsbild eines Elements zu definieren. Erweitert bei Bedarf die
+Elemente um `aria-label
 <https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-label_attribute>`_-Attribute.
 
 .. seealso::
