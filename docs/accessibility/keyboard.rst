@@ -41,6 +41,8 @@ um `aria-label
 <https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-label_attribute>`_-Attribute.
 
 .. seealso::
+   * `Optimizing keyboard navigation using tabindex and ARIA
+     <https://www.sarasoueidan.com/blog/keyboard-friendlier-article-listings/>`_
    * `IBM Checkpoint 2.4.3 Focus Order
      <https://www.ibm.com/able/guidelines/ci162/focus_order.html>`_
 
