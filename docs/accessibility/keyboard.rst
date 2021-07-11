@@ -41,6 +41,8 @@ Elemente um `aria-label
 <https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-label_attribute>`_-Attribute.
 
 .. seealso::
+   * `WCAG success criterion: Focus Order
+     <https://www.w3.org/WAI/WCAG21/Understanding/focus-order>`_
    * `Optimizing keyboard navigation using tabindex and ARIA
      <https://www.sarasoueidan.com/blog/keyboard-friendlier-article-listings/>`_
    * `IBM Checkpoint 2.4.3 Focus Order
