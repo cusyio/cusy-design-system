@@ -24,17 +24,17 @@ verwenden, :abbr:`z.B. (zum Beispiel)`::
        +-------+-------+
        …
 
-  oder::
+oder::
 
     .. csv-table:: Tabellentitel
 
-  oder::
+oder::
 
     .. list-table:: Tabellentitel
 
-  Dies führt zu folgendem HTML:
+Dies führt zu folgendem HTML:
 
-  .. code-block:: html
+.. code-block:: html
 
     <table class="docutils align-default" id="id1">
         <caption>
