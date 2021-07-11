@@ -9,6 +9,19 @@ Spektrum von Sehbehinderungen zu berücksichtigen. Beim Entwickeln des Systems
 achten wir jedoch sorgfältig darauf, dass die Komponenten auch korrekt
 verwendet werden.
 
+Semantik
+--------
+
+Farben können in HTML und SVG mit `aria-label
+<https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-label_attribute>`_
+semantisch ausgezeichnet werden, :abbr:`z.B. (zum Beispiel)`:
+
+.. code-block:: xml
+
+    <svg aria-label="red">
+        <rect fill="#da1e28"/>
+    </svg>
+
 Farbkontrast
 ------------
 
