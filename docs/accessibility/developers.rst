@@ -1,5 +1,5 @@
-HTML-und CSS Best-Practices
-===========================
+Bewährte Praktiken für HTML, CSS und SVG
+========================================
 
 Code und Navigation strukturieren
 ---------------------------------
@@ -186,6 +186,13 @@ Datenvisualisierungen zu berücksichtigen. Datentabellen können dabei eine
 Alternative zu den Datenvisualisierungen für Screen-Reader sein. Auch die
 Farbauswahl für farbenblinde Personen ist zu berücksichtigen.
 
+.. seealso::
+   * `Case Study: Implementing Accessible Data Charts for the Khan Academy 2018
+     Annual Report
+     <https://www.sarasoueidan.com/blog/accessible-data-charts-for-khan-academy-2018-annual-report/>`_
+   * `Accessible SVG line graphs <https://tink.uk/accessible-svg-line-graphs/>`_
+   * `Accessible SVG flowcharts <https://tink.uk/accessible-svg-flowcharts/>`_
+
 Multimedia-Textalternativen
 ---------------------------
 
@@ -270,4 +277,3 @@ Semantische Symbole
 .. seealso::
     * `Font Awesome Accessibility
       <https://fontawesome.com/how-to-use/on-the-web/other-topics/accessibility>`_
-
