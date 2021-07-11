@@ -9,6 +9,45 @@ Textalternativen für visuelle oder auditive Inhalte verlassen. Auf dieser Seite
 wird beschrieben, wie ihr Bilder, Grafiken, Audio und Video zugänglich machen
 könnt.
 
+Textalternativen für Tabellen
+-----------------------------
+
+Tabellen bieten im Wesentlichen eine Gliderung über die Anordnung der Inhalte.
+Daher empfehlen wir euch, Tabellen mit ``<caption/>`` zu beschreiben, alternativ
+könnt ihr jedoch auch ``<table summary=""/>`` verwenden.
+
+In reStructuredText könnt ihr für ``<caption/>`` die ``table``-Direktive
+verwenden, :abbr:`z.B. (zum Beispiel)`::
+
+    .. table:: Tabellentitel
+
+       +-------+-------+
+       …
+
+  oder::
+
+    .. csv-table:: Tabellentitel
+
+  oder::
+
+    .. list-table:: Tabellentitel
+
+  Dies führt zu folgendem HTML:
+
+  .. code-block:: html
+
+    <table class="docutils align-default" id="id1">
+        <caption>
+            <span class="caption-text">
+                Tabellentitel
+            </span>
+            <a class="headerlink" href="#id1" title="Link zu dieser Tabelle">
+                ¶
+            </a>
+        </caption>
+        …
+    </table>
+
 Alternative Texte für aussagekräftige Bilder und visuelle Daten
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
