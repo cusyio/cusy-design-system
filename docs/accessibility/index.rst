@@ -15,4 +15,5 @@ Barrierefreiheit bereit.
     color
     keyboard
     developers
+    dataviz
 
