@@ -25,7 +25,7 @@ Datenvisualisierung. Um Datenvisualisierungen zugänglicher zu machen, haben wir
 ein paar Tipps zusammengestellt:
 
 #. Um die Farben zu erläutern, könnt ihr eine Legende hinzufügen, :abbr:`z.B.
-   (zum Beispiel)` nit:
+   (zum Beispiel)` mit:
 
    .. code-block:: javascript
 
