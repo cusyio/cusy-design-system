@@ -60,9 +60,10 @@ ein paar Tipps zusammengestellt:
       .enter().append("text")
       .text(row => row.year);
 
-#. Optisch sind die Daten jetzt schon sehr viel zugänglicher, aber beim
-   automatisierten Vorlesen werden nun alle Tage auf der x-Achse vorgelesen.
-   Die Zugänglichkeit würde deutlich erhöht werden, wenn die Ausgabe so etwas
+#. Optisch sind die Daten jetzt schon sehr viel zugänglicher, aber mit
+   Bedienhilfen werden nun auch die Tage auf der x-Achse erschlossen,
+   und würden :abbr:`z.B. (zum Beispiel)` alle vorgelesen werden. Die
+   Zugänglichkeit würde deutlich erhöht werden, wenn die Ausgabe so etwas
    liefern würde wie *Die durchschnittliche Jahrestemperatur betrug 2011 9,6
    Grad Celsius*.
 
