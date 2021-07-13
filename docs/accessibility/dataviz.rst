@@ -97,9 +97,10 @@ ein paar Tipps zusammengestellt:
 
 #. Bei vielen Achswerten soll :abbr:`evtl. (eventuell)` nicht jeder Wert auf
    der Achse angezeigt werden. ``display: none;`` oder ``visibility: hidden``
-   sind jedoch keine Lösung, da die Werte dann auch nicht vorgelesen würden.
-   Wir können jedoch die Positionierung der Achsenbeschriftungen so verändern,
-   dass sie außerhalb des sichtbaren Rahmens stehen.
+   sind jedoch keine Lösung, da die Werte dann :abbr:`z.B. (zum Beispiel)` auch
+   nicht vorgelesen würden. Wir können jedoch die Positionierung der
+   Achsenbeschriftungen so verändern, dass sie außerhalb des sichtbaren Rahmens
+   stehen.
 
 Vega
 ----
