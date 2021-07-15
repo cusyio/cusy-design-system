@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 605 605" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <metadata>
+      <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+               xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+               xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <rdf:Description about="https://github.com/cusyio/cusy-design-system/blob/main/docs/accessibility/elevator-inv.svg">
+          <dc:title>Elevator usable with wheelchair</dc:title>
+          <dc:creator>Veit Schiele, Berlin</dc:creator>
+          <dc:publisher>Cusy GmbH</dc:publisher>
+          <dc:subject>Elevator, Wheelchair</dc:subject>
+          <dc:description>Elevator usable with wheelchair.</dc:description>
+          <dc:identifier>https://github.com/cusyio/cusy-design-system/blob/main/docs/accessibility/elevator-inv.svg</dc:identifier>
+          <dc:relation>https://cusy-design-system.readthedocs.io/de/latest/accessibility/events.html</dc:relation>
+          <dc:source>https://github.com/cusyio/cusy-design-system/blob/main/docs/accessibility/elevator-inv.svg</dc:source>
+          <dc:rights>Copyright 2021 Cusy GmbH</dc:rights>
+          <dc:format>image/svg+xml</dc:format>
+          <dc:type>Image</dc:type>
+          <dc:date>2021-07-13</dc:date>
+          <dc:language>en</dc:language>
+        </rdf:Description>
+      </rdf:RDF>
+    </metadata>
+    <g transform="matrix(4.16667,0,0,4.16667,0,0)">
+        <path d="M72.5,144.52C112.327,144.52 144.613,112.234 144.613,72.407C144.613,32.581 112.327,0.295 72.5,0.295C32.673,0.295 0.387,32.581 0.387,72.407C0.387,112.234 32.673,144.52 72.5,144.52Z" style="fill:rgb(132,14,255);fill-rule:nonzero;"/>
+        <path d="M108.159,42.323C108.614,42.422 108.738,42.423 109.166,42.619C110.123,43.056 110.874,43.922 111.171,44.933C111.303,45.384 111.287,45.507 111.32,45.971L111.32,116.239C111.287,116.704 111.303,116.828 111.171,117.278C110.825,118.457 109.856,119.429 108.673,119.777C108.222,119.909 108.098,119.893 107.634,119.926L37.366,119.926C36.902,119.893 36.778,119.909 36.327,119.777C35.148,119.43 34.177,118.461 33.829,117.278C33.697,116.828 33.713,116.704 33.68,116.239L33.68,45.971C33.713,45.507 33.697,45.384 33.829,44.933C34.176,43.752 35.149,42.781 36.327,42.435C36.778,42.302 36.902,42.318 37.366,42.286L107.634,42.286C107.809,42.297 107.984,42.31 108.159,42.323ZM41.053,112.554L103.948,112.554L103.948,49.658L41.053,49.658L41.053,112.554Z" style="fill:white;fill-rule:nonzero;"/>
+        <path d="M73.798,101.836C72.162,103.058 70.133,103.782 67.934,103.782C62.513,103.782 58.118,99.386 58.118,93.966C58.118,91.75 58.852,89.708 60.089,88.066L56.314,84.272C53.962,86.964 52.536,90.488 52.536,94.343C52.536,102.801 59.394,109.657 67.851,109.657C71.682,109.657 75.184,108.251 77.87,105.926L73.798,101.836ZM64.699,79.354L65.794,70.339L60.906,70.699L59.255,77.368C58.855,78.99 57.215,79.978 55.595,79.577C53.973,79.175 52.985,77.536 53.387,75.916L55.564,67.119C55.879,65.851 56.973,64.927 58.277,64.831C58.277,64.831 74.244,63.657 74.27,63.658C75.114,63.623 75.892,63.938 76.464,64.476C77.36,65.22 77.874,66.39 77.722,67.633L76.672,76.294C76.58,76.576 76.241,79.698 75.981,81.362C76.272,81.544 76.556,81.737 76.834,81.939L89.259,81.252C89.259,81.252 89.345,81.249 89.453,81.249C89.615,81.242 89.668,81.251 89.735,81.253C90.228,81.296 90.375,81.35 90.648,81.46C91.724,81.896 92.481,83.024 92.463,84.196C92.463,84.316 92.456,84.346 92.447,84.464L90.751,100.212C90.507,102.081 88.292,103.393 86.53,102.484C85.498,101.95 84.875,100.765 84.975,99.591L86.305,87.235L81.554,87.497C82.585,89.558 83.166,91.883 83.166,94.343C83.166,98.124 81.795,101.582 79.525,104.254L75.503,100.214C76.905,98.517 77.748,96.34 77.748,93.966C77.748,88.545 73.355,84.15 67.934,84.15C65.575,84.15 63.411,84.981 61.719,86.368L57.993,82.625C59.891,81.026 62.182,79.88 64.7,79.353L64.699,79.354ZM75.641,61.792C77.947,60.214 78.54,57.066 76.962,54.758C75.385,52.452 72.237,51.859 69.928,53.437C67.621,55.014 67.03,58.163 68.607,60.471C70.185,62.778 73.333,63.369 75.641,61.792Z" style="fill:white;"/>
+        <path d="M60.641,16.685L71.082,38.178L50.201,38.178L60.641,16.685Z" style="fill:white;"/>
+        <path d="M84.142,38.178L73.696,16.685L94.589,16.685L84.142,38.178Z" style="fill:white;"/>
+    </g>
+</svg>
