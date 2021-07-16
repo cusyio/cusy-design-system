@@ -28,9 +28,9 @@ Piktogramme
 +---------------------------------------+---------------------------------------+
 | Eingeschränkte Barrierefreiheit                                               |
 +---------------------------------------+---------------------------------------+
-| .. image:: limited.svg                | * Hilfestellung wird benötigt,        |
+| .. image:: assistance.svg             | * Hilfestellung wird benötigt,        |
 |    :height:  64px                     |   :abbr:`z.B. (zum Beispiel)` beim    |
-| .. image:: limited-inv.svg            |   Öffnen der Türe                     |
+| .. image:: assistance-inv.svg         |   Öffnen der Türe                     |
 |    :height:  64px                     | * Zugang nicht über den Haupteingang. |
 |                                       | * Rampen steiler als 6 Prozent        |
 |                                       |   Steigung                            |

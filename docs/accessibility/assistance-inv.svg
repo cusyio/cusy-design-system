@@ -5,15 +5,15 @@
       <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
                xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
                xmlns:dc="http://purl.org/dc/elements/1.1/">
-        <rdf:Description about="https://github.com/cusyio/cusy-design-system/blob/main/docs/accessibility/limited-inv.svg">
+        <rdf:Description about="https://github.com/cusyio/cusy-design-system/blob/main/docs/accessibility/assistance-inv.svg">
           <dc:title>Limited accessibility</dc:title>
           <dc:creator>Veit Schiele, Berlin</dc:creator>
           <dc:publisher>Cusy GmbH</dc:publisher>
           <dc:subject>Accessibility</dc:subject>
           <dc:description>Limited accessibility.</dc:description>
-          <dc:identifier>https://github.com/cusyio/cusy-design-system/blob/main/docs/accessibility/limited-inv.svg</dc:identifier>
+          <dc:identifier>https://github.com/cusyio/cusy-design-system/blob/main/docs/accessibility/assistance-inv.svg</dc:identifier>
           <dc:relation>https://cusy-design-system.readthedocs.io/de/latest/accessibility/events.html</dc:relation>
-          <dc:source>https://github.com/cusyio/cusy-design-system/blob/main/docs/accessibility/limited-inv.svg</dc:source>
+          <dc:source>https://github.com/cusyio/cusy-design-system/blob/main/docs/accessibility/assistance-inv.svg</dc:source>
           <dc:rights>Copyright 2021 Cusy GmbH</dc:rights>
           <dc:format>image/svg+xml</dc:format>
           <dc:type>Image</dc:type>
