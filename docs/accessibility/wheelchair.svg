@@ -7,9 +7,9 @@
                xmlns:dc="http://purl.org/dc/elements/1.1/">
         <rdf:Description about="https://github.com/cusyio/cusy-design-system/blob/main/docs/accessibility/wheelchair.svg">
           <dc:title>Wheelchair</dc:title>
-          <dc:creator>Veit Schiele, Berlin</dc:creator>
+          <dc:creator>The Accessible Icon Project</dc:creator>
           <dc:publisher>Cusy GmbH</dc:publisher>
-          <dc:subject>Wheelchair, Walking difficulties</dc:subject>
+          <dc:subject>Accessibility, Wheelchair, Walking difficulties</dc:subject>
           <dc:description>Accessible for people with walking difficulties or who rely on a wheelchair.</dc:description>
           <dc:identifier>https://github.com/cusyio/cusy-design-system/blob/main/docs/accessibility/wheelchair.svg</dc:identifier>
           <dc:relation>https://cusy-design-system.readthedocs.io/de/latest/accessibility/events.html</dc:relation>
