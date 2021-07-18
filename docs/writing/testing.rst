@@ -140,6 +140,8 @@ Ihr könnt Vale installieren mit
 Wenn ihr als Dokumentationswerkzeug Sphinx nutzt, solltet ihr noch den
 ``rst2html``-Parser installieren mit
 
+.. code-block:: console
+
     $ brew install docutils
 
 Nun könnt ihr Vale konfigurieren in :file:`.vale.ini`:
