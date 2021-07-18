@@ -191,7 +191,7 @@ Projekt in der Datei
 .. code-block:: yaml
 
     extends: spelling
-    message: "Did you really mean '%s'?"
+    message: "Spelling check: '%s'?"
     dicpath: ~/Library/Spelling
     dictionaries:
       - de_DE
