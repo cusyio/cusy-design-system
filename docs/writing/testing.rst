@@ -176,6 +176,25 @@ Und schließlich könnt ihr eure Dokumentation überprüfen mit:
     $ vale docs/
     ✔ 0 errors, 0 warnings and 0 suggestions in 201 files.
 
+Vale liefert nur ein Wörterbuch für `amerikanisches-Englisch
+<https://github.com/errata-ai/en_US-web>`_ mit. Ihr könnt jedoch auch andere
+Wörterbücher hinzufügen, :abbr:`z.B. (zum Beispiel)` aus
+`github.com/freedesktop/libreoffice-dictionaries
+<https://github.com/freedesktop/libreoffice-dictionaries>`_. Diese könnt ihr
+einbinden indem ihr sie lokal zur Verfügung stellt, :abbr:`z.B. (zum Beispiel)`
+unter :file:`~/Library/Spelling/{de_DE}.{dic,aff}` und sie anschließend in eurem
+Projekt in der Datei
+:file:`styles/{MY_STYLE}/Spelling.yml` referenziert:
+
+.. code-block:: yaml
+
+    extends: spelling
+    message: "Did you really mean '%s'?"
+    dicpath: ~/Library/Spelling
+    dictionaries:
+      - de_DE
+    level: error
+
 .. note::
    Wenn ihr den Inhalt eures GitHub-Repository mit Vale überprüfen wollt, könnt
    ihr eine GitHub-Action hierfür einrichten: `vale-action
