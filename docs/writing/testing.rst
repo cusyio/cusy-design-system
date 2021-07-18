@@ -130,3 +130,64 @@ Mit Vale selbst kommen die folgenden Stile mit:
 `Joblint <https://github.com/errata-ai/Joblint>`_
     Eine Umsetzung der vom `Joblint <https://github.com/rowanmanning/joblint>`__-Linter erzwungenen
     Richtlinien.
+
+Ihr könnt Vale installieren mit
+
+.. code-block:: console
+
+    $ brew install vale
+
+Wenn ihr als Dokumentationswerkzeug Sphinx nutzt, solltet ihr noch den
+``rst2html``-Parser installieren mit
+
+    $ brew install docutils
+
+Nun könnt ihr Vale konfigurieren in :file:`.vale.ini`:
+
+.. code-block:: ini
+
+    StylesPath = ./styles
+    MinAlertLevel = suggestion
+
+    [*.{md,rst}]
+    BasedOnStyles = mystyles
+
+    vale.Redundancy = YES
+    vale.Repetition = YES
+    vale.GenderBias = YES
+
+Anschließend werden die Stile definiert, :abbr:`u.a. (unter anderem)` in
+:file:`styles/{MY_STYLE}/Polite.yml`, :abbr:`z.B. (zum Beispiel)` mit:
+
+.. code-block:: yaml
+
+    extends: existence
+    message: 'Do not use “%s” in technical documentation.'
+    level: error
+    ignorecase: true
+    tokens:
+      - please
+      - thank you
+
+Und schließlich könnt ihr eure Dokumentation überprüfen mit:
+
+.. code-block:: console
+
+    $ vale docs/
+    ✔ 0 errors, 0 warnings and 0 suggestions in 201 files.
+
+.. note::
+   Wenn ihr den Inhalt eures GitHub-Repository mit Vale überprüfen wollt, könnt
+   ihr eine GitHub-Action hierfür einrichten: `vale-action
+   <https://github.com/errata-ai/vale-action>`_.
+
+Üblicherweise werden *literal blocks*, *inline literals* und *code-blocks*
+ignoriert. Ihr könnt jedoch auch Bereiche aus der Überprüfung herausnehmen mit:
+
+.. code-block::
+
+    .. vale off
+
+    Text, der nicht überprüft werden soll.
+
+    .. vale on
