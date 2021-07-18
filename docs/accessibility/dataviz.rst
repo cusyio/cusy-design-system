@@ -124,7 +124,8 @@ für die Ausgabe von SVG-Dateien:
 
 Mit `Flight Passengers Example
 <https://vega.github.io/vega/examples/flight-passengers/>`_ gibt es ein Beispiel
-für die Verwendung von ``aria``- und ``description``:
+für die Verwendung der Vega-Anweisungen ``aria``- und ``description`` durch
+`Vega-Lite <https://github.com/vega/vega-lite>`_:
 
 .. image:: flight-passengers.svg
 
