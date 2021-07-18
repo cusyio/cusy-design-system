@@ -1,0 +1,7 @@
+extends: spelling
+message: "Meintest du wirklich '%s'?"
+dicpath: /Library/Spelling
+dictionaries:
+  - de_DE_frami
+level: warning
+ignore: styles/cusy/ignore.txt

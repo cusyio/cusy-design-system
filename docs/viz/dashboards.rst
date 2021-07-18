@@ -76,9 +76,8 @@ Vorgehensweise
 
    Verwendet Anmerkungen, um Trends, Durchschnittswerte, Spitzen und Täler
    hervorzuheben und zusätzliche Informationen bereitzustellen. Anmerkungen
-   sollen den Benutzern helfen, Schwankungen in den Daten zu interpretieren.
-   Umgekehrt solltet ihr Anmerkungen vermeiden, die die Ansicht von Daten
-   behindern.
+   sollen helfen, Schwankungen in den Daten zu interpretieren. Umgekehrt solltet
+   ihr Anmerkungen vermeiden, die die Ansicht von Daten behindern.
 
 .. [#] (Chaparro, B. S., Shaikh, A. D., and Baker, J. R. (2005). «Reading Online
    Text with a Poor Layout: Is Performance Worse?» Usability News, 7.

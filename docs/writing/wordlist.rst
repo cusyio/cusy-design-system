@@ -7,7 +7,7 @@ Wortliste
    zu alternativen Begriffe zu geben.
 
 Wenn der Begriff, den ihr sucht, nicht auf dieser Seite zu finden ist, schaut
-bitte in :doc:`about` unter *Andere Redaktionsleitfäden*.
+in :doc:`about` unter *Andere Redaktionsleitfäden*.
 
 Wortliste
 ---------
@@ -148,8 +148,10 @@ A-Z
         solltet ihr ebensowenig verwenden wie :term:`❌ Whitelist` und
         :term:`❌ Graylist`; verwendet stattdessen Begriffe, die für die
         jeweilige Fachdomäne präziser sind wie :abbr:`z.B. (zum Beispiel)`
-        *Excludelist* oder *Blocklist*. Beachtet bitte auch, dass es sich häufig
-        nicht wirklich um Listen handelt.
+        *Excludelist* oder *Blocklist*.
+
+        .. note::
+           Häufig handelt es sich nicht um Listen im eigentlichen Sinne.
 
         * ✅ Um Anfragen von einer IP-Adresse zu verweigern, fügt sie der Datei
           `dos.yaml` hinzu.
