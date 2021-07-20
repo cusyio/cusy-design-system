@@ -1,5 +1,5 @@
-Bewährte Praktiken für HTML, CSS und SVG
-========================================
+Bewährte Praktiken für HTML and CSS
+===================================
 
 Code und Navigation strukturieren
 ---------------------------------
@@ -145,22 +145,6 @@ zweite Abfrage nach ``pointer: fine`` erfolgen:
      <https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries#media_features>`_
    * `Detecting Hover-Capable Devices
      <https://css-irl.info/detecting-hover-capable-devices/>`_
-
-Zugängliche Datenvisualisierungen
----------------------------------
-
-Es ist wichtig, sehbehinderte Personen bei der Einbeziehung von
-Datenvisualisierungen zu berücksichtigen. Datentabellen können dabei eine
-Alternative zu den Datenvisualisierungen für Screen-Reader sein. Auch die
-Farbauswahl für farbenblinde Personen ist zu berücksichtigen.
-
-.. seealso::
-   * `Case Study: Implementing Accessible Data Charts for the Khan Academy 2018
-     Annual Report
-     <https://www.sarasoueidan.com/blog/accessible-data-charts-for-khan-academy-2018-annual-report/>`_
-   * `Accessible SVGs <https://css-tricks.com/accessible-svgs/>`_
-   * `Accessible SVG line graphs <https://tink.uk/accessible-svg-line-graphs/>`_
-   * `Accessible SVG flowcharts <https://tink.uk/accessible-svg-flowcharts/>`_
 
 Multimedia-Textalternativen
 ---------------------------

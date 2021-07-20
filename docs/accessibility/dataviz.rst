@@ -1,6 +1,11 @@
 Datenvisualisierung
 ===================
 
+Berücksichtigt sehbehinderte Personen bei der Einbeziehung von
+Datenvisualisierungen. Datentabellen können dabei eine Alternative zu den
+Datenvisualisierungen für Screen-Reader sein. Berücksichtigt auch die
+Farbauswahl für farbenblinde Personen. Weitere Emfpehlungen sind:
+
 * ❌ Verlasst euch nicht auf Farben um die Daten zu erklären
 * ❌ Verwendet keine kontrastarmen Farben
 * ❌ Versteckt keine wichtigen Daten hinter Interaktionen
@@ -171,6 +176,9 @@ Zum Weiterlesen
 ---------------
 
 .. seealso::
+   * `Case Study: Implementing Accessible Data Charts for the Khan Academy 2018
+     Annual Report
+     <https://www.sarasoueidan.com/blog/accessible-data-charts-for-khan-academy-2018-annual-report/>`_
    * `Accessibility Considerations In Data Visualization Design 
      <https://keen.io/blog/accessibility-in-data-vis/>`_
    * `Dataviz Accessibility Resources
@@ -181,8 +189,9 @@ Zum Weiterlesen
      <https://www.a11ywithlindsey.com/blog/accessibility-d3-donut-charts>`_
    * `Writing Alt Text for Data Visualization
      <https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81>`_
-   * `Accessible SVGs
-     <https://css-tricks.com/accessible-svgs/>`_
+   * `Accessible SVGs <https://css-tricks.com/accessible-svgs/>`_
+   * `Accessible SVG line graphs <https://tink.uk/accessible-svg-line-graphs/>`_
+   * `Accessible SVG flowcharts <https://tink.uk/accessible-svg-flowcharts/>`_
    * `WAI tutorials: Complex Images
      <https://www.w3.org/WAI/tutorials/images/complex/>`_
    * `Using VoiceOver to Evaluate Web Accessibility
