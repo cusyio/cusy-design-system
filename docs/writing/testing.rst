@@ -89,8 +89,8 @@ Werkzeuge erhaltet ihr in unserem Jupyter-Tutorial unter `Checker
 und `Formatter
 <https://jupyter-tutorial.readthedocs.io/de/latest/refactoring/qa/index.html#formatter>`_.
 
-Syntax-Überprüfung
-------------------
+Syntax überprüfen
+-----------------
 
 Es gibt auch Werkzeuge, die eure Inhalte anhand von Regeln überprüfen.
 
@@ -102,16 +102,24 @@ Es gibt auch Werkzeuge, die eure Inhalte anhand von Regeln überprüfen.
 
 .. _vale:
 
-Vale
-~~~~
+Sprachstil überprüfen
+~~~~~~~~~~~~~~~~~~~~~
 
-`Vale <https://docs.errata.ai/vale/about>`__ wird von vielen
-Open-Source-Projekten genutzt, :abbr:`u.a. (unter anderem)` von
+Prosa-Linters wie :abbr:`z.B. (zum Beispiel)` `Vale
+<https://docs.errata.ai/vale/about>`__ gehen weit über Rechtschreib- und
+Grammatikprüfungen hinaus und betrachten auch den Sprachgebrauch: Wiederholt
+sich das Gesagte? Ist die Sprache zu informell? Ist die Ansprache inkonsistent?
+Werden unerwünschte Klischees bedient? Oder ist die Sprache sexistisch?
 
-* GitLab (`.vale.ini <https://gitlab.com/gitlab-org/gitlab/blob/master/.vale.ini>`_, `Regeln
+Vale wird von vielen Open-Source-Projekten genutzt, :abbr:`u.a. (unter anderem)`
+von
+
+* GitLab (`.vale.ini
+  <https://gitlab.com/gitlab-org/gitlab/blob/master/.vale.ini>`_, `Regeln
   <https://gitlab.com/gitlab-org/gitlab/-/tree/master/doc/.vale/gitlab>`__)
-* Homebrew (`.vale.ini <https://github.com/Homebrew/brew/blob/master/.vale.ini>`__, `Regeln
-  <https://github.com/Homebrew/brew/tree/master/docs/vale-styles/Homebrew>`__).
+* Homebrew (`.vale.ini
+  <https://github.com/Homebrew/brew/blob/master/.vale.ini>`__, `Regeln
+  <https://github.com/Homebrew/brew/tree/master/docs/vale-styles/Homebrew>`__)
 
 Mit Vale selbst kommen die folgenden Stile mit:
 
@@ -119,17 +127,17 @@ Mit Vale selbst kommen die folgenden Stile mit:
     Eine Implementierung des `Microsoft Writing Style Guide
     <https://docs.microsoft.com/en-us/style-guide/welcome/>`__.
 `Google <https://github.com/errata-ai/Google>`_
-    Eine Implementierung des Styleguides für den `Google developer documentation style guide
-    <https://developers.google.com/style/>`__.
+    Eine Implementierung des Styleguides für den `Google developer documentation
+    style guide <https://developers.google.com/style/>`__.
 `write-good <https://github.com/errata-ai/write-good>`_
-    Eine Umsetzung der vom `write-good <https://github.com/btford/write-good>`__-Linter erzwungenen
-    Richtlinien.
+    Eine Umsetzung der vom `write-good
+    <https://github.com/btford/write-good>`__-Linter erzwungenen Richtlinien.
 `proselint <https://github.com/errata-ai/Joblint>`_
-    Eine Umsetzung der vom `proselint <https://github.com/amperser/proselint/>`__-Linter erzwungenen
-    Richtlinien.
+    Eine Umsetzung der vom `proselint
+    <https://github.com/amperser/proselint/>`__-Linter erzwungenen Richtlinien.
 `Joblint <https://github.com/errata-ai/Joblint>`_
-    Eine Umsetzung der vom `Joblint <https://github.com/rowanmanning/joblint>`__-Linter erzwungenen
-    Richtlinien.
+    Eine Umsetzung der vom `Joblint
+    <https://github.com/rowanmanning/joblint>`__-Linter erzwungenen Richtlinien.
 
 Ihr könnt Vale installieren mit
 
