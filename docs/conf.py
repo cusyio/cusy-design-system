@@ -32,7 +32,6 @@ release = '0.1.0'
 # ones.
 extensions = [
     'nbsphinx',
-    'jupyter_sphinx',
     'sphinx.ext.autodoc',
     'sphinx.ext.intersphinx',
     'sphinx.ext.graphviz',
@@ -67,31 +66,17 @@ exclude_patterns = [
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-html_theme = 'alabaster'
+html_theme = "furo"
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
 #
-html_theme_options = {
-    'description': 'Das Cusy Design System besteht aus Richtlinien für Benutzeroberflächen, Code-Beispielen, Designtools und -Ressourcen.',
-    'fixed_sidebar': False,
-    'show_powered_by': False,
-    'github_user': 'cusyio',
-    'github_repo': 'cusy-design-system',
-    'github_banner': False,
-    'github_button': False,
-    'show_related': True,
-    'show_relbar_bottom': True,
-    'sidebar_includehidden': True,
-}
-
-html_sidebars = {
-    '**':    ['about.html', 'searchbox.html', 'navigation.html']
-}
-
 # Change default HTML title
 html_title = 'Cusy Design System 0.1.0'
+
+# html_theme_options = {}
+# html_sidebars = {}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
