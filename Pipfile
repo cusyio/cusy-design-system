@@ -4,14 +4,11 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-sphinx = "*"
-jupyter = "*"
+furo = "*"
+Pillow = "*"
 nbsphinx = "*"
-jupyter-sphinx = "*"
-pillow = "*"
-sphinx-autobuild = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.7"
+python_version = "3.9"
