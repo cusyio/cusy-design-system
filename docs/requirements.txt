@@ -1,5 +1,3 @@
 furo
-ipython
-numpy
 Pillow
 nbsphinx
