@@ -1,5 +1,5 @@
 extends: spelling
-message: "Meintest du wirklich '%s'?"
+message: "Rechtschreibprüfung: '%s'"
 dicpath: /Library/Spelling
 dictionaries:
   - de_DE_frami
