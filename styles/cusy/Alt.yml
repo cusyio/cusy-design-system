@@ -1,0 +1,7 @@
+message: "Der Alt-Text sollte weniger als 125 Zeichen lang sein."
+extends: occurrence
+link: https://www.w3.org/WAI/tutorials/images/tips/
+scope: attr
+level: suggestion
+max: 125
+token: '[\w\s]'
