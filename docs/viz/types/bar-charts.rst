@@ -24,7 +24,7 @@ Gestapelte Balkendiagramme
 --------------------------
 
 Gestapelte Balkendiagramme sind nützlich, um proportionale Beiträge innerhalb
-einer Kategorie zu vergleichen. Sie zeigen den relativen Wert jeder Datenreihe
+einer Kategorie zu vergleichen. Sie zeigen den relativen Wert aller Datenreihen
 zur Gesamtsumme.
 
 .. figure:: bar-stacked-discrete.png

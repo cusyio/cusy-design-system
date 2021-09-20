@@ -1,0 +1,249 @@
+extends: substitution
+message: Erwäge die Verwendung von '%s' anstelle von '%s'.
+ignorecase: true
+level: error
+swap:
+  Absender:                abgesandt durch
+  Absolvent(?:en)?:        Alumni; Ehemalige
+  Abteilungsleiter:        Abteilungsleitung
+  Administrator(?:en)?:    Admin(s)
+  Adressat(?:en)?:         adressierte Person
+  Adressatenkreis:         Zielgruppe
+  Agent(?:en)?:            vermittelnde Person(en)
+  Akteur(?:e)?:            handelnde Person(en)
+  Alleskönner:             Multitalent; Universalgenie
+  (?:Amateur|Anfänger):    Person ohne Vorkenntnisse
+  Amateure:                Personen ohne Vorkenntnisse
+  Analytiker:              Analysierende
+  Anbieter:                Angebot von …
+  der andere:              das Gegenüber
+  Anfängerkurs:            Einstiegskurs; Grundkurs
+  Angehöriger:             Familienmitglied
+  Angreifer:               Angreifende
+  Anrufer:                 Anrufende
+  Ansprechpartner:         Kontaktperson
+  Antagonist:              widerstreitende Person; Counterpart
+  Antragsteller:           beantragende Person/Einrichtung
+  Anwalt:                  Rechtsvertretung
+  Anwender:                … anwenden
+  Arbeitgeber:             beschäftigendes Unternehmen
+  Arbeitnehmer:            angestellte Person(en)
+  Arbeitskollege(?:n)?:    Teammitglied(er)
+  Architekt(?:en)?:        planende/gestaltende Person
+  (?:Arzt|Ärzte):          ärztliches Fachpersonal; Ärzteschaft
+  Fragen sie ihren Arzt oder Apotheker:    Holen sie sich ärztlichen oder pharmazeutischen Rat
+  Arztbesuch:              ärztliche Sprechstunde
+  Arztgeheimnis:           ärztliche Schweigepflicht
+  Arztkosten:              Behandlungskosten
+  Arztpraxis:              Praxis für …medizin
+  Arzttermin:              Behandlungstermin
+  Astronaut(?:en)?:        Mensch(en) im All
+  Auditor(?:en)?:          Audit durchführende Person
+  Auftraggeber:            in Auftrag gegeben von …
+  Auftragnehmer:           einen Auftrag annehmende Person
+  Ausbilder:               Lehrkraft
+  Autor(?:en)?:            schreibende Person
+  Bearbeiter:              den Vorgang bearbeitende Person; zuständige Person
+  Beauftragter:            beauftragte Person
+  Begleiter:               Begleitung
+  Benutzer:                nutzende Person(en)
+  benutzerdefiniert:       spezifisch; selbstdefiniert
+  benutzerfreundlich:      leicht zu bedienen; bedienungsfreundlich
+  Benutzerkonto:           Account; Konto; Zugang; Profil
+  Benutzername:            Anmeldename; Nickname
+  Benutzeroberfläche:      Bedienoberfläche
+  Benutzerschnittstelle:   Interaktionsschnittstelle
+  Benutzerverwaltung:      Kontoverwaltung; Zugangsverwaltung
+  Berater:                 beratende Person
+  Beratertätigkeit:        beratende Tätigkeit; Beratung
+  Berichterstatter:        Bericht erstattende Person
+  Beschäftigter:           beschäftigte/angestellte Person
+  Besteller:               bestellende Person
+  Besuchermagnet:          Publikumsmagnet; Anziehungspunkt; Sehenswürdigkeit
+  Besucherrückgang:        sinkende Nachfrage
+  Besucherstrom:           Publikumsstrom
+  Besucherzahl:            Frequentierung; Klickzahl; Gästezahl
+  Betriebs(?:arzt|ärzte):  Betriebsärztlicher Dienst
+  Betriebs(?:rat|räte):    Mitglied(er) des Betriebsrates
+  Betroffener:             betroffene Person
+  Bewerber:                sich bewerbende Person
+  Bewerberzahlen:          Bewerbungszahlen
+  Bieter:                  bietende Partei/Person
+  Blogger:                 bloggende Person
+  Bote:                    Botschaft überbringende Person
+  (?:Bruder|Schwester):    Geschwister
+  brüderlich:              solidarisch
+  Bürge:                   bürgende Person
+  Delegierter:             delegierte Person
+  derjenige:               diejenige Person
+  Dienstleister:           Service
+  Direktor:                Leitung
+  Doktorand:               promovierende Person
+  Doktorarbeit:            Promotion
+  Doppelgänger:            Double
+  Dozent(?:en)?:           Lehrkraft/Lehrkräfte
+  Dozententätigkeit:       Lehrtätigkeit
+  Dritte(?:r|n)?:          dritte Person
+  Editor:                  herausgebende Person
+  (?:Eigentümer|Eigner):   im Eigentum von
+  Ein-Mann-Betrieb:        Ein-Personen-Betrieb
+  einer nach dem anderen:  der Reihe nach
+  Einsteigerkurs:          Grundkurs, Basiskurs
+  Einwohnerdichte:         Bevölkerungsdichte
+  Einwohnerzahl:           Bevölkerungszahl
+  Einzelner:               einzelne Person
+  Empfänger:               empfangsberechtigte Person; empfangen von …; für …; bestimmt für …
+  Energieversorger:        Energieversorgungsunternehmen
+  Entdecker:               entdeckt von …
+  Entscheider:             entscheidende Person
+  Erbe(?:n)?:              erbberechtigte Person; Erbberechtigte
+  Erwachsener:             erwachsene Person
+  Experte:                 Autorität; Koryphäe
+  Experten:                Sachverständige; Fachkräfte; Fachleute
+  (?:Expertentum|Expertenwissen):  Expertise; Fachwissen
+  Fachmann:                Fachkraft
+  fachmännisch:            fachkundig, professionell
+  Fahrer:                  Fahrdienst
+  Fahrerhaus:              Cockpit
+  Fahrgast:                mitfahrende Person
+  Fahrgastraum:            Abteil
+  Favorit:                 favorisierte Person
+  Finalist:                am Finale teilnehmende Person
+  Forscher:                Forschende, Forschungsteam
+  Generalist:              Universalgenie; Multitalent
+  Geschäftsführer:         Geschäftsführung
+  Geschäftsmänner:         Geschäftsleute
+  Gesellschafter:          Beteiligte
+  Gesetzgeber:             Legislative
+  Gesprächspartner:        Gegenüber
+  Gründer:                 gründende Person
+  Guru:                    Idol
+  Gutachter:               begutachtende Person
+  Händler:                 der Handel
+  Handwerker:              handwerkliche Fachkraft
+  Helfer:                  Assistenz, Helfende
+  ehrenamtliche Helfer:    Ehrenamtliche, Engagierte
+  Herausgeber:             herausgegeben von …
+  der Sache (?:nicht)? Herr:   bekamen etwas (nicht) in den Griff/unter Kontrolle;
+  Herr seiner Sinne:       wissen, was zu tun ist
+  sein eigener Herr:       unabhängig
+  aller Herren Länder:     aus aller Welt; aus der ganzen Welt
+  Herr der Lage:           kontrollieren
+  herrenlos:               verlassen; unbeaufsichtigt
+  Hersteller:              produzierendes Unternehmen
+  Hinterbliebener:         hinterbliebene Person
+  Influencer:              beeinflussende Person
+  Informant:               Informationsquelle; Quelle
+  Informatiker:            IT-Fachkraft, in der IT arbeitend
+  Informationssicherheitsbeauftragter: beauftragte Person für Informationssicherheit
+  Ingenieur:               technische Fachkraft
+  Ingenieurwesen:          technische Wissenschaften
+  Insider:                 Interna kennende Person
+  Interessenten:           Interessierte
+  (?:[Jj])eder(?:mann)?:   alle; sämtliche
+  Kaufmänner:              Kaufleute
+  keiner:                  niemand
+  Klient:                  ratsuchende Person
+  Kollege(?:n):            Teammitglied(er)
+  Kontoinhaber:            kontoführende Person
+  Kranken(?:pfleger|schwester):    Pflegekraft
+  Kunde(?:n)?:             Kundschaft
+  Kundenauftrag:           Auftrag
+  Kundenbedürfnisse:       Befürfnisse der Kundschaft
+  Kundenbewertungen:       Bewertungen
+  Kundendienst:            Service; Support
+  kundenfreundlich:        praktisch; einfach zu bedienen; servicefreundlich
+  Kundenservice:           Service
+  Kundenwerbung:           Akquise
+  Kundenzufriedenheit:     Zufriedenheit der Kundschaft
+  Kursteilnehmer:          am Kurs teilnehmende Person(en)
+  Lehrer:                  Lehrkraft
+  Leiter:                  Leitung
+  Lektor:                  Lektorat
+  Leser:                   lesende Person
+  Leserbrief:              Zuschrift; Meinung; Kommentar
+  Mädchen für alles:       Mensch für alles
+  man:                     sie; wir; ich; alle; einige
+  Manager:                 Management
+  manch einem:             manch einer Person
+  an den Mann bringen:     unter die Leute bringen; verkaufen; ein Anliegen loswerden
+  Manntage:                Personentage
+  Mannschaft:              Team; Gruppe
+  Manpower:                Arbeitskraft
+  Mehrbenutzerfunktion:    Funktion für mehrere Personen
+  Meisterschaft:           Turnier; Wettbewerb
+  Mentor:                  fördernde Person
+  Mitarbeiter:             Arbeitskraft; Teammitglied
+  Mitarbeiterausweis:      Firmenausweis
+  Mitarbeitergespräch:     Personalgespräch
+  Mitarbeiterschulung:     Schulung
+  Mitbewerber:             die Konkurenz
+  Moderator:               Moderation
+  Muttersprache:           Erstsprache
+  Nachbarschaft:           Umgebung
+  Namensvetter:            Gleichnamige
+  Nebenmann:               nebenstehende Person
+  Neffen und Nichten:      Kinder der Geschwister
+  niemand, der:            keine Person; kein Mensch
+  Nutzerdaten:             Nutzungsdaten; Datenspuren
+  Nutzergruppe:            mit folgenden Aufgaben betrauter Personenkreis
+  Nutzerhandbuch:          Handbuch
+  Nutzerkonto:             Account; Konto; Zugang
+  nutzerorientiert:        nutzungsorientiert
+  Nutzerzufriedenheit:     Zufriedenheit mit der Nutzung
+  Organisatoren:           Organisation
+  Pächter:                 pachtende Person
+  Partnerländer:           Kooperationsländer
+  Partnerorganisation:     kooperierende Organisation
+  Partnerschaft:           Beziehung; Kooperation
+  Patient:                 zu behandelnde/kranke Person
+  Postbote:                Postzustellung
+  Praktikant:              ein Praktikum absolvierende Person
+  Profi(?:s)?:             Sachkundige(r); Sachverständige(r); Fachleute
+  Programmierer:           programmierende Person
+  Projektentwickler:       Projektentwicklung
+  Projektleiter:           Projektleitung
+  Redakteur:               Redaktion; Redationsmitglied
+  Rednerliste:             Redeliste
+  Rednerpult:              Redepult
+  Referent(?:en)?:         referierende/vortragende Person(en)
+  Regisseur:               Regie
+  Rivale:                  Konkurrenz
+  Rollstuhlfahrer:         Person(en) im Rollstuhl
+  Sehr geehrte Damen und Herren: Guten Tag; Sehr geehrtes Team/Publikum/Anwesende; Liebes Team
+  seinerzeit:              zu jener Zeit; damals; einst; früher
+  seinesgleichen:          ähnliches
+  Selbstständiger:         selbstständig arbeitende Person
+  Seminarleiter:           Seminarleitung
+  Spezialist:              auf … spezialisierte Person
+  Spieler:                 Teammitglied
+  Spielleiter:             Spielleitung
+  Sponsoren:               Sponsoring
+  Supporter:               Mitwirkende
+  Systemadministrator:     Sysadmin; Systemadministration
+  Systembetreuer:          Systembetreuung
+  Talkmaster:              Moderation
+  Tante und Onkel:         Geschwister der Eltern
+  Tänzer:                  Tanzende
+  Tatbeteiligter:          an der Tat beteiligte Person
+  Teamleiter:              Teamleitung
+  Teampartner:             Teammitglied
+  Techniker:               technische Fachkraft
+  Teilnehmer:              beteiligte Person(en)
+  Teilnehmerzahl:          Gruppengröße
+  Überbringer:             überbringende Person
+  Unbekannter:             unbekannte Person
+  Verbraucher:             Konsumenten
+  Verfasser:               verfasst von
+  Verfechter:              für einen Standpunkt einstehende Person
+  Vermittler:              Mittelsperson
+  Vertragspartner:         Vertragspartei
+  Vertreter:               vertreten durch; Delegierte; Abgesandte; Abgeordnete
+  Verwandter:              Familienmitglied
+  Vorsitzender:            den ersten Vorsitz hat
+  Wählerstimme:            Wahlstimme
+  weltmännisch:            kosmopolitisch
+  Wissenschaftler:         Forschende; wissenschaftliches Personal
+  Zeitgenosse:             Mitmensch
+  Zuschauerzahl:           Publikumszahl
+  Zuständiger:             zuständige Person

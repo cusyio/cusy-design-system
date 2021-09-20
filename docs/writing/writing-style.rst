@@ -125,8 +125,12 @@ Geographie, Religion oder Kultur abhängig sind.
 Geschlechtergerechte Sprache
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+.. vale off
+
 Bevorzugt Begriffe, die eine geschlechtergerechte Sprache ermöglichen, also
 :abbr:`z.B. (zum Beispiel)` *Person* anstatt *Benutzer*.
+
+.. vale on
 
 .. seealso::
    * `Das Genderwörterbuch <https://geschicktgendern.de/>`_.
@@ -200,7 +204,11 @@ Konto* oder *Meine Einstellungen*. Wechselt jedoch im erklärenden Text wieder
 zur zweiten Person, :abbr:`z.B. (zum Beispiel)` *eure Nutzung wird am Ende des
 Monats berechnet*.
 
+.. vale off
+
 Vermeidet geschlechtsspezifische Pronomen in der dritten Person.
+
+.. vale on
 
 .. _aktiv-und-passiv:
 

@@ -94,7 +94,7 @@ Farbverlauf
 ~~~~~~~~~~~
 
 Farbverläufe eignen sich gut zum Hervorheben von Extremen in einem Wertebereich.
-Verwendet einen Verlauf nur bei Bedarf für Visualisierungen einzelner
+Verwendet einen Verlauf nur bei Bedarf für Visualisierungen separater
 Kategorien. Mehrere Farbverläufe sind oft nicht zugänglich und nur selten
 empfehlenswert. Farbverläufe sollten nicht verwendet werden, um eine Progression
 oder Divergenz darzustellen.

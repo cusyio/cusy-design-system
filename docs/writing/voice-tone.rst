@@ -52,7 +52,7 @@ Was ihr berücksichtigen solltet
 * Versucht, Teile eures Dokuments laut vorzulesen oder zumindest die Wörter mit
   dem Mund zu sprechen. Klingt es natürlich?
   
-  Beachtet jedoch, dass nicht jeder Satz natürlich klingen muss; es sind
+  Beachtet jedoch, dass nicht alle Sätze natürlich klingen müssen; es sind
   schließlich schriftliche Dokumente. Aber wenn ihr auf einen Satz stoßt, der
   beim Sprechen unbeholfen oder verwirrend ist, überlegt, ob ihr ihn
   umgangssprachlicher formulieren könnt.

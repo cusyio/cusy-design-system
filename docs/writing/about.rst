@@ -28,10 +28,10 @@ Reihenfolge zu verwenden:
    Wenn die projektspezifischen Stilrichtlinien keine explizite Anleitung
    bieten, dann folgt diesem Leitfaden.
 
-#. Referenzen von Dritten
+#. Externe Referenzen
 
    Wenn die vorangegangenen Referenzen keine explizite Anleitung bieten, dann
-   lest diese Referenzen von Drittanbietern, abhängig von der Art ihrer Frage:
+   lest diese externen Referenzen, abhängig von der Art ihrer Frage:
 
    .. table:: Externe Referenzen je nach Fragestellung
 

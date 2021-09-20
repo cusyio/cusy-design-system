@@ -52,9 +52,9 @@ Vorgehensweise
 Exploration-Dashboards
 ----------------------
 
-Mithilfe von Exploration-Dashboards können Benutzer mit den Daten
+Mithilfe von Exploration-Dashboards können Personen mit den Daten
 interagieren, um Erkenntnisse zu gewinnen und Muster zu identifizieren.
-Beispiele für Aktionen, die ein Benutzer an Daten ausführen kann, sind Suchen,
+Beispiele für Aktionen, die eine Person an Daten ausführen kann, sind Suchen,
 Sortieren und Filtern von Daten. Exploration-Dashboards sind für Personen
 gedacht, die sich interaktiv die Daten erschließen wollen.
 
@@ -68,9 +68,9 @@ Vorgehensweise
 
 #. Verknüpfte Diagramme
 
-   Wenn ein Benutzer ein Diagramm bearbeitet, sollten andere Diagramme mit
+   Wenn eine Person ein Diagramm bearbeitet, sollten andere Diagramme mit
    zugehörigen Datensätzen automatisch aktualisiert werden, um mehrdimensionale
-   Ansichten der Aktion des Benutzers bereitzustellen.
+   Ansichten der Aktion für diese Person bereitzustellen.
 
 #. Anmerkungen
 

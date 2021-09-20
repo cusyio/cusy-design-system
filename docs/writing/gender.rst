@@ -6,12 +6,16 @@ und frei von Diskriminierungen formulieren. Viele alltägliche Redewendungen sin
 leider sehr ungenau, lassen viel Interpretationsspielraum zu und können
 diskriminierend sein, :abbr:`z.B. (zum Beispiel)`:
 
+.. vale off
+
 * ❌ Neue Vorschriften für Software-Entwickler
 * ❌ Die Fortbildung richtet sich an alle Referenten
 * ❌ Suche Putzfrau für Büroreinigung
 * ✅ Neue Vorschriften für die Software-Entwicklung
 * ✅ Die Fortbildung richtet sich an alle Vortragenden
 * ✅ Suche Personal für Büroreinigung
+
+.. vale on
 
 .. note::
     Auch im Englischen solltet Ihr auf eine gendergerechte Sprache achten; seht
@@ -34,6 +38,8 @@ Direkte Anrede
 
     Auch substantivierte Partizipien, wie :abbr:`z.B. (zum Beispiel)`
     *Studierende*, können wir damit vermeiden.
+
+.. vale off
 
 Direkte persönliche Anrede
     Sofern wir die Geschlechteridentität nicht kennen, wählen wir zunächst eine
@@ -75,6 +81,8 @@ Genderneutrale Begriffe
     * *Redakteure, die den Kurs besucht haben …* durch *Diejenigen, die den
       Kurs besucht haben …* oder *Wer den Kurs besucht hat …* oder *Jene, die
       den Kurs besucht haben …*
+
+.. vale on
 
 Bei gendersensibler Sprache werden alle Geschlechter oder Identitäten
 gleichermaßen sichtbar und wertschätzend angesprochen. Wenn wir bei Cusy diese

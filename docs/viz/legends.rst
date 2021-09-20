@@ -131,15 +131,15 @@ Legenden den Blick auf die Datenvisualisierung versperren würde.
    :alt: Auf dem Handy versteckte Legenden
 
    Wenn Legenden ausgeblendet sind, wird eine Schaltfläche *Legenden anzeigen*
-   hinzugefügt, damit sich Benutzer die Legende beim Tippen anzeigen lassen
-   können.
+   hinzugefügt, damit die Legende auch bei der Tastatursteuerung angezeigt
+   werden kann.
 
 .. figure:: legends-hidden-2.png
    :alt: Die versteckte Legende wird in einem modalen Fenster angezeigt.
 
    Wenn ihr auf *Legenden anzeigen* klickt, wird ein modales Fenster mit einer
-   Liste von Legenden mit Optionen zum Ein- und Ausschalten jeder Datenkategorie
-   angezeigt.
+   Liste von Legenden mit Optionen zum Ein- und Ausschalten sämtlicher
+   Datenkategorien angezeigt.
 
 Legendenüberlauf
 ~~~~~~~~~~~~~~~~

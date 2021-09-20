@@ -13,8 +13,11 @@ an einer beliebigen Stelle entlang einer Skala zu zeichnen.
 Blasendiagramme
 ---------------
 
+.. vale off
+
 Blasendiagramme verwenden Datenpunkte und Blasen, um Kennzahlen entlang zweier
 Achsen zu zeichnen. Die Größe der Blase ist das dritte Maß.
 
-.. figure:: bubble-chart.png
+.. vale on
 
+.. figure:: bubble-chart.png

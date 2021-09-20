@@ -79,7 +79,7 @@ Klare Sprache
 -------------
 
 Berücksichtigt beim Hinzufügen von Inhalten kognitive Einschränkungen,
-Personen, deren Muttersprache nicht die Sprache ist, in der Ihre Inhalte
+Personen, deren Erstsprache nicht die Sprache ist, in der Ihre Inhalte
 geschrieben sind und Personen, die sich die Inhalte mit einem Screen-Reader
 erschließen. Vermeidet nach Möglichkeit Bindestriche, Abkürzungen, Akronyme
 (zumindest beim ersten Mal) und Tabellenlayouts, wenn keine Tabelleninhalte
@@ -113,7 +113,7 @@ Zugängliche Tabellen
   dass sie herausragen.
 * Verwendet bei Bedarf das Attribut ``scope`` um anzugeben, ob es sich um
   Überschriften für Zeilen oder Spalten handelt.
-* Verwendet alternativen Text zusammen mit Tabellen für sehbehinderte Benutzer.
+* Verwendet alternativen Text zusammen mit Tabellen für sehbehinderte Personen.
 * Für die Beschreibung der Tabelle wird ``<caption/>`` bevorzugt, aber
   ``<table summary=""/>`` funktioniert auch.
 
