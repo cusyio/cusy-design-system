@@ -1,0 +1,6 @@
+message: "Titel sollten weniger als 50 Zeichen lang sein."
+extends: occurrence
+scope: title
+level: suggestion
+max: 50
+token: '[\w\s]'
