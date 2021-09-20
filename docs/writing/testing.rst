@@ -199,11 +199,12 @@ Projekt in der Datei
 .. code-block:: yaml
 
     extends: spelling
-    message: "Spelling check: '%s'?"
+    message: "Rechtschreibprüfung: '%s'"
     dicpath: ~/Library/Spelling
     dictionaries:
-      - de_DE
-    level: error
+      - de_DE_frami
+    level: warning
+    ignore: styles/cusy/ignore.txt
 
 .. note::
    Wenn ihr den Inhalt eures GitHub-Repository mit Vale überprüfen wollt, könnt
