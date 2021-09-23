@@ -28,7 +28,7 @@ tokens:
   - ISBN-Nummer
   - LCD-Display
   - natürlicher Instinkt
-  - neu (?erfinden|erfunden)
+  - neu (?:erfinden|erfunden)
   - neue Erfindung
   - Neuerfindung
   - null und nichtig
