@@ -1,0 +1,46 @@
+extends: existence
+message: "'%s' ist redundant"
+ignorecase: true
+level: error
+tokens:
+  - (?:zusätzlicher|extra) Bonus
+  - (?:große|räumliche) Nähe
+  - (?:trete|trittst|tritt|treten) ein in
+  - absolut (?:notwendig|essenziell)
+  - aktueller Trend
+  - aktuelle Trends
+  - CD-Disc
+  - CPI-Index
+  - existiert bereits
+  - kreisrund
+  - geballte Faust
+  - komplett (?:zerstört|elimimiert|gefüllt|umgeben|umrundet)
+  - könnte möglicherweise
+  - kurzer Moment
+  - kurze Zusammenfassung
+  - Endergebnis
+  - falscher (?:Anschein|Schein|Vorwand)
+  - finales Ergebnis
+  - Gratisgeschenk
+  - GPS-System
+  - GUI-(?:Interface|Schnittstelle)
+  - HIV-Virus
+  - ISBN-Nummer
+  - LCD-Display
+  - natürlicher Instinkt
+  - neu (?erfinden|erfunden)
+  - neue Erfindung
+  - Neuerfindung
+  - null und nichtig
+  - PDF-Format
+  - PIN-Nummer
+  - RAM-Memory
+  - laut (?:schreien|schreiend)
+  - Uhr am (?:Morgen|Mittag|Abend|Nacht)
+  - Uhr (?:imorgens|mittags|abends|nachts)
+  - unerwartete Überraschung
+  - unbeabsichtigter Fehler
+  - UPC-Code(s)?
+  - vergangene Geschichte
+  - von allen Seiten (?:umgeben|umschlossen|umringt)
+  - wegerrodieren
