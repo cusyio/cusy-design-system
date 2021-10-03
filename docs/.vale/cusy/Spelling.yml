@@ -1,6 +1,6 @@
 extends: spelling
 message: "Rechtschreibprüfung: '%s'"
-dicpath: /Library/Spelling
+dicpath: docs/.vale/cusy/Spelling
 dictionaries:
   - de_DE_frami
 level: warning
