@@ -14,8 +14,6 @@ Ihr könnt dies :abbr:`z.B. (zum Beispiel)` so verwenden.
 
     import this
 
-Wenn ihr die Ausgabe ebenfalls angeben wollt, könnt ihr dies ebenfalls mit
-
 Für :rst:dir:`code-block` kann mit der ``linenos``-Option auch angegeben werden,
 dass der Code-Block mit Zeilennummern angezeigt werden soll::
 
