@@ -52,6 +52,4 @@ Code weiterhin funktioniert.
 
 .. seealso::
 
-   * `Veralteter Code
-     <https://python-basics-tutorial.readthedocs.io/de/latest/document/code-blocks.html#deprecated>`_
-
+   * :ref:`python-basics:deprecated`
