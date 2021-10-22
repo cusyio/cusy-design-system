@@ -49,44 +49,5 @@ Satz.
 Sphinx
 ------
 
-.. rst:role:: guilabel
-
-   Label, die als Teil einer interaktiven Benutzeroberfläche dargestellt werden,
-   sollten mit :rst:role:`guilabel` gekennzeichnet werden. Jede in der
-   Oberfläche verwendete Beschriftung sollte mit dieser Rolle gekennzeichnet
-   werden, einschließlich Beschriftung von Schaltflächen, Fenstertiteln,
-   Feldnamen, Menü- und Menüauswahlnamen und sogar Werte in Auswahllisten.
-
-   Ein Tastenkürzel für die GUI-Beschriftung kann mit einem et-Zeichen (&)
-   eingefügt werden; dieses führt in der Ausgabe zur Unterstreichung des
-   Folgebuchstabens. (Beispiel: ``:guilabel:`&Cancel```). Wenn ihr ein
-   et-Zeichen einfügen wollt, könnt ihr es einfach verdoppeln.
-
-.. rst:role:: kbd
-
-   Dies stellt eine Folge von Tasteneingaben dar. Welche Form die Tastenfolge
-   hat, kann von plattform- oder anwendungsspezifischen Konventionen abhängen.
-   Wenn es keine entsprechenden Konventionen gibt, sollten die Namen von
-   Modifikatortasten ausgeschrieben werden, um die Zugänglichkeit zu verbessern.
-   Zum Beispiel kann eine Tastenfolge mit :kbd:`Ctrl-s` bezeichnet werden, damit
-   nicht auf eine bestimmte Tastaturbeschriftung referenziert wird.
-
-.. rst:role:: menuselection
-
-    Eine Menüauswahl sollte mit der Rolle ``menuselection`` markiert werden.
-    Diese wird verwendet, um eine komplette Sequenz zu markieren, einschließlich
-    der Auswahl von Untermenüs und der Auswahl bestimmter Operationein oder
-    beliebiger Untersequenzen. Die Namen der einzelnen Auswahlen sollten durch
-    ``-->`` getrennt werden.
-
-   So nutzt :abbr:`z.B. (zum Beispiel)` :menuselection:`View --> Cell Toolbar
-   --> Slideshow` folgende Auszeichnung::
-
-    :menuselection:`View --> Cell Toolbar --> Slideshow`
-
-   Wenn eine Menüauswahl :abbr:`z.B. (zum Beispiel)` mit einer Ellipse
-   (:samp:`…`) anzeigt, dass die Auswahl ein Dialogfeld öffnet, sollte dieser
-   Indikator in der Menüauswahl weggelassen werden.
-
-   :rst:role:`menuselection` unterstützt genau wie :rst:role:`guilabel` auch
-   Tastaturkürzel mit einem et-Zeichen (&).
+.. seealso::
+   * :doc:`python-basics:ui-elements`
