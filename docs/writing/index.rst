@@ -105,8 +105,7 @@ Computer-Schnittstellen
     :maxdepth: 0
 
     api-reference
-    code-text
-    code-samples
+    code
     placeholder
     ui-elements
 

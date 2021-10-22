@@ -1,5 +1,5 @@
-Code in Text
-============
+Code
+====
 
 Verwendet in normalen Textsätzen (im Gegensatz zu :abbr:`z.B. (zum Beispiel)`
 Codebeispielen) eine nicht-proportionale Schriftart, um Code auszuzeichnen.
@@ -41,7 +41,8 @@ sie ist jedoch nicht vollständig.
 Sprachunterstützung in Sphinx
 -----------------------------
 
-Sphinx unterstützt verschiedene Sprachen, :abbr:`u.a. (unter anderem)`
+`Sphinx <https://www.sphinx-doc.org/>`_ unterstützt verschiedene Sprachen,
+:abbr:`u.a. (unter anderem)`
 
 * `Python
   <https://www.sphinx-doc.org/en/master/usage/restructuredtext/domains.html#the-python-domain>`_
@@ -57,6 +58,9 @@ Sphinx unterstützt verschiedene Sprachen, :abbr:`u.a. (unter anderem)`
   <https://pypi.org/project/sphinxcontrib-matlabdomain/>`_
 * `Scala
   <https://pypi.org/project/sphinxcontrib-scaladomain/>`_
+
+.. seealso::
+   * :doc:`python-basics:document/code-blocks`
 
 Elemente, die normal dargestellt werden sollen
 ----------------------------------------------

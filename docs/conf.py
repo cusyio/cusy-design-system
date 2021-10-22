@@ -119,6 +119,7 @@ nbsphinx_allow_errors = True
 
 intersphinx_mapping = {
     "jupyter-tutorial": ("https://jupyter-tutorial.readthedocs.io/de/latest/", None),
+    "python-basics": ("https://python-basics-tutorial.readthedocs.io/de/latest/", None),
     }
 
 def setup(app):
