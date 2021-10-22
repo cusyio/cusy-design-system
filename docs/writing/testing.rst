@@ -36,6 +36,12 @@ Sphinx-Checks
    * :ref:`python-basics:build-errors`
    * :ref:`python-basics:link-checks`
 
+.. note::
+   Falls ihr ein anderes Werkzeug zum technischen Schreiben verwendet, könnt ihr
+   :abbr:`z.B. (zum Beispiel)` `HTMLProofer
+   <https://github.com/gjtorikian/html-proofer>`_ verwenden um Links, Bilder,
+   Titel und Tags zu überprüfen.
+
 Code überprüfen
 ---------------
 
