@@ -50,25 +50,8 @@ sind.
 Wenn eine Methode veraltet ist, sagt eurem Publikum, was es tun muss, damit der
 Code weiterhin funktioniert.
 
-`Sphinx <https://www.sphinx-doc.org/>`_ unterstützt euch mit folgender
-Direktive:
+.. seealso::
 
-.. rst:directive:: .. deprecated:: version
+   * `Veralteter Code
+     <https://python-basics-tutorial.readthedocs.io/de/latest/document/code-blocks.html#deprecated>`_
 
-   Beschreibt, wann die Funktion veraltet wurde. Es kann auch eine Erklärung
-   angegeben werden, um :abbr:`z.B.` darüber zu informieren, was stattdessen
-   verwendet werden sollte. Beispiel::
-
-       .. deprecated:: 4.1
-          verwende stattdessen :func:`new_function`.
-
-   .. deprecated:: 4.1
-      verwende stattdessen :func:`new_function`.
-
-Für Python-Module gibt es darüberhinaus noch folgende Direktive:
-
-.. rst:directive:option:: py:module:deprecated
-   :type: no argument
-
-   Markiert ein Modul als veraltet; es wird dann an verschiedenen Stellen als
-   solches gekennzeichnet.
