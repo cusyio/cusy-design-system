@@ -22,6 +22,18 @@ Farbauswahl für farbenblinde Personen. Weitere Emfpehlungen sind:
 * ✅ Übersetzt die Daten in eine klare Sprache
 * ✅ Gebt Kontext an und erklärt die Visualisierung
 
+.. seealso::
+   * Heather Migliorisi: `Accessible SVGs
+     <https://css-tricks.com/accessible-svgs/>`_
+   * Carie Fisher: `Creating Accessible SVGs
+     <https://www.deque.com/blog/creating-accessible-svgs/>`_
+   * Sarah Higley: `Quick Tips for High Contrast Mode
+     <https://sarahmhigley.com/writing/whcm-quick-tips/>`_
+   * Melanie Richards: `CurrentColor SVG in forced colors modes
+     <https://melanie-richards.com/blog/currentcolor-svg-hcm/>`_
+   * Val Head: `Designing With Reduced Motion For Motion Sensitivities
+     <https://www.smashingmagazine.com/2020/09/design-reduced-motion-sensitivities/>`_
+
 D3.js
 -----
 
