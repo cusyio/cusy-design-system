@@ -136,7 +136,7 @@ für die Verwendung der Vega-Anweisungen ``aria``- und ``description`` durch
 
 * Die horizontalen Linien sollen nicht zugänglich werden. Daher wurde in der
   Vega-Konfigurationsdatei :download:`flight-passengers.vg.json` die
-  horizontale Linie mit ``"aria": false,`` nusgezeichnet.
+  horizontale Linie mit ``"aria": false,`` ausgezeichnet.
 
   .. literalinclude:: flight-passengers.vg.json
      :language: javascript
