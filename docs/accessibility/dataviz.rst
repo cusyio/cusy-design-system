@@ -23,8 +23,25 @@ Farbauswahl für farbenblinde Personen. Weitere Emfpehlungen sind:
 * ✅ Gebt Kontext an und erklärt die Visualisierung
 
 .. seealso::
+   * `Case Study: Implementing Accessible Data Charts for the Khan Academy 2018
+     Annual Report
+     <https://www.sarasoueidan.com/blog/accessible-data-charts-for-khan-academy-2018-annual-report/>`_
+   * `Accessibility Considerations In Data Visualization Design 
+     <https://keen.io/blog/accessibility-in-data-vis/>`_
+   * `Dataviz Accessibility Resources
+     <https://github.com/dataviza11y/resources>`_
+   * `Writing Alt Text for Data Visualization
+     <https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81>`_
+   * `WAI tutorials: Complex Images
+     <https://www.w3.org/WAI/tutorials/images/complex/>`_
+   * `Using VoiceOver to Evaluate Web Accessibility
+     <https://webaim.org/articles/voiceover/>`_
+   * `How Does This Data Sound? keyboard interaction, sonification etc.
+     <https://blog.interactivethings.com/how-does-this-data-sound-945ed27a1a95>`_
    * Heather Migliorisi: `Accessible SVGs
      <https://css-tricks.com/accessible-svgs/>`_
+   * `Accessible SVG line graphs <https://tink.uk/accessible-svg-line-graphs/>`_
+   * `Accessible SVG flowcharts <https://tink.uk/accessible-svg-flowcharts/>`_
    * Carie Fisher: `Creating Accessible SVGs
      <https://www.deque.com/blog/creating-accessible-svgs/>`_
    * Sarah Higley: `Quick Tips for High Contrast Mode
@@ -119,6 +136,12 @@ ein paar Tipps zusammengestellt:
    Achsenbeschriftungen so verändern, dass sie außerhalb des sichtbaren Rahmens
    stehen.
 
+.. seealso::
+   * `Accessibility in d3 Bar Charts
+     <https://www.a11ywithlindsey.com/blog/accessibility-d3-bar-charts>`_
+   * `Accessibility in d3 Donut Charts
+     <https://www.a11ywithlindsey.com/blog/accessibility-d3-donut-charts>`_
+
 Vega
 ----
 
@@ -183,30 +206,3 @@ für die Verwendung der Vega-Anweisungen ``aria``- und ``description`` durch
      :lines: 72-80
      :lineno-start: 72
      :emphasize-lines: 2-8
-
-Zum Weiterlesen
----------------
-
-.. seealso::
-   * `Case Study: Implementing Accessible Data Charts for the Khan Academy 2018
-     Annual Report
-     <https://www.sarasoueidan.com/blog/accessible-data-charts-for-khan-academy-2018-annual-report/>`_
-   * `Accessibility Considerations In Data Visualization Design 
-     <https://keen.io/blog/accessibility-in-data-vis/>`_
-   * `Dataviz Accessibility Resources
-     <https://github.com/dataviza11y/resources>`_
-   * `Accessibility in d3 Bar Charts
-     <https://www.a11ywithlindsey.com/blog/accessibility-d3-bar-charts>`_
-   * `Accessibility in d3 Donut Charts
-     <https://www.a11ywithlindsey.com/blog/accessibility-d3-donut-charts>`_
-   * `Writing Alt Text for Data Visualization
-     <https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81>`_
-   * `Accessible SVGs <https://css-tricks.com/accessible-svgs/>`_
-   * `Accessible SVG line graphs <https://tink.uk/accessible-svg-line-graphs/>`_
-   * `Accessible SVG flowcharts <https://tink.uk/accessible-svg-flowcharts/>`_
-   * `WAI tutorials: Complex Images
-     <https://www.w3.org/WAI/tutorials/images/complex/>`_
-   * `Using VoiceOver to Evaluate Web Accessibility
-     <https://webaim.org/articles/voiceover/>`_
-   * `How Does This Data Sound? keyboard interaction, sonification etc.
-     <https://blog.interactivethings.com/how-does-this-data-sound-945ed27a1a95>`_
