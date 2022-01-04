@@ -184,3 +184,9 @@ ignoriert. Ihr könnt jedoch auch Bereiche aus der Überprüfung herausnehmen mi
     Text, der nicht überprüft werden soll.
 
     .. vale on
+
+.. seealso::
+
+   * `Docs <https://docs.errata.ai/>`_
+   * `GitHub <https://github.com/errata-ai/vale>`_
+   * `check package <https://pkg.go.dev/github.com/errata-ai/vale/v2>`_
