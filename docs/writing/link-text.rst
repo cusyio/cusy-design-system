@@ -100,11 +100,29 @@ angegeben werden:
     </a>
 
 Ein Link kann auch automatisch eine Telefonnummer wählen, :abbr:`z.B. (zum
-Beispiel)` `+49 30 22430082 <tel:+493022430082>`_.
+Beispiel)`:
+
+.. raw:: html
+
+   <style>
+       a[href^="tel:"]:before {
+         content: "\260e";
+         margin-right: 0.5em;
+       }
+   </style>
+
+   <a href="tel:+493022430082">+49 30 22430082</a>
 
 .. code-block:: html
 
-   <a href="tel:+493022430082">:+49 30 22430082</a>
+   <style>
+       a[href^="tel:"]:before {
+         content: "\260e";
+         margin-right: 0.5em;
+       }
+   </style>
+
+   <a href="tel:+493022430082">+49 30 22430082</a>
 
 Links zu  Dateien
 -----------------
