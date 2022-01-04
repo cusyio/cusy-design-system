@@ -124,6 +124,11 @@ Beispiel)`:
 
    <a href="tel:+493022430082">+49 30 22430082</a>
 
+.. seealso::
+
+   * `The Current State of Telephone Links
+     <https://css-tricks.com/the-current-state-of-telephone-links/>`_
+
 Links zu  Dateien
 -----------------
 
