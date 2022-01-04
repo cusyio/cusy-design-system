@@ -11,11 +11,12 @@ diskriminierend sein, :abbr:`z.B. (zum Beispiel)`:
 * ❌ Neue Vorschriften für Software-Entwickler
 * ❌ Die Fortbildung richtet sich an alle Referenten
 * ❌ Suche Putzfrau für Büroreinigung
+
+.. vale on
+
 * ✅ Neue Vorschriften für die Software-Entwicklung
 * ✅ Die Fortbildung richtet sich an alle Vortragenden
 * ✅ Suche Personal für Büroreinigung
-
-.. vale on
 
 .. note::
     Auch im Englischen solltet Ihr auf eine gendergerechte Sprache achten; seht
