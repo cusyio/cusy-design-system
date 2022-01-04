@@ -95,7 +95,9 @@ angegeben werden:
 
 .. code-block:: html
 
-    mailto:info@cusy.io?cc=info@cusy.io, support@cusy.io&subject=Cusy%20Support&body=Hier%20kann%der%20Haupttext%20stehen.
+    <a href="mailto:info@cusy.io?cc=info@cusy.io, support@cusy.io&subject=Cusy%20Support&body=Hier%20kann%der%20Haupttext%20stehen">
+    Schreibt uns!
+    </a>
 
 Ein Link kann auch automatisch eine Telefonnummer wählen, :abbr:`z.B. (zum
 Beispiel)` `+49 30 22430082 <tel:+493022430082>`_.
