@@ -105,6 +105,9 @@ als nur zwei Geschlechter gibt und die Zuordnungen soziale Konstrukte sind.
    Untersuchungsergebnisse zum Veständnis geschlechtergerechter Sprache vor.
 
 .. seealso::
+    * `BFIT-Bund: Empfehlung zu gendergerechter, digital barrierefreier Sprache
+      – eine repräsentative Studie
+      <https://www.bfit-bund.de/DE/Publikation/empfehlung-gendergerechte-digital-barrierefreie-sprache-studie-koehler-wahl.html>`_
     * Bundesverband der Kommunikatoren: `Kompendium Gendersensible Sprache.
       Strategien zum fairen Formulieren
       <https://bdkom.de/sites/default/files/kompendium_gendersensible_sprache.pdf>`_
