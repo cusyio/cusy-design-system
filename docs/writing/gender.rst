@@ -98,6 +98,10 @@ als nur zwei Geschlechter gibt und die Zuordnungen soziale Konstrukte sind.
    Unterstrich und Doppelpunkt für sehbehinderte Menschen schlechter erkennbar.
    [#]_
 
+   Der Artikel *Genderinklusive Sprache & Barrierefreiheit* [#]_ kommt zum
+   Schluss, dass die Unterstützung von Screenreadern für gendersensible Sprache
+   noch zu wünschen übrig lässt, aber technisch möglich ist.
+
 .. note::
    Die Quarks-Redaktion versucht in `Was Gendern bringt – und was nicht
    <https://www.quarks.de/gesellschaft/psychologie/was-gendern-bringt-und-was-nicht/>`_
@@ -119,3 +123,6 @@ als nur zwei Geschlechter gibt und die Zuordnungen soziale Konstrukte sind.
 
 .. [#] `Gendern mit Sternchen, Unterstrich und Doppelpunkt
        <https://www.dbsv.org/gendern.html#kurzformen>`_, März 2021
+.. [#] `Genderinklusive Sprache & Barrierefreiheit
+       <https://a11yup.com/articles/genderinklusive-sprache-und-barrierefreiheit/>`_,
+       21. April 2021
