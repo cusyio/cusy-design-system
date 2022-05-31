@@ -91,7 +91,7 @@ Gehörlose und Schwerhörige
   lauten Umgebung.
 * Werden Videos und Animationen transkribiert?
 
-Körperliche Einschränkungen 
+Körperliche Einschränkungen
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Sind alle Aktionen über die Tastatur zugänglich und effizient? Viele
@@ -117,6 +117,9 @@ Globale Barrierestandards
 * Mitwirkende der WAI erstellen und pflegen `Richtlinien zur Barrierefreiheit
   von Webinhalten (WCAG) <https://www.w3.org/TR/WCAG21/>`_, dem globalen
   Standard für Barrierefreiheit.
+* Im `ARIA Authoring Practices Guide <https://www.w3.org/WAI/ARIA/apg/>`_ wird
+  euch gezeigt, wie barrierefreie Semantik in Web-Patterns und Widgets eingebaut
+  werden kann.
 
 Ressourcen
 ----------
@@ -135,4 +138,3 @@ Werkzeuge
 * `Kontrastrechner
   <https://www.leserlich.info/werkzeuge/kontrastrechner/>`_
 * `Pa11y <https://pa11y.org/>`_
-
