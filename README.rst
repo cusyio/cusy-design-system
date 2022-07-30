@@ -15,64 +15,99 @@ Schnelleinstieg
 Installation
 ------------
 
-#. Herunterladen und Auspacken:
+#. Herunterladen und auspacken:
+
+   … auf Linux/macOS:
 
    .. code-block:: console
 
-    $ curl -O https://codeload.github.com/cusyio/cusy-design-system/zip/master
-    $ unzip master
-    Archive:  master
+    $ curl -O https://github.com/cusyio/cusy-design-system/archive/refs/heads/main.zip
+    $ unzip cusy-design-system-main.zip
+    Archive:  cusy-design-system-main.zip
     …
-       creating: cusy-design-system-master/
+       creating: cusy-design-system-main/
     …
 
-#. Pipenv installieren
+   … auf Windows:
 
-   Siehe `Pipenv installieren
-   <https://jupyter-tutorial.readthedocs.io/de/latest/productive/envs/pipenv/install.html>`_
+   .. code-block:: ps1con
 
-#. Python-Pakete installieren:
+    C:> curl.exe -o main.zip -O https://github.com/cusyio/cusy-design-system/archive/refs/heads/main.zip
+    C:> tar -xvzf cusy-design-system-main.zip
+    …
+
+#. Installieren von Python-Paketen:
+
+   … auf Linux/macOS:
 
    .. code-block:: console
 
-    $ cd cusy-design-system
-    $ pipenv install
-    Creating a virtualenv for this project…
-    …
-    Installing dependencies from Pipfile.lock (fbb457)…
-    …
-    $ pipenv run jupyter nbextension install https://rawgit.com/jfbercher/small_nbextensions/master/highlighter.zip  --user
-    …
-    $ pipenv run jupyter nbextension enable highlighter/highlighter
-        Enabling notebook extension highlighter/highlighter...
-              - Validating: OK
+      $ python3 -m venv .
+      $ bin/python -m pip install --upgrade pip
+      $ bin/python -m pip install -r docs/requirements.txt
 
-#. HTML-Dokumentation erstellen:
+   … auf Windows:
 
-   .. code-block:: console
+   .. code-block:: ps1con
 
-    $ pipenv run sphinx-build -b html docs/ docs/_build/
+      C:> python -m venv .
+      C:> Scripts\python -m pip install --upgrade pip
+      C:> Scripts\python -m pip install -r docs/requirements.txt
 
-   Mit `sphinx-autobuild <https://github.com/executablebooks/sphinx-autobuild>`_
-   steht eine Erweiterung zur Verfügung, welche die Dokumentation bei Änderungen
-   automatisch neu generiert und auch die Dokumentation im Browser neu lädt.
+#. Erstellen der HTML-Dokumentation:
 
-   .. code-block:: console
+   .. note::
+      pandoc muss installiert sein.
 
-    $ pipenv run sphinx-autobuild docs docs/_build
+      … auf Debian/Ubuntu:
 
-#. PDF erstellen:
+      .. code-block:: console
+
+         $  sudo apt install pandoc
+
+   Zum Erstellen der HTML-Dokumentation führt den folgenden Befehl aus:
 
    .. code-block:: console
 
+      $ sphinx-build -ab html docs/ docs/_build/
+
+#. Erstellen eines PDF:
+
+   Zum Erstellen einer PDF-Dokumentation benötigt ihr zusätzliche Pakete, die
+   ihr installieren könnt
+
+   … auf Debian/Ubuntu mit
+
+   .. code-block:: console
+
+      $ sudo apt install texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended latexmk
+
+   … auf macOS mit
+
+   .. code-block:: console
+
+      $ brew cask install mactex
+      …
+      🍺  mactex was successfully installed!
+      $ curl --remote-name https://www.tug.org/fonts/getnonfreefonts/install-getnonfreefonts
+      $ sudo texlua install-getnonfreefonts
+      …
+      mktexlsr: Updating /usr/local/texlive/2020/texmf-dist/ls-R...
+      mktexlsr: Done.
+
+   Anschließend könnt ihr ein PDF generieren mit:
+
+   .. code-block:: console
+
+    $ source bin/activate
     $ cd docs/
-    $ pipenv run make latexpdf
+    $ make latexpdf
     …
     The LaTeX files are in _build/latex.
     Run 'make' in that directory to run these through (pdf)latex
     …
 
-   Das PDF findet ihr anschließend in ``docs/_build/latex/cusy-design-system.pdf``.
+   Das PDF findet ihr dann in ``_build/latex/cusy-design-system.pdf``.
 
 Folge uns
 ---------
