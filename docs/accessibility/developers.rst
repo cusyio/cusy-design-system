@@ -194,7 +194,7 @@ Semantische Symbole
 
     Neben dem ``aria-hidden="true"``-Attribut sollten zwei weitere Ergänzungen
     hinzugefügt werden:
-  
+
     * eine Textalternative :abbr:`z.B. (zum Beispiel)` in einem ``<span>``-Tag,
       das via CSS ausgeblendet wird.
     * ein ``title``- Attribut auf dem Symbol, um einen Tooltip für sehende
@@ -207,7 +207,7 @@ Semantische Symbole
 
     Alternativ kann SVG mit JavaScript verwendet werden mit. In diesem Fall wird
     durch das ``title``-Attribut folgende drei Elemente hinzugefügt:
-    
+
     * ARIA-Rolle ``role="img"``
     * ``title``-Tag mit ``id``-Attribut
     * ``aria-labelledby``-Attribut

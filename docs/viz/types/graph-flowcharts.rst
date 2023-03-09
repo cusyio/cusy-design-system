@@ -20,7 +20,7 @@ und Mindmaps.
 Flussdiagramme
 --------------
 
-Es gibt verschiedene Typen von Flussdiagrammen, :abbr:`z.B. (zum Beispiel)` 
+Es gibt verschiedene Typen von Flussdiagrammen, :abbr:`z.B. (zum Beispiel)`
 
 Alluviale Diagramme
     betont signifikante Veränderungen in Netzwerken und fasst sie ggf.
@@ -37,4 +37,3 @@ Zustandsübergangsdiagramme
    :alt: Alluviales Diagramm
 
    Beispiel eines alluvialen Diagramms
-

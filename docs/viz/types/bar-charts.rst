@@ -39,10 +39,10 @@ Balkendiagramme verwenden vertikale oder horizontale Datenmarkierungen, um
 einzelne Werte zu vergleichen. Sie können verwendet werden, um diskrete Daten zu
 vergleichen oder Trends im Zeitverlauf anzuzeigen.
 
-.. figure:: bar-horizontal-discrete.png 
+.. figure:: bar-horizontal-discrete.png
    :alt: Einfaches horizontales Balkendiagramm mit diskreten Werten
 
-.. figure:: bar-horizontal-timeseries.png      
+.. figure:: bar-horizontal-timeseries.png
    :alt: Einfaches horizontales Balkendiagramm für Zeitreihen
 
 .. figure:: bar-horizontal-grouped-discrete.png
@@ -53,4 +53,3 @@ vergleichen oder Trends im Zeitverlauf anzuzeigen.
 
 .. figure:: bar-horizontal-stacked-discrete.png
    :alt: Gestapelte horizontale Balken für diskrete Werte
-

@@ -38,4 +38,3 @@ Datenreihe zur Gesamtsumme beiträgt.
 
 .. figure:: area-chart-stacked.png
    :alt: Flächendiagramm für addierte Werte
-

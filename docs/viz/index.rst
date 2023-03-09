@@ -15,4 +15,3 @@ Daten mit schönen und zugänglichen Visualisierungen erzählen.
     axes-and-labels
     legends
     dashboards
-

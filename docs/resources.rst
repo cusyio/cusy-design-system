@@ -44,4 +44,3 @@ Zum Weiterlesen
   <https://www.smashingmagazine.com/design-systems-book/>`_
 * `Christian Beck: The Path to Design System Maturity
   <https://medium.com/ux-power-tools/the-path-to-design-system-maturity-d403daba692a>`_
-

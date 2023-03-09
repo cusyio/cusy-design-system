@@ -163,4 +163,3 @@ sein.
    :alt: Überlaufende Legenden scrollen vertikal
 .. figure:: legends-overflow-2b.png
    :alt: Überlaufende Legenden scrollen vertikal
-

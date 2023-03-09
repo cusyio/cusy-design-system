@@ -68,4 +68,3 @@ beliebigen Bereich springen.
 .. seealso::
    * `IBM Checkpoint 1.3.1 Info and Relationships
      <https://www.ibm.com/able/guidelines/ci162/info_and_relationships.html>`_
-

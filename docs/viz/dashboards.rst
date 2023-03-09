@@ -81,5 +81,3 @@ Vorgehensweise
 
 .. [#] (Chaparro, B. S., Shaikh, A. D., and Baker, J. R. (2005). «Reading Online
    Text with a Poor Layout: Is Performance Worse?» Usability News, 7.
-
-

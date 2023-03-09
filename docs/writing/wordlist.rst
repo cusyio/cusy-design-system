@@ -3,7 +3,7 @@ Wortliste
 
 .. note::
    Dieses Dokument enthält Verweise auf Begriffe, die Cusy als respektlos oder
-   beleidigend betrachtet. Die Begriffe sind hier aufgeführt, um Hinweise 
+   beleidigend betrachtet. Die Begriffe sind hier aufgeführt, um Hinweise
    zu alternativen Begriffe zu geben.
 
 Wenn der Begriff, den ihr sucht, nicht auf dieser Seite zu finden ist, schaut
@@ -170,7 +170,7 @@ A-Z
         Wenn der Befehl oder Code, den ihr dokumentiert, wörtlich *Slave*
         verwendet, dann formattiert ihn als Code und macht deutlich, worauf ihr
         euch bezieht. Verwendet danach einen spezifischeren Begriff, :abbr:`z.B.
-        (zum Beispiel)` 
+        (zum Beispiel)`
 
             Startet den sekundären Prozess mit ``slave:start``, wenn ihr
             Probleme zwischen dem primären und sekundären Prozess analysieren
@@ -251,4 +251,3 @@ A-Z
         Vermeidet es, wenn möglich. Verwendet stattdessen freundlichere und
         präzisere Wörter wie *sehen*, *bearbeiten*, *finden*, *verwenden* oder
         *ansehen*.
-

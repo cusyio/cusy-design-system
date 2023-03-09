@@ -105,7 +105,7 @@ Syntax-Hervorhebungen in Quellcode erfolgen mit `Highlight.js plugin for Vue.js
 Cusy-Dark-Theme und Cusy-Light-Theme.
 
 Weitere Farben dürfen nur verwendet werden, sofern sie bedeutend sind,
-:abbr:`z.B. (zum Beispiel)` 
+:abbr:`z.B. (zum Beispiel)`
 
 * *Red* für Fehler
 * *Orange* für Warnungen

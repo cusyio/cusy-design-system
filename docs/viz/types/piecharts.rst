@@ -26,4 +26,3 @@ demselben Gradmesser oder mehrere Diagramme verwendet werden.
 
    Die Anzeige kann beim Laden der Seite auf den aktuellen Wert animiert werden,
    um eine Hervorhebung zu erzielen.
-

@@ -85,4 +85,3 @@ Leistungskennzahl
    werden, um eine Gesamtsumme oder die individuelle Anzahl eines Teils bei
    Interaktion anzuzeigen. Dieses Element kann auch unabhängig in
    :doc:`dashboards` verwendet werden.
-

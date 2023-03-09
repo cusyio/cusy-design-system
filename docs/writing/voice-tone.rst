@@ -51,7 +51,7 @@ Was ihr berücksichtigen solltet
   ein Mitglied eures Teams, einen Blick darauf zu werfen
 * Versucht, Teile eures Dokuments laut vorzulesen oder zumindest die Wörter mit
   dem Mund zu sprechen. Klingt es natürlich?
-  
+
   Beachtet jedoch, dass nicht alle Sätze natürlich klingen müssen; es sind
   schließlich schriftliche Dokumente. Aber wenn ihr auf einen Satz stoßt, der
   beim Sprechen unbeholfen oder verwirrend ist, überlegt, ob ihr ihn

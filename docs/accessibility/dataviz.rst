@@ -26,7 +26,7 @@ Farbauswahl für farbenblinde Personen. Weitere Emfpehlungen sind:
    * `Case Study: Implementing Accessible Data Charts for the Khan Academy 2018
      Annual Report
      <https://www.sarasoueidan.com/blog/accessible-data-charts-for-khan-academy-2018-annual-report/>`_
-   * `Accessibility Considerations In Data Visualization Design 
+   * `Accessibility Considerations In Data Visualization Design
      <https://keen.io/blog/accessibility-in-data-vis/>`_
    * `Dataviz Accessibility Resources
      <https://github.com/dataviza11y/resources>`_

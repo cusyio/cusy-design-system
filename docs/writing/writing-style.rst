@@ -196,7 +196,7 @@ Pronomen
 --------
 
 Verwendet so oft wie möglich die freundliche und engagierte zweite Person
-(*ihr*, *euer* :abbr:`etc. (etcetera)`) um euer Publikum zu adressieren. 
+(*ihr*, *euer* :abbr:`etc. (etcetera)`) um euer Publikum zu adressieren.
 
 Die erste Person kann in Überschriften oder Label verwendet werden, die
 spezifisch für die betreffende Person sind, :abbr:`z.B. (zum Beispiel)` *Mein

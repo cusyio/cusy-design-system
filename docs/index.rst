@@ -26,4 +26,3 @@ aus Richtlinien für Benutzeroberflächen, Code-Beispielen, Designtools und
    * :ref:`genindex`
    * :ref:`modindex`
    * :ref:`search`
-

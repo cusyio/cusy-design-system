@@ -105,4 +105,3 @@ halbfett beschriftet, um den Übergang hervorzuheben.
    :alt: Lücke in den Daten, die durch Textur gekennzeichnet ist
 
    Beispiel einer Zeitreihe in Intervallen von 15 Sekunden
-
