@@ -17,7 +17,8 @@ Wortliste
 
 .. glossary::
 
-    ❌ 1.2.3.4 (IP-Adressen)
+    ❌ 1.2.3.4
+    IP-Adressen
         Verwendet in Beispielkonfigurationen keine öffentlich zugänglichen
         IP-Adressen, die ihr nicht selbst kontrollieren könnt. Verwendet
         stattdessen die in :rfc:`6890`, :rfc:`5737` und :rfc:`3849`
@@ -27,6 +28,8 @@ Wortliste
         * ✅ ``198.51.100.0/24``
         * ✅ ``203.0.113.0/24``
         * ✅ ``2001:db8::/32``
+
+        Siehe auch :term:`Domänennamen`.
 
     3D
         nicht 3-D
@@ -84,6 +87,15 @@ A-Z
 
     ❌ Graylist
         siehe :term:`❌ Schwarze Liste, Blacklist, Black-List`
+
+    Domänennamen
+        Verwendet keine öffentlichen Domänennamen, die ihr nicht selbst
+        kontrollieren könnt. Verwendet stattdessen einen der verfügbaren
+        reservierten Domänennamen, die in :rfc:`2606` dokumentiert sind, wie
+
+        * ✅ ``example.com``
+        * ✅ ``example.net``
+        * ✅ ``.example``
 
     Hier klicken
         solltet ihr nicht verwenden; für Details und Alternativen siehe
