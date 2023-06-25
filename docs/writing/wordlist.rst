@@ -17,6 +17,17 @@ Wortliste
 
 .. glossary::
 
+    ❌ 1.2.3.4 (IP-Adressen)
+        Verwendet in Beispielkonfigurationen keine öffentlich zugänglichen
+        IP-Adressen, die ihr nicht selbst kontrollieren könnt. Verwendet
+        stattdessen die in :rfc:`6890`, :rfc:`5737` und :rfc:`3849`
+        dokumentierten IPv4- und IPv6-Bereiche:
+
+        * ✅ ``192.0.2.0/24``
+        * ✅ ``198.51.100.0/24``
+        * ✅ ``203.0.113.0/24``
+        * ✅ ``2001:db8::/32``
+
     3D
         nicht 3-D
 
