@@ -137,3 +137,6 @@ Personen mit Sehschwächen verwenden möglicherweise einen Screen-Reader, um ein
 Vorschau der Website anzuzeigen. Daher sollten unbedingt die
 :doc:`Tastaturrichtlinien <keyboard>` befolgt werden, um sicherzustellen, dass
 die Seite in einer logischen Reihenfolge vorgelesen wird.
+
+.. seealso::
+   * `WhoCanUse <https://www.whocanuse.com>`_
