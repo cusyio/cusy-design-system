@@ -60,7 +60,7 @@ benachbarten Farben aufweisen. Dies schließt auch Formularelemente ein.
 
 .. seealso::
    * `IBM Checkpoint 1.4.3 Contrast (Minimum)
-     <https://www.ibm.com/able/guidelines/ci162/contrast.html>`_
+     <https://www.ibm.com/able/requirements/requirements/?version=7_1#1_4_3>`_
 
 Farbenblindheit
 ---------------

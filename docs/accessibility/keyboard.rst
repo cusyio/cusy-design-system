@@ -10,7 +10,7 @@ Aktivieren eines fokussierten Elements.
 
 .. seealso::
    * `IBM Checkpoint 2.1.1 Keyboard
-     <https://www.ibm.com/able/guidelines/ci162/keyboard.html>`_
+     <https://www.ibm.com/able/requirements/requirements/?version=7_1#2_1_1>`_
 
 Fokusindikatoren
 ----------------
@@ -22,7 +22,7 @@ Zur Anzeige wird ein Rand um das fokussierte Element verwendet.
 
 .. seealso::
     * `IBM Checkpoint 2.4.7 Focus Visible
-      <https://www.carbondesignsystem.com/guidelines/accessibility/keyboard/>`_
+      <https://carbondesignsystem.com/guidelines/accessibility/keyboard/>`_
 
 Navigationsreihenfolge
 ----------------------
@@ -67,4 +67,4 @@ beliebigen Bereich springen.
 
 .. seealso::
    * `IBM Checkpoint 1.3.1 Info and Relationships
-     <https://www.ibm.com/able/guidelines/ci162/info_and_relationships.html>`_
+     <https://www.ibm.com/able/requirements/requirements/?version=7_1#1_3_1>`_
