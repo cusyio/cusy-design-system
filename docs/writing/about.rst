@@ -42,8 +42,9 @@ Reihenfolge zu verwenden:
        |                       | `Rechtschreibregeln`_, `DWDS-Wörterbuch`_             |
        +-----------------------+-------------------------------------------------------+
        | Nichttechnischer Stil | Universität Stuttgart: `Redaktionsleitfaden und       |
-       |                       | Webstyleguide`_, siehe auch Bundeszentrale für        |
-       |                       | politische Bildung: `einfach POLITIK: Lexikon`_       |
+       |                       | Webstyleguide`_; :abbr:`s.a. (siehe auch)`            |
+       |                       | Bundeszentrale für politische Bildung: `einfach       |
+       |                       | POLITIK: Lexikon`_                                    |
        +-----------------------+-------------------------------------------------------+
        | Technischer Stil      | `Microsoft German Style Guide`_; beachtet jedoch, dass|
        |                       | einige Richtlinien nur für Microsoft und deren        |
