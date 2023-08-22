@@ -38,7 +38,8 @@ Reihenfolge zu verwenden:
        +-----------------------+-------------------------------------------------------+
        | Art der Frage         | Referenz                                              |
        +=======================+=======================================================+
-       | Rechtschreibung       | `Duden`_, siehe auch  `Rechtschreibregeln`_           |
+       | Rechtschreibung       | `Duden`_, :abbr:`s.a. (siehe auch)`                   |
+       |                       | `Rechtschreibregeln`_, `DWDS-Wörterbuch`_             |
        +-----------------------+-------------------------------------------------------+
        | Nichttechnischer Stil | Universität Stuttgart: `Redaktionsleitfaden und       |
        |                       | Webstyleguide`_, siehe auch Bundeszentrale für        |
@@ -74,6 +75,8 @@ Inhalt dadurch besser wird.
 .. _`Duden`: https://www.duden.de/
 .. _`Rechtschreibregeln`:
     https://www.duden.de/sprachwissen/rechtschreibregeln
+.. _`DWDS-Wörterbuch`:
+    https://www.dwds.de
 .. _`Redaktionsleitfaden und Webstyleguide`:
     https://www.beschaeftigte.uni-stuttgart.de/uni-services/oeffentlichkeitsarbeit/projekt-more/more-dateien/Redaktionsleitfaden_web.pdf
 .. _`einfach POLITIK: Lexikon`:
