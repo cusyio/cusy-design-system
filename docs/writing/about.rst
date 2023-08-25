@@ -2,14 +2,14 @@
 ===============================
 
 Dieser Leitfaden enthält redaktionelle Richtlinien für das Schreiben klarer und
-konsistenter Cusy-bezogener Dokumentation.
+konsistenter cusy-bezogener Dokumentation.
 
 Wenn dieser Leitfaden neu für euch ist, und ihr nach einführenden Themen zu
 unserem Stil sucht, dann beginnt mit den Abschnitten :doc:`highlights`,
-:doc:`Stimme und Tonfall <voice-tone>` sowie der Zusammenfassung zur
-:doc:`Schreibstil <writing-style>`. Andernfalls könnt ihr den Leitfaden als
-Referenzdokument für spezifische Fragen verwenden. Zum Beispiel könnt ihr
-Begriffe in der :doc:`Wortliste <wordlist>` nachschlagen.
+:doc:`Stimme und Tonfall <voice-tone>` sowie :doc:`Schreibstil <writing-style>`.
+Andernfalls könnt ihr den Leitfaden als Referenzdokument für spezifische Fragen
+verwenden. Zum Beispiel könnt ihr Begriffe in der :doc:`Wortliste <wordlist>`
+nachschlagen.
 
 Redaktionelle Ressourcen
 ------------------------
@@ -19,9 +19,9 @@ Reihenfolge zu verwenden:
 
 #. Projektspezifischer Stil
 
-   Befolgt die projekt- oder produktspezifischen Stilrichtlinien, z.B.
-   notwendige Ausnahmen von diesem Leitfaden oder Begriffe, die nur für euer
-   spezifisches Produkt relevant sind.
+   Befolgt die projekt- oder produktspezifischen Stilrichtlinien, :abbr:`z.B.
+   (zum Beispiel)` notwendige Ausnahmen von diesem Leitfaden oder Begriffe, die
+   nur für euer spezifisches Produkt relevant sind.
 
 #. Dieser redaktionelle Leitfaden
 
@@ -31,7 +31,7 @@ Reihenfolge zu verwenden:
 #. Externe Referenzen
 
    Wenn die vorangegangenen Referenzen keine explizite Anleitung bieten, dann
-   lest diese externen Referenzen, abhängig von der Art ihrer Frage:
+   lest diese externen Referenzen, abhängig von der Art eurer Frage:
 
    .. table:: Externe Referenzen je nach Fragestellung
 
@@ -66,7 +66,7 @@ Informationstechnologie:
 Brecht die Regeln
 -----------------
 
-> Brecht eher eine dieser Regeln, als dass ihr etwas schreckliches sagt.
+    Brecht eher eine dieser Regeln, als dass ihr etwas schreckliches sagt.
 
 – George Orwell, «Politik und englische Sprache» (1946)
 
