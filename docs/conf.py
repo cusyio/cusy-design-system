@@ -14,7 +14,7 @@
 # -- Project information -----------------------------------------------------
 
 project = "Cusy Design System"
-copyright = "2022–2021, Cusy GmbH"
+copyright = "2020–2024, Cusy GmbH"
 author = "Veit Schiele"
 
 # The full version, including alpha/beta/rc tags
