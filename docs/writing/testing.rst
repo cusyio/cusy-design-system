@@ -8,7 +8,7 @@ problemloser.
 Continuous Integration
 ----------------------
 
-Wir überprüfen systematisch, ob die Dokumentation des Cusy-Design-System
+Wir überprüfen systematisch, ob die Dokumentation des cusy Design-System
 erstellt werden kann und zeigen euch dies auch mit folgendem Abzeichen
 (:abbr:`engl. (englisch)`: Badge) an: |Docs|.
 
@@ -17,7 +17,7 @@ erstellt werden kann und zeigen euch dies auch mit folgendem Abzeichen
 
 Dieses Abzeichen wird vom Dokumentationsserver `Read the Docs
 <https://readthedocs.org/>`_, auf dem unsere Dokumentation des
-Cusy-Design-System veröffentlicht wird, bereitgestellt.
+cusy Design-System veröffentlicht wird, bereitgestellt.
 
 Weitere automatisch generierte Abzeichen findet ihr auf unserer Seite
 :doc:`../index` mit Hinweisen zur Anzahl der Mitwirkenden, zur

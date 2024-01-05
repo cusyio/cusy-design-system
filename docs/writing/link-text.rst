@@ -95,7 +95,7 @@ angegeben werden:
 
 .. code-block:: html
 
-    <a href="mailto:info@cusy.io?cc=info@cusy.io, support@cusy.io&subject=Cusy%20Support&body=Hier%20kann%der%20Haupttext%20stehen">
+    <a href="mailto:info@cusy.io?cc=info@cusy.io, support@cusy.io&subject=cusy%20Support&body=Hier%20kann%der%20Haupttext%20stehen">
     Schreibt uns!
     </a>
 

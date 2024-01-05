@@ -13,8 +13,8 @@
 # sys.path.insert(0, os.path.abspath('.'))
 # -- Project information -----------------------------------------------------
 
-project = "Cusy Design System"
-copyright = "2020–2024, Cusy GmbH"
+project = "cusy Design-System"
+copyright = "2020–2024, cusy GmbH"
 author = "Veit Schiele"
 
 # The full version, including alpha/beta/rc tags
@@ -71,7 +71,7 @@ html_theme = "furo"
 # documentation.
 #
 # Change default HTML title
-html_title = "Cusy Design System 0.1.0"
+html_title = "cusy Design-System 0.1.0"
 
 # html_theme_options = {}
 # html_sidebars = {}
@@ -104,7 +104,7 @@ latex_documents = [
     (
         master_doc,
         "cusy-design-system.tex",
-        "Cusy Design System",
+        "cusy Design-System",
         "Veit Schiele",
         "manual",
     ),

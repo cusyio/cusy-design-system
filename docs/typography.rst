@@ -8,7 +8,7 @@ Layout bestimmt.
 Schrift
 -------
 
-Das Cusy-Design-System verwendet die Open-Source-Schrift **M+ 2c**. Sie kann
+Das cusy Design-System verwendet die Open-Source-Schrift **M+ 2c**. Sie kann
 aus dem `M+ Fonts <https://github.com/rayshan/mplus-fonts>`_-Repository
 heruntergeladen werden.
 
@@ -29,11 +29,11 @@ Mono
 Skalierung
 ----------
 
-Die Cusy Schriftskala basiert auf einerseits auf dem Goldenen Schnitt,
+Die cusy Schriftskala basiert auf einerseits auf dem Goldenen Schnitt,
 andererseits auf der Verdoppelung, um die Texte hierarchisch zu
 strukturieren:
 
-.. table:: Cusy Schriftskala
+.. table:: cusy Schriftskala
 
     +--------+--------+
     | rem    | px     |
@@ -52,18 +52,18 @@ strukturieren:
 Gewichte
 --------
 
-Die Schriftgröße wird im Cusy Design System für die hierarchische Gliederung
+Die Schriftgröße wird im cusy Design-System für die hierarchische Gliederung
 der Texte verwendet. Eine fettere Schrift innerhalb eines Textes betont jedoch
 diesen Textabschnitt.
 
 Die Wirkung der Schriftstärke unterscheidet sich jedoch zwischen dem
-Cusy-Dark-Theme und dem Cusy-Light-Theme:
+cusy Dark-Theme und dem cusy Light-Theme:
 
 .. table:: Schriftstärke in Abhängigkeit von Textabschnitt, Dark- und
            Light-Theme
 
     +-----------------+--------------------------+--------------------------+
-    | Format          | Cusy-Dark-Theme          | Cusy-Light-Theme         |
+    | Format          | cusy Dark-Theme          | cusy Light-Theme         |
     +=================+==========================+==========================+
     | Überschrift     | Bold                     | Medium                   |
     +-----------------+--------------------------+--------------------------+
@@ -87,22 +87,23 @@ Namen unterschiedlich kenntlich gemacht:
   Beispiel)` das »PyViz-Tutorial«.
 * Für Fachbegriffe wird bei Mouseover ein Tooltip mit dem Beginn der
   Kurzbeschreibung angezeigt.
-* Namen werden nur mit ®, ™ o.ä. ausgezeichnet, sofern zutreffend.
+* Namen werden nur mit ®, ™ :abbr:`o.ä. (oder ähnlich)` ausgezeichnet, sofern
+  zutreffend.
 
 Textfarbe
 ---------
 
-Überschriften werden in der Cusy-Hausfarbe Purple ``rgba(132, 14, 255, 1)``
+Überschriften werden in der cusy Hausfarbe Purple ``rgba(132, 14, 255, 1)``
 gestaltet.
 
-Text soll neutral erscheinen, also * White* im Cusy-Dark-Theme und *Black* im
-Cusy-Light-Theme.
+Text soll neutral erscheinen, also * White* im cusy Dark-Theme und *Black* im
+cusy Light-Theme.
 
 Links erhalten die Farbe *Blue*.
 
 Syntax-Hervorhebungen in Quellcode erfolgen mit `Highlight.js plugin for Vue.js
 <https://github.com/highlightjs/vue-plugin>`_  und unterscheiden zwischen
-Cusy-Dark-Theme und Cusy-Light-Theme.
+cusy Dark-Theme und cusy Light-Theme.
 
 Weitere Farben dürfen nur verwendet werden, sofern sie bedeutend sind,
 :abbr:`z.B. (zum Beispiel)`

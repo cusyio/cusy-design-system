@@ -8,13 +8,13 @@
         <rdf:Description about="https://github.com/cusyio/cusy-design-system/blob/main/docs/accessibility/visual-inv.svg">
           <dc:title>Accessible for blind and visually impaired people</dc:title>
           <dc:creator>Veit Schiele, Berlin</dc:creator>
-          <dc:publisher>Cusy GmbH</dc:publisher>
+          <dc:publisher>cusy GmbH</dc:publisher>
           <dc:subject>Accessibility, Blind, Visually impaired</dc:subject>
           <dc:description>Accessible for blind and visually impaired people.</dc:description>
           <dc:identifier>https://github.com/cusyio/cusy-design-system/blob/main/docs/accessibility/visual-inv.svg</dc:identifier>
           <dc:relation>https://cusy-design-system.readthedocs.io/de/latest/accessibility/events.html</dc:relation>
           <dc:source>https://github.com/cusyio/cusy-design-system/blob/main/docs/accessibility/visual-inv.svg</dc:source>
-          <dc:rights>Copyright 2021 Cusy GmbH</dc:rights>
+          <dc:rights>Copyright 2021 cusy GmbH</dc:rights>
           <dc:format>image/svg+xml</dc:format>
           <dc:type>Image</dc:type>
           <dc:date>2021-07-13</dc:date>

@@ -4,7 +4,7 @@ Farbe
 Einführung
 ----------
 
-Die Komponenten des Cusy-Design-System wurden entwickelt, um das gesamte
+Die Komponenten des cusy Design-System wurden entwickelt, um das gesamte
 Spektrum von Sehbehinderungen zu berücksichtigen. Beim Entwickeln des Systems
 achten wir jedoch sorgfältig darauf, dass die Komponenten auch korrekt
 verwendet werden.
@@ -25,7 +25,7 @@ semantisch auszeichnen, :abbr:`z.B. (zum Beispiel)`:
 Farbkontrast
 ------------
 
-Das Cusy-Design-System erfüllt die `WCAG AA-Standards
+Das cusy Design-System erfüllt die `WCAG AA-Standards
 <https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html>`_
 für die beiden Standard-Themes des Systems, einschließlich der
 Farbkontrastverhältnisse.

@@ -5,18 +5,18 @@ Zugänglichkeit
 --------------
 
 Barrierefreies Design hilft nicht nur Personen mit Einschränkungen, es
-bietet auch  bessere Erfahrungen für alle. Alle Cusy-Design-Komponenten
+bietet auch  bessere Erfahrungen für alle. Alle cusy Design-Komponenten
 berücksichtigen die `Web Content Accessibility Guidelines (WCAG) 2.0
 <https://www.w3.org/Translations/WCAG20-de/>`_, `Section 508
 <https://www.section508.gov/>`_ und europäischen Standards. Die Muster des
-Cusy-Design-System sind für Personen wahrnehmbar, bedienbar und verständlich,
+cusy Design-System sind für Personen wahrnehmbar, bedienbar und verständlich,
 selbst wenn ein Screen-Reader oder andere unterstützende Technologien verwendet
 werden.
 
-Die Verwendung des Cusy Design System wirkt sich jedoch auch auf die
+Die Verwendung des cusy Design System wirkt sich jedoch auch auf die
 Zugänglichkeit eines Produkts aus. Lest diese Seite, um mehr über
 Barrierefreiheit im Allgemeinen zu erfahren. Verwendet dann während der Arbeit
-die rollenspezifischen Richtlinien zur Barrierefreiheit des Cusy Design System,
+die rollenspezifischen Richtlinien zur Barrierefreiheit des cusy Design-System,
 um Produkte herzustellen, die jede*r verwenden kann.
 
 Damit ein Produkt als zugänglich angesehen werden kann, sollte es

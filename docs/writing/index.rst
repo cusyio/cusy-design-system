@@ -3,10 +3,10 @@ Schreiben
 
 Gut geschriebene Texte ermöglichen es Menschen, unsere Informationen mit
 Leichtigkeit zu nutzen. Diese Richtlinien wurden anhand von Beispielen aus der
-Praxis entwickelt und richten sich an alle, die für Cusy technische
+Praxis entwickelt und richten sich an alle, die für cusy technische
 Dokumentationen schreiben.
 
-Cusy-Texte sind bestens wenn
+cusy-Texte sind bestens wenn
 
 * sie schön dargestellt sind
 * sie keine impliziten Annahmen treffen

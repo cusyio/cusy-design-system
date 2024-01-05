@@ -13,7 +13,7 @@ Dieser Stil verwendet überwiegend Kleinbuchstaben. Lediglich der
 Anfangsbuchstabe des ersten Wortes im Text oder andere Worte, die
 großgeschrieben werden müssen, wie Eigennamen.
 
-Das Cusy-Design-System unterstützt kein Konzept *wichtiger* oder *besonderer*
+Das cusy-Design-System unterstützt kein Konzept *wichtiger* oder *besonderer*
 Wörter, da diese Bedeutung höchst subjektiv ist und schnell zu Inkonsistenzen
 innerhalb einer Organisation führen kann. Eine Ausnahme hiervon bilden
 markenrechtlich geschützte Namen.
@@ -31,7 +31,7 @@ Großbuchstaben
 Großbuchstaben sollten verwendet werden
 
 * wenn das Wort einen Satz oder eine Phrase beginnt
-* bei Namen, :abbr:`z.B. (zum Beispiel)` *Cusy-Design-System*
+* bei Namen, :abbr:`z.B. (zum Beispiel)` *cusy Design-System*
 * bei Initialismen wie :abbr:`z.B. (zum Beispiel)` BBC, HTML oder Akronymen wie
   :abbr:`NASA (National Aeronautics and Space Administration)`
 * bei Verweisen auf Label der Bedienoberfläche, die selbst großgeschrieben
@@ -113,7 +113,7 @@ erwartet.
 Inklusive Sprache
 -----------------
 
-Cusy setzt sich für die Verwendung einer Sprache ein, die rassistische,
+cusy setzt sich für die Verwendung einer Sprache ein, die rassistische,
 kulturelle oder geschlechtsspezifische Vorurteile beseitigt.
 
 Vermeidet Analogien, Gleichnisse und Metaphern, die stark von Demographie,

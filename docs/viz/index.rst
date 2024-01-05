@@ -1,7 +1,7 @@
 Datenvisualisierung
 ===================
 
-Mithilfe von Cusy-Charts könnt ihr genaue und überzeugende Geschichten rund um
+Mithilfe von cusy-Charts könnt ihr genaue und überzeugende Geschichten rund um
 Daten mit schönen und zugänglichen Visualisierungen erzählen.
 
 .. toctree::

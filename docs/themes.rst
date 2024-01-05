@@ -2,12 +2,12 @@ Design-Themen
 =============
 
 Mithilfe von Design-Themen können vorhandene Komponenten an einen bestimmten
-visuellen Stil angepasst werden. Dabei werden im Cusy Design System meist nur
+visuellen Stil angepasst werden. Dabei werden im cusy Design-System meist nur
 eine Reihe universeller Variablen geändert und die meisten Komponenten passen
 sich dann automatisch an. Lediglich in Ausnahmefällen müssen einzelne
 Komponenten geändert werden.
 
-Das Cusy Design System bietet zwei verschiedene Design-Themen, wie auf der Seite
+Das cusy Design-System bietet zwei verschiedene Design-Themen, wie auf der Seite
 :doc:`viz/colors` gezeigt: *Dark* und *Light*. Beide Themen können in CSS
 angegeben werden mit:
 

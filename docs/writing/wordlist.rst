@@ -2,7 +2,7 @@ Wortliste
 =========
 
 .. note::
-   Dieses Dokument enthält Verweise auf Begriffe, die Cusy als respektlos oder
+   Dieses Dokument enthält Verweise auf Begriffe, die cusy als respektlos oder
    beleidigend betrachtet. Die Begriffe sind hier aufgeführt, um Hinweise
    zu alternativen Begriffe zu geben.
 

@@ -86,7 +86,7 @@ Genderneutrale Begriffe
 .. vale on
 
 Bei gendersensibler Sprache werden alle Geschlechter oder Identitäten
-gleichermaßen sichtbar und wertschätzend angesprochen. Wenn wir bei Cusy diese
+gleichermaßen sichtbar und wertschätzend angesprochen. Wenn wir bei cusy diese
 Vielfalt sichtbar machen wollen, verwenden wir das Gendersternchen in
 geschlechtlichen Begriffen. Damit wollen wir zum Ausdruck bringen, dass es mehr
 als nur zwei Geschlechter gibt und die Zuordnungen soziale Konstrukte sind.
