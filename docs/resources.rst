@@ -4,12 +4,6 @@ Ressourcen
 Entwicklungsressourcen
 ----------------------
 
-GitHub-Repo
-~~~~~~~~~~~
-
-* `github.com/cusyio/cusy-design-system
-  <https://github.com/cusyio/cusy-design-system>`_
-
 Design-Ressourcen
 -----------------
 
@@ -29,7 +23,7 @@ Farben, Raster und Symbole
 
 .. todo::
 
-   Cusy-Icon-Bibliothek
+   cusy-Icon-Bibliothek
 
 Werkzeuge
 ---------

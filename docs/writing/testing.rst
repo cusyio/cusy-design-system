@@ -20,8 +20,8 @@ Dieses Abzeichen wird vom Dokumentationsserver `Read the Docs
 Cusy-Design-System veröffentlicht wird, bereitgestellt.
 
 Weitere automatisch generierte Abzeichen findet ihr auf unserer Seite
-:doc:`../intro` mit Hinweisen zur Anzahl der Mitwirkenden, zur
-Aktualisierungshäufigkeit und zur Lizenz.
+:doc:`../index` mit Hinweisen zur Anzahl der Mitwirkenden, zur
+Aktualisierungshäufigkeit, zur Lizenz und zu Mastodon.
 
 Solche Abzeichen lassen sich jedoch nicht nur verwenden um den Status eures
 Projekts zu dokumentieren, sondern auch um einen stets aktuellen Überblick über
