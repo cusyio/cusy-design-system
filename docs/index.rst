@@ -126,7 +126,6 @@ Design-System nutzen wollen:
     typography
     viz/index
     resources
-    genindex
     GitHub <https://github.com/cusyio/cusy-design-system>
 
 

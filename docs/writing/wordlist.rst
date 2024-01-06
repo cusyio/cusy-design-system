@@ -17,7 +17,7 @@ Wortliste
 
 .. glossary::
 
-    ❌ 1.2.3.4
+    ❌ :samp:`1.2.3.4`
     IP-Adressen
         Verwendet in Beispielkonfigurationen keine öffentlich zugänglichen
         IP-Adressen, die ihr nicht selbst kontrollieren könnt. Verwendet
@@ -31,15 +31,15 @@ Wortliste
 
         Siehe auch :term:`Domänennamen`.
 
-    3D
-        nicht 3-D
+    ✅ 3D
+        nicht ❌ 3-D
 
 Symbole
 ~~~~~~~
 
 .. glossary::
 
-    & (et-Zeichen)
+    ⚠️ & (et-Zeichen)
         Verwendet *&* nicht anstelle von *und*  in Überschriften oder Texten;
         wenn ihr auf Elementen der Benutzeroberfläche oder in
         Tabellenüberschriften eine  Abkürzung verwenden wollt, dann nutzt *u.*;
@@ -56,7 +56,9 @@ A-Z
 
     API
         verwendet das Akronym API erst, nachdem ihr den Begriff erläutert habt,
-        nämlich (engl. **A**\pplication **P**\rogramming **I**\nterface)
+        nämlich (engl. **A**\pplication **P**\rogramming **I**\nterface) oder,
+        noch besser, in einem ``<abbr>``-Tag: :abbr:`API
+        (Programmierschnittstelle, engl. Application Programming Interface)`.
 
     Authentifizierung und Autorisierung
         solltet ihr nur verwenden, wenn *authentifiziert* sich auf Personen
@@ -72,12 +74,15 @@ A-Z
     Beta
         geschrieben mit Großbuchstaben am Anfang.
 
-        * ✅ PACKAGE_NAME Beta
-        * ✅ PACKAGE_NAME ist derzeit in der Beta-Phase.
+        * ✅ *PACKAGE_NAME* Beta
+        * ✅ *PACKAGE_NAME* ist derzeit in der Beta-Phase.
 
     CLI
         verwendet das Akronym CLI erst, nachdem ihr den Begriff erläutert habt,
-        nämlich (engl. **C**\ommand **L**\ine **I**\nterface)
+        nämlich (engl. **C**\ommand-**L**\ine **I**\nterface) oder, noch besser,
+        in einem ``<abbr>``-Tag: :abbr:`CLI (Kommandozeile, engl. Command-line
+        interface)`.
+
 
     ❌ cons
         Verwendet stattdessen *Nachteile*.
@@ -97,15 +102,15 @@ A-Z
         * ✅ ``example.net``
         * ✅ ``.example``
 
-    Hier klicken
+    ❌ Hier klicken
         solltet ihr nicht verwenden; für Details und Alternativen siehe
         :doc:`link-text`.
 
-    HTTPS
+    ✅ HTTPS
         nicht *HTTPs*
 
-    IPsec
-        nicht *IPSec* or *IPSEC*. Akronym für *Internet Protocol Security*.
+    ✅ :abbr:`IPsec (Internet Protocol Security)`
+        nicht *IPSec* oderr *IPSEC*.
 
     ❌ K8s
         Verwendet stattdessen *Kubernetes*.
@@ -117,7 +122,7 @@ A-Z
         Vermeidet die Verwendung geschlechtsspezifischer Begriffe. Verwendet
         stattdessen Begriffe wie *Personal* oder *Arbeitskraft*.
 
-    Markdown
+    ✅ Markdown
         Wird immer großgeschrieben, auch wenn ihr euch auf eine nicht
         standardisierte Version bezieht.
 
@@ -137,7 +142,7 @@ A-Z
 
         Siehe :term:`❌ Slave`.
 
-    N/A
+    ✅ N/A
         nicht NA. Erläutert es bei der ersten Verwendung als *nicht verfügbar*
         oder *nicht anwendbar*.
 
@@ -202,7 +207,7 @@ A-Z
     ❌ Smartphone
         Verwendet stattdessen *Mobiltelefon*.
 
-    ssh und SSH
+    ⚠️ ssh und SSH
         Verwendet ssh wenn ihr euch auf das Terminal-Werkzeug bezieht. Verwendet
         hingegen SSH wenn ihr euch auf das Kommunikationsprotokoll bezieht.
 
@@ -224,10 +229,10 @@ A-Z
         verwendet es nicht, da es ein spezifisches Layout voraussetzt; verwendet
         stattdessen *nachfolgend*.
 
-    URL
-        in Großbuchstaben; der Plural ist URLs. Schreibt *der URL*.
+    ✅ URL, der
+        in Großbuchstaben; der Plural ist URLs.
 
-    :abbr:`v (Version)`
+    ✅ :abbr:`v (Version)`
         verwendet die Kleinschreibung zur Abkürzung von Version.
 
     ❌ via
@@ -249,10 +254,10 @@ A-Z
         zu beschreiben, :abbr:`z.B. (zum Beispiel)` *Website von …*,
         *Website-Administration* :abbr:`etc. (etcetera)`
 
-    Web-Server
+    ✅ Web-Server
         nicht Webserver
 
-    Website
+    ✅ Website
         nicht Web-Site
 
     ❌ White-box
@@ -265,7 +270,7 @@ A-Z
     ❌ Whitelist
         siehe :term:`❌ Schwarze Liste, Blacklist, Black-List`
 
-    Wi-Fi
+    ✅ Wi-Fi
         nicht wifi oder WiFi. Dies bezeichnet sowohl das Firmenkonsortium wie
         auch die zugehörigen Markenbegriffe; WLAN hingegen bezeichnet das
         Funknetzwerk.
