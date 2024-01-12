@@ -1,6 +1,8 @@
 Karten
 ======
 
+.. _heatmap:
+
 Heatmaps
 --------
 
@@ -10,6 +12,8 @@ einzelne in einer Matrix enthaltene Werte als Farben dargestellt werden.
 .. figure:: heatmap.png
    :alt: Spitzentemperatur über die Zeit
 
+.. _tree-map:
+
 Tree Maps
 ---------
 
@@ -18,8 +22,13 @@ Strukturen mit ineinander verschachtelten Rechtecken. Damit können anschaulich
 Größenverhältnisse dargestellt werden, indem die Fläche der Rechtecke
 proportional zur Datenmenge dargestellt wird.
 
+.. figure:: treemap.png
+   :alt: Treemap
+
 Geographische Karten mit Überlagerungen
 ---------------------------------------
+
+.. _choropleth:
 
 Choroplethenkarten
 ~~~~~~~~~~~~~~~~~~
@@ -33,6 +42,8 @@ einer Eigenschaft oder Menge in diesen Bereichen anzugeben.
 
    Beispiel einer Choroplethenkarte
 
+.. _proportional-symbol:
+
 Symbole für Proportionen
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -44,6 +55,8 @@ Kreisfläche proportional zu ihrem Wert im Datensatz ist.
    :alt: Symbol für Proportionen überlagert eine geographische Karte
 
    Beispiel eines proportionalen Symbols
+
+.. _connecting-lines:
 
 Verbindungskarten
 ~~~~~~~~~~~~~~~~~

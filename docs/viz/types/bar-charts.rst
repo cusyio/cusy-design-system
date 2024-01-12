@@ -11,6 +11,8 @@ vergleichen oder Trends im Zeitverlauf anzuzeigen.
 .. figure:: bar-timeseries.png
    :alt: Einfaches Balkendiagramm mit Zeitreihen
 
+.. _grouped-bar-charts:
+
 Gruppierte Balkendiagramme
 --------------------------
 
@@ -19,6 +21,8 @@ Kategorien hinweg zu vergleichen.
 
 .. figure:: bar-grouped-discrete.png
    :alt: Gruppierte Balken mit diskreten Werten
+
+.. _stacked-bar:
 
 Gestapelte Balkendiagramme
 --------------------------
@@ -31,6 +35,8 @@ zur Gesamtsumme.
    :alt: Gestapeltes Balkendiagramm mit diskreten Werten
 .. figure:: bar-stacked-timeseries.png
    :alt: Gestapeltes Balkendiagramm für Zeitreihen
+
+.. _horizontal-bar-charts:
 
 Horizontale Balkendiagramme
 ---------------------------

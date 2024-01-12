@@ -4,6 +4,8 @@ Graphen und Flussdiagramme
 Graphen
 -------
 
+.. _tree-diagram:
+
 Baumdiagramme
 ~~~~~~~~~~~~~
 
@@ -32,6 +34,8 @@ Kumulative Flussdiagramme
     <https://en.wikipedia.org/wiki/Queueing_theory>`_ verwendet.
 Zustandsübergangsdiagramme
     zur grafischen Darstellung endlicher Automaten
+
+.. _alluvial-diagram:
 
 .. figure:: flowchart.png
    :alt: Alluviales Diagramm

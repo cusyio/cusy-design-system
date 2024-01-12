@@ -1,6 +1,8 @@
 Streu- und Blasendiagramme
 ==========================
 
+.. _scatter:
+
 Streudiagramme
 --------------
 
@@ -9,6 +11,8 @@ an einer beliebigen Stelle entlang einer Skala zu zeichnen.
 
 .. figure:: scatter-timeseries.png
 .. figure:: scatter-discrete.png
+
+.. _bubble-charts:
 
 Blasendiagramme
 ---------------

@@ -1,6 +1,8 @@
 Linien- und Flächendiagramme
 ============================
 
+.. _line-charts:
+
 Liniendiagramme
 ---------------
 
@@ -20,6 +22,8 @@ anzeigen und mehrere Datensätze vergleichen.
 .. figure:: line-curved-timeseries.png
    :alt: Liniendiagramm mit geschwungenen Kurven für Zeitreihen
 
+.. _area-charts:
+
 Flächendiagramme
 ----------------
 
@@ -28,6 +32,8 @@ sind mit Farben oder Mustern gefüllt.
 
 .. figure:: area-chart-discrete.png
    :alt: Flächendiagramm für diskrete Werte
+
+.. _stacked-area:
 
 Gestapelte Flächendiagramm
 --------------------------

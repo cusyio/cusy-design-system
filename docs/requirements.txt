@@ -3,3 +3,4 @@
 furo
 nbsphinx
 sphinxcontrib-svg2pdfconverter
+sphinx_design

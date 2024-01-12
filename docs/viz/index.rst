@@ -9,8 +9,8 @@ Daten mit schönen und zugänglichen Visualisierungen erzählen.
     :titlesonly:
     :maxdepth: 0
 
-    diagram-anatomy
     types/index
+    diagram-anatomy
     colors
     axes-and-labels
     legends

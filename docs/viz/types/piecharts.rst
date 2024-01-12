@@ -1,17 +1,23 @@
 Kreis- und Ringdiagramme
 ========================
 
+.. _pie:
+
 Kreisdiagramm
 -------------
 
 .. figure:: pie.png
    :alt: Kreisdiagramm
 
+.. _donut:
+
 Ringdiagramm
 ------------
 
 .. figure:: donut.png
    :alt: Ringdiagramm
+
+.. _gauge:
 
 Halbkreisförmiges Ringdiagramm
 ------------------------------
