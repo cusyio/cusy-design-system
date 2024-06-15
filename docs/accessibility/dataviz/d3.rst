@@ -1,0 +1,90 @@
+D3.js
+=====
+
+`D3.js <https://d3js.org/>`_ ist eine Javascript-Bibliothek zur
+Datenvisualisierung. Um Datenvisualisierungen zugänglicher zu machen, haben wir
+ein paar Tipps zusammengestellt:
+
+#. Um die Farben zu erläutern, könnt ihr eine Legende hinzufügen, :abbr:`z.B.
+   (zum Beispiel)` mit:
+
+   .. code-block:: javascript
+
+    const legend = chart.append("g").attr("aria-label", "Legend");
+
+   Alternativ kann auch ein Titel hinzugefügt werden:
+
+   .. code-block:: javascript
+
+    const legend = chart.append("g");
+    legend.append("text")
+        .text("Legend")
+        .attr("class", "legendTitle");
+
+#. Nun können wir die Erläuterungen hinzufügen,  :abbr:`z.B.
+   (zum Beispiel)`:
+
+   .. code-block:: javascript
+
+    legend.append("rect")
+      .attr("fill", function(d){return hot(d) });
+
+    legend.append("text")
+       .text(">30 °C");
+
+#. Erläutern der Daten, :abbr:`z.B. (zum Beispiel)` für ein Balkendiagramm:
+
+   .. code-block:: javascript
+
+    chart.selectAll(".label")
+      .data(data)
+      .enter().append("text")
+      .text(row => row.year);
+
+#. Optisch sind die Daten jetzt schon sehr viel zugänglicher, aber mit
+   Bedienhilfen werden nun auch die Tage auf der x-Achse erschlossen,
+   und würden :abbr:`z.B. (zum Beispiel)` alle vorgelesen werden. Die
+   Zugänglichkeit würde deutlich erhöht werden, wenn die Ausgabe so etwas
+   liefern würde wie *Die durchschnittliche Jahrestemperatur betrug 2011 9,6
+   Grad Celsius*.
+
+   Hierfür sollten dann nicht zunächst die Daten durchlaufen werden und
+   anschließend die Achsenbeschriftungen sondern jedes Datum mit der zugehörigen
+   Erläuterung:
+
+   .. code-block:: javascript
+
+    const ticks = chart.selectAll(".tick")
+      .data(data)
+      .enter().append("g")
+      .attr("class", "tick");
+
+    ticks.append("text")
+      .text((data) => data.year);
+
+    ticks.append("text")
+      .text(row => row.temperature)
+      .attr("class", "label");
+
+   Dies gibt folgendes XML aus:
+
+   .. code-block:: xml
+
+    <g>
+      <text>2011</text>
+      <text>9,6 °C</text>
+    </g>
+    …
+
+#. Bei vielen Achswerten sollten :abbr:`evtl. (eventuell)` nicht alle Werte auf
+   der Achse angezeigt werden. ``display: none;`` oder ``visibility: hidden``
+   sind jedoch keine Lösung, da die Werte dann :abbr:`z.B. (zum Beispiel)` auch
+   nicht vorgelesen würden. Wir können jedoch die Positionierung der
+   Achsenbeschriftungen so verändern, dass sie außerhalb des sichtbaren Rahmens
+   stehen.
+
+.. seealso::
+   * `Accessibility in d3 Bar Charts
+     <https://www.a11ywithlindsey.com/blog/accessibility-d3-bar-charts>`_
+   * `Accessibility in d3 Donut Charts
+     <https://www.a11ywithlindsey.com/blog/accessibility-d3-donut-charts>`_

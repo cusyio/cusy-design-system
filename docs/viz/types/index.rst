@@ -231,7 +231,6 @@ einer höheren Datendichte.
 
 .. figure:: dotplot.png
    :alt: Punktdiagramm mit der Lebenserwartung aller Länder
-   :target: dotplot.png
 
 Ein Nachteil dieser Art von Diagrammen ist jedoch, dass sie
 Interaktivität erfordern, um jedes Land zu identifizieren, da zu wenig Platz zur
@@ -243,7 +242,6 @@ die Punkte sich dann überlappen.
 
 .. figure:: datashader.png
    :alt: Datashader
-   :target: datashader.png
 
    Quelle: PyViz-Tutorial: `Datashader
    <https://pyviz-tutorial.readthedocs.io/de/latest/bokeh/integration/datashader.html#datashader>`_
@@ -253,11 +251,9 @@ Diagramm.
 
 .. figure:: horizon-chart-ruys.png
    :alt: Horizon-Chart
-   :target: horizon-chart-ruys.png
 
 .. figure:: horizon-chart-ruys.gif
    :alt: Horizon-Chart
-   :target: horizon-chart-ruys.gif
 
    Quelle: `vizualism.nl
    <https://www.vizualism.nl/winnaar-infographicjaarprijs-2009/>`_
@@ -282,7 +278,6 @@ Beispiel war das Candlestick-Chart:
 
 .. figure:: datavizcatalogue-candlestick.svg
    :alt: Candlestick-Chart
-   :target: datavizcatalogue-candlestick.svg
 
    Quelle: `Frankfurt vies for UK banking jobs post-Brexit
    <https://www.ft.com/content/3f3ce35e-8c9b-11e6-8aa5-f79f5696c731>`_

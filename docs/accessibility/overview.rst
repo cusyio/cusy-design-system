@@ -60,7 +60,6 @@ umfasst diesen breiteren Ansatz:
 
 .. figure:: persona-spectrum-microsoft.png
    :alt: Strichzeichnungen von verschiedenen Arten von Behinderungen
-   :target: persona-spectrum-microsoft.png
 
 Blinde
 ~~~~~~
@@ -131,10 +130,10 @@ Webinhalten (WCAG) <https://www.w3.org/TR/WCAG21/>`_, dem globalen Standard für
 Barrierefreiheit. Version 2.0 wurde 2008 veröffentlicht und enthielt vier
 Zugänglichkeitsgrundsätze, die auch als *POUR*-Prinzipien bezeichnet werden.
 
-  * Perceivable (wahrnehmbar)
-  * Operable (bedienbar)
-  * Understandable (verständlich)
-  * Robust
+* :doc:`dataviz/pour-caf/perceivable`
+* :doc:`dataviz/pour-caf/operable`
+* :doc:`dataviz/pour-caf/understandable`
+* :doc:`dataviz/pour-caf/robust`
 
 WCAG 2.0 – und auch die aktuelle empfohlene Version 2.1 – hat drei
 Konformitätsstufen:

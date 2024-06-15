@@ -15,5 +15,5 @@ Barrierefreiheit bereit.
     color
     keyboard
     developers
-    dataviz
+    dataviz/index
     events
