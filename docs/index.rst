@@ -2,9 +2,9 @@
 cusy Design-System
 ==================
 
-Das `cusy Design-System <https://cusy-design-system.readthedocs.io/>`_ ist für
-Produkte und digitale Erlebnisse. Es besteht aus funktionierendem Code,
-Design-Tools und -Ressourcen und Richtlinien für die Benutzeroberfläche.
+Das `cusy Design-System <https://cusy.design/>`_ ist für Produkte und digitale
+Erlebnisse. Es besteht aus funktionierendem Code, Design-Tools und -Ressourcen
+und Richtlinien für die Benutzeroberfläche.
 
 Ein Design-System ist eine Sammlung vorgefertigter, wiederverwendbarer Elemente
 – Komponenten, Muster, Anleitungen und Code –, mit denen konsistente digitale
@@ -58,9 +58,9 @@ Status
 .. |License| image:: https://img.shields.io/github/license/cusyio/cusy-design-system.svg
    :target: https://github.com/cusyio/cusy-design-system/blob/main/LICENSE
 .. |Docs| image:: https://readthedocs.org/projects/cusy-design-system/badge/?version=latest
-   :target: https://cusy-design-system.readthedocs.io/de/latest/
+   :target: https://cusy.design/de/latest/
 .. |Mastodon| image:: https://img.shields.io/badge/dynamic/json?label=Mastodon&query=totalItems&url=https%3A%2F%2Fmastodon.social%2F@CusyDesign%2Ffollowers.json&logo=mastodon
-   :target: https://cusy-design-system.readthedocs.io/de/latest/
+   :target: https://cusy.design/de/latest/
 
 Wir unterstützen die Adoption
 -----------------------------

@@ -8,7 +8,7 @@ Schnelleinstieg
 .. |License| image:: https://img.shields.io/github/license/cusyio/cusy-design-system.svg
    :target: https://github.com/cusyio/cusy-design-system/blob/master/LICENSE
 .. |Docs| image:: https://readthedocs.org/projects/cusy-design-system/badge/?version=latest
-   :target: https://cusy-design-system.readthedocs.io/de/latest/
+   :target: https://cusy.design
 
 .. first-steps::
 
@@ -113,8 +113,7 @@ Folge uns
 ---------
 
 * `GitHub <https://github.com/cusyio/cusy-design-system>`_
-* `Twitter <https://twitter.com/CusyDesign>`_
-* `Mastodon <https://mastodon.social/web/accounts/1122757>`_
+* `Mastodon <https://mastodon.social/@cusyDesign>`_
 
 Pull-Requests
 -------------

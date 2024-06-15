@@ -12,7 +12,7 @@
           <dc:subject>Accessibility, Blind, Visually impaired</dc:subject>
           <dc:description>Accessible for blind and visually impaired people.</dc:description>
           <dc:identifier>https://github.com/cusyio/cusy-design-system/blob/main/docs/accessibility/visual.svg</dc:identifier>
-          <dc:relation>https://cusy-design-system.readthedocs.io/de/latest/accessibility/events.html</dc:relation>
+          <dc:relation>https://cusy.design/de/latest/accessibility/events.html</dc:relation>
           <dc:source>https://github.com/cusyio/cusy-design-system/blob/main/docs/accessibility/visual.svg</dc:source>
           <dc:rights>Copyright 2021 cusy GmbH</dc:rights>
           <dc:format>image/svg+xml</dc:format>

@@ -1,6 +1,6 @@
 extends: existence
 message: 'Verwendet nicht “%s” in technischen Dokumentationen.'
-link: 'https://cusy-design-system.readthedocs.io/de/latest/writing/voice-tone.html#seid-hofflich'
+link: 'https://cusy.design/de/latest/writing/voice-tone.html#seid-hofflich'
 level: warning
 ignorecase: true
 tokens:

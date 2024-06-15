@@ -25,21 +25,27 @@ Damit ein Produkt als zugänglich angesehen werden kann, sollte es
   Fähigkeiten
 * von allem Personen dem jeweiligen Kontext angepasst werden können.
 
-Kategorien von Einschränkungen
-------------------------------
+Kategorien von Zugänglichkeit
+-----------------------------
 
-Einschränkungen können in drei Haupttypen unterteilt werden:
+Ein modernerer Blick auf die Zugänglichkeit geht über den Aspekt der
+Beeinträchtigungen hinaus und berücksichtigt den gesamten Kontext, in dem
+Menschen mit der Welt um sie herum interagieren:
+
+* ihre kognitiven Fähigkeiten
+* vorübergehende Beeinträchtigungen
+* Merkmale der Umgebung
 
 .. table:: Typen von Einschränkungen
 
     +--------------------------+-----------------------------------------------------+
     | Art                      | Beschreibung                                        |
     +==========================+=====================================================+
-    | situationsbedingt        |  Eine Person mit typischer Sehstärke kann z.B.      |
-    |                          |  Schwierigkeiten mit einem Bildschirm in heller     |
-    |                          |  Umgebung haben. Oder eine andere Person kann in    |
-    |                          |  einer Bibliothek ein Video nur mit ausgeschaltetem |
-    |                          |  Ton ansehen.                                       |
+    | situationsbedingt        |  Eine Person mit typischer Sehstärke kann           |
+    |                          |  :abbr:`z.B. (zum Beispiel)` Schwierigkeiten mit    |
+    |                          |  einem Bildschirm in heller Umgebung haben. Oder    |
+    |                          |  eine andere Person kann in einer Bibliothek ein    |
+    |                          |  Video nur mit ausgeschaltetem Ton ansehen.         |
     +--------------------------+-----------------------------------------------------+
     | temporär                 | Eine Person mit gebrochenem Handgelenk kann         |
     |                          | möglicherweise nicht tippen, erlangt jedoch die     |
@@ -48,6 +54,13 @@ Einschränkungen können in drei Haupttypen unterteilt werden:
     | andauernd                | Meist wird nur diese Art als »Behinderung«          |
     |                          | verstanden.                                         |
     +--------------------------+-----------------------------------------------------+
+
+Microsofts `Inclusive Design <https://www.microsoft.com/design/inclusive/>`_
+umfasst diesen breiteren Ansatz:
+
+.. figure:: persona-spectrum-microsoft.png
+   :alt: Strichzeichnungen von verschiedenen Arten von Behinderungen
+   :target: persona-spectrum-microsoft.png
 
 Blinde
 ~~~~~~
@@ -110,16 +123,63 @@ Kognitive Einschränkungen
 Globale Barrierestandards
 -------------------------
 
-* Die `Web Accessibility Initiative (WAI) <https://www.w3.org/WAI/>`_ des `World
-  Wide Web Consortium (W3C) <https://www.w3.org/WAI/>`_ ist ein Versuch, die
-  Zugänglichkeit des World Wide Web für Menschen aller Fähigkeiten zu
-  verbessern.
-* Mitwirkende der WAI erstellen und pflegen `Richtlinien zur Barrierefreiheit
-  von Webinhalten (WCAG) <https://www.w3.org/TR/WCAG21/>`_, dem globalen
-  Standard für Barrierefreiheit.
-* Im `ARIA Authoring Practices Guide <https://www.w3.org/WAI/ARIA/apg/>`_ wird
-  euch gezeigt, wie barrierefreie Semantik in Web-Patterns und Widgets eingebaut
-  werden kann.
+Die `Web Accessibility Initiative (WAI) <https://www.w3.org/WAI/>`_ des `World
+Wide Web Consortium (W3C) <https://www.w3.org/WAI/>`_ ist ein Versuch, die
+Zugänglichkeit des World Wide Web für Menschen aller Fähigkeiten zu verbessern.
+Mitwirkende der WAI erstellen und pflegen `Richtlinien zur Barrierefreiheit von
+Webinhalten (WCAG) <https://www.w3.org/TR/WCAG21/>`_, dem globalen Standard für
+Barrierefreiheit. Version 2.0 wurde 2008 veröffentlicht und enthielt vier
+Zugänglichkeitsgrundsätze, die auch als *POUR*-Prinzipien bezeichnet werden.
+
+  * Perceivable (wahrnehmbar)
+  * Operable (bedienbar)
+  * Understandable (verständlich)
+  * Robust
+
+WCAG 2.0 – und auch die aktuelle empfohlene Version 2.1 – hat drei
+Konformitätsstufen:
+
+A: minimale Konformität
+    Einige der Anforderungen, um diese Stufe zu erreichen, sind:
+
+    * Alle Nicht-Text-Inhalte, wie Bilder und Videos, sollten eine
+      Textalternative haben.
+    * Aufgezeichnete Video- und Audioinhalte sollten mit Untertiteln versehen
+      sein.
+    * Der Inhalt einer Seite sollte nur mit einer Tastatur navigierbar sein.
+    * Die Seite sollte einen eindeutigen Titel haben und eine Sprache zugewiesen
+      bekommen.
+
+AA: akzeptable Konformität
+    Zusätzlich zu allen Anforderungen der Stufe A gelten für die Stufe AA
+    folgende Anforderungen:
+
+    * Live-Videos haben Untertitel
+    * Das Kontrastverhältnis zwischen Text und Hintergrund sollte mindestens
+      4,5:1 betragen.
+    * Der Text sollte bis zu 200% vergrößert werden können, ohne dass Inhalt
+      oder Funktionalität verloren gehen.
+    * Es sollten keine Bilder von Text verwendet werden
+    * Der Tastaturfokus ist immer deutlich sichtbar
+    * Vorschlag einer Korrektur, wenn ein Fehler gemacht wurde
+
+AAA: optimale Übereinstimmung
+    Diese Stufe erfordert alle Merkmale der Stufen A und AA, und zusätzlich:
+
+    * Gebärdensprachdolmetschung für Videos
+    * Das Kontrastverhältnis zwischen Text und Hintergrund sollte mindestens 7:1
+      betragen
+    * Die Personen müssen wissen, an welcher Stelle des Dokuments sie sich
+      befinden.
+    * Das Leseniveau sollte so sein, dass Personen mit neun Jahren Schulbildung
+      in der Lage sind, das Dokument zu lesen, und alle schwer auszusprechenden
+      Wörter sollten erklärt werden.
+    * Elemente auf einer Seite sollten nicht geändert werden, es sei denn, dies
+      wurde aktiv gefordert
+
+Im `ARIA Authoring Practices Guide <https://www.w3.org/WAI/ARIA/apg/>`_ wird
+euch gezeigt, wie barrierefreie Semantik in Web-Patterns und Widgets eingebaut
+werden kann.
 
 Ressourcen
 ----------
