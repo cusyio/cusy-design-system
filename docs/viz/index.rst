@@ -30,5 +30,6 @@ Daten mit schönen und zugänglichen Visualisierungen erzählen.
 
     structure
     diagram-anatomy/index
+    cognitive-load
     types/index
     dashboards
