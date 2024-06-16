@@ -1,5 +1,46 @@
+Farbe
+=====
+
+Farbe ist ein starker Gestaltungsmechanismus zur Schaffung einer visuellen
+Hierarchie. Sie kann signalisieren, welches die wichtigsten Elemente in einer
+Datenvisualisierung sind. Ein gängiges Muster ist die Verwendung
+
+#. einer auffälligen Farbe zur Hervorhebung und Kennzeichnung der
+   Datenmarkierungen oder Kategorien, die für die Aussage des Diagramms von
+   größter Bedeutung sind
+#. dezenterer Farben für andere sekundäre Datenmarkierungen oder Kategorien
+#. von Schwarz für die wichtigsten Textelemente, wie den Titel der
+   Visualisierung
+#. von Grau
+
+   * für weniger wichtige Datenmarken, die nur für den Kontext hinzugefügt
+     werden
+   * für unterstützende Diagrammelemente, wie Achsenbeschriftungen und
+     Gitterlinien
+
+.. figure:: colour-hierarchy.png
+   :alt: Farbhierarchie
+
+   Quelle: `Do vaccine mandates actually work?
+   <https://www.economist.com/graphic-detail/2022/01/22/do-vaccine-mandates-actually-work>`_
+
+.. _colour-hierarchy:
+
+Mit Farbe kann auch eine visuelle Hierarchie hergestellt werden. Dies wird
+:abbr:`z.B. (zum Beispiel)` in Material Design 3 verwendet, wobei die Höhe als
+der Abstand zwischen den Komponenten entlang der z-Achse in `dichteunabhängigen
+Pixeln (dps)
+<https://m2.material.io/design/layout/pixel-density.html#density-independence>`_
+gemessen wird:
+
+.. figure:: material-design-3-colour-hierarchy-1.png
+   :alt: Elevation in Material Design 3
+
+   Quelle: `Elevation
+   <https://m3.material.io/styles/elevation/applying-elevation>`_
+
 Farbpaletten
-============
+------------
 
 Die Farbpalette für Datenvisualisierungen ist eine ausgewählte Teilmenge der
 cusy-Design-Farbpalette. Sie wurde entwickelt, um die Zugänglichkeit und

@@ -5,6 +5,51 @@ Achsen und Beschriftungen bieten einen kritischen Kontext für Informationen in
 einem Diagramm. Verwendet einfache, leicht verständliche Beschreibungen und
 Metriken, um euer Diagramm und eure Achsen zu kennzeichnen.
 
+.. _z-axis:
+
+z-Achse
+-------
+
+Die z-Achse kann durch verschiedene Techniken simuliert werden:
+
+Ebenen
+~~~~~~
+
+Viele visuelle Designprogramme wie GIMP, Adobe Photoshop und Illustrator
+verwenden die Metapher der Ebenen für die Verwaltung der verschiedenen Elemente
+eines Designs. Ebenen werden jedoch auch in geografischen Informationssystemen
+verwendet:
+
+.. figure:: map_layers.png
+   :alt: Illustration der Ebenen einer Karte
+
+Dabei gibt es einige grundlegende Regeln, wie Elemente der Diagrammanatomie und die Datenpunkte übereinander gestapelt werden sollten:
+
+#. Der gesamte Text sollte sich über allen anderen Ebenen befinden.
+#. Datenmarkierungen (Punkte, Kreise, Balken, Linien, …) sollten über
+   unterstützenden Elementen, wie Gitternetzlinien, liegen.
+#. Wenn sich Datenmarkierungen überlappen können, stellt sicher, dass kleinere
+   Elemente über größere gezeichnet werden.
+
+   Alternativ kann eine leichte Transparenz der überdeckenden Elemente die
+   darunter liegenden Elemente durchscheinen lassen.
+
+Schatten
+::::::::
+
+In Material Design 2 wird die z-Achse mit Schatten simuliert:
+
+.. figure:: shadows.png
+   :alt: Material Design 2: Shadows applied at all levels
+
+   Quelle: `Elevation <https://m3.material.io/styles/elevation/overview#f9947307-4818-4d94-b98a-fa1cb5498eb1>`_
+
+Farbe
+:::::
+
+In Material Design 3 wird für die Simulation der z-Achse hingegen :ref:`Farbe
+<colour-hierarchy>` verwendet.
+
 Beginnend mit Null
 ------------------
 
@@ -48,7 +93,8 @@ Manchmal ist es nützlich, einen Teil der Achse zu überspringen, um Daten an de
 enthalten, wird die gerade Achsenlinie durch eine Sinuslinie ersetzt.
 
 Auf der X-Achse kann die Unterbrechung fließend sein, sollte jedoch 16px nicht
-unterschreiten. Auf der Y-Achse sollte die Distanzunterbrechung exakt 16px betragen.
+unterschreiten. Auf der Y-Achse sollte die Distanzunterbrechung exakt 16px
+betragen.
 
 .. figure:: axislabel-break-3.png
    :alt: Lücke im Datenbalkendiagramm

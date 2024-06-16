@@ -29,9 +29,6 @@ Daten mit schönen und zugänglichen Visualisierungen erzählen.
     :maxdepth: 0
 
     structure
+    diagram-anatomy/index
     types/index
-    diagram-anatomy
-    colors
-    axes-and-labels
-    legends
     dashboards

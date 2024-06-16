@@ -8,8 +8,8 @@ sich dann automatisch an. Lediglich in Ausnahmefällen müssen einzelne
 Komponenten geändert werden.
 
 Das cusy Design-System bietet zwei verschiedene Design-Themen, wie auf der Seite
-:doc:`viz/colors` gezeigt: *Dark* und *Light*. Beide Themen können in CSS
-angegeben werden mit:
+:doc:`viz/diagram-anatomy/colors` gezeigt: *Dark* und *Light*. Beide Themen
+können in CSS angegeben werden mit:
 
 .. code-block:: css
 

@@ -1,8 +1,12 @@
 Aufbau eines Diagramms
 ======================
 
-Die Elemente, aus denen jedes Diagramm besteht, sind so konzipiert, dass sie
-harmonisch funktionieren. Jedes Teil spielt eine wichtige Rolle in der
+Es gibt viele unterschiedliche :doc:`../types/index` für Datenvisualisierungen.
+Die meisten Diagramme haben jedoch viele Elemente gemeinsam. Die richtige
+Anordnung dieser Elemente kann das Design eurer Visualisierung unterstützen.
+
+Die Elemente, aus denen jedes Diagramm besteht, sollten so konzipiert sein, dass
+sie harmonisch funktionieren. Jedes Teil spielt eine wichtige Rolle in der
 Datenkommunikation.
 
 Rechteckige Diagramme
@@ -39,9 +43,11 @@ Legende
     findet ihr in :doc:`legends`.
 
 Achsen
-    Die X-Achse ist horizontal und die Y-Achse ist vertikal. Achsen sollten vor
-    ihrem Hintergrund mit einem Kontrastverhältnis von 3:1 zugänglich sein.
-    Weitere Informationen findet ihr in :doc:`axes-and-labels`.
+    Wenn ein Diagramm `kartesische Koordinaten
+    <https://de.wikipedia.org/wiki/Kartesisches_Koordinatensystem>`_ verwendet,
+    ist die x-Achse die horizontale und die y-Achse die vertikale Achse.
+    Auch eine :ref:`z-axis` lässt sich simulieren. Weitere Informationen findet
+    ihr in :doc:`axes-and-labels`.
 
 Tooltip
     Ein Tooltip ist eine Meldung, die angezeigt wird, wenn sich ein Cursor über
@@ -84,4 +90,14 @@ Leistungskennzahl
    *Insgesamt 450*. Sie kann innerhalb eines Ringdiagramms verwendet
    werden, um eine Gesamtsumme oder die individuelle Anzahl eines Teils bei
    Interaktion anzuzeigen. Dieses Element kann auch unabhängig in
-   :doc:`dashboards` verwendet werden.
+   :doc:`../dashboards` verwendet werden.
+
+.. toctree::
+    :hidden:
+    :titlesonly:
+    :maxdepth: 0
+
+    axes-and-labels
+    legends
+    aspect-ratios
+    colors
