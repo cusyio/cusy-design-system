@@ -32,4 +32,5 @@ Daten mit schönen und zugänglichen Visualisierungen erzählen.
     diagram-anatomy/index
     cognitive-load
     types/index
+    data-storytelling
     dashboards
