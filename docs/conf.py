@@ -11,14 +11,18 @@
 # import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
+import os
+import re
+
+
 # -- Project information -----------------------------------------------------
 
 project = "cusy Design-System"
 copyright = "2020–2024, cusy GmbH"
-author = "Veit Schiele"
+author = "Veit Schiele, cusy GmbH"
 
 # The full version, including alpha/beta/rc tags
-release = "0.1.0"
+release = re.sub("^v", "", os.popen("git describe --abbrev=0").read().strip())
 
 
 # -- General configuration ---------------------------------------------------
@@ -67,12 +71,13 @@ exclude_patterns = [
 # a list of builtin themes.
 html_theme = "furo"
 
+
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
 #
 # Change default HTML title
-html_title = "cusy Design-System 0.1.0"
+html_title = f"{project} {release}"
 
 # html_theme_options = {}
 # html_sidebars = {}
