@@ -41,19 +41,14 @@ sie ist jedoch nicht vollständig.
 Sprachunterstützung in Sphinx
 -----------------------------
 
-`Sphinx <https://www.sphinx-doc.org/>`_ unterstützt verschiedene Sprachen,
-:abbr:`u.a. (unter anderem)`
+:doc:`sphinx:index` unterstützt verschiedene Sprachen, :abbr:`u.a. (unter
+anderem)`
 
-* `Python
-  <https://www.sphinx-doc.org/en/master/usage/restructuredtext/domains.html#the-python-domain>`_
-* `C
-  <https://www.sphinx-doc.org/en/master/usage/restructuredtext/domains.html#the-c-domain>`_
-* `C++
-  <https://www.sphinx-doc.org/en/master/usage/restructuredtext/domains.html#cpp-domain>`_
-* `JavaScript
-  <https://www.sphinx-doc.org/en/master/usage/restructuredtext/domains.html#the-javascript-domain>`_
-* `Math
-  <https://www.sphinx-doc.org/en/master/usage/restructuredtext/domains.html#math-domain>`_
+* :doc:`Python <sphinx:usage/domains/python>`
+* :doc:`C <sphinx:usage/domains/c>`
+* :doc:`C++ <sphinx:usage/domains/cpp>`
+* :doc:`JavaScript <sphinx:usage/domains/javascript>`
+* :doc:`Math <sphinx:usage/domains/mathematics>`
 * `MATLAB
   <https://pypi.org/project/sphinxcontrib-matlabdomain/>`_
 * `Scala

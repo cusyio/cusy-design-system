@@ -146,8 +146,8 @@ verwendet werden. Zudem sollten sie durch das ``abbr``-Tag gekennzeichnet sein,
     Bedienung über Tastatureingaben.
 
 .. note::
-   In unserem Dokumentationssystem `Sphinx <https://www.sphinx-doc.org/en/master/>`_ könnt
-   ihr diesen Tag mit der ``:abbr:``-Rolle hinzufügen.
+   In unserem Dokumentationssystem :doc:`sphinx:index` könnt ihr diesen Tag mit
+   der ``:abbr:``-Rolle hinzufügen.
 
 Links
 ~~~~~

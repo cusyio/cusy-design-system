@@ -128,6 +128,7 @@ python_basics_url = "https://python-basics-tutorial.readthedocs.io/de/latest/"
 intersphinx_mapping = {
     "jupyter-tutorial": (f"{jupyter_tutorial_url}", None),
     "python-basics": (f"{python_basics_url}", None),
+    "sphinx": ("https://www.sphinx-doc.org/en/master/", None),
 }
 
 
