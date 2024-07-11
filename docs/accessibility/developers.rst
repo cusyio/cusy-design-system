@@ -117,6 +117,20 @@ Zugängliche Tabellen
 * Für die Beschreibung der Tabelle wird ``<caption/>`` bevorzugt, aber
   ``<table summary=""/>`` funktioniert auch.
 
+Wenn die CSS-Eigenschaft ``display`` die ursprüngliche Semantik einer Tabelle
+außer Kraft setzt, :abbr:`z.B.` durch :samp:`display: grid`, könnt ihr die
+ARIA-``table``-Rolle verwenden, um die Semantik wieder hinzuzufügen. Die
+ARIA-Rollen ``table``, ``rowgroup``, ``row``, ``columnheader`` und ``cell`` sowie die ARIA-Attribute ``aria-describedby``, ``aria-label``, ``aria-colcount`` und
+``aria-rowcount`` kennzeichnen die Elemente einer nicht-interaktiven
+Tabellenstruktur, die in Zeilen und Spalten angeordnete Daten enthält, ähnlich
+wie die nativen HTML-Elemente.
+
+.. seealso::
+   * `Accessible Rich Internet Applications (WAI-ARIA): table role
+     <https://w3c.github.io/aria/#table>`_
+   * `MDN Web Docs: ARIA table role
+     <https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/table_role>`_
+
 Unterscheiden zwischen Mäusen und Touchscreens
 ----------------------------------------------
 
