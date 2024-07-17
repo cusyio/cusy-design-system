@@ -1,5 +1,3 @@
-# -c constraints.txt
-
 furo
 nbsphinx
 sphinxcontrib-svg2pdfconverter
