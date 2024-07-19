@@ -72,5 +72,9 @@ Verbindungen verdeutlichen.
 
 .. figure:: map-connecting.png
    :alt: Verbindungslinien auf einer geographischen Karte
-
    Beispiel einer Karte mit Verbindungslinien
+
+
+.. seealso::
+   * `Cartography Guide: Map Projections
+     <https://www.axismaps.com/guide/map-projections>`_
