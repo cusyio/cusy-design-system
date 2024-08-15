@@ -7,6 +7,15 @@ eine Reihe universeller Variablen geändert und die meisten Komponenten passen
 sich dann automatisch an. Lediglich in Ausnahmefällen müssen einzelne
 Komponenten geändert werden.
 
+Einige Vorteile des Dark-Theme:
+
+* reduzierte Blaulicht-Emission, was den Schlafrhythmus positiv beeinflusst
+* weniger Lichtverschmutzung, gut für nachtaktive Lebewesen und Astronomen
+* verringert den Stromverbrauch :abbr:`v.a. (vor allem)` bei OLED-Bildschirmen
+* mindert Augenbelastung, besonders in dunkleren Umgebungen
+* erhöht Lesbarkeit für manche Menschen
+* kann Konzentration und Fokus verbessern
+
 Das cusy Design-System bietet zwei verschiedene Design-Themen, wie auf der Seite
 :doc:`viz/diagram-anatomy/colors` gezeigt: *Dark* und *Light*. Beide Themen
 können in CSS angegeben werden mit:
