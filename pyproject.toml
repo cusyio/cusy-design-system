@@ -1,0 +1,45 @@
+[project]
+name = "cusy-design-system"
+version = "24.1.0"
+authors = [
+  { name="Veit Schiele", email="veit@cusy.io" },
+]
+description = "Richtlinien für Benutzeroberflächen, Code-Beispiele, Designtools und Ressourcen"
+readme = "README.rst"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: BSD License",
+    "Operating System :: OS Independent",
+]
+dependencies = []
+
+[project.optional-dependencies]
+docs = [
+    "furo",
+    "nbsphinx",
+    "sphinxcontrib-svg2pdfconverter",
+    "sphinx_design",
+]
+
+dev = [
+    "cusy-design-system[docs]",
+    "pre-commit",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/cusyio/cusy-design-system"
+"Bug Tracker" = "https://github.com/cusyio/cusy-design-system/issues"
+
+[tool.black]
+line-length = 79
+
+[tool.isort]
+atomic=true
+force_grid_wrap=0
+include_trailing_comma=true
+lines_after_imports=2
+lines_between_types=1
+multi_line_output=3
+not_skip="__init__.py"
+use_parentheses=true

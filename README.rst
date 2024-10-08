@@ -42,17 +42,17 @@ Installation
 
    .. code-block:: console
 
-      $ python3 -m venv .
-      $ bin/python -m pip install --upgrade pip
-      $ bin/python -m pip install -r docs/requirements.txt
+      $ python3 -m venv .venv
+      $ . .venv/bin/activate
+      $ python -m pip install -e ".[dev]"
 
    … auf Windows:
 
    .. code-block:: ps1con
 
-      C:> python -m venv .
-      C:> Scripts\python -m pip install --upgrade pip
-      C:> Scripts\python -m pip install -r docs/requirements.txt
+      C:> py -m venv .venv
+      C:> Scripts\activate
+      C:> python -m pip install -e ".[dev]"
 
 #. Erstellen der HTML-Dokumentation:
 
@@ -69,7 +69,7 @@ Installation
 
    .. code-block:: console
 
-      $ sphinx-build -ab html docs/ docs/_build/
+      $ python -m sphinx -b html docs/ docs/_build/html/
 
 #. Erstellen eines PDF:
 
@@ -99,7 +99,7 @@ Installation
 
    .. code-block:: console
 
-    $ source bin/activate
+    $ . .venv/bin/activate
     $ cd docs/
     $ make latexpdf
     …
