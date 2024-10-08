@@ -14,14 +14,14 @@ findet ihr in den spezifischen Richtlinien für jede Programmiersprache.
 
 .. seealso::
     * `Docstrings
-      <https://jupyter-tutorial.readthedocs.io/de/latest/productive/documenting/docstrings.html>`_
+      <https://python-basics-tutorial.readthedocs.io/de/latest/document/docstrings.html>`_
 
 Diese Seite deckt auch keine Web-APIs ab. Die später aufgeführten Stilvorschläge
 können bei der Dokumentation von Web-APIs nützlich sein.
 
 .. seealso::
     * `FastAPI
-      <https://jupyter-tutorial.readthedocs.io/de/latest/data-processing/fastapi/index.html>`_
+      <https://www.python4data.science/de/latest/data-processing/apis/fastapi/index.html>`_
 
 Grundlagen
 ----------

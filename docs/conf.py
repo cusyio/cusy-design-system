@@ -124,6 +124,20 @@ latex_documents = [
     ),
 ]
 
+linkcheck_timeout = 60
+
+linkcheck_ignore = [
+    # redirect temporarily
+    r"https://www.bloomberg.com/graphics/*",
+    # Anchor not found
+    r"https://github.com/cusyio/cusy-design-system/issues/new",
+    r"https://www.gapminder.org/tools/",
+    r"https://m2.material.io/*#*",
+    r"https://m3.material.io/*#*",
+    # 403 Client Error
+    r"https://www.jstor.org/",
+]
+
 # -- nbsphinx configuration --------------------------------------------------
 
 nbsphinx_allow_errors = True

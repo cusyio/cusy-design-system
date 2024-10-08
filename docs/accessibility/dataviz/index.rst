@@ -4,7 +4,7 @@ Datenvisualisierung
 Auch wenn die Visualisierung von Daten diese für die meisten Menschen
 zugänglicher macht, solltet ihr die :abbr:`sog. (sogenannten)`
 POUR-CAF-Prinzipien befolgen, die von den Entwicklern des `Chartability
-<https://chartability.fizz.studio/>`_-Frameworks entwickelt wurden:
+<https://chartability.fizz.studio>`_-Frameworks entwickelt wurden:
 
 * :doc:`pour-caf/perceivable`
 * :doc:`pour-caf/operable`

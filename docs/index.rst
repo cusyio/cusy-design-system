@@ -2,9 +2,9 @@
 cusy Design-System
 ==================
 
-Das `cusy Design-System <https://cusy.design/>`_ ist für Produkte und digitale
-Erlebnisse. Es besteht aus funktionierendem Code, Design-Tools und -Ressourcen
-und Richtlinien für die Benutzeroberfläche.
+Das `cusy Design-System <https://www.cusy.design/de/latest/>`_ ist für Produkte
+und digitale Erlebnisse. Es besteht aus funktionierendem Code, Design-Tools und
+-Ressourcen und Richtlinien für die Benutzeroberfläche.
 
 Ein Design-System ist eine Sammlung vorgefertigter, wiederverwendbarer Elemente
 – Komponenten, Muster, Anleitungen und Code –, mit denen konsistente digitale
@@ -54,7 +54,7 @@ Status
 .. |Contributors| image:: https://img.shields.io/github/contributors/cusyio/cusy-design-system.svg
    :target: https://github.com//cusyio/cusy-design-system/graphs/contributors
 .. |Commits| image::  https://raster.shields.io/github/commit-activity/y/cusyio/cusy-design-system
-   :target: https://github.com//cusyio/cusy-design-system/commits
+   :target: https://github.com/cusyio/cusy-design-system/commits
 .. |License| image:: https://img.shields.io/github/license/cusyio/cusy-design-system.svg
    :target: https://github.com/cusyio/cusy-design-system/blob/main/LICENSE
 .. |Docs| image:: https://readthedocs.org/projects/cusy-design-system/badge/?version=latest
@@ -74,7 +74,7 @@ Feedback <https://github.com/cusyio/cusy-design-system/issues/new>`_. Wir
 kommunizieren mit euch über den Status und die Roadmap über `GitHub
 <https://github.com/cusyio/cusy-design-system>`_, `Blogbeiträge
 <https://cusy.io/de/blog>`_ und `Mastodon
-<https://mastodon.social/deck/@CusyDesign>`_. Wir bieten auch Unterstützung für
+<https://mastodon.social/@CusyDesign>`_. Wir bieten auch Unterstützung für
 diejenigen, die das cusy Design-System nutzen wollen.
 
 Design-System-Compliance

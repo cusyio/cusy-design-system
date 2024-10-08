@@ -38,7 +38,7 @@ Schaltflächen und Formularsteuerelemente mit einer Tastatur zu aktivieren.
 Verstärkt semantisches HTML, um Absicht und Bedeutung zu vermitteln, anstatt nur
 das Erscheinungsbild eines Elements zu definieren. Erweitert bei Bedarf die
 Elemente um `aria-label
-<https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-label_attribute>`_-Attribute.
+<https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-label>`_-Attribute.
 
 .. note::
    Fügt keine nicht-interaktiven Elemente in die Tabulatorreihenfolge ein.

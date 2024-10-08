@@ -156,7 +156,7 @@ zweite Abfrage nach ``pointer: fine`` erfolgen:
 
 .. seealso::
    * `Media features
-     <https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries#media_features>`_
+     <https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries#targeting_media_features>`_
    * `Detecting Hover-Capable Devices
      <https://css-irl.info/detecting-hover-capable-devices/>`_
 
@@ -166,7 +166,7 @@ Multimedia-Textalternativen
 Jedes Bild, das nicht dekorativ ist, sollte mit ``alt``-Text und einer
 aussagekräftigen Beschreibung des Bildes sowie einem ``title``-Attribut versehen
 sein. Ihr könnt auch `aria-labelledby
-<https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-labelledby_attribute>`_
+<https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-labelledby>`_
 zusammen mit dem ``id``-Attribut verwenden.
 Für dekorative Bilder solltet ihr ein leeres ``alt``-Attribut verwenden, da
 andernfalls der Screen-Reader die gesamte Bild-URL liest.
@@ -246,4 +246,4 @@ Semantische Symbole
        * Sara Soueidan: `Accessible Icon Buttons
          <https://www.sarasoueidan.com/blog/accessible-icon-buttons/>`_
        * `Font Awesome Accessibility
-         <https://fontawesome.com/how-to-use/on-the-web/other-topics/accessibility>`_
+         <https://docs.fontawesome.com/web/dig-deeper/accessibility>`_

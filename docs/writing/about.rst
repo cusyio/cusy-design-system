@@ -60,8 +60,8 @@ Informationstechnologie:
 * `Google developer documentation style guide
   <https://developers.google.com/style/>`_
 * `Apple Style Guide <https://help.apple.com/applestyleguide/>`_
-* `IBM content design
-  <https://www.ibm.com/able/toolkit/design/content/text-meaning/>`_
+* `IBM: Equal Access Toolkit: Design: Content
+  <https://www.ibm.com/able/toolkit/design/content/>`_
 
 Brecht die Regeln
 -----------------
@@ -79,8 +79,8 @@ Inhalt dadurch besser wird.
 .. _`DWDS-Wörterbuch`:
     https://www.dwds.de
 .. _`Redaktionsleitfaden und Webstyleguide`:
-    https://www.beschaeftigte.uni-stuttgart.de/uni-services/oeffentlichkeitsarbeit/projekt-more/more-dateien/Redaktionsleitfaden_web.pdf
+    https://www.beschaeftigte.uni-stuttgart.de/document/dokument_hkom/redaktionsleitfaden-web.pdf
 .. _`einfach POLITIK: Lexikon`:
-    https://www.bpb.de/nachschlagen/lexika/lexikon-in-einfacher-sprache
+    https://www.bpb.de/kurz-knapp/lexika/lexikon-in-einfacher-sprache/
 .. _`Microsoft German Style Guide`:
     https://download.microsoft.com/download/e/f/9/ef9f6d8e-cd8b-420c-8696-afd98b4a367d/deu-deu-StyleGuide.pdf

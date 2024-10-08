@@ -13,7 +13,7 @@ Semantik
 --------
 
 hr könnt in HTML und SVG Farben mit `aria-label
-<https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-label_attribute>`_
+<https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-label>`_
 semantisch auszeichnen, :abbr:`z.B. (zum Beispiel)`:
 
 .. code-block:: xml

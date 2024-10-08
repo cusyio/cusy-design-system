@@ -119,4 +119,4 @@ werden mit:
     * `Mozilla web docs: prefers-color-scheme
       <https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme>`_
     * `Material System: Dark theme
-      <https://material.io/design/color/dark-theme.html>`_
+      <https://m2.material.io/design/color/dark-theme.html>`_

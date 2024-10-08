@@ -124,7 +124,7 @@ Namen und Symbole für Videos
      * `Captions/Subtitles <https://www.w3.org/WAI/media/av/captions/>`_
      * `508 Accessible Videos – How to Caption Videos
        <https://digital.gov/2014/06/30/508-accessible-videos-how-to-caption-videos/>`_
-     * `BBC Subtitle Guidelines <https://bbc.github.io/subtitle-guidelines/>`_
+     * `BBC Subtitle Guidelines <https://www.bbc.co.uk/accessibility/forproducts/guides/subtitles/>`_
 
 Medienalternativen bereitstellen
 --------------------------------
@@ -160,4 +160,4 @@ Medienalternativen bereitstellen
      * `Understanding Success Criterion 1.2.8: Media Alternative (Prerecorded)
        <https://www.w3.org/WAI/WCAG21/Understanding/media-alternative-prerecorded.html>`_
      * `WCAG confusion around audio description
-       <https://www.visionaustralia.org/community/news/2019-08-23/wcag-confusion-around-audio-description-0>`_
+       <https://www.visionaustralia.org/news/2019-08-23/wcag-confusion-around-audio-description-0>`_

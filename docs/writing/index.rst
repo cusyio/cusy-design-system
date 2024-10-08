@@ -15,11 +15,11 @@ cusy-Texte sind bestens wenn
 * …
 
 .. seealso::
-   * `The Zen of Python <https://www.python.org/dev/peps/pep-0020/>`_
-   * `Material Design: Writing <https://material.io/design/communication/writing.html>`_
+   * :pep:`The Zen of Python <0020>`
+   * `Material Design: Writing <https://m2.material.io/design/communication/writing.html#principles>`_
    * `Google developer documentation style guide <https://developers.google.com/style/>`_
-   * `IBM Accessibility: Content design
-     <https://www.ibm.com/able/toolkit/design/content/overview/>`_
+   * `IBM Accessibility: Equal Access Toolkit: Design: Content
+     <https://www.ibm.com/able/toolkit/design/content>`_
 
 Themen
 ------

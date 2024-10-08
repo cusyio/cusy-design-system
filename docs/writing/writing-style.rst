@@ -228,6 +228,6 @@ Leseniveau überprüfen
 
 Versucht, das Leseniveau der siebten Klasse nicht zu überschreiten. Vermeidet
 unnötigen Jargon und ähnliche Metaphern. Mit dem `Lesbarkeitsindex
-<https://www.psychometrica.de/lix.html#online>`_ oder für die englische Sprache
-mit der `Hemingway App <https://hemingwayapp.com/>`_ könnt ihr berechnen, wie
-komplex euer Text ist.
+<https://www.psychometrica.de/lix.html>`_ oder für die englische Sprache mit der
+`Hemingway App <https://hemingwayapp.com/>`_ könnt ihr berechnen, wie komplex
+euer Text ist.

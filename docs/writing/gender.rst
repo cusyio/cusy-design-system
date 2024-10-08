@@ -111,10 +111,10 @@ als nur zwei Geschlechter gibt und die Zuordnungen soziale Konstrukte sind.
 .. seealso::
     * `BFIT-Bund: Empfehlung zu gendergerechter, digital barrierefreier Sprache
       – eine repräsentative Studie
-      <https://www.bfit-bund.de/DE/Publikation/empfehlung-gendergerechte-digital-barrierefreie-sprache-studie-koehler-wahl.html>`_
+      <https://web.archive.org/web/20230906073828/https://www.bfit-bund.de/DE/Publikation/empfehlung-gendergerechte-digital-barrierefreie-sprache-studie-koehler-wahl.html>`_
     * Bundesverband der Kommunikatoren: `Kompendium Gendersensible Sprache.
       Strategien zum fairen Formulieren
-      <https://bdkom.de/sites/default/files/kompendium_gendersensible_sprache.pdf>`_
+      <https://www.bdkom.de/app/uploads/2023/07/BdKom_Kompendium_Gendersensible_Sprache.pdf>`_
       (2020)
     * `Geschickt gendern – das Genderwörterbuch <https://geschicktgendern.de/>`_
     * `Genderleicht.de <https://www.genderleicht.de/>`_

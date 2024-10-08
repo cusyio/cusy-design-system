@@ -55,8 +55,8 @@ Menschen mit der Welt um sie herum interagieren:
     |                          | verstanden.                                         |
     +--------------------------+-----------------------------------------------------+
 
-Microsofts `Inclusive Design <https://www.microsoft.com/design/inclusive/>`_
-umfasst diesen breiteren Ansatz:
+Microsofts `Inclusive Design <https://inclusive.microsoft.design>`_ umfasst
+diesen breiteren Ansatz:
 
 .. figure:: persona-spectrum-microsoft.png
    :alt: Strichzeichnungen von verschiedenen Arten von Behinderungen
@@ -183,15 +183,15 @@ werden kann.
 Ressourcen
 ----------
 
-* `IBM Accessibility Checklist
-  <https://www.ibm.com/able/guidelines/ci162/accessibility_checklist.html>`_
+* `IBM Accessibility Equal Access Toolkit Verify
+  <https://www.ibm.com/able/toolkit/verify/overview>`_
 * `W3C low vision requirements <https://www.w3.org/TR/low-vision-needs/>`_
 
 Werkzeuge
 ---------
 
 * `High-contrast Chrome plugin
-  <https://chrome.google.com/webstore/detail/high-contrast/djcfdncoelnlbldjfhinnjlhdjlikmph>`_
+  <https://chromewebstore.google.com/detail/high-contrast/djcfdncoelnlbldjfhinnjlhdjlikmph>`_
 * `Stark Sketch plugin <https://www.getstark.co/>`_
 * `NoCoffee vision simulator <https://github.com/eeejay/NoCoffee>`_
 * `Kontrastrechner

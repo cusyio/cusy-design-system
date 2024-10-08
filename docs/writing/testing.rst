@@ -13,11 +13,11 @@ erstellt werden kann und zeigen euch dies auch mit folgendem Abzeichen
 (:abbr:`engl. (englisch)`: Badge) an: |Docs|.
 
 .. |Docs| image:: https://readthedocs.org/projects/cusy-design-system/badge/?version=latest
-   :target: https://cusy.design/
+   :target: https://www.cusy.design/de/latest/
 
 Dieses Abzeichen wird vom Dokumentationsserver `Read the Docs
-<https://readthedocs.org/>`_, auf dem unsere Dokumentation des
-cusy Design-System veröffentlicht wird, bereitgestellt.
+<https://about.readthedocs.com>`_, auf dem unsere Dokumentation des cusy
+Design-System veröffentlicht wird, bereitgestellt.
 
 Weitere automatisch generierte Abzeichen findet ihr auf unserer Seite
 :doc:`../index` mit Hinweisen zur Anzahl der Mitwirkenden, zur
@@ -27,7 +27,7 @@ Solche Abzeichen lassen sich jedoch nicht nur verwenden um den Status eures
 Projekts zu dokumentieren, sondern auch um einen stets aktuellen Überblick über
 viele verschiedene Projekte zu erhalten. Ein Beispiel hierfür findet ihr in
 unserem `PyViz-Tutorial
-<https://pyviz-tutorial.readthedocs.io/de/latest/overview.html#aktivitaten-und-lizenzen>`_.
+<https://pyviz-tutorial.readthedocs.io/de/latest/overview.html#zentrale-bibliotheken>`_.
 
 Sphinx-Checks
 -------------
@@ -48,9 +48,9 @@ Code überprüfen
 Ihr könnt automatisch euren Quellcode überprüfen und :abbr:`ggf.
 (gegebenenfalls)` auch neu formatieren lassen. Einen Überblick über solche
 Werkzeuge erhaltet ihr in unserem Jupyter-Tutorial unter `Checker
-<https://jupyter-tutorial.readthedocs.io/de/latest/refactoring/qa/index.html#checker>`_
+<https://www.python4data.science/de/latest/productive/qa/index.html#checker>`_
 und `Formatter
-<https://jupyter-tutorial.readthedocs.io/de/latest/refactoring/qa/index.html#formatter>`_.
+<https://www.python4data.science/de/latest/productive/qa/index.html#formatter>`_.
 
 Syntax überprüfen
 -----------------
@@ -68,18 +68,18 @@ Es gibt auch Werkzeuge, die eure Inhalte anhand von Regeln überprüfen.
 Sprachstil überprüfen
 ~~~~~~~~~~~~~~~~~~~~~
 
-Prosa-Linters wie :abbr:`z.B. (zum Beispiel)` `Vale
-<https://docs.errata.ai/vale/about>`__ gehen weit über Rechtschreib- und
-Grammatikprüfungen hinaus und betrachten auch den Sprachgebrauch: Wiederholt
-sich das Gesagte? Ist die Sprache zu informell? Ist die Ansprache inkonsistent?
-Werden unerwünschte Klischees bedient? Oder ist die Sprache sexistisch?
+Prosa-Linters wie :abbr:`z.B. (zum Beispiel)` `Vale <https://vale.sh>`__ gehen
+weit über Rechtschreib- und Grammatikprüfungen hinaus und betrachten auch den
+Sprachgebrauch: Wiederholt sich das Gesagte? Ist die Sprache zu informell? Ist
+die Ansprache inkonsistent? Werden unerwünschte Klischees bedient? Oder ist die
+Sprache sexistisch?
 
 Vale wird von vielen Open-Source-Projekten genutzt, :abbr:`u.a. (unter anderem)`
 von
 
 * GitLab (`.vale.ini
-  <https://gitlab.com/gitlab-org/gitlab/blob/master/.vale.ini>`_, `Regeln
-  <https://gitlab.com/gitlab-org/gitlab/-/tree/master/doc/.vale/gitlab>`__)
+  <https://gitlab.com/gitlab-org/gitlab/-/blob/master/.vale.ini>`_, `Regeln
+  <https://gitlab.com/gitlab-org/gitlab/-/tree/master/doc/.vale>`__)
 * Homebrew (`.vale.ini
   <https://github.com/Homebrew/brew/blob/master/.vale.ini>`__, `Regeln
   <https://github.com/Homebrew/brew/tree/master/docs/vale-styles/Homebrew>`__)
@@ -88,7 +88,7 @@ Mit Vale selbst kommen die folgenden Stile mit:
 
 `Microsoft <https://github.com/errata-ai/Microsoft>`_
     Eine Implementierung des `Microsoft Writing Style Guide
-    <https://docs.microsoft.com/en-us/style-guide/welcome/>`__.
+    <https://learn.microsoft.com/en-us/style-guide/welcome/>`__.
 `Google <https://github.com/errata-ai/Google>`_
     Eine Implementierung des Styleguides für den `Google developer documentation
     style guide <https://developers.google.com/style/>`__.
@@ -153,11 +153,10 @@ Vale liefert nur ein Wörterbuch für `amerikanisches-Englisch
 <https://github.com/errata-ai/en_US-web>`_ mit. Ihr könnt jedoch auch andere
 Wörterbücher hinzufügen, :abbr:`z.B. (zum Beispiel)` aus
 `github.com/freedesktop/libreoffice-dictionaries
-<https://github.com/freedesktop/libreoffice-dictionaries>`_. Diese könnt ihr
-einbinden indem ihr sie lokal zur Verfügung stellt, :abbr:`z.B. (zum Beispiel)`
-unter :file:`~/Library/Spelling/{de_DE}.{dic,aff}` und sie anschließend in eurem
-Projekt in der Datei
-:file:`styles/{MY_STYLE}/Spelling.yml` referenziert:
+<https://github.com/LibreOffice/dictionaries>`_. Diese könnt ihr einbinden indem
+ihr sie lokal zur Verfügung stellt, :abbr:`z.B. (zum Beispiel)` unter
+:file:`~/Library/Spelling/{de_DE}.{dic,aff}` und sie anschließend in eurem
+Projekt in der Datei :file:`styles/{MY_STYLE}/Spelling.yml` referenziert:
 
 .. code-block:: yaml
 
@@ -187,6 +186,6 @@ ignoriert. Ihr könnt jedoch auch Bereiche aus der Überprüfung herausnehmen mi
 
 .. seealso::
 
-   * `Docs <https://docs.errata.ai/>`_
+   * `Docs <https://vale.sh/docs/>`_
    * `GitHub <https://github.com/errata-ai/vale>`_
    * `check package <https://pkg.go.dev/github.com/errata-ai/vale/v2>`_
