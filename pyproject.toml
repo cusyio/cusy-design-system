@@ -25,6 +25,7 @@ docs = [
 dev = [
     "cusy-design-system[docs]",
     "pre-commit",
+    "vale",
 ]
 
 [project.urls]

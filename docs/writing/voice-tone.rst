@@ -25,6 +25,8 @@ euer Text vielleicht in andere Sprachen übersetzt wird.
 Was ihr vermeiden solltet
 -------------------------
 
+.. vale off
+
 * Buzzwords oder Fachjargon
 * niedlich oder albern sein wollen
 * aktuelle popkulturelle Anspielungen
@@ -39,8 +41,11 @@ Was ihr vermeiden solltet
 * Vereinnahmende Formulierungen wie *Lasst uns das machen*.
 * Die Verwendung von Ausdrücken wie *einfach*, *es ist so einfach* oder
   *schnell*
-* Internet-Slang oder -Abkürzungen wie :abbr:`tl;dr (Too long; didn’t read)` oder
-  :abbr:`ymmv (englisch: Je nach dem, wie weit ihr geht, kann das variieren)`
+* Internet-Slang oder -Abkürzungen wie :abbr:`tl;dr (Too long; didn’t read)`
+  oder :abbr:`ymmv (englisch: Je nach dem, wie weit ihr geht, kann das
+  variieren)`
+
+.. vale on
 
 Was ihr berücksichtigen solltet
 -------------------------------
@@ -66,6 +71,8 @@ Was ihr berücksichtigen solltet
 Seid höfflich
 -------------
 
+.. vale off
+
 Es ist schön, höflich zu sein, aber die Verwendung von *bitte* in einer
 Anweisung ist übertrieben.
 
@@ -73,6 +80,8 @@ Anweisung ist übertrieben.
 * ❌ Um das Dokument anzusehen, klickt bitte auf Anzeigen.
 * ✅ Weitere Informationen finden Sie unter …
 * ❌ Für weitere Informationen klickt bitte auf …
+
+.. vale on
 
 Beispiele
 ---------

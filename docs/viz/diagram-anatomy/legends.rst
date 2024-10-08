@@ -122,10 +122,11 @@ und die Legende wird auf ihren Standardzustand zurückgesetzt.
 Versteckte Legenden
 ~~~~~~~~~~~~~~~~~~~
 
-Bitte beachtet, dass sich das Ausblenden von Legenden in Datenvisualisierungen
-nur sehr selten empfiehlt, es sei denn, es wird nur eine Datenkategorie
-angezeigt. Dieses Design ist für kleine mobile Displays gedacht, bei denen
-Legenden den Blick auf die Datenvisualisierung versperren würde.
+.. note::
+   Das Ausblenden von Legenden in Datenvisualisierungen empfiehlt sich nur sehr
+   selten, es sei denn, es wird nur eine Datenkategorie angezeigt. Dieses Design
+   ist für kleine mobile Displays gedacht, bei denen Legenden den Blick auf die
+   Datenvisualisierung versperren würde.
 
 .. figure:: legends-hidden-1.png
    :alt: Auf dem Handy versteckte Legenden

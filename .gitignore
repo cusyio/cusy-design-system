@@ -25,3 +25,6 @@ test.png
 
 # pip install -e .
 cusy_design_system.egg-info/
+
+#vale
+styles/*

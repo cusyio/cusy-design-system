@@ -53,6 +53,8 @@ Einfaches Schreiben
 Verwendet einfache Wörter und Sätze
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+.. vale off
+
 * Verwendet den einfachsten Begriff, der für das Publikum geeignet ist.
   Verwendet beispielsweise *groß* statt *voluminös* und *klein* anstelle von
   *Diminutiv*.
@@ -63,6 +65,8 @@ Verwendet einfache Wörter und Sätze
 * Vermeidet Höflichkeitsformen wie *Bitte* und *Danke* in der Bedienoberfläche,
   da sie in manchen kulturellen Kontexten unangemessen oder beleidigend sein
   könnten.
+
+.. vale on
 
 .. note::
    Erstellt eine Liste mit Wörtern für euer Thema, die sowohl bevorzugte wie auch nicht zu
