@@ -22,8 +22,8 @@ Kategorischen Daten
     sind in der Regel um textbasierte Daten gruppierter Datensätze.
 Numerische Daten
     sind der häufigste Datentyp in der Datenvisualisierung. Zahlen können
-    verwendet werden, um geometrische Objekte in einer Visualisierung auf der x-
-    oder y-Achse zu positionieren, zu vergrößern oder zu färben.
+    verwendet werden, um geometrische Objekte in einer Visualisierung auf der
+    x- oder y-Achse zu positionieren, zu vergrößern oder zu färben.
 Abgegrenzte numerische Werte
     verhalten sich sehr ähnlich wie kategorische Daten.
 Zeitliche Daten
