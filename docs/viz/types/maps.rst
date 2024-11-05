@@ -72,6 +72,7 @@ Verbindungen verdeutlichen.
 
 .. figure:: map-connecting.png
    :alt: Verbindungslinien auf einer geographischen Karte
+
    Beispiel einer Karte mit Verbindungslinien
 
 
