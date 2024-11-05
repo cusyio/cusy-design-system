@@ -13,8 +13,7 @@ angegeben, wie die Kommentare formattiert sein sollen; weitere Informationen
 findet ihr in den spezifischen Richtlinien für jede Programmiersprache.
 
 .. seealso::
-    * `Docstrings
-      <https://python-basics-tutorial.readthedocs.io/de/latest/document/docstrings.html>`_
+    * :doc:`python-basics:document/sphinx/docstrings`
 
 Diese Seite deckt auch keine Web-APIs ab. Die später aufgeführten Stilvorschläge
 können bei der Dokumentation von Web-APIs nützlich sein.
