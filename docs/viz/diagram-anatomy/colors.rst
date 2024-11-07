@@ -80,6 +80,12 @@ die den Werten von cusy entsprechen.
 .. raw:: html
     :file: categorical-colors.html
 
+Farbdifferenzen nach CIEDE2000
+------------------------------
+
+.. raw:: html
+    :file: chord-ciede2000.html
+
 Alternativen für das Light Theme
 ::::::::::::::::::::::::::::::::
 
