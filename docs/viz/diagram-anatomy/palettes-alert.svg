@@ -1,0 +1,44 @@
+<svg width="100%" height="100%" viewBox="0 0 800 325" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <defs>
+        <pattern id="tristarpattern" x="0" y="0" width="163.75391" height="94.588954" patternUnits="userSpaceOnUse" patternTransform="scale(0.25)">
+          <path id="base-tristar1" transform="translate(-48.984362,0)" d="M24.492,56.562L0,42.422L0,14.141L24.492,0L48.984,14.141L73.477,0L97.969,14.141L97.969,42.422L73.477,56.562L73.477,84.843L48.984,98.984L24.492,84.843L24.492,56.562Z" style="fill:rgb(76,167,43);"/>
+          <path id="base-tristar2" transform="translate(-48.984362,0)" d="M155.353,47.316L179.846,61.457L179.846,89.738L155.353,103.879L130.861,89.738L106.369,103.879L81.877,89.738L81.877,61.457L106.369,47.316L106.369,19.035L130.861,4.895L155.353,19.035L155.353,47.316Z" style="fill:rgb(76,167,43);"/>
+          <use xlink:href="#base-tristar1" transform="translate(163.75391,0)"/>
+          <use xlink:href="#base-tristar1" transform="translate(163.75391,-94.588954)"/>
+          <use xlink:href="#base-tristar1" transform="translate(0,-94.588954)"/>
+          <use xlink:href="#base-tristar2" transform="translate(0,-94.588954)" />
+        </pattern>
+        <pattern id="trianglepattern" x="0" y="0" width="133.725" height="231.618494" patternUnits="userSpaceOnUse" patternTransform="scale(0.25)">
+          <path id="base-triangle" d="M-0,103.923L60,0L-60,0L-0,103.923Z" style="fill:rgb(205,132,2);"/>
+          <use xlink:href="#base-triangle" transform="translate(66.8625,115.809247)" />
+          <use xlink:href="#base-triangle" transform="translate(66.8625,107.885115) rotate(180)" />
+          <use xlink:href="#base-triangle" transform="translate(133.725,0)" />
+          <use xlink:href="#base-triangle" transform="translate(133.725,223.694362) rotate(180)" />
+          <use xlink:href="#base-triangle" transform="translate(0,223.694362) rotate(180)" />
+        </pattern>
+        <pattern id="crosspattern" x="0" y="0" width="86.166304" height="86.166304" patternUnits="userSpaceOnUse" patternTransform="rotate(16.84402287240401) scale(0.25)">
+          <path id="base-cross" d="M9.427,-55.029L40.559,-38.367L23.897,-7.235L55.029,9.427L38.367,40.559L7.235,23.897L-9.427,55.029L-40.559,38.367L-23.897,7.235L-55.029,-9.427L-38.367,-40.559L-7.235,-23.897L9.427,-55.029Z" style="fill:rgb(222,40,23);"/>
+          <use xlink:href="#base-cross" transform="translate(86.166304,0)"/>
+          <use xlink:href="#base-cross" transform="translate(86.166304,86.166304)"/>
+          <use xlink:href="#base-cross" transform="translate(0,86.166304)"/>
+        </pattern>
+    </defs>
+    <g transform="matrix(1.49964,0,0,1.49964,-100.952,-107.502)">
+        <rect x="107.327" y="105.026" width="120.028" height="120.028" style="fill:url(#crosspattern);"/>
+    </g>
+    <g transform="matrix(1.49964,0,0,1.49964,139.048,-107.502)">
+        <rect x="107.327" y="105.026" width="120.028" height="120.028" style="fill:url(#trianglepattern);"/>
+    </g>
+    <g transform="matrix(1.49964,0,0,1.49964,379.048,-107.502)">
+        <rect x="107.327" y="105.026" width="120.028" height="120.028" style="fill:url(#tristarpattern);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-2.38253,57.4686)">
+      <text x="60.332px" y="205.367px" style="font-family:'cusyText-Bold', 'cusy Text';font-weight:700;font-size:24px;">Red</text>
+    </g>
+    <g transform="matrix(1,0,0,1,238.367,57.4686)">
+      <text x="60.332px" y="205.367px" style="font-family:'cusyText-Bold', 'cusy Text';font-weight:700;font-size:24px;">Orange</text>
+    </g>
+    <g transform="matrix(1,0,0,1,478.367,57.4686)">
+      <text x="60.332px" y="205.367px" style="font-family:'cusyText-Bold', 'cusy Text';font-weight:700;font-size:24px;">Green</text>
+    </g>
+</svg>

@@ -154,7 +154,8 @@ Warnfarben werden verwendet, um den Status wiederzugeben. In der Regel steht Rot
 für Gefahr oder Fehler. Orange ist eine ernsthafte Warnung. Gelb steht für eine
 einfache Warnung und Grün für Normal oder Erfolg.
 
-.. figure:: palettes-alert.png
+.. raw:: html
+   :file: palettes-alert.svg
 
 Farbverlauf
 ~~~~~~~~~~~
