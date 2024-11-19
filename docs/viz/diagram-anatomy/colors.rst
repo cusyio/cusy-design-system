@@ -47,27 +47,28 @@ cusy-Design-Farbpalette. Sie wurde entwickelt, um die Zugänglichkeit und
 Harmonie innerhalb einer Seite zu verbessern.
 
 Kategorien
-..........
+~~~~~~~~~~
 
-Kategoriale (oder qualitative) Paletten eignen sich am besten, wenn Sie diskrete
+Kategoriale (oder qualitative) Paletten eignen sich am besten, wenn sie diskrete
 Datenkategorien unterscheiden sollen, die keine inhärente Korrelation aufweisen.
 
-Kategoriale Farbpaletten werden hauptsächlich in folgenden Graphen und Visualisierungsarten eingesetzt:
+Kategoriale Farbpaletten werden hauptsächlich in folgenden Graphen und
+Visualisierungsarten eingesetzt:
 
 * Balkendiagramme:
 
-   - Zur Unterscheidung verschiedener Kategorien oder Gruppen
-   - Jede Kategorie erhält eine eigene Farbe
+  * Zur Unterscheidung verschiedener Kategorien oder Gruppen
+  * Jede Kategorie erhält eine eigene Farbe
 
 * Kreisdiagramme (Tortendiagramme):
 
-   - Zur Darstellung von Anteilen verschiedener Kategorien
-   - Jeder Sektor repräsentiert eine Kategorie mit einer eindeutigen Farbe
+  * Zur Darstellung von Anteilen verschiedener Kategorien
+  * Jeder Sektor repräsentiert eine Kategorie mit einer eindeutigen Farbe
 
 * Gruppierte Säulendiagramme:
 
-   - Zur Veranschaulichung mehrerer Kategorien innerhalb von Hauptgruppen
-   - Jede Unterkategorie wird durch eine eigene Farbe dargestellt
+  * Zur Veranschaulichung mehrerer Kategorien innerhalb von Hauptgruppen
+  * Jede Unterkategorie wird durch eine eigene Farbe dargestellt
 
 Die Farben dieser Palette sollten nacheinander genau wie unten beschrieben
 angewendet werden. Die Sequenz wird sorgfältig kuratiert, um den Kontrast
@@ -78,7 +79,7 @@ erleichtern.
    :alt: Farbpalette für Standardkategorien für helles und dunkles Theme
 
 Alternativen für das Light Theme
---------------------------------
+::::::::::::::::::::::::::::::::
 
 .. figure:: alts-light-1.png
    :alt: Einfarbige Alternative für das Light Theme
@@ -96,7 +97,7 @@ Alternativen für das Light Theme
    :alt: Fünffarbige Alternative für das Light Theme
 
 Alternativen für das Dark Theme
--------------------------------
+:::::::::::::::::::::::::::::::
 
 .. figure:: alts-dark-1.png
    :alt: Einfarbige Alternative für das Dark Theme
@@ -158,7 +159,7 @@ empfehlenswert. Farbverläufe sollten nicht verwendet werden, um eine Progressio
 oder Divergenz darzustellen.
 
 .. note::
-    Verwendet niemals einen Farbverlauf anstelle einer sequentiellen Palette.
+   Verwendet niemals einen Farbverlauf anstelle einer sequentiellen Palette.
 
 .. figure:: gradient.png
 
