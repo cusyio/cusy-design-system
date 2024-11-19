@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1600 240" version="1.1" xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/"
+  style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+  <defs>
+    <pattern id="crosspattern-100" x="0" y="0" width="86.166304" height="86.166304" patternUnits="userSpaceOnUse"
+      patternTransform="rotate(16.84402287240401) scale(0.2)">
+      <path id="base-cross-100" d="M9.427,-55.029L40.559,-38.367L23.897,-7.235L55.029,9.427L38.367,40.559L7.235,23.897L-9.427,55.029L-40.559,38.367L-23.897,7.235L-55.029,-9.427L-38.367,-40.559L-7.235,-23.897L9.427,-55.029Z" style="fill:rgb(222,40,23);" />
+      <use xlink:href="#base-cross-100" transform="translate(86.166304,0)" />
+      <use xlink:href="#base-cross-100" transform="translate(86.166304,86.166304)" />
+      <use xlink:href="#base-cross-100" transform="translate(0,86.166304)" />
+    </pattern>
+    <pattern id="crosspattern-82" x="0" y="0" width="86.166304" height="86.166304" patternUnits="userSpaceOnUse"
+      patternTransform="rotate(16.84402287240401) scale(0.2)">
+      <g id="base-cross-82" transform="scale(0.9055385138137416,0.9055385138137416)">
+        <path d="M9.427,-55.029L40.559,-38.367L23.897,-7.235L55.029,9.427L38.367,40.559L7.235,23.897L-9.427,55.029L-40.559,38.367L-23.897,7.235L-55.029,-9.427L-38.367,-40.559L-7.235,-23.897L9.427,-55.029Z" style="fill:rgb(222,40,23);" />
+      </g>
+      <use xlink:href="#base-cross-82" transform="translate(86.166304,0)" />
+      <use xlink:href="#base-cross-82" transform="translate(86.166304,86.166304)" />
+      <use xlink:href="#base-cross-82" transform="translate(0,86.166304)" />
+    </pattern>
+    <pattern id="crosspattern-64" x="0" y="0" width="86.166304" height="86.166304" patternUnits="userSpaceOnUse"
+      patternTransform="rotate(16.84402287240401) scale(0.2)">
+      <g id="base-cross-64" transform="scale(0.8,0.8)">
+        <path d="M9.427,-55.029L40.559,-38.367L23.897,-7.235L55.029,9.427L38.367,40.559L7.235,23.897L-9.427,55.029L-40.559,38.367L-23.897,7.235L-55.029,-9.427L-38.367,-40.559L-7.235,-23.897L9.427,-55.029Z" style="fill:rgb(222,40,23);" />
+      </g>
+      <use xlink:href="#base-cross-64" transform="translate(86.166304,0)" />
+      <use xlink:href="#base-cross-64" transform="translate(86.166304,86.166304)" />
+      <use xlink:href="#base-cross-64" transform="translate(0,86.166304)" />
+    </pattern>
+    <pattern id="crosspattern-46" x="0" y="0" width="86.166304" height="86.166304" patternUnits="userSpaceOnUse"
+      patternTransform="rotate(16.84402287240401) scale(0.2)">
+      <g id="base-cross-46" transform="scale(0.6782329983125268,0.6782329983125268)">
+        <path d="M9.427,-55.029L40.559,-38.367L23.897,-7.235L55.029,9.427L38.367,40.559L7.235,23.897L-9.427,55.029L-40.559,38.367L-23.897,7.235L-55.029,-9.427L-38.367,-40.559L-7.235,-23.897L9.427,-55.029Z" style="fill:rgb(222,40,23);" />
+      </g>
+      <use xlink:href="#base-cross-46" transform="translate(86.166304,0)" />
+      <use xlink:href="#base-cross-46" transform="translate(86.166304,86.166304)" />
+      <use xlink:href="#base-cross-46" transform="translate(0,86.166304)" />
+    </pattern>
+    <pattern id="crosspattern-28" x="0" y="0" width="86.166304" height="86.166304" patternUnits="userSpaceOnUse"
+      patternTransform="rotate(16.84402287240401) scale(0.2)">
+      <g id="base-cross-28" transform="scale(0.5291502622129182,0.5291502622129182)">
+        <path d="M9.427,-55.029L40.559,-38.367L23.897,-7.235L55.029,9.427L38.367,40.559L7.235,23.897L-9.427,55.029L-40.559,38.367L-23.897,7.235L-55.029,-9.427L-38.367,-40.559L-7.235,-23.897L9.427,-55.029Z" style="fill:rgb(222,40,23);" />
+      </g>
+      <use xlink:href="#base-cross-28" transform="translate(86.166304,0)" />
+      <use xlink:href="#base-cross-28" transform="translate(86.166304,86.166304)" />
+      <use xlink:href="#base-cross-28" transform="translate(0,86.166304)" />
+    </pattern>
+    <pattern id="crosspattern-10" x="0" y="0" width="86.166304" height="86.166304" patternUnits="userSpaceOnUse"
+      patternTransform="rotate(16.84402287240401) scale(0.2)">
+      <g id="base-cross-10" transform="scale(0.31622776601683794,0.31622776601683794)">
+        <path d="M9.427,-55.029L40.559,-38.367L23.897,-7.235L55.029,9.427L38.367,40.559L7.235,23.897L-9.427,55.029L-40.559,38.367L-23.897,7.235L-55.029,-9.427L-38.367,-40.559L-7.235,-23.897L9.427,-55.029Z" style="fill:rgb(222,40,23);" />
+      </g>
+      <use xlink:href="#base-cross-10" transform="translate(86.166304,0)" />
+      <use xlink:href="#base-cross-10" transform="translate(86.166304,86.166304)" />
+      <use xlink:href="#base-cross-10" transform="translate(0,86.166304)" />
+    </pattern>
+
+    <pattern id="diamondpattern-100" x="0" y="0" width="98.468598" height="147.157176" patternUnits="userSpaceOnUse" patternTransform="scale(0.2)">
+      <path id="base-diamond-100" d="M49.234,5.327L94.904,73.579L49.234,141.83L3.564,73.579L49.234,5.327Z" style="fill:rgb(18,159,212);"/>
+      <use xlink:href="#base-diamond-100" transform="translate(-49.234299,73.578588)" />
+      <use xlink:href="#base-diamond-100" transform="translate(49.234299,73.578588)" />
+      <use xlink:href="#base-diamond-100" transform="translate(-49.234299,-73.578588)" />
+      <use xlink:href="#base-diamond-100" transform="translate(49.234299,-73.578588)" />
+    </pattern>
+    <pattern id="diamondpattern-82" x="0" y="7" width="98.468598" height="147.157176" patternUnits="userSpaceOnUse" patternTransform="scale(0.2)">
+      <path id="base-diamond-82" transform="scale(0.9055385138137416,0.9055385138137416)" d="M49.234,5.327L94.904,73.579L49.234,141.83L3.564,73.579L49.234,5.327Z" style="fill:rgb(18,159,212);"/>
+      <use xlink:href="#base-diamond-82" transform="translate(-49.234299,73.578588)" />
+      <use xlink:href="#base-diamond-82" transform="translate(49.234299,73.578588)" />
+      <use xlink:href="#base-diamond-82" transform="translate(-49.234299,-73.578588)" />
+      <use xlink:href="#base-diamond-82" transform="translate(49.234299,-73.578588)" />
+    </pattern>
+    <pattern id="diamondpattern-64" x="0" y="14" width="98.468598" height="147.157176" patternUnits="userSpaceOnUse" patternTransform="scale(0.2)">
+      <path id="base-diamond-64" transform="scale(0.8,0.8)" d="M49.234,5.327L94.904,73.579L49.234,141.83L3.564,73.579L49.234,5.327Z" style="fill:rgb(18,159,212);"/>
+      <use xlink:href="#base-diamond-64" transform="translate(-49.234299,73.578588)" />
+      <use xlink:href="#base-diamond-64" transform="translate(49.234299,73.578588)" />
+      <use xlink:href="#base-diamond-64" transform="translate(-49.234299,-73.578588)" />
+      <use xlink:href="#base-diamond-64" transform="translate(49.234299,-73.578588)" />
+    </pattern>
+    <pattern id="diamondpattern-46" x="0" y="21" width="98.468598" height="147.157176" patternUnits="userSpaceOnUse" patternTransform="scale(0.2)">
+      <path id="base-diamond-46" transform="scale(0.6782329983125268,0.6782329983125268)" d="M49.234,5.327L94.904,73.579L49.234,141.83L3.564,73.579L49.234,5.327Z" style="fill:rgb(18,159,212);"/>
+      <use xlink:href="#base-diamond-46" transform="translate(-49.234299,73.578588)" />
+      <use xlink:href="#base-diamond-46" transform="translate(49.234299,73.578588)" />
+      <use xlink:href="#base-diamond-46" transform="translate(-49.234299,-73.578588)" />
+      <use xlink:href="#base-diamond-46" transform="translate(49.234299,-73.578588)" />
+    </pattern>
+    <pattern id="diamondpattern-28" x="0" y="30" width="98.468598" height="147.157176" patternUnits="userSpaceOnUse" patternTransform="scale(0.2)">
+      <path id="base-diamond-28" transform="scale(0.5291502622129182,0.5291502622129182)" d="M49.234,5.327L94.904,73.579L49.234,141.83L3.564,73.579L49.234,5.327Z" style="fill:rgb(18,159,212);"/>
+      <use xlink:href="#base-diamond-28" transform="translate(-49.234299,73.578588)" />
+      <use xlink:href="#base-diamond-28" transform="translate(49.234299,73.578588)" />
+      <use xlink:href="#base-diamond-28" transform="translate(-49.234299,-73.578588)" />
+      <use xlink:href="#base-diamond-28" transform="translate(49.234299,-73.578588)" />
+    </pattern>
+    <pattern id="diamondpattern-10" x="0" y="42" width="98.468598" height="147.157176" patternUnits="userSpaceOnUse" patternTransform="scale(0.2)">
+      <path id="base-diamond-10" transform="scale(0.31622776601683794,0.31622776601683794)" d="M49.234,5.327L94.904,73.579L49.234,141.83L3.564,73.579L49.234,5.327Z" style="fill:rgb(18,159,212);"/>
+      <use xlink:href="#base-diamond-10" transform="translate(-49.234299,73.578588)" />
+      <use xlink:href="#base-diamond-10" transform="translate(49.234299,73.578588)" />
+      <use xlink:href="#base-diamond-10" transform="translate(-49.234299,-73.578588)" />
+      <use xlink:href="#base-diamond-10" transform="translate(49.234299,-73.578588)" />
+    </pattern>
+
+  </defs>
+  <rect id="cross-100" x="80" y="31.738281" width="120" height="120" fill="url(#crosspattern-100)" />
+  <rect id="cross-82" x="200" y="31.738281" width="120" height="120" fill="url(#crosspattern-82)" />
+  <rect id="cross-64" x="320" y="31.738281" width="120" height="120" fill="url(#crosspattern-64)" />
+  <rect id="cross-46" x="440" y="31.738281" width="120" height="120" fill="url(#crosspattern-46)" />
+  <rect id="cross-28" x="560" y="31.738281" width="120" height="120" fill="url(#crosspattern-28)" />
+  <rect id="cross-10" x="680" y="31.738281" width="120" height="120" fill="url(#crosspattern-10)" />
+
+  <rect id="diamond-10" x="800" y="31.738281" width="120" height="120" fill="url(#diamondpattern-10)" />
+  <rect id="diamond-28" x="920" y="31.738281" width="120" height="120" fill="url(#diamondpattern-28)" />
+  <rect id="diamond-46" x="1040" y="31.738281" width="120" height="120" fill="url(#diamondpattern-46)" />
+  <rect id="diamond-64" x="1160" y="31.738281" width="120" height="120" fill="url(#diamondpattern-64)" />
+  <rect id="diamond-82" x="1280" y="31.738281" width="120" height="120" fill="url(#diamondpattern-82)" />
+  <rect id="diamond-100" x="1400" y="31.738281" width="120" height="120" fill="url(#diamondpattern-100)" />
+
+
+  <g transform="matrix(1,0,0,1,20,-18.7695)">
+    <g transform="matrix(1,0,0,1,-62.418,-791.367)">
+      <g transform="matrix(40,0,0,40,196.188,1010)">
+      </g>
+      <text x="119px" y="1010px" style="font-family:'cusyText-Bold', 'cusy Text';font-weight:700;font-size:40px;">R
+        <tspan x="146.09px " y="1010px ">e</tspan>d</text>
+    </g>
+    <g transform="matrix(1,0,0,1,1006.35,-790.879)">
+      <g transform="matrix(40,0,0,40,496.305,1010)">
+      </g>
+      <text x="394.762px" y="1010px" style="font-family:'cusyText-Bold', 'cusy Text';font-weight:700;font-size:40px;">Cy
+        <tspan x="447.613px " y="1010px ">a</tspan>n</text>
+    </g>
+
+    <g>
+      <g id="Red-100" serif:id="Red 100" transform="matrix(1,0,0,1,-213,-213)">
+        <rect x="273" y="263" width="120" height="120" style="fill:none;stroke-width:2px;" />
+      </g>
+      <g id="Red-64" serif:id="Red 64" transform="matrix(1,0,0,1,27,-213)">
+        <rect x="273" y="263" width="120" height="120" style="fill:none;stroke-width:2px;" />
+      </g>
+      <g id="Red-82" serif:id="Red 82" transform="matrix(1,0,0,1,-93,-213)">
+        <rect x="273" y="263" width="120" height="120" style="fill:none;stroke-width:2px;" />
+      </g>
+      <g id="Red-46" serif:id="Red 46" transform="matrix(1,0,0,1,147,-213)">
+        <rect x="273" y="263" width="120" height="120" style="fill:none;stroke-width:2px;" />
+      </g>
+      <g id="Red-28" serif:id="Red 28" transform="matrix(1,0,0,1,267,-213)">
+        <rect x="273" y="263" width="120" height="120" style="fill:none;stroke-width:2px;" />
+      </g>
+      <g id="Red-10" serif:id="Red 10" transform="matrix(1,0,0,1,387,-213)">
+        <rect x="273" y="263" width="120" height="120" style="fill:none;stroke-width:2px;" />
+      </g>
+      <g id="Cyan-10" serif:id="Cyan 10" transform="matrix(1,0,0,1,507,-213)">
+        <rect x="273" y="263" width="120" height="120" style="fill:none;stroke-width:2px;" />
+      </g>
+      <g id="Cyan-28" serif:id="Cyan 28" transform="matrix(1,0,0,1,627,-213)">
+        <rect x="273" y="263" width="120" height="120" style="fill:none;stroke-width:2px;" />
+      </g>
+      <g id="Cyan-46" serif:id="Cyan 46" transform="matrix(1,0,0,1,747,-213)">
+        <rect x="273" y="263" width="120" height="120" style="fill:none;stroke-width:2px;" />
+      </g>
+      <g id="Cyan-64" serif:id="Cyan 64" transform="matrix(1,0,0,1,867,-213)">
+        <rect x="273" y="263" width="120" height="120" style="fill:none;stroke-width:2px;" />
+      </g>
+      <g id="Cyan-82" serif:id="Cyan 82" transform="matrix(1,0,0,1,987,-213)">
+        <rect x="273" y="263" width="120" height="120" style="fill:none;stroke-width:2px;" />
+      </g>
+      <g id="Cyan-100" serif:id="Cyan 100" transform="matrix(1,0,0,1,1107,-213)">
+        <rect x="273" y="263" width="120" height="120" style="fill:none;stroke-width:2px;" />
+      </g>
+    </g>
+  </g>
+</svg>

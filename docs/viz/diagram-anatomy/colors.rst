@@ -145,12 +145,14 @@ Warm-Kalt
 Die Rot-Cyan-Palette hat einen natürlichen Zusammenhang mit der Temperatur.
 Verwendet diese Palette für Daten, die heiß-vs-kalt darstellen sollen.
 
-.. figure:: palettes-div1.png
+.. raw:: html
+    :file: palettes-red-cyan-sequence.svg
 
 Verläufe ohne Farbassoziationen
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. figure:: palettes-div2.png
+.. raw:: html
+    :file: palettes-purple-teal-sequence.svg
 
 Alarm
 ~~~~~
