@@ -174,7 +174,8 @@ oder Divergenz darzustellen.
 .. note::
     Verwendet niemals einen Farbverlauf anstelle einer sequentiellen Palette.
 
-.. figure:: gradient.png
+.. raw:: html
+   :file: gradient-utilization-bpm.html
 
 .. seealso::
    * `Paul Tol <https://personal.sron.nl/~pault/>`_
