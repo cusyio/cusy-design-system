@@ -132,11 +132,15 @@ Einfarbig
 ~~~~~~~~~
 
 Monochromatische Paletten eignen sich gut für Beziehungs- und Trenddiagramme.
-Beim hellen Theme bezeichnet die dunkelste Farbe die größten Werte. In dunklen
-Themes bezeichnet die hellste Farbe die größten Werte.
+Hier empfehlen wir für Zugänglichkeit die Verwendung die zwei Faktoren
+Strichstärke und Rotation.
 
-.. figure:: palettes-mono-1.png
-.. figure:: palettes-mono-2.png
+.. raw:: html
+   :file: sequence-mono-purple.svg
+
+.. raw:: html
+   :file: sequence-mono-blue.svg
+
 
 Warm-Kalt
 ~~~~~~~~~

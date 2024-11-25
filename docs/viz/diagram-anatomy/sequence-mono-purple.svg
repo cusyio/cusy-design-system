@@ -1,0 +1,152 @@
+<svg width="100%" height="100%" viewBox="0 0 1360 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+  <style type="text/css">
+    <![CDATA[
+      rect[width="120"] {
+        stroke: var(--color-background-primary);
+      }
+     ]]>
+  </style>
+   <defs>
+        <pattern id="dotspattern-100" x="-9" y="0" width="159.002264" height="183.6" patternUnits="userSpaceOnUse" patternTransform="scale(0.2)">
+          <circle id="base-dot-100" cx="79.501132" cy="91.8" r="44.5459745" fill="#753bbd"/>
+          <use xlink:href="#base-dot-100" transform="translate(-79.501132,45.9)" />
+          <use xlink:href="#base-dot-100" transform="translate(-79.501132,-45.9)" />
+          <use xlink:href="#base-dot-100" transform="translate(79.501132,45.9)" />
+          <use xlink:href="#base-dot-100" transform="translate(79.501132,-45.9)" />
+          <use xlink:href="#base-dot-100" transform="translate(0,91.8)" />
+          <use xlink:href="#base-dot-100" transform="translate(0,-91.8)" />
+        </pattern>
+        <pattern id="dotspattern-90" x="-9" y="0" width="159.002264" height="183.6" patternUnits="userSpaceOnUse" patternTransform="scale(0.2)">
+          <circle id="base-dot-90" cx="79.501132" cy="91.8" r="42.26002200353408" fill="#753bbd"/>
+          <use xlink:href="#base-dot-90" transform="translate(-79.501132,45.9)" />
+          <use xlink:href="#base-dot-90" transform="translate(-79.501132,-45.9)" />
+          <use xlink:href="#base-dot-90" transform="translate(79.501132,45.9)" />
+          <use xlink:href="#base-dot-90" transform="translate(79.501132,-45.9)" />
+          <use xlink:href="#base-dot-90" transform="translate(0,91.8)" />
+          <use xlink:href="#base-dot-90" transform="translate(0,-91.8)" />
+        </pattern>
+        <pattern id="dotspattern-80" x="-9" y="0" width="159.002264" height="183.6" patternUnits="userSpaceOnUse" patternTransform="scale(0.2)">
+          <circle id="base-dot-80" cx="79.501132" cy="91.8" r="39.84313084238888" fill="#753bbd"/>
+          <use xlink:href="#base-dot-80" transform="translate(-79.501132,45.9)" />
+          <use xlink:href="#base-dot-80" transform="translate(-79.501132,-45.9)" />
+          <use xlink:href="#base-dot-80" transform="translate(79.501132,45.9)" />
+          <use xlink:href="#base-dot-80" transform="translate(79.501132,-45.9)" />
+          <use xlink:href="#base-dot-80" transform="translate(0,91.8)" />
+          <use xlink:href="#base-dot-80" transform="translate(0,-91.8)" />
+        </pattern>
+        <pattern id="dotspattern-70" x="-9" y="0" width="159.002264" height="183.6" patternUnits="userSpaceOnUse" patternTransform="scale(0.2)">
+          <circle id="base-dot-70" cx="79.501132" cy="91.8" r="37.26983620715625" fill="#753bbd"/>
+          <use xlink:href="#base-dot-70" transform="translate(-79.501132,45.9)" />
+          <use xlink:href="#base-dot-70" transform="translate(-79.501132,-45.9)" />
+          <use xlink:href="#base-dot-70" transform="translate(79.501132,45.9)" />
+          <use xlink:href="#base-dot-70" transform="translate(79.501132,-45.9)" />
+          <use xlink:href="#base-dot-70" transform="translate(0,91.8)" />
+          <use xlink:href="#base-dot-70" transform="translate(0,-91.8)" />
+        </pattern>
+        <pattern id="dotspattern-60" x="-9" y="0" width="159.002264" height="183.6" patternUnits="userSpaceOnUse" patternTransform="scale(0.2)">
+          <circle id="base-dot-60" cx="79.501132" cy="91.8" r="34.505163475816055" fill="#753bbd"/>
+          <use xlink:href="#base-dot-60" transform="translate(-79.501132,45.9)" />
+          <use xlink:href="#base-dot-60" transform="translate(-79.501132,-45.9)" />
+          <use xlink:href="#base-dot-60" transform="translate(79.501132,45.9)" />
+          <use xlink:href="#base-dot-60" transform="translate(79.501132,-45.9)" />
+          <use xlink:href="#base-dot-60" transform="translate(0,91.8)" />
+          <use xlink:href="#base-dot-60" transform="translate(0,-91.8)" />
+        </pattern>
+        <pattern id="dotspattern-50" x="-9" y="0" width="159.002264" height="183.6" patternUnits="userSpaceOnUse" patternTransform="scale(0.2)">
+          <circle id="base-dot-50" cx="79.501132" cy="91.8" r="31.498760643513027" fill="#753bbd"/>
+          <use xlink:href="#base-dot-50" transform="translate(-79.501132,45.9)" />
+          <use xlink:href="#base-dot-50" transform="translate(-79.501132,-45.9)" />
+          <use xlink:href="#base-dot-50" transform="translate(79.501132,45.9)" />
+          <use xlink:href="#base-dot-50" transform="translate(79.501132,-45.9)" />
+          <use xlink:href="#base-dot-50" transform="translate(0,91.8)" />
+          <use xlink:href="#base-dot-50" transform="translate(0,-91.8)" />
+        </pattern>
+        <pattern id="dotspattern-40" x="-9" y="0" width="159.002264" height="183.6" patternUnits="userSpaceOnUse" patternTransform="scale(0.2)">
+          <circle id="base-dot-40" cx="79.501132" cy="91.8" r="28.173348002356057" fill="#753bbd"/>
+          <use xlink:href="#base-dot-40" transform="translate(-79.501132,45.9)" />
+          <use xlink:href="#base-dot-40" transform="translate(-79.501132,-45.9)" />
+          <use xlink:href="#base-dot-40" transform="translate(79.501132,45.9)" />
+          <use xlink:href="#base-dot-40" transform="translate(79.501132,-45.9)" />
+          <use xlink:href="#base-dot-40" transform="translate(0,91.8)" />
+          <use xlink:href="#base-dot-40" transform="translate(0,-91.8)" />
+        </pattern>
+        <pattern id="dotspattern-30" x="-9" y="0" width="159.002264" height="183.6" patternUnits="userSpaceOnUse" patternTransform="scale(0.2)">
+          <circle id="base-dot-30" cx="79.501132" cy="91.8" r="24.39883507969991" fill="#753bbd"/>
+          <use xlink:href="#base-dot-30" transform="translate(-79.501132,45.9)" />
+          <use xlink:href="#base-dot-30" transform="translate(-79.501132,-45.9)" />
+          <use xlink:href="#base-dot-30" transform="translate(79.501132,45.9)" />
+          <use xlink:href="#base-dot-30" transform="translate(79.501132,-45.9)" />
+          <use xlink:href="#base-dot-30" transform="translate(0,91.8)" />
+          <use xlink:href="#base-dot-30" transform="translate(0,-91.8)" />
+        </pattern>
+        <pattern id="dotspattern-20" x="-9" y="0" width="159.002264" height="183.6" patternUnits="userSpaceOnUse" patternTransform="scale(0.2)">
+          <circle id="base-dot-20" cx="79.501132" cy="91.8" r="19.92156542119444" fill="#753bbd"/>
+          <use xlink:href="#base-dot-20" transform="translate(-79.501132,45.9)" />
+          <use xlink:href="#base-dot-20" transform="translate(-79.501132,-45.9)" />
+          <use xlink:href="#base-dot-20" transform="translate(79.501132,45.9)" />
+          <use xlink:href="#base-dot-20" transform="translate(79.501132,-45.9)" />
+          <use xlink:href="#base-dot-20" transform="translate(0,91.8)" />
+          <use xlink:href="#base-dot-20" transform="translate(0,-91.8)" />
+        </pattern>
+        <pattern id="dotspattern-10" x="-9" y="0" width="159.002264" height="183.6" patternUnits="userSpaceOnUse" patternTransform="scale(0.2)">
+          <circle id="base-dot-10" cx="79.501132" cy="91.8" r="14.086674001178029" fill="#753bbd"/>
+          <use xlink:href="#base-dot-10" transform="translate(-79.501132,45.9)" />
+          <use xlink:href="#base-dot-10" transform="translate(-79.501132,-45.9)" />
+          <use xlink:href="#base-dot-10" transform="translate(79.501132,45.9)" />
+          <use xlink:href="#base-dot-10" transform="translate(79.501132,-45.9)" />
+          <use xlink:href="#base-dot-10" transform="translate(0,91.8)" />
+          <use xlink:href="#base-dot-10" transform="translate(0,-91.8)" />
+        </pattern>
+
+    </defs>
+    <rect id="dots-100" x="80" y="31.738281" width="120" height="120" fill="url(#dotspattern-100)"/>
+    <rect id="dots-90" x="200" y="31.738281" width="120" height="120" fill="url(#dotspattern-90)"/>
+    <rect id="dots-80" x="320" y="31.738281" width="120" height="120" fill="url(#dotspattern-80)"/>
+    <rect id="dots-70" x="440" y="31.738281" width="120" height="120" fill="url(#dotspattern-70)"/>
+    <rect id="dots-60" x="560" y="31.738281" width="120" height="120" fill="url(#dotspattern-60)"/>
+    <rect id="dots-50" x="680" y="31.738281" width="120" height="120" fill="url(#dotspattern-50)"/>
+    <rect id="dots-40" x="800" y="31.738281" width="120" height="120" fill="url(#dotspattern-40)"/>
+    <rect id="dots-30" x="920" y="31.738281" width="120" height="120" fill="url(#dotspattern-30)"/>
+    <rect id="dots-20" x="1040" y="31.738281" width="120" height="120" fill="url(#dotspattern-20)"/>
+    <rect id="dots-10" x="1160" y="31.738281" width="120" height="120" fill="url(#dotspattern-10)"/>
+    <g transform="matrix(1,0,0,1,1.13687e-13,-28.2617)">
+        <g transform="matrix(1,0,0,1,-41.9102,-781.367)">
+            <g transform="matrix(40,0,0,40,250.367,1010)">
+            </g>
+            <text x="119px" y="1010px" style="font-family:'cusyText-Bold', 'cusy Text';font-weight:700;font-size:40px;">Pur<tspan x="188.648px " y="1010px ">p</tspan>le</text>
+        </g>
+
+        <g id="Overlay">
+            <g id="Blue-100" serif:id="Blue 100" transform="matrix(1,0,0,1,-193,-203)">
+                <rect x="273" y="263" width="120" height="120" style="fill:none;stroke-width:2px;"/>
+            </g>
+            <g id="Blue-90" serif:id="Blue 90" transform="matrix(1,0,0,1,-73,-203)">
+                <rect x="273" y="263" width="120" height="120" style="fill:none;stroke-width:2px;"/>
+            </g>
+            <g id="Blue-80" serif:id="Blue 80" transform="matrix(1,0,0,1,47,-203)">
+                <rect x="273" y="263" width="120" height="120" style="fill:none;stroke-width:2px;"/>
+            </g>
+            <g id="Blue-70" serif:id="Blue 70" transform="matrix(1,0,0,1,167,-203)">
+                <rect x="273" y="263" width="120" height="120" style="fill:none;stroke-width:2px;"/>
+            </g>
+            <g id="Blue-60" serif:id="Blue 60" transform="matrix(1,0,0,1,287,-203)">
+                <rect x="273" y="263" width="120" height="120" style="fill:none;stroke-width:2px;"/>
+            </g>
+            <g id="Blue-50" serif:id="Blue 50" transform="matrix(1,0,0,1,407,-203)">
+                <rect x="273" y="263" width="120" height="120" style="fill:none;stroke-width:2px;"/>
+            </g>
+            <g id="Blue-40" serif:id="Blue 40" transform="matrix(1,0,0,1,527,-203)">
+                <rect x="273" y="263" width="120" height="120" style="fill:none;stroke-width:2px;"/>
+            </g>
+            <g id="Blue-30" serif:id="Blue 30" transform="matrix(1,0,0,1,647,-203)">
+                <rect x="273" y="263" width="120" height="120" style="fill:none;stroke-width:2px;"/>
+            </g>
+            <g id="Blue-20" serif:id="Blue 20" transform="matrix(1,0,0,1,767,-203)">
+                <rect x="273" y="263" width="120" height="120" style="fill:none;stroke-width:2px;"/>
+            </g>
+            <g id="Blue-10" serif:id="Blue 10" transform="matrix(1,0,0,1,887,-203)">
+                <rect x="273" y="263" width="120" height="120" style="fill:none;stroke-width:2px;"/>
+            </g>
+        </g>
+    </g>
+</svg>
