@@ -89,8 +89,8 @@ Farbdifferenzen nach CIEDE2000
 .. raw:: html
     :file: table-ciede2000.html
 
-Alternativen für das Light Theme
-::::::::::::::::::::::::::::::::
+Alternative kleinere Sets
+-------------------------
 
 .. figure:: alts-light-1.png
    :alt: Einfarbige Alternative für das Light Theme
@@ -108,7 +108,7 @@ Alternativen für das Light Theme
    :alt: Fünffarbige Alternative für das Light Theme
 
 Alternativen für das Dark Theme
-:::::::::::::::::::::::::::::::
+-------------------------------
 
 .. figure:: alts-dark-1.png
    :alt: Einfarbige Alternative für das Dark Theme
@@ -124,6 +124,9 @@ Alternativen für das Dark Theme
 
 .. figure:: alts-dark-5.png
    :alt: Fünffarbige Alternative für das Dark Theme
+
+.. raw:: html
+    :file: alternative-palettes.html
 
 Sequenzen
 ---------
