@@ -79,6 +79,14 @@ exclude_patterns = [
 # a list of builtin themes.
 html_theme = "furo"
 
+# Set cusy fonts as default
+html_theme_options = {
+    "light_css_variables": {
+        "font-stack": "cusyText",
+        "font-stack--headings": "cusyText, medium",
+        "font-stack--monospace": "cusyMono",
+    },
+}
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -94,6 +102,10 @@ html_title = f"{project} {release}"
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ["_static"]
+
+# Load custom CSS to enable custom fonts
+html_css_files = ["custom.css"]
+
 
 # html_logo = '_static/images/logo/logo.png'
 # html_favicon = '_static/images/logo/favicon.ico'

@@ -8,3 +8,64 @@ div.sphinxsidebarwrapper p.logo {
 div.sphinxsidebar p.logo a, div.sphinxsidebar p.logo a:hover {
     border-bottom: 1px dotted #999;
 }
+@font-face {
+    font-family: 'cusyText';
+    src: url('fonts/cusyText-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'cusyText';
+    src: url('fonts/cusyText-RegularItalic.otf') format('opentype');
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'cusyText';
+    src: url('fonts/cusyText-Medium.otf') format('opentype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'cusyText';
+    src: url('fonts/cusyText-MediumItalic.otf') format('opentype');
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'cusyText';
+    src: url('fonts/cusyText-Bold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'cusyText';
+    src: url('fonts/cusyText-BoldItalic.otf') format('opentype');
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'cusyText';
+    src: url('fonts/cusyText-Heavy.otf') format('opentype');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'cusyText';
+    src: url('fonts/cusyText-BoldItalic.otf') format('opentype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'cusyMono';
+    src: url('fonts/cusyMono-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'cusyMono';
+    src: url('fonts/cusyMono-Bold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
