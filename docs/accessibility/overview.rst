@@ -61,6 +61,25 @@ diesen breiteren Ansatz:
 .. figure:: persona-spectrum-microsoft.png
    :alt: Strichzeichnungen von verschiedenen Arten von Behinderungen
 
+.. CSS:
+.. raw:: html
+
+   <style>
+   @media not print {
+       body[data-theme="dark"] img {
+         filter: invert(1);
+         mix-blend-mode: screen;
+       }
+       @media (prefers-color-scheme: dark) {
+         body:not([data-theme="light"]) img {
+            filter: invert(1);
+            mix-blend-mode: screen;
+         }
+       }
+   }
+   </style>
+
+
 Blinde
 ~~~~~~
 
