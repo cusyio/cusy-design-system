@@ -47,8 +47,16 @@ Nachrichtenartikeln.
 
 #. Zusätzliche Hintergrundinformationen sollten zuletzt erwähnt werden.
 
-.. figure:: inverted-pyramid.svg
-   :alt: Umgekehrte Pyramide
+.. raw:: html
+   :file: inverted-pyramid.svg
+
+.. raw:: html
+
+   <style>
+   g[id^="text"] path {
+      fill:var(--color-foreground-primary);
+   }
+   </style>
 
 Mantra der visuellen Informationssuche
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
