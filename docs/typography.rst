@@ -96,7 +96,7 @@ Textfarbe
 Überschriften werden in der cusy Hausfarbe Purple ``rgba(132, 14, 255, 1)``
 gestaltet.
 
-Text soll neutral erscheinen, also * White* im cusy Dark-Theme und *Black* im
+Text soll neutral erscheinen, also *White* im cusy Dark-Theme und *Black* im
 cusy Light-Theme.
 
 Links erhalten die Farbe *Blue*.
@@ -110,5 +110,5 @@ Weitere Farben dürfen nur verwendet werden, sofern sie bedeutend sind,
 
 * *Red* für Fehler
 * *Orange* für Warnungen
-* *Blue* fir Informationen
+* *Blue* für Informationen
 * *Green* für Bestätigungen
