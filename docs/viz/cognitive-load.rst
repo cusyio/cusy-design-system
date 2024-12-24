@@ -91,8 +91,25 @@ vermittelt wird, bevor der eigentliche Unterricht beginnt. Der Inhalt der Daten
 kann dann auf dem vertrauten neuen Vokabular aufbauen, die kognitive Belastung
 durch den neuen Inhalt wird nicht mehr durch das neue Vokabular verstärkt.
 
-.. figure:: preteaching-ft.png
-   :alt: Brexit banking
+.. raw:: html
+   :file: preteaching-ft.svg
+   :class: align-center
+
+.. raw:: html
+
+   <style>
+   text {
+      fill:var(--color-foreground-primary)}
+   g[id="greyText"] text {
+      fill:rgb(137,137,137);
+   }
+   g[id="invText"] text {
+      fill:white;
+   }
+   g[class="blackText"] text {
+      fill:black;
+   }
+   </style>
 
 Effekt der geteilten Aufmerksamkeit (Chunking)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
