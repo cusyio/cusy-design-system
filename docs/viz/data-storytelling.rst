@@ -147,3 +147,21 @@ von *How health has changed in your local area* gesetzt:
 
 Nach der Auswahl des Interesses werden Text und Visualisierungen des Artikels
 aktualisiert und konzentrieren sich auf den ausgewählten Bereich.
+
+.. CSS:
+.. raw:: html
+
+   <style>
+   @media not print {
+       body[data-theme="dark"] img:not([src$="plastic-bottles-reuters.png"]) {
+         filter: invert(1) hue-rotate(180deg);
+         mix-blend-mode: screen;
+       }
+       @media (prefers-color-scheme: dark) {
+         body:not([data-theme="light"]) img:not([src$="plastic-bottles-reuters.png"]) {
+            filter: invert(1) hue-rotate(180deg);
+            mix-blend-mode: screen;
+         }
+       }
+   }
+   </style>
