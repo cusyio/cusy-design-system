@@ -2,7 +2,7 @@ Typographie
 ===========
 
 Typographie kann dabei helfen, Texte zu organisieren und Personen durch eine
-Seite zu führen. Dabei wird der geiegnete Schriftstil durch den Bereich im
+Seite zu führen. Dabei wird der geeignete Schriftstil durch den Bereich im
 Layout bestimmt.
 
 Schrift
@@ -93,7 +93,7 @@ Namen unterschiedlich kenntlich gemacht:
 Textfarbe
 ---------
 
-Überschriften werden in der cusy Hausfarbe Purple ``rgba(132, 14, 255, 1)``
+Überschriften werden in der cusy Hausfarbe Purple ``rgba(117, 59, 189, 1)``
 gestaltet.
 
 Text soll neutral erscheinen, also *White* im cusy Dark-Theme und *Black* im

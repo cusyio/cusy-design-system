@@ -23,7 +23,7 @@ Sprache und Grammatik
 * Verwendet die zweite Person und *ihr* eher als *wir*
 * Verwendet die aktive Stimme: Macht deutlich, wer die Handlung ausführt
 * Setzt Konditionalsätze vor Anweisungen, nicht danach
-* Informationen zur Verwendung und Schreibweise bestimmter Wörter findet .hr in
+* Informationen zur Verwendung und Schreibweise bestimmter Wörter findet ihr in
   der :doc:`wordlist`
 
 Formatierung, Zeichensetzung und Organisation
