@@ -79,6 +79,8 @@ die den Werten von cusy entsprechen.
 .. raw:: html
     :file: categorical-colors.html
 
+.. figure:: categorical-map.svg
+
 Farbdifferenzen nach CIEDE2000
 ------------------------------
 
