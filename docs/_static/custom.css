@@ -8,3 +8,7 @@ div.sphinxsidebarwrapper p.logo {
 div.sphinxsidebar p.logo a, div.sphinxsidebar p.logo a:hover {
     border-bottom: 1px dotted #999;
 }
+.no-click * {
+    pointer-events: none;
+    cursor: default;
+}
