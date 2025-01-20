@@ -80,6 +80,19 @@ die den Werten von cusy entsprechen.
 .. raw:: html
     :file: categorical-colors.html
 
+Formen
+::::::
+
+Um größtmögliche Zugänglichkeit zu erreichen und Farbenblinde zu unterstützen
+empfehlen wir die Verwendung von mehreren Faktoren, wie auch in `No use of color alone <https://observablehq.com/@frankelavsky/no-use-of-color-alone-in-data-visualization>`_
+beschrieben.
+Wir schlagen folgende Formen vor:
+
+.. figure:: color-shapes.svg
+
+In flächigen Diagrammen, wie Balken- und Kreisdiagrammen, können die Formen
+zu annähernd flächendeckenden Mustern angeordnet werden:
+
 .. figure:: categorical-map.svg
 
 Farbdifferenzen nach CIEDE2000
