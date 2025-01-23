@@ -33,11 +33,11 @@ Pixeln (dps)
 <https://m2.material.io/design/layout/pixel-density.html#density-independence>`_
 gemessen wird:
 
-.. figure:: material-design-3-colour-hierarchy-1.png
-   :alt: Elevation in Material Design 3
+.. raw:: html
+   :file: m3-elevation-hover-fab.svg
 
-   Quelle: `Elevation
-   <https://m3.material.io/styles/elevation/applying-elevation>`_
+Quelle: `Elevation
+<https://m3.material.io/styles/elevation/applying-elevation>`_
 
 Farbpaletten
 ------------
