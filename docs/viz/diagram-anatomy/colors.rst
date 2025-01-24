@@ -47,7 +47,7 @@ cusy-Design-Farbpalette. Sie wurde entwickelt, um die Zugänglichkeit und
 Harmonie innerhalb einer Seite zu verbessern.
 
 Kategorien
-..........
+~~~~~~~~~~
 
 Kategoriale (oder qualitative) Paletten eignen sich am besten, wenn Sie diskrete
 Datenkategorien unterscheiden sollen, die keine inhärente Korrelation aufweisen.
@@ -56,18 +56,18 @@ Kategoriale Farbpaletten werden hauptsächlich in folgenden Graphen und Visualis
 
 * Balkendiagramme:
 
-   - Zur Unterscheidung verschiedener Kategorien oder Gruppen
-   - Jede Kategorie erhält eine eigene Farbe
+   * Zur Unterscheidung verschiedener Kategorien oder Gruppen
+   * Jede Kategorie erhält eine eigene Farbe
 
 * Kreisdiagramme (Tortendiagramme):
 
-   - Zur Darstellung von Anteilen verschiedener Kategorien
-   - Jeder Sektor repräsentiert eine Kategorie mit einer eindeutigen Farbe
+   * Zur Darstellung von Anteilen verschiedener Kategorien
+   * Jeder Sektor repräsentiert eine Kategorie mit einer eindeutigen Farbe
 
 * Gruppierte Säulendiagramme:
 
-   - Zur Veranschaulichung mehrerer Kategorien innerhalb von Hauptgruppen
-   - Jede Unterkategorie wird durch eine eigene Farbe dargestellt
+   * Zur Veranschaulichung mehrerer Kategorien innerhalb von Hauptgruppen
+   * Jede Unterkategorie wird durch eine eigene Farbe dargestellt
 
 Die Farben dieser Palette sollten nacheinander genau wie unten beschrieben
 angewendet werden. Die Sequenz wird sorgfältig kuratiert, um den Kontrast
@@ -77,7 +77,19 @@ Die cusy Palette sollte nur für Daten und Darstellungen verwendet werden,
 die den Werten von cusy entsprechen.
 
 .. raw:: html
-    :file: categorical-colors.html
+   :file: categorical-colors.html
+
+Farbdifferenzen nach CIEDE2000
+::::::::::::::::::::::::::::::
+
+.. raw:: html
+   :file: chord-ciede2000.html
+
+.. csv-table::
+   :file: ciede2000.csv
+   :align: center
+   :width: 100%
+   :widths: 10, 10, 10, 10, 10, 10, 10, 10, 10, 10
 
 Formen
 ::::::
@@ -95,10 +107,10 @@ zu annähernd flächendeckenden Mustern angeordnet werden:
 .. figure:: categorical-map.svg
 
 Alternative kleinere Sets
--------------------------
+:::::::::::::::::::::::::
 
 .. raw:: html
-    :file: alternative-palettes.html
+   :file: alternative-palettes.html
 
 Sequenzen
 ---------
@@ -124,13 +136,13 @@ Die Rot-Cyan-Palette hat einen natürlichen Zusammenhang mit der Temperatur.
 Verwendet diese Palette für Daten, die heiß-vs-kalt darstellen sollen.
 
 .. raw:: html
-    :file: palettes-red-cyan-sequence.svg
+   :file: palettes-red-cyan-sequence.svg
 
 Verläufe ohne Farbassoziationen
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. raw:: html
-    :file: palettes-purple-teal-sequence.svg
+   :file: palettes-purple-teal-sequence.svg
 
 Alarm
 ~~~~~
@@ -152,7 +164,7 @@ empfehlenswert. Farbverläufe sollten nicht verwendet werden, um eine Progressio
 oder Divergenz darzustellen.
 
 .. note::
-    Verwendet niemals einen Farbverlauf anstelle einer sequentiellen Palette.
+   Verwendet niemals einen Farbverlauf anstelle einer sequentiellen Palette.
 
 .. raw:: html
    :file: gradient-utilization-bpm.html
