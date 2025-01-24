@@ -173,3 +173,7 @@ oder Divergenz darzustellen.
    * `Paul Tol <https://personal.sron.nl/~pault/>`_
    * `bokeh Accessible Palettes
      <https://docs.bokeh.org/en/latest/docs/reference/palettes.html#accessible-palettes>`_
+
+.. Code für extra Buttons zum Wechseln des Themes:
+.. raw:: html
+   :file: theme-toggle.html
