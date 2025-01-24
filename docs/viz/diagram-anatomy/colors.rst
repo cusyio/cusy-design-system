@@ -60,25 +60,47 @@ Visualisierungsarten eingesetzt:
   * Zur Unterscheidung verschiedener Kategorien oder Gruppen
   * Jede Kategorie erhält eine eigene Farbe
 
+    * Zur Unterscheidung verschiedener Kategorien oder Gruppen
+    * Jede Kategorie erhält eine eigene Farbe
+
 * Kreisdiagramme (Tortendiagramme):
 
   * Zur Darstellung von Anteilen verschiedener Kategorien
   * Jeder Sektor repräsentiert eine Kategorie mit einer eindeutigen Farbe
+
+    * Zur Darstellung von Anteilen verschiedener Kategorien
+    * Jeder Sektor repräsentiert eine Kategorie mit einer eindeutigen Farbe
 
 * Gruppierte Säulendiagramme:
 
   * Zur Veranschaulichung mehrerer Kategorien innerhalb von Hauptgruppen
   * Jede Unterkategorie wird durch eine eigene Farbe dargestellt
 
+    * Zur Veranschaulichung mehrerer Kategorien innerhalb von Hauptgruppen
+    * Jede Unterkategorie wird durch eine eigene Farbe dargestellt
+
 Die Farben dieser Palette sollten nacheinander genau wie unten beschrieben
 angewendet werden. Die Sequenz wird sorgfältig kuratiert, um den Kontrast
 zwischen benachbarten Farben zu maximieren und die visuelle Unterscheidung zu
 erleichtern.
+
 Die cusy Palette sollte nur für Daten und Darstellungen verwendet werden,
 die den Werten von cusy entsprechen.
 
 .. raw:: html
-    :file: categorical-colors.html
+   :file: categorical-colors.html
+
+Farbdifferenzen nach CIEDE2000
+::::::::::::::::::::::::::::::
+
+.. raw:: html
+   :file: chord-ciede2000.html
+
+.. csv-table::
+   :file: ciede2000.csv
+   :align: center
+   :width: 100%
+   :widths: 10, 10, 10, 10, 10, 10, 10, 10, 10, 10
 
 Formen
 ::::::
@@ -96,7 +118,7 @@ zu annähernd flächendeckenden Mustern angeordnet werden:
 .. figure:: categorical-map.svg
 
 Alternative kleinere Sets
--------------------------
+:::::::::::::::::::::::::
 
 .. figure:: alts-light-1.png
    :alt: Einfarbige Alternative für das Light Theme
@@ -132,7 +154,7 @@ Alternativen für das Dark Theme
    :alt: Fünffarbige Alternative für das Dark Theme
 
 .. raw:: html
-    :file: alternative-palettes.html
+   :file: alternative-palettes.html
 
 Sequenzen
 ---------
@@ -158,13 +180,13 @@ Die Rot-Cyan-Palette hat einen natürlichen Zusammenhang mit der Temperatur.
 Verwendet diese Palette für Daten, die heiß-vs-kalt darstellen sollen.
 
 .. raw:: html
-    :file: palettes-red-cyan-sequence.svg
+   :file: palettes-red-cyan-sequence.svg
 
 Verläufe ohne Farbassoziationen
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. raw:: html
-    :file: palettes-purple-teal-sequence.svg
+   :file: palettes-purple-teal-sequence.svg
 
 Alarm
 ~~~~~
