@@ -1,0 +1,20 @@
+<style>
+body[data-theme="dark"] .vbar-categorical-light {
+    display: none;
+}
+body[data-theme="light"] .vbar-categorical-dark {
+    display: none;
+}
+
+@media (prefers-color-scheme: dark) {
+    body[data-theme="auto"] .vbar-categorical-light {
+        display: none;
+    }
+}
+@media (prefers-color-scheme: light) {
+    body[data-theme="auto"] .vbar-categorical-dark {
+        display: none;
+    }
+}
+
+</style>
