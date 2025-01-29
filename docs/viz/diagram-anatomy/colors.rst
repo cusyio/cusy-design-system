@@ -19,7 +19,7 @@ Datenvisualisierung sind. Ein gängiges Muster ist die Verwendung
      Gitterlinien
 
 .. raw:: html
-   :file: tiobe-index-python.html
+   :file: tiobe-index-python.svg
 
 Quelle: `TIOBE
 <https://www.tiobe.com/tiobe-index#container>`_
