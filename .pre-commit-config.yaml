@@ -15,10 +15,10 @@ repos:
         types: [file]  # override `types: [json]`
         files: \.(json|ipynb)$
   - repo: https://github.com/psf/black
-    rev: "24.10.0"
+    rev: "25.1.0"
     hooks:
       - id: black
-  - repo: https://github.com/asottile/reorder_python_imports
+  - repo: https://github.com/asottile/reorder-python-imports
     rev: "v3.14.0"
     hooks:
     -   id: reorder-python-imports
