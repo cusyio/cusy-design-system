@@ -28,8 +28,7 @@ Farben, Raster und Symbole
 Werkzeuge
 ---------
 
-* `Kontrastrechner
-  <https://www.leserlich.info/werkzeuge/kontrastrechner/>`_
+* `Kontrastrechner <https://leserlich.info/kontrastrechner>`_
 
 Zum Weiterlesen
 ---------------

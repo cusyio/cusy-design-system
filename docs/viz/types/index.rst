@@ -83,25 +83,25 @@ Vergleiche
 
       .. image:: bar-discrete.png
          :alt: Diskretes Balkendiagramm
-         :target: https://www.cusy.design/de/latest/viz/types/bar-charts.html
+         :target: https://www.cusy.design/viz/types/bar-charts.html
 
    .. grid-item-card:: Gruppiertes Balkendiagramm
 
-        .. image:: bar-grouped-discrete.png
-           :alt: Gruppiertes Balkendiagramm
-           :target: https://www.cusy.design/de/latest/viz/types/bar-charts.html#grouped-bar-charts
+      .. image:: bar-grouped-discrete.png
+         :alt: Gruppiertes Balkendiagramm
+         :target: https://www.cusy.design/viz/types/bar-charts.html#grouped-bar-charts
 
    .. grid-item-card:: Horizontales Balkendiagramm
 
-        .. image:: bar-horizontal-discrete.png
-           :alt: Horizontales Balkendiagramm
-           :target: https://www.cusy.design/de/latest/viz/types/bar-charts.html#horizontal-bar-charts
+      .. image:: bar-horizontal-discrete.png
+         :alt: Horizontales Balkendiagramm
+         :target: https://www.cusy.design/viz/types/bar-charts.html#horizontal-bar-charts
 
    .. grid-item-card:: Blasendiagramm
 
-        .. image:: bubble-chart.png
-           :alt: Blasendiagramm
-           :target: https://www.cusy.design/de/latest/viz/types/scatter-bubble-charts.html#bubble-charts
+      .. image:: bubble-chart.png
+         :alt: Blasendiagramm
+         :target: https://www.cusy.design/viz/types/scatter-bubble-charts.html#bubble-charts
 
 Trends
 ~~~~~~
@@ -112,19 +112,19 @@ Trends
 
       .. image:: line-chart-discrete.png
          :alt: Diskretes Balkendiagramm
-         :target: https://www.cusy.design/de/latest/viz/types/line-area-charts.html#line-charts
+         :target: https://www.cusy.design/viz/types/line-area-charts.html#line-charts
 
    .. grid-item-card:: Flächendiagramm
 
       .. image:: area-chart-discrete.png
          :alt: Flächendiagramm
-         :target: https://www.cusy.design/de/latest/viz/types/line-area-charts.html#area-charts
+         :target: https://www.cusy.design/viz/types/line-area-charts.html#area-charts
 
    .. grid-item-card:: Boxplot
 
       .. image:: boxplot.png
          :alt: Boxplot
-         :target: https://www.cusy.design/de/latest/viz/types/line-area-charts.html
+         :target: https://www.cusy.design/viz/types/line-area-charts.html
 
 Teil-zu-Ganzes
 ~~~~~~~~~~~~~~
@@ -135,37 +135,37 @@ Teil-zu-Ganzes
 
       .. image:: donut.png
          :alt: Ringdiagramm
-         :target: https://www.cusy.design/de/latest/viz/types/piecharts.html#donut
+         :target: https://www.cusy.design/viz/types/piecharts.html#donut
 
    .. grid-item-card:: Kreisdiagramm
 
       .. image:: pie.png
          :alt: Kreisdiagramm
-         :target: https://www.cusy.design/de/latest/viz/types/piecharts.html#pie
+         :target: https://www.cusy.design/viz/types/piecharts.html#pie
 
    .. grid-item-card:: Gestapeltes Balkendiagramm
 
       .. image:: bar-stacked-discrete.png
          :alt: Gestapeltes Balkendiagramm
-         :target: https://www.cusy.design/de/latest/viz/types/bar-charts.html#stacked-bar
+         :target: https://www.cusy.design/viz/types/bar-charts.html#stacked-bar
 
    .. grid-item-card:: Gestapeltes Flächendiagramm
 
       .. image:: area-chart-discrete.png
          :alt: Gestapeltes Flächendiagramm
-         :target: https://www.cusy.design/de/latest/viz/types/line-area-charts.html#stacked-area
+         :target: https://www.cusy.design/viz/types/line-area-charts.html#stacked-area
 
    .. grid-item-card:: Halbkreisförmiges Ringdiagramm
 
       .. image:: gauge-chart.png
          :alt: Halbkreisförmiges Ringdiagramm
-         :target: https://www.cusy.design/de/latest/viz/types/piecharts.html#gauge
+         :target: https://www.cusy.design/viz/types/piecharts.html#gauge
 
    .. grid-item-card:: Tree Map
 
       .. image:: treemap.png
          :alt: Tree Map
-         :target: https://www.cusy.design/de/latest/viz/types/maps.html#tree-map
+         :target: https://www.cusy.design/viz/types/maps.html#tree-map
 
 Korrelationen
 ~~~~~~~~~~~~~
@@ -176,13 +176,13 @@ Korrelationen
 
       .. image:: scatter-discrete.png
          :alt: Streudiagramm
-         :target: https://www.cusy.design/de/latest/viz/types/scatter-bubble-charts.html#scatter
+         :target: https://www.cusy.design/viz/types/scatter-bubble-charts.html#scatter
 
    .. grid-item-card:: Heatmap
 
       .. image:: heatmap.png
          :alt: Heatmap
-         :target: https://www.cusy.design/de/latest/viz/types/maps.html#heatmap
+         :target: https://www.cusy.design/viz/types/maps.html#heatmap
 
 Verbindungen
 ~~~~~~~~~~~~
@@ -193,13 +193,13 @@ Verbindungen
 
       .. image:: flowchart.png
          :alt: Alluvial-Diagramm
-         :target: https://www.cusy.design/de/latest/viz/types/graph-flowcharts.html#alluvial-diagram
+         :target: https://www.cusy.design/viz/types/graph-flowcharts.html#alluvial-diagram
 
    .. grid-item-card:: Baumdiagramm
 
       .. image:: treediagram.png
          :alt: Baumdiagramm
-         :target: https://www.cusy.design/de/latest/viz/types/graph-flowcharts.html#tree-diagram
+         :target: https://www.cusy.design/viz/types/graph-flowcharts.html#tree-diagram
 
 Geodaten
 ~~~~~~~~
@@ -210,19 +210,19 @@ Geodaten
 
       .. image:: map-choropleth.png
          :alt: Choroplethenkarte
-         :target: https://www.cusy.design/de/latest/viz/types/maps.html#choropleth
+         :target: https://www.cusy.design/viz/types/maps.html#choropleth
 
    .. grid-item-card:: Symbole für Proportionen
 
       .. image:: map-proportion.png
          :alt: Symbole für Proportionen
-         :target: https://www.cusy.design/de/latest/viz/types/maps.html#proportional-symbol
+         :target: https://www.cusy.design/viz/types/maps.html#proportional-symbol
 
    .. grid-item-card:: Verbindungskarte
 
       .. image:: map-connecting.png
          :alt: Verbindungskarte
-         :target: https://www.cusy.design/de/latest/viz/types/maps.html#verbindungskarten
+         :target: https://www.cusy.design/viz/types/maps.html#verbindungskarten
 
 Datengröße
 ----------

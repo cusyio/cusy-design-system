@@ -1,0 +1,58 @@
+# Simple workflow for deploying Sphinx content to GitHub Pages
+name: Deploy static content to Pages
+
+on:
+  # Runs on pushes targeting the default branch
+  push:
+    branches: ["main"]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow one concurrent deployment
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  # Single deploy job since we’re just deploying
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup pandoc
+        uses: pandoc/actions/setup@v1
+      - name: Setup python
+        uses: actions/setup-python@v5
+        with:
+          python-version-file: .python-version
+          architecture: x64
+      - name: Setup cached uv
+        uses: hynek/setup-cached-uv@v2
+      - name: Build and activate venv
+        run: |
+          uv venv
+          echo "$PWD/.venv/bin" >> $GITHUB_PATH
+          uv pip install -e ".[docs]"
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+      - name: Build HTML
+        run: make html
+        working-directory: docs/
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs/_build/html
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

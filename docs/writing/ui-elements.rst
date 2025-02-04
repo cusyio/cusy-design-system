@@ -50,4 +50,4 @@ Sphinx
 ------
 
 .. seealso::
-   * :doc:`python-basics:document/ui-elements`
+   * :doc:`python-basics:document/sphinx/ui-elements`

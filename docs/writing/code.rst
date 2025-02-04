@@ -55,7 +55,7 @@ anderem)`
   <https://pypi.org/project/sphinxcontrib-scaladomain/>`_
 
 .. seealso::
-   * :doc:`python-basics:document/code-blocks`
+   * :doc:`python-basics:document/sphinx/code-blocks`
 
 Elemente, die normal dargestellt werden sollen
 ----------------------------------------------

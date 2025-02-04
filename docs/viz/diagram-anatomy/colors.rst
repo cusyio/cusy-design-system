@@ -49,25 +49,26 @@ Harmonie innerhalb einer Seite zu verbessern.
 Kategorien
 ~~~~~~~~~~
 
-Kategoriale (oder qualitative) Paletten eignen sich am besten, wenn Sie diskrete
+Kategoriale (oder qualitative) Paletten eignen sich am besten, wenn sie diskrete
 Datenkategorien unterscheiden sollen, die keine inhärente Korrelation aufweisen.
 
-Kategoriale Farbpaletten werden hauptsächlich in folgenden Graphen und Visualisierungsarten eingesetzt:
+Kategoriale Farbpaletten werden hauptsächlich in folgenden Graphen und
+Visualisierungsarten eingesetzt:
 
 * Balkendiagramme:
 
-   * Zur Unterscheidung verschiedener Kategorien oder Gruppen
-   * Jede Kategorie erhält eine eigene Farbe
+  * Zur Unterscheidung verschiedener Kategorien oder Gruppen
+  * Jede Kategorie erhält eine eigene Farbe
 
 * Kreisdiagramme (Tortendiagramme):
 
-   * Zur Darstellung von Anteilen verschiedener Kategorien
-   * Jeder Sektor repräsentiert eine Kategorie mit einer eindeutigen Farbe
+  * Zur Darstellung von Anteilen verschiedener Kategorien
+  * Jeder Sektor repräsentiert eine Kategorie mit einer eindeutigen Farbe
 
 * Gruppierte Säulendiagramme:
 
-   * Zur Veranschaulichung mehrerer Kategorien innerhalb von Hauptgruppen
-   * Jede Unterkategorie wird durch eine eigene Farbe dargestellt
+  * Zur Veranschaulichung mehrerer Kategorien innerhalb von Hauptgruppen
+  * Jede Unterkategorie wird durch eine eigene Farbe dargestellt
 
 Die Farben dieser Palette sollten nacheinander genau wie unten beschrieben
 angewendet werden. Die Sequenz wird sorgfältig kuratiert, um den Kontrast
