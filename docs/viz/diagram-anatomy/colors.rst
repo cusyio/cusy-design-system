@@ -147,7 +147,7 @@ Alternative kleinere Sets
 :::::::::::::::::::::::::
 
 .. raw:: html
-   :file: alternative-palettes.html
+   :file: alternative-palettes.svg
 
 Sequenzen
 ---------
@@ -204,7 +204,7 @@ oder Divergenz darzustellen.
    Verwendet niemals einen Farbverlauf anstelle einer sequentiellen Palette.
 
 .. raw:: html
-   :file: gradient-utilization-bpm.html
+   :file: gradient-utilization-bpm.svg
 
 .. seealso::
    * `Paul Tol <https://personal.sron.nl/~pault/>`_
