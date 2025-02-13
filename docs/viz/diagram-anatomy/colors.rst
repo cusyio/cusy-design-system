@@ -117,42 +117,6 @@ zu annähernd flächendeckenden Mustern angeordnet werden:
 
 .. figure:: categorical-map.svg
 
-Anwenden der Farben in Bokeh
-::::::::::::::::::::::::::::
-
-.. code-block:: python
-
-   from bokeh.plotting import figure, show
-   from bokeh.io import output_notebook
-   from bokeh.transform import factor_cmap
-
-   output_notebook()
-
-   # Individuelle Palette definieren
-   cusy_palette = ["#753bbd", "#008578", "#cd8402", "#0663b5", "#de2817", "#129fd4", "#bd0f77", "#4ca72b"]
-
-   # Beispieldaten
-   categories = ["Purple", "Teal", "Orange", "Blue", "Red", "Cyan", "Magenta", "Green"]
-   values = [90, 80, 50, 55, 50, 60, 40, 80]
-
-   # Bokeh figure erstellen
-   p = figure(x_range=categories, height=400, title="cusy Palette Beispiel",
-              toolbar_location=None, tools="")
-
-   # Farbpalette anwenden
-   p.vbar(x=categories, top=values, width=0.9,
-          fill_color=factor_cmap('x', palette=cusy_palette, factors=categories))
-
-   # Plot anzeigen
-   show(p)
-
-.. figure:: vbar-categorical-light.png
-   :class: vbar-categorical-light
-
-.. figure:: vbar-categorical-dark.png
-   :class: vbar-categorical-dark
-
-
 Alternative kleinere Sets
 :::::::::::::::::::::::::
 
@@ -257,7 +221,3 @@ oder Divergenz darzustellen.
 .. Code für extra Buttons zum Wechseln des Themes:
 .. raw:: html
    :file: theme-toggle.html
-
-.. CSS für Seite *Farbe*
-.. raw:: html
-   :file: css-colors.html
