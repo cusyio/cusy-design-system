@@ -9,15 +9,11 @@ Continuous Integration
 ----------------------
 
 Wir überprüfen systematisch, ob die Dokumentation des cusy Design-System
-erstellt werden kann und zeigen euch dies auch mit folgendem Abzeichen
-(:abbr:`engl. (englisch)`: Badge) an: |Docs|.
+erstellt werden kann. Mit `ReadTheDocs`_ kann auch ein entsprechendes Abzeichen
+(:abbr:`engl. (englisch)`: Badge) angezeigt werden: |Docs|.
 
-.. |Docs| image:: https://readthedocs.org/projects/cusy-design-system/badge/?version=latest
-   :target: https://www.cusy.design/de/latest/
-
-Dieses Abzeichen wird vom Dokumentationsserver `Read the Docs
-<https://about.readthedocs.com>`_, auf dem unsere Dokumentation des cusy
-Design-System veröffentlicht wird, bereitgestellt.
+.. |Docs| image:: https://readthedocs.org/projects/python-basics-tutorial/badge/?version=latest
+   :target: http://python-basics-tutorial.readthedocs.io/de/latest/
 
 Weitere automatisch generierte Abzeichen findet ihr auf unserer Seite
 :doc:`../index` mit Hinweisen zur Anzahl der Mitwirkenden, zur

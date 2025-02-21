@@ -16,8 +16,10 @@ dependencies = []
 
 [project.optional-dependencies]
 docs = [
-    "furo",
+    "bokeh",
+    "ipython",
     "nbsphinx",
+    "furo",
     "sphinxcontrib-svg2pdfconverter",
     "sphinx_design",
 ]

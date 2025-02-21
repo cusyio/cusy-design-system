@@ -214,5 +214,5 @@ Werkzeuge
 * `Stark Sketch plugin <https://www.getstark.co/>`_
 * `NoCoffee vision simulator <https://github.com/eeejay/NoCoffee>`_
 * `Kontrastrechner
-  <https://www.leserlich.info/werkzeuge/kontrastrechner/>`_
+  <https://leserlich.info/kontrastrechner>`_
 * `Pa11y <https://pa11y.org/>`_
