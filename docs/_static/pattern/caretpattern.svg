@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 199.471926 141.07567">
+    <!-- min viewBox Y 70.537835-->
+    <defs>
+        <pattern id="caretpattern" x="0" y="0" width="199.471926" height="70.537835" patternUnits="userSpaceOnUse" patternTransform="scale(0.125)">
+            <path id="base-caret" class="caret-stroke" d="M-48.35,13.081L0,-35.269L48.35,13.081" style="fill:none;stroke:rgb(0,133,120);stroke-width:45.59px;"/>
+            <use href="#base-caret" transform="translate(99.735963,35.268917)" />
+            <use href="#base-caret" transform="translate(99.735963,105.806752)" />
+            <use href="#base-caret" transform="translate(0,70.537835)" />
+            <use href="#base-caret" transform="translate(199.471926,0)" />
+            <use href="#base-caret" transform="translate(199.471926,70.537835)" />
+        </pattern>
+    </defs>
+    <rect x="0" y="0" width="199.471926" height="141.07567" fill="url(#caretpattern)"/>
+</svg>

@@ -1,0 +1,67 @@
+<svg width="0" height="0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <defs>
+        <pattern id="dotspattern" x="10" y="10" width="159.002264" height="183.6" patternUnits="userSpaceOnUse" patternTransform="scale(0.2)">
+          <circle id="base-dot" cx="79.501132" cy="91.8" r="44.5459745" fill="#753bbd"/>
+          <use xlink:href="#base-dot" transform="translate(-79.501132,45.9)" />
+          <use xlink:href="#base-dot" transform="translate(-79.501132,-45.9)" />
+          <use xlink:href="#base-dot" transform="translate(79.501132,45.9)" />
+          <use xlink:href="#base-dot" transform="translate(79.501132,-45.9)" />
+          <use xlink:href="#base-dot" transform="translate(0,91.8)" />
+          <use xlink:href="#base-dot" transform="translate(0,-91.8)" />
+        </pattern>
+        <pattern id="diamondpattern" x="0" y="0" width="98.468598" height="147.157176" patternUnits="userSpaceOnUse" patternTransform="scale(0.2)">
+          <path id="base-diamond" d="M49.234,5.327L94.904,73.579L49.234,141.83L3.564,73.579L49.234,5.327Z" style="fill:rgb(18,159,212);"/>
+          <use xlink:href="#base-diamond" transform="translate(-49.234299,73.578588)" />
+          <use xlink:href="#base-diamond" transform="translate(49.234299,73.578588)" />
+          <use xlink:href="#base-diamond" transform="translate(-49.234299,-73.578588)" />
+          <use xlink:href="#base-diamond" transform="translate(49.234299,-73.578588)" />
+        </pattern>
+        <pattern id="stripepattern" x="0" y="0" width="200" height="50" patternUnits="userSpaceOnUse" patternTransform="scale(0.2)">
+          <rect id="stripe-base" x="0" y="0" width="200" height="42.5" fill="#757575"/>
+        </pattern>
+        <pattern id="tristarpattern" x="0" y="0" width="163.75391" height="94.588954" patternUnits="userSpaceOnUse" patternTransform="scale(0.2)">
+          <path id="base-tristar1" transform="translate(-48.984362,0)" d="M24.492,56.562L0,42.422L0,14.141L24.492,0L48.984,14.141L73.477,0L97.969,14.141L97.969,42.422L73.477,56.562L73.477,84.843L48.984,98.984L24.492,84.843L24.492,56.562Z" style="fill:rgb(76,167,43);"/>
+          <path id="base-tristar2" transform="translate(-48.984362,0)" d="M155.353,47.316L179.846,61.457L179.846,89.738L155.353,103.879L130.861,89.738L106.369,103.879L81.877,89.738L81.877,61.457L106.369,47.316L106.369,19.035L130.861,4.895L155.353,19.035L155.353,47.316Z" style="fill:rgb(76,167,43);"/>
+          <use xlink:href="#base-tristar1" transform="translate(163.75391,0)"/>
+          <use xlink:href="#base-tristar1" transform="translate(163.75391,-94.588954)"/>
+          <use xlink:href="#base-tristar1" transform="translate(0,-94.588954)"/>
+          <use xlink:href="#base-tristar2" transform="translate(0,-94.588954)" />
+        </pattern>
+        <pattern id="squarepattern" x="0" y="0" width="85.029182" height="85.029182" patternUnits="userSpaceOnUse" patternTransform="scale(0.2)">
+          <rect x="0" y="0" width="78.955669" height="78.955669" fill="#BD0F77"/>
+        </pattern>
+        <pattern id="trianglepattern" x="0" y="0" width="133.725" height="231.618494" patternUnits="userSpaceOnUse" patternTransform="scale(0.2)">
+          <path id="base-triangle" d="M-0,103.923L60,0L-60,0L-0,103.923Z" style="fill:rgb(205,132,2);"/>
+          <use xlink:href="#base-triangle" transform="translate(66.8625,115.809247)" />
+          <use xlink:href="#base-triangle" transform="translate(66.8625,107.885115) rotate(180)" />
+          <use xlink:href="#base-triangle" transform="translate(133.725,0)" />
+          <use xlink:href="#base-triangle" transform="translate(133.725,223.694362) rotate(180)" />
+          <use xlink:href="#base-triangle" transform="translate(0,223.694362) rotate(180)" />
+        </pattern>
+        <pattern id="crosspattern" x="0" y="0" width="86.166304" height="86.166304" patternUnits="userSpaceOnUse" patternTransform="rotate(16.84402287240401) scale(0.2)">
+          <path id="base-cross" d="M9.427,-55.029L40.559,-38.367L23.897,-7.235L55.029,9.427L38.367,40.559L7.235,23.897L-9.427,55.029L-40.559,38.367L-23.897,7.235L-55.029,-9.427L-38.367,-40.559L-7.235,-23.897L9.427,-55.029Z" style="fill:rgb(222,40,23);"/>
+          <use xlink:href="#base-cross" transform="translate(86.166304,0)"/>
+          <use xlink:href="#base-cross" transform="translate(86.166304,86.166304)"/>
+          <use xlink:href="#base-cross" transform="translate(0,86.166304)"/>
+        </pattern>
+        <pattern id="spiralpattern" x="0" y="0" width="141.305462" height="80.921615" patternUnits="userSpaceOnUse" patternTransform="skewX(-10.342516055954842) scale(0.4)"   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+          <g id="base-spiral" transform="matrix(0.571164,-0.0466398,0.152429,0.579676,-0.714298,6.4775)">
+            <path d="M82.17,0C81.17,-44.829 44.829,-81.17 -0,-81.17C-40.754,-81.17 -73.791,-48.133 -73.791,-7.379C-73.791,28.846 -44.424,58.213 -8.199,58.213C23.498,58.213 49.194,32.517 49.194,0.82C49.194,-26.349 27.169,-48.374 -0,-48.374C-22.641,-48.374 -40.995,-30.02 -40.995,-7.379C-40.995,10.734 -26.312,25.417 -8.199,25.417C5.386,25.417 16.398,14.404 16.398,0.82C16.398,-8.236 9.056,-15.578 -0,-15.578C-4.528,-15.578 -8.199,-11.907 -8.199,-7.379" style="fill:none;stroke:rgb(6,99,181);stroke-width:21.36px;"/>
+          </g>
+          <use xlink:href="#base-spiral" transform="translate(70.6527313,40.460808)" />
+          <use xlink:href="#base-spiral" transform="translate(141.305463,0)" />
+          <use xlink:href="#base-spiral" transform="translate(141.305463,80.921616)" />
+          <use xlink:href="#base-spiral" transform="translate(141.305463,80.921616)" />
+          <use xlink:href="#base-spiral" transform="translate(0,80.921616)" />
+          <use xlink:href="#base-spiral" transform="translate(70.652732,-40.460807)" />
+        </pattern>
+        <pattern id="caretpattern" x="0" y="0" width="199.471926" height="70.537835" patternUnits="userSpaceOnUse" patternTransform="scale(0.2)">
+            <path id="base-caret" class="caret-stroke" d="M-48.35,13.081L0,-35.269L48.35,13.081" style="fill:none;stroke:rgb(0,133,120);stroke-width:45.59px;"/>
+            <use xlink:href="#base-caret" transform="translate(99.735963,35.268917)" />
+            <use xlink:href="#base-caret" transform="translate(99.735963,105.806752)" />
+            <use xlink:href="#base-caret" transform="translate(0,70.537835)" />
+            <use xlink:href="#base-caret" transform="translate(199.471926,0)" />
+            <use xlink:href="#base-caret" transform="translate(199.471926,70.537835)" />
+        </pattern>
+    </defs>
+</svg>

@@ -12,3 +12,19 @@ div.sphinxsidebar p.logo a, div.sphinxsidebar p.logo a:hover {
     pointer-events: none;
     cursor: default;
 }
+/* vega-altair specific */
+.vega-embed svg g.mark-text text {
+    fill: var(--color-foreground-primary) !important;
+}
+.vega-embed svg {
+    background-color: transparent !important;
+}
+/* background grid lines */
+.vega-embed svg g.mark-rule.role-axis-grid line {
+    stroke: var(--color-foreground-muted) !important;
+    opacity: 0.2 !important;
+}
+/* border surrounding plot */
+.vega-embed svg path.background {
+    opacity: 0 !important;
+}
