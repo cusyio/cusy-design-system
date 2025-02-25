@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 85.029182 85.029182">
+    <defs>
+        <pattern id="squarepattern" x="3.0367565" y="3.0367565" width="85.029182" height="85.029182" patternUnits="userSpaceOnUse" patternTransform="scale(0.1)">
+          <rect x="0" y="0" width="78.955669" height="78.955669" fill="#BD0F77"/>
+        </pattern>
+    </defs>
+
+    <rect x="0" y="0" width="85.029182" height="85.029182" fill="url(#squarepattern)"/>
+</svg>
