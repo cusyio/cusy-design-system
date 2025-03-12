@@ -24,9 +24,9 @@ function styleBokehPlot() {
 
     for (const path of allPaths) {
         let stroke = path.getAttribute("stroke");
-        if(stroke == "black")
+        if(stroke == "black" || stroke == "rbg(0,0,0)")
             path.setAttribute("stroke", "var(--color-foreground-primary)");
-        if(stroke == "#e5e5e5")
+        if(stroke == "#e5e5e5" || stroke == "rgb(229,229,229)")
             path.setAttribute("stroke", "#757575");
     }
 }
