@@ -60,35 +60,31 @@ Visualisierungsarten eingesetzt:
   * Zur Unterscheidung verschiedener Kategorien oder Gruppen
   * Jede Kategorie erhält eine eigene Farbe
 
-    * Zur Unterscheidung verschiedener Kategorien oder Gruppen
-    * Jede Kategorie erhält eine eigene Farbe
-
 * Kreisdiagramme (Tortendiagramme):
 
   * Zur Darstellung von Anteilen verschiedener Kategorien
   * Jeder Sektor repräsentiert eine Kategorie mit einer eindeutigen Farbe
-
-    * Zur Darstellung von Anteilen verschiedener Kategorien
-    * Jeder Sektor repräsentiert eine Kategorie mit einer eindeutigen Farbe
 
 * Gruppierte Säulendiagramme:
 
   * Zur Veranschaulichung mehrerer Kategorien innerhalb von Hauptgruppen
   * Jede Unterkategorie wird durch eine eigene Farbe dargestellt
 
-    * Zur Veranschaulichung mehrerer Kategorien innerhalb von Hauptgruppen
-    * Jede Unterkategorie wird durch eine eigene Farbe dargestellt
-
 Die Farben dieser Palette sollten nacheinander genau wie unten beschrieben
 angewendet werden. Die Sequenz wird sorgfältig kuratiert, um den Kontrast
 zwischen benachbarten Farben zu maximieren und die visuelle Unterscheidung zu
 erleichtern.
-
 Die cusy Palette sollte nur für Daten und Darstellungen verwendet werden,
 die den Werten von cusy entsprechen.
 
 .. raw:: html
    :file: categorical-colors.html
+
+Alternative kleinere Sets
+:::::::::::::::::::::::::
+
+.. raw:: html
+   :file: alternative-palettes.svg
 
 Farbdifferenzen nach CIEDE2000
 ::::::::::::::::::::::::::::::
@@ -116,45 +112,6 @@ In flächigen Diagrammen, wie Balken- und Kreisdiagrammen, können die Formen
 zu annähernd flächendeckenden Mustern angeordnet werden:
 
 .. figure:: categorical-map.svg
-
-Alternative kleinere Sets
-:::::::::::::::::::::::::
-
-.. figure:: alts-light-1.png
-   :alt: Einfarbige Alternative für das Light Theme
-
-.. figure:: alts-light-2.png
-   :alt: Zweifarbige Alternative für das Light Theme
-
-.. figure:: alts-light-3.png
-   :alt: Dreifarbige Alternative für das Light Theme
-
-.. figure:: alts-light-4.png
-   :alt: Vierfarbige Alternative für das Light Theme
-
-.. figure:: alts-light-5.png
-   :alt: Fünffarbige Alternative für das Light Theme
-
-Alternativen für das Dark Theme
--------------------------------
-
-.. figure:: alts-dark-1.png
-   :alt: Einfarbige Alternative für das Dark Theme
-
-.. figure:: alts-dark-2.png
-   :alt: Zweifarbige Alternative für das Dark Theme
-
-.. figure:: alts-dark-3.png
-   :alt: Dreifarbige Alternative für das Dark Theme
-
-.. figure:: alts-dark-4.png
-   :alt: Vierfarbige Alternative für das Dark Theme
-
-.. figure:: alts-dark-5.png
-   :alt: Fünffarbige Alternative für das Dark Theme
-
-.. raw:: html
-   :file: alternative-palettes.svg
 
 Sequenzen
 ---------
