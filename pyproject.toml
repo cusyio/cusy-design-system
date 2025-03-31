@@ -16,6 +16,10 @@ dependencies = []
 
 [project.optional-dependencies]
 docs = [
+    "geopandas",
+    "maplibre",
+    "leafmap",
+    "altair",
     "bokeh",
     "ipython",
     "nbsphinx",
