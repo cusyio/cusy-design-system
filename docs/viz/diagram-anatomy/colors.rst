@@ -120,8 +120,8 @@ Einfarbig
 ~~~~~~~~~
 
 Monochromatische Paletten eignen sich gut für Beziehungs- und Trenddiagramme.
-Hier empfehlen wir für Zugänglichkeit die Verwendung die zwei Faktoren
-Strichstärke und Rotation.
+Hier empfehlen wir für Zugänglichkeit die Anpassung der Größe,
+:abbr:`bzw. (beziehungsweise)` Strichstärke der Formen.
 
 .. raw:: html
    :file: sequence-mono-purple.svg
