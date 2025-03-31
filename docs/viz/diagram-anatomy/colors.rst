@@ -80,6 +80,12 @@ die den Werten von cusy entsprechen.
 .. raw:: html
    :file: categorical-colors.html
 
+Alternative kleinere Sets
+:::::::::::::::::::::::::
+
+.. raw:: html
+   :file: alternative-palettes.svg
+
 Farbdifferenzen nach CIEDE2000
 ::::::::::::::::::::::::::::::
 
@@ -106,12 +112,6 @@ In flächigen Diagrammen, wie Balken- und Kreisdiagrammen, können die Formen
 zu annähernd flächendeckenden Mustern angeordnet werden:
 
 .. figure:: categorical-map.svg
-
-Alternative kleinere Sets
-:::::::::::::::::::::::::
-
-.. raw:: html
-   :file: alternative-palettes.svg
 
 Sequenzen
 ---------
