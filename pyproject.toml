@@ -18,8 +18,11 @@ dependencies = []
 docs = [
     "altair",
     "bokeh",
+    "geopandas",
     "ipython",
     "ipyleaflet",
+    "leafmap",
+    "maplibre",
     "nbsphinx",
     "furo",
     "sphinxcontrib-svg2pdfconverter",
@@ -29,9 +32,9 @@ docs = [
 
 dev = [
     "cusy-design-system[docs]",
+    "notebook",
     "pre-commit",
     "vale",
-    "notebook",
 ]
 
 [project.urls]
