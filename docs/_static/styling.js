@@ -78,12 +78,16 @@ function fixBokehSvgPatternsInFirefox() {
   }
 }
 
+if(window.location.href.endsWith("colors.html")){
+  document.addEventListener('DOMContentLoaded', styleBokehPlot);
+}
 document.addEventListener('DOMContentLoaded', fixBokehSvgPatternsInFirefox);
-document.addEventListener('DOMContentLoaded', styleBokehPlot);
 
 const observer=new MutationObserver(() => {
+  if(window.location.href.endsWith("colors.html")){
+    document.addEventListener('DOMContentLoaded', styleBokehPlot);
+  }
   setTimeout(fixBokehSvgPatternsInFirefox, 100);
-  setTimeout(styleBokehPlot, 100);
 });
 
 observer.observe(document.body, {
