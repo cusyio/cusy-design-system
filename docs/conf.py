@@ -148,7 +148,7 @@ linkcheck_ignore = [
 # -- nbsphinx configuration --------------------------------------------------
 
 nbsphinx_allow_errors = True
-# nbsphinx_execute = 'always'
+# nbsphinx_execute = "always"
 
 # -- intersphinx configuration -----------------------------------------------
 

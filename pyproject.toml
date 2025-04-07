@@ -19,6 +19,7 @@ docs = [
     "altair",
     "bokeh",
     "ipython",
+    "ipyleaflet",
     "nbsphinx",
     "furo",
     "sphinxcontrib-svg2pdfconverter",
