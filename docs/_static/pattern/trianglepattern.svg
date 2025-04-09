@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 133.725 231.618494">
+    <defs>
+        <pattern id="trianglepattern" x="66.8625" y="2" width="133.725" height="231.618494" patternUnits="userSpaceOnUse" patternTransform="scale(0.25)">
+            <g id="base-triangle" transform="rotate(180deg)">
+            <path  d="M0,103.923048L60,0L-60,0L0,103.923048Z" style="fill:rgb(205,132,2);"/>
+            </g>
+            <use href="#base-triangle" transform="translate(66.8625,115.809247)" />
+            <use href="#base-triangle" transform="translate(66.8625,107.885115) rotate(180)" />
+            <use href="#base-triangle" transform="translate(133.725,0)" />
+            <use href="#base-triangle" transform="translate(133.725,223.694362) rotate(180)" />
+            <use href="#base-triangle" transform="translate(0,223.694362) rotate(180)" />
+        </pattern>
+    </defs>
+
+    <rect x="0" y="0" width="133.725" height="231.618494" fill="url(#trianglepattern)"/>
+</svg>

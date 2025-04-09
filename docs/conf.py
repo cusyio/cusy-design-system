@@ -94,6 +94,8 @@ html_title = f"{project} {release}"
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ["_static"]
+html_js_files = ["colorTooltips.js", "styling.js"]
+html_css_files = ["custom.css"]
 
 # html_logo = '_static/images/logo/logo.png'
 # html_favicon = '_static/images/logo/favicon.ico'
@@ -141,7 +143,7 @@ linkcheck_ignore = [
 # -- nbsphinx configuration --------------------------------------------------
 
 nbsphinx_allow_errors = True
-# nbsphinx_execute = 'always'
+# nbsphinx_execute = "always"
 
 # -- intersphinx configuration -----------------------------------------------
 
@@ -163,6 +165,11 @@ def setup(app):
         objname="label value",
         indextemplate="pair: %s; label value",
     )
+
+    app.add_js_file("vega-altair/vega@5.js")
+    app.add_js_file("vega-altair/vega-lite@5.20.1.js")
+    app.add_js_file("vega-altair/vega-embed@6.js")
+    app.add_js_file("vega-altair/vega-lib.js")
 
 
 # -- graphviz configuration --------------------------------------------------

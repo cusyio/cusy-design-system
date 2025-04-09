@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 98.468598 147.157176">
+    <defs>
+        <pattern id="diamondpattern" x="0" y="0" width="98.468598" height="147.157176" patternUnits="userSpaceOnUse" patternTransform="scale(0.1666666666666666)">
+      <path id="base-diamond" d="M49.234,5.327L94.904,73.579L49.234,141.83L3.564,73.579L49.234,5.327Z" style="fill:rgb(18,159,212);"/>
+          <use href="#base-diamond" transform="translate(-49.234299,73.578588)" />
+          <use href="#base-diamond" transform="translate(49.234299,73.578588)" />
+          <use href="#base-diamond" transform="translate(-49.234299,-73.578588)" />
+          <use href="#base-diamond" transform="translate(49.234299,-73.578588)" />
+        </pattern>
+    </defs>
+
+    <rect x="0" y="0" width="98.468598" height="147.157176" fill="url(#diamondpattern)"/>
+</svg>

@@ -1,0 +1,43 @@
+<script>
+  document.addEventListener("DOMContentLoaded", ()=> {
+    const svgList = document.querySelectorAll("#farbe svg.toggler, #farbe div.toggler, #farbe img");
+
+    for (let i = 0; i < svgList.length; ++i) {
+      const svg = svgList[i];
+      if(svg.src && svg.src.endsWith("color-shapes.svg")) continue;
+      const wrapper = document.createElement("div");
+      wrapper.classList.add("svg-container");
+      wrapper.style.position = "relative";
+
+      svg.parentNode.insertBefore(wrapper, svg);
+      wrapper.appendChild(svg);
+
+      const toggleDiv = document.createElement("div");
+      toggleDiv.classList.add("custom-theme-toggle", "align-right");
+      toggleDiv.style.position = "absolute";
+      toggleDiv.style.top = "0";
+      toggleDiv.style.right = "0";
+      toggleDiv.style.transform = "translateX(25px)";
+      toggleDiv.style.transform = "translateY(-5px)";
+
+      toggleDiv.innerHTML = `
+        <button class="theme-toggle">
+          <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+          <svg class="theme-icon-when-auto-light">
+            <use href="#svg-sun-with-moon"></use>
+          </svg>
+          <svg class="theme-icon-when-auto-dark">
+            <use href="#svg-moon-with-sun"></use>
+          </svg>
+          <svg class="theme-icon-when-dark">
+            <use href="#svg-moon"></use>
+          </svg>
+          <svg class="theme-icon-when-light">
+            <use href="#svg-sun"></use>
+          </svg>
+        </button>
+      `;
+      wrapper.appendChild(toggleDiv);
+    }
+  });
+</script>
