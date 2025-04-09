@@ -183,10 +183,10 @@ def setup(app):
         indextemplate="pair: %s; label value",
     )
 
-    app.add_js_file("vega-altair/vega@5.js")
-    app.add_js_file("vega-altair/vega-lite@5.20.1.js")
-    app.add_js_file("vega-altair/vega-embed@6.js")
-    app.add_js_file("vega-altair/vega-lib.js")
+    app.add_js_file("../../../../docs/_static/vega-altair/vega@5.js")
+    app.add_js_file("../../../../docs/_static/vega-altair/vega-lite@5.20.1.js")
+    app.add_js_file("../../../../docs/_static/vega-altair/vega-embed@6.js")
+    app.add_js_file("../../../../docs/_static/vega-altair/vega-lib.js")
 
 
 # -- graphviz configuration --------------------------------------------------
