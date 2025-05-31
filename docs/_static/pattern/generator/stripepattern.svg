@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+    <defs>
+        <pattern id="gen-stripepattern" x="0" y="0" width="200" height="50" patternUnits="userSpaceOnUse" patternTransform="scale(0.76)">
+            <rect id="stripe-gen" class="resize" transform-origin="0 10.625" x="0" y="0" width="200" height="21.25" fill="#757575" />
+           <use href="#stripe-gen" transform="translate(0,25)" />
+        </pattern>
+    </defs>
+
+    <rect x="0" y="0" width="200" height="200" fill="url(#gen-stripepattern)"/>
+</svg>

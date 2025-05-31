@@ -145,6 +145,12 @@ Verläufe ohne Farbassoziationen
 .. raw:: html
    :file: palettes-purple-teal-sequence.svg
 
+SVG Muster Generator
+~~~~~~~~~~~~~~~~~~~~~
+
+.. raw:: html
+   :file: svg-pattern-generator.html
+
 Alarm
 ~~~~~
 

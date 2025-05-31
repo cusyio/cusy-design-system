@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 81.8965435 47.28299">
+    <defs>
+        <pattern id="gen-tristarpattern" x="0" y="0" width="81.8965435" height="47.28299" patternUnits="userSpaceOnUse" patternTransform="scale(.3)">
+            <path id="gen-tristar1" class="resize" d="M12.246,42.422L0,49.492L-12.246,42.422L-12.246,28.281L-24.492,21.211L-24.492,7.07L-12.246,0L0,7.07L12.246,0L24.492,7.07L24.492,21.211L12.246,28.281L12.246,42.422Z" style="fill:rgb(76,167,43);" transform-origin="0 24.746"/>
+            <path id="gen-tristar2" class="resize" d="M16.456,44.852L16.456,30.712L28.702,23.641L28.702,9.501L40.948,2.431L53.194,9.501L53.194,23.641L65.44,30.712L65.44,44.852L53.194,51.923L40.948,44.852L28.702,51.923L16.456,44.852Z" style="fill:rgb(76,167,43);" transform-origin="40.948 27.177"/>
+            <use href="#gen-tristar1" transform="translate(81.8965435,0)"/>
+            <use href="#gen-tristar2" transform="translate(0,-47.28299)" />
+            <use href="#gen-tristar1" transform="translate(0,-47.28299)" />
+            <use href="#gen-tristar1" transform="translate(81.8965435,-47.28299)" />
+        </pattern>
+    </defs>
+
+    <rect x="0" y="0" width="81.8965435" height="47.28299" fill="url(#gen-tristarpattern)"/>
+</svg>
