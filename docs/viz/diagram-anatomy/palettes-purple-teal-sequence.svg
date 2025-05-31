@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1600 240" version="1.1" xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/"
+  style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:2;">
+  <defs>
+    <pattern id="dotspattern-100" x="10" y="10" width="159.002264" height="183.6" patternUnits="userSpaceOnUse"
+      patternTransform="scale(0.2)">
+      <circle id="base-dot-100" cx="79.501132" cy="91.8" r="44.5459745" fill="#753bbd" />
+      <use xlink:href="#base-dot-100" transform="translate(-79.501132,45.9)" />
+      <use xlink:href="#base-dot-100" transform="translate(-79.501132,-45.9)" />
+      <use xlink:href="#base-dot-100" transform="translate(79.501132,45.9)" />
+      <use xlink:href="#base-dot-100" transform="translate(79.501132,-45.9)" />
+      <use xlink:href="#base-dot-100" transform="translate(0,91.8)" />
+      <use xlink:href="#base-dot-100" transform="translate(0,-91.8)" />
+    </pattern>
+    <pattern id="dotspattern-82" x="10" y="10" width="159.002264" height="183.6" patternUnits="userSpaceOnUse"
+      patternTransform="scale(0.2)">
+      <circle id="base-dot-82" cx="79.501132" cy="91.8" r="40.33809554511483" fill="#753bbd" />
+      <use xlink:href="#base-dot-82" transform="translate(-79.501132,45.9)" />
+      <use xlink:href="#base-dot-82" transform="translate(-79.501132,-45.9)" />
+      <use xlink:href="#base-dot-82" transform="translate(79.501132,45.9)" />
+      <use xlink:href="#base-dot-82" transform="translate(79.501132,-45.9)" />
+      <use xlink:href="#base-dot-82" transform="translate(0,91.8)" />
+      <use xlink:href="#base-dot-82" transform="translate(0,-91.8)" />
+    </pattern>
+    <pattern id="dotspattern-64" x="10" y="10" width="159.002264" height="183.6" patternUnits="userSpaceOnUse"
+      patternTransform="scale(0.2)">
+      <circle id="base-dot-64" cx="79.501132" cy="91.8" r="35.636779600000004" fill="#753bbd" />
+      <use xlink:href="#base-dot-64" transform="translate(-79.501132,45.9)" />
+      <use xlink:href="#base-dot-64" transform="translate(-79.501132,-45.9)" />
+      <use xlink:href="#base-dot-64" transform="translate(79.501132,45.9)" />
+      <use xlink:href="#base-dot-64" transform="translate(79.501132,-45.9)" />
+      <use xlink:href="#base-dot-64" transform="translate(0,91.8)" />
+      <use xlink:href="#base-dot-64" transform="translate(0,-91.8)" />
+    </pattern>
+    <pattern id="dotspattern-46" x="10" y="10" width="159.002264" height="183.6" patternUnits="userSpaceOnUse"
+      patternTransform="scale(0.2)">
+      <circle id="base-dot-46" cx="79.501132" cy="91.8" r="30.21254984788836" fill="#753bbd" />
+      <use xlink:href="#base-dot-46" transform="translate(-79.501132,45.9)" />
+      <use xlink:href="#base-dot-46" transform="translate(-79.501132,-45.9)" />
+      <use xlink:href="#base-dot-46" transform="translate(79.501132,45.9)" />
+      <use xlink:href="#base-dot-46" transform="translate(79.501132,-45.9)" />
+      <use xlink:href="#base-dot-46" transform="translate(0,91.8)" />
+      <use xlink:href="#base-dot-46" transform="translate(0,-91.8)" />
+    </pattern>
+    <pattern id="dotspattern-28" x="10" y="10" width="159.002264" height="183.6" patternUnits="userSpaceOnUse"
+      patternTransform="scale(0.2)">
+      <circle id="base-dot-28" cx="79.501132" cy="91.8" r="23.571514087204967" fill="#753bbd" />
+      <use xlink:href="#base-dot-28" transform="translate(-79.501132,45.9)" />
+      <use xlink:href="#base-dot-28" transform="translate(-79.501132,-45.9)" />
+      <use xlink:href="#base-dot-28" transform="translate(79.501132,45.9)" />
+      <use xlink:href="#base-dot-28" transform="translate(79.501132,-45.9)" />
+      <use xlink:href="#base-dot-28" transform="translate(0,91.8)" />
+      <use xlink:href="#base-dot-28" transform="translate(0,-91.8)" />
+    </pattern>
+    <pattern id="dotspattern-10" x="10" y="10" width="159.002264" height="183.6" patternUnits="userSpaceOnUse"
+      patternTransform="scale(0.2)">
+      <circle id="base-dot-10" cx="79.501132" cy="91.8" r="14.086674001178029" fill="#753bbd" />
+      <use xlink:href="#base-dot-10" transform="translate(-79.501132,45.9)" />
+      <use xlink:href="#base-dot-10" transform="translate(-79.501132,-45.9)" />
+      <use xlink:href="#base-dot-10" transform="translate(79.501132,45.9)" />
+      <use xlink:href="#base-dot-10" transform="translate(79.501132,-45.9)" />
+      <use xlink:href="#base-dot-10" transform="translate(0,91.8)" />
+      <use xlink:href="#base-dot-10" transform="translate(0,-91.8)" />
+    </pattern>
+
+    <pattern id="caretpattern-100" x="11.5" y="0" width="199.471926" height="70.537835" patternUnits="userSpaceOnUse"
+      patternTransform="scale(0.2)">
+      <path id="base-caret-100" class="caret-stroke" d="M-48.35,13.081L0,-35.269L48.35,13.081"
+        style="fill:none;stroke:rgb(0,133,120);stroke-width:45.59px;" />
+      <use xlink:href="#base-caret-100" transform="translate(99.735963,35.268917)" />
+      <use xlink:href="#base-caret-100" transform="translate(99.735963,105.806752)" />
+      <use xlink:href="#base-caret-100" transform="translate(0,70.537835)" />
+      <use xlink:href="#base-caret-100" transform="translate(199.471926,0)" />
+      <use xlink:href="#base-caret-100" transform="translate(199.471926,70.537835)" />
+    </pattern>
+    <pattern id="caretpattern-82" x="11.5" y="0" width="199.471926" height="70.537835" patternUnits="userSpaceOnUse"
+      patternTransform="scale(0.2)">
+      <g id="base-caret-82" transform="scale(0.9515978740065267,0.9515978740065267)">
+        <path d="M-48.35,13.081L0,-35.269L48.35,13.081"
+          style="fill:none;stroke:rgb(0,133,120);stroke-width:39.285291635428344px;" />
+      </g>
+      <g>
+        <use xlink:href="#base-caret-82" transform="translate(99.735963,35.268917)" />
+        <use xlink:href="#base-caret-82" transform="translate(99.735963,105.806752)" />
+        <use xlink:href="#base-caret-82" transform="translate(0,70.537835)" />
+        <use xlink:href="#base-caret-82" transform="translate(199.471926,0)" />
+        <use xlink:href="#base-caret-82" transform="translate(199.471926,70.537835)" />
+      </g>
+    </pattern>
+    <pattern id="caretpattern-64" x="11.5" y="0" width="199.471926" height="70.537835" patternUnits="userSpaceOnUse"
+      patternTransform="scale(0.2)">
+      <g id="base-caret-64" transform="scale(0.8944271909999159,0.8944271909999159)">
+        <path d="M-48.35,13.081L0,-35.269L48.35,13.081"
+          style="fill:none;stroke:rgb(0,133,120);stroke-width:32.62154851014893px;" />
+      </g>
+        <use xlink:href="#base-caret-64" transform="translate(99.735963,35.268917)" />
+        <use xlink:href="#base-caret-64" transform="translate(99.735963,105.806752)" />
+        <use xlink:href="#base-caret-64" transform="translate(0,70.537835)" />
+        <use xlink:href="#base-caret-64" transform="translate(199.471926,0)" />
+        <use xlink:href="#base-caret-64" transform="translate(199.471926,70.537835)" />
+    </pattern>
+    <pattern id="caretpattern-46" x="11.5" y="0" width="199.471926" height="70.537835" patternUnits="userSpaceOnUse"
+      patternTransform="scale(0.2)">
+      <g id="base-caret-46" transform="scale(0.8235490260528069,0.8235490260528069)">
+        <path d="M-48.35,13.081L0,-35.269L48.35,13.081"
+          style="fill:none;stroke:rgb(0,133,120);stroke-width:25.46466492773837px;" />
+      </g>
+        <use xlink:href="#base-caret-46" transform="translate(99.735963,35.268917)" />
+        <use xlink:href="#base-caret-46" transform="translate(99.735963,105.806752)" />
+        <use xlink:href="#base-caret-46" transform="translate(0,70.537835)" />
+        <use xlink:href="#base-caret-46" transform="translate(199.471926,0)" />
+        <use xlink:href="#base-caret-46" transform="translate(199.471926,70.537835)" />
+    </pattern>
+    <pattern id="caretpattern-28" x="11.5" y="0" width="199.471926" height="70.537835" patternUnits="userSpaceOnUse"
+      patternTransform="scale(0.2)">
+      <g id="base-caret-28" transform="scale(0.727427152512826,0.727427152512826)">
+        <path d="M-48.35,13.081L0,-35.269L48.35,13.081"
+          style="fill:none;stroke:rgb(0,133,120);stroke-width:17.548423860593967px;" />
+      </g>
+        <use xlink:href="#base-caret-28" transform="translate(99.735963,35.268917)" />
+        <use xlink:href="#base-caret-28" transform="translate(99.735963,105.806752)" />
+        <use xlink:href="#base-caret-28" transform="translate(0,70.537835)" />
+        <use xlink:href="#base-caret-28" transform="translate(199.471926,0)" />
+        <use xlink:href="#base-caret-28" transform="translate(199.471926,70.537835)" />
+    </pattern>
+    <pattern id="caretpattern-10" x="11.5" y="0" width="199.471926" height="70.537835" patternUnits="userSpaceOnUse"
+      patternTransform="scale(0.2)">
+      <g id="base-caret-10" transform="scale(0.5623413251903491,0.5623413251903491)">
+        <path d="M-48.35,13.081L0,-35.269L48.35,13.081"
+          style="fill:none;stroke:rgb(0,133,120);stroke-width:8.107175830367451px;" />
+      </g>
+        <use xlink:href="#base-caret-10" transform="translate(99.735963,35.268917)" />
+        <use xlink:href="#base-caret-10" transform="translate(99.735963,105.806752)" />
+        <use xlink:href="#base-caret-10" transform="translate(0,70.537835)" />
+        <use xlink:href="#base-caret-10" transform="translate(199.471926,0)" />
+        <use xlink:href="#base-caret-10" transform="translate(199.471926,70.537835)" />
+    </pattern>
+  </defs>
+
+
+  <rect id="caret-10" x="800" y="31.738281" width="120" height="120" fill="url(#caretpattern-10)" />
+  <rect id="caret-28" x="920" y="31.738281" width="120" height="120" fill="url(#caretpattern-28)" />
+  <rect id="caret-46" x="1040" y="31.738281" width="120" height="120" fill="url(#caretpattern-46)" />
+  <rect id="caret-64" x="1160" y="31.738281" width="120" height="120" fill="url(#caretpattern-64)" />
+  <rect id="caret-82" x="1280" y="31.738281" width="120" height="120" fill="url(#caretpattern-82)" />
+  <rect id="caret-100" x="1400" y="31.738281" width="120" height="120" fill="url(#caretpattern-100)" />
+
+  <rect id="dots-100" x="80" y="31.738281" width="120" height="120" fill="url(#dotspattern-100)" />
+  <rect id="dots-82" x="200" y="31.738281" width="120" height="120" fill="url(#dotspattern-82)" />
+  <rect id="dots-64" x="320" y="31.738281" width="120" height="120" fill="url(#dotspattern-64)" />
+  <rect id="dots-46" x="440" y="31.738281" width="120" height="120" fill="url(#dotspattern-46)" />
+  <rect id="dots-28" x="560" y="31.738281" width="120" height="120" fill="url(#dotspattern-28)" />
+  <rect id="dots-10" x="680" y="31.738281" width="120" height="120" fill="url(#dotspattern-10)" />
+
+  <g id="Overlay" transform="matrix(1,0,0,1,0,-35)">
+    <g id="Purple-100" serif:id="Purple 100" transform="matrix(1,0,0,1,-193,-196.262)">
+      <rect x="273" y="263" width="120" height="120"
+        style="fill:none;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;" />
+    </g>
+    <g id="Purple-82" serif:id="Purple 82" transform="matrix(1,0,0,1,-73,-196.262)">
+      <rect x="273" y="263" width="120" height="120"
+        style="fill:none;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;" />
+    </g>
+    <g id="Purple-64" serif:id="Purple 64" transform="matrix(1,0,0,1,47,-196.262)">
+      <rect x="273" y="263" width="120" height="120"
+        style="fill:none;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;" />
+    </g>
+    <g id="Purple-46" serif:id="Purple 46" transform="matrix(1,0,0,1,167,-196.262)">
+      <rect x="273" y="263" width="120" height="120"
+        style="fill:none;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;" />
+    </g>
+    <g id="Purple-28" serif:id="Purple 28" transform="matrix(1,0,0,1,287,-196.262)">
+      <rect x="273" y="263" width="120" height="120"
+        style="fill:none;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;" />
+    </g>
+    <g id="Purple-10" serif:id="Purple 10" transform="matrix(1,0,0,1,407,-196.262)">
+      <rect x="273" y="263" width="120" height="120"
+        style="fill:none;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;" />
+    </g>
+    <g id="Teal-100" serif:id="Teal 100" transform="matrix(1,0,0,1,1127,-196.262)">
+      <rect x="273" y="263" width="120" height="120"
+        style="fill:none;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;" />
+    </g>
+    <g id="Teal-82" serif:id="Teal 82" transform="matrix(1,0,0,1,1007,-196.262)">
+      <rect x="273" y="263" width="120" height="120"
+        style="fill:none;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;" />
+    </g>
+    <g id="Teal-64" serif:id="Teal 64" transform="matrix(1,0,0,1,887,-196.262)">
+      <rect x="273" y="263" width="120" height="120"
+        style="fill:none;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;" />
+    </g>
+    <g id="Teal-46" serif:id="Teal 46" transform="matrix(1,0,0,1,767,-196.262)">
+      <rect x="273" y="263" width="120" height="120"
+        style="fill:none;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;" />
+    </g>
+    <g id="Teal-28" serif:id="Teal 28" transform="matrix(1,0,0,1,647,-196.262)">
+      <rect x="273" y="263" width="120" height="120"
+        style="fill:none;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;" />
+    </g>
+    <g id="Teal-10" serif:id="Teal 10" transform="matrix(1,0,0,1,527,-196.262)">
+      <rect x="273" y="263" width="120" height="120"
+        style="fill:none;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;" />
+    </g>
+  </g>
+  <g transform="matrix(1,0,0,1,-42.418,-809.629)">
+    <g transform="matrix(40,0,0,40,250.367,1010)">
+    </g>
+    <text x="119px" y="1010px" style="font-family:'cusyText-Bold', 'cusy Text';font-weight:700;font-size:40px;">Pur
+      <tspan x="188.648px " y="1010px ">p</tspan>le</text>
+  </g>
+  <g transform="matrix(1,0,0,1,1026.74,-809.629)">
+    <g transform="matrix(40,0,0,40,496.305,1010)">
+    </g>
+    <text x="414.176px" y="1010px" style="font-family:'cusyText-Bold', 'cusy Text';font-weight:700;font-size:40px;">T
+      <tspan x="436.871px " y="1010px ">e</tspan>al</text>
+  </g>
+</svg>

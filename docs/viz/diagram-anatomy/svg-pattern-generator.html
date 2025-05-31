@@ -1,0 +1,73 @@
+<style>
+  .svg-generator {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+    padding: 20px;
+  }
+
+  .svg-generator .buttons-column {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-right: -10px;
+    margin-left: 10px;
+  }
+
+  .svg-generator label,
+  .svg-generator select,
+  .svg-generator input,
+  .svg-generator button {
+    margin-bottom: 8px;
+  }
+
+  .svg-generator .pattern-select,
+  .svg-generator .percentage-input {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .svg-generator .pattern-select {
+    margin-bottom: 10px;
+  }
+
+  .svg-generator #svg-gen-container {
+    min-width: 60%;
+    max-width: 80%;
+    margin: 0 auto;
+    height: 90px;
+    overflow: hidden;
+    margin-top: -10px;
+  }
+</style>
+
+<div class="svg-generator">
+  <div class="controls-column">
+    <div class="pattern-select">
+      <label for="pattern-select">Muster:</label>
+      <select id="pattern-select">
+        <option value="caretpattern">Caret</option>
+        <option value="spiralpattern">Spiral</option>
+        <option value="squarepattern">Square</option>
+        <option value="dotspattern">Dots</option>
+        <option value="trianglepattern">Triangle</option>
+        <option value="crosspattern">Cross</option>
+        <option value="diamondpattern">Diamond</option>
+        <option value="tristarpattern">Tristar</option>
+        <option value="stripepattern">Stripe</option>
+      </select>
+    </div>
+    <div class="percentage-input">
+      <label for="percentage-input">Prozent:</label>
+      <input type="number" id="percentage-input" min="1" max="100" value="50">
+    </div>
+  </div>
+
+  <div class="buttons-column">
+    <button id="download-button">Download</button>
+    <button id="download-tile-button">Download 1x1 Tile</button>
+  </div>
+
+  <div id="svg-gen-container"></div>
+</div>

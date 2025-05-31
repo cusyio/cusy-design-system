@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 86.166304 86.166304">
+    <defs>
+      <pattern id="gen-crosspattern" x="0" y="0" width="86.166304" height="86.166304" patternUnits="userSpaceOnUse" patternTransform="scale(0.1428571429) rotate(16.84402287240401)">
+        <g  id="gen-cross" class="resize">
+          <path d="M9.427,-55.029L40.559,-38.367L23.897,-7.235L55.029,9.427L38.367,40.559L7.235,23.897L-9.427,55.029L-40.559,38.367L-23.897,7.235L-55.029,-9.427L-38.367,-40.559L-7.235,-23.897L9.427,-55.029Z" style="fill:rgb(222,40,23);"/>
+        </g>
+
+        <use href="#gen-cross" transform="translate(86.166304,0)"/>
+        <use href="#gen-cross" transform="translate(86.166304,86.166304)"/>
+        <use href="#gen-cross" transform="translate(0,86.166304)"/>
+      </pattern>
+    </defs>
+    <rect x="0" y="0" width="86.166304" height="86.166304" fill="url(#gen-crosspattern)"/>
+</svg>
