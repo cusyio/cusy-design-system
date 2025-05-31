@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 133.725 115.809247">
+    <defs>
+        <pattern id="gen-trianglepattern" x="66.8625" y="2" width="133.725" height="115.809247" patternUnits="userSpaceOnUse" patternTransform="scale(.2)">
+            <path id="gen-triangle" class="resize" d="M0,103.923L-60,0L60,0L0,103.923Z" style="fill:rgb(205,132,2);" transform-origin="0 17.3205"/>
+            <path id="gen-triangle2" class="resize" d="M6.863,107.885L66.863,3.962L126.863,107.885L6.863,107.885Z" style="fill:rgb(205,132,2);" transform-origin="66.863 67.1082"/>
+            <use href="#gen-triangle" transform="translate(133.725,0) " />
+            <use href="#gen-triangle2" transform="translate(-66.8625,115.809247) " />
+            <use href="#gen-triangle2" transform="translate(66.8625,115.809247)" />
+            <use href="#gen-triangle" transform="translate(66.8625,115.809247)" />
+        </pattern>
+    </defs>
+
+    <rect x="0" y="0" width="133.725" height="115.809247" fill="url(#gen-trianglepattern)"/>
+</svg>
