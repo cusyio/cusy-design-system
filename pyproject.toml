@@ -22,6 +22,7 @@ docs = [
     "furo",
     "sphinxcontrib-svg2pdfconverter",
     "sphinx_design",
+    "sphinx-sitemap",
 ]
 
 dev = [
