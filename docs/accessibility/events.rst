@@ -10,7 +10,7 @@ Piktogramme helfen, die angebotene Barrierefreiheit sofort zu erkennen.
    * `Leitfaden Barrierefreie Kommunikation bei Veranstaltungen
      <https://www.freiburg.de/pb/site/Freiburg/get/params_E1744473727/1401044/Leitfaden-Barrierefreie-Kommunikation_barrierefrei_final.pdf>`_
      (PDF, 1,9 MB)
-   * `Checklistezum LeitfadenBarrierefreie Kommunikationbei Veranstaltungen
+   * `Checkliste zum Leitfaden Barrierefreie Kommunikation bei Veranstaltungen
      <https://www.freiburg.de/pb/site/Freiburg/get/params_E1885022337/1401046/Leitfaden%20barrierefreie%20Kommunikation_ckeckliste.pdf>`_
      (PDF, 242 KB)
 

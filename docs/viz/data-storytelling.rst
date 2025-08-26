@@ -47,8 +47,16 @@ Nachrichtenartikeln.
 
 #. Zusätzliche Hintergrundinformationen sollten zuletzt erwähnt werden.
 
-.. figure:: inverted-pyramid.svg
-   :alt: Umgekehrte Pyramide
+.. raw:: html
+   :file: inverted-pyramid.svg
+
+.. raw:: html
+
+   <style>
+   g[id^="text"] path {
+      fill:var(--color-foreground-primary);
+   }
+   </style>
 
 Mantra der visuellen Informationssuche
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -139,3 +147,21 @@ von *How health has changed in your local area* gesetzt:
 
 Nach der Auswahl des Interesses werden Text und Visualisierungen des Artikels
 aktualisiert und konzentrieren sich auf den ausgewählten Bereich.
+
+.. CSS:
+.. raw:: html
+
+   <style>
+   @media not print {
+       body[data-theme="dark"] img:not([src$="plastic-bottles-reuters.png"]) {
+         filter: invert(1) hue-rotate(180deg);
+         mix-blend-mode: screen;
+       }
+       @media (prefers-color-scheme: dark) {
+         body:not([data-theme="light"]) img:not([src$="plastic-bottles-reuters.png"]) {
+            filter: invert(1) hue-rotate(180deg);
+            mix-blend-mode: screen;
+         }
+       }
+   }
+   </style>
