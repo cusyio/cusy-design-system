@@ -29,6 +29,11 @@ div.sphinxsidebar p.logo a, div.sphinxsidebar p.logo a:hover {
     opacity: 0 !important;
 }
 
+/* center caption below svg */
+#farbe .svg-container + p {
+    text-align: center;
+}
+
 /* cusy fonts */
 @font-face {
     font-family: 'cusyText';
