@@ -27,6 +27,9 @@ div.sphinxsidebar p.logo a, div.sphinxsidebar p.logo a:hover {
 /* border surrounding plot */
 .vega-embed svg path.background {
     opacity: 0 !important;
+}
+
+/* cusy fonts */
 @font-face {
     font-family: 'cusyText';
     src: url('fonts/cusyText-Regular.otf') format('opentype');
