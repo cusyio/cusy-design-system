@@ -16,7 +16,7 @@ import re
 
 
 # Set canonical URL from the Read the Docs Domain
-html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "")
+html_baseurl = "https://www.cusy.design/"
 
 # Tell Jinja2 templates the build is running on Read the Docs
 html_context = {}
@@ -46,6 +46,7 @@ extensions = [
     "sphinx.ext.todo",
     "sphinxcontrib.cairosvgconverter",
     "sphinx_design",
+    "sphinx_sitemap",
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -175,3 +176,13 @@ def setup(app):
 # -- graphviz configuration --------------------------------------------------
 
 graphviz_output_format = "svg"
+
+# -- sitemap configuration ---------------------------------------------------
+
+sitemap_url_scheme = "{link}"
+sitemap_excludes = [
+    "404.html",
+    "search.html",
+    "genindex.html",
+]
+sitemap_show_lastmod = True
