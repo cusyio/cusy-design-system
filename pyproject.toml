@@ -25,6 +25,7 @@ docs = [
     "sphinxcontrib-svg2pdfconverter",
     "sphinx_design",
     "sphinx-sitemap",
+    "sphinx",
 ]
 
 dev = [
