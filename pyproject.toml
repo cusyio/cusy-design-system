@@ -14,7 +14,7 @@ classifiers = [
 ]
 dependencies = []
 
-[project.optional-dependencies]
+[dependency-groups]
 docs = [
     "bokeh",
     "ipython",
