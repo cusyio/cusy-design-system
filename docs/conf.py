@@ -153,7 +153,8 @@ linkcheck_ignore = [
     r"https://www.jstor.org/",
     # Broken on GitHub
     r"https://chartability.fizz.studio",
-    r"https://www.freiburg.de/pb/site/Freiburg/get/params_E1885022337/1401046/Leitfaden%20barrierefreie%20Kommunikation_ckeckliste.pdf",  # noqa: E501
+    r"https://www.freiburg.de/pb/site/Freiburg/*",
+    r"https://datavizcatalogue.com/*",
 ]
 
 # -- nbsphinx configuration --------------------------------------------------

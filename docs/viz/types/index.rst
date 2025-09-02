@@ -11,7 +11,7 @@ zunächst den Zweck der Visualisierung und wählt dann den geeigneten Diagrammty
      <https://ft-interactive.github.io/visual-vocabulary/>`_
    * `Financial-Times/chart-doctor//visual-vocabulary
      <https://github.com/Financial-Times/chart-doctor/tree/main/visual-vocabulary>`_
-   * `The Data Visualisation Catalogue <https://datavizcatalogue.com>`_
+   * `The Data Visualisation Catalogue <https://datavizcatalogue.com/>`_
 
 Datentypen
 ----------

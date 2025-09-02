@@ -123,7 +123,7 @@ Namen und Symbole für Videos
   .. seealso::
      * `Captions/Subtitles <https://www.w3.org/WAI/media/av/captions/>`_
      * `508 Accessible Videos – How to Caption Videos
-       <https://digital.gov/2014/06/30/508-accessible-videos-how-to-caption-videos/>`_
+       <https://web.archive.org/web/20250121043050/https://digital.gov/2014/06/30/508-accessible-videos-how-to-caption-videos/>`_
      * `BBC Subtitle Guidelines <https://www.bbc.co.uk/accessibility/forproducts/guides/subtitles/>`_
 
 Medienalternativen bereitstellen
