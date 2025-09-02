@@ -16,8 +16,10 @@ dependencies = []
 
 [dependency-groups]
 docs = [
+    "altair",
     "bokeh",
     "ipython",
+    "ipyleaflet",
     "nbsphinx",
     "furo",
     "sphinxcontrib-svg2pdfconverter",
@@ -29,6 +31,7 @@ dev = [
     "cusy-design-system[docs]",
     "pre-commit",
     "vale",
+    "notebook",
 ]
 
 [project.urls]

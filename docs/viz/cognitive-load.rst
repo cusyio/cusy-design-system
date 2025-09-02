@@ -15,17 +15,19 @@ Die kognitive Belastung wird in drei Arten unterteilt, die alle für die
 Datenvisualisierung relevant sind:
 
 Intrinsische Belastung
-    Die intrinsische Belastung der in einer Visualisierung dargestellten Daten
-    kann je nach Anzahl der Datensätze und Anzahl der Dimensionen hoch oder
-    niedrig sein.
+----------------------
 
-    .. figure:: gapminder.png
-       :alt: Ein Blasendiagramm mit fünf Dimensionen: Einkommen auf der x-Achse,
-             Lebenserwartung auf der y-Achse, Region als Farbe, Bevölkerung als
-             Blasengröße und Ländername in den Tooltips.
+Die intrinsische Belastung der in einer Visualisierung dargestellten Daten
+kann je nach Anzahl der Datensätze und Anzahl der Dimensionen hoch oder
+niedrig sein.
 
-       Quelle: `gapminder.org/tools
-       <https://www.gapminder.org/tools/#$chart-type=bubbles&url=v2>`_
+.. figure:: gapminder.png
+   :alt: Ein Blasendiagramm mit fünf Dimensionen: Einkommen auf der x-Achse,
+         Lebenserwartung auf der y-Achse, Region als Farbe, Bevölkerung als
+         Blasengröße und Ländername in den Tooltips.
+
+   Quelle: `gapminder.org/tools
+   <https://www.gapminder.org/tools/#$chart-type=bubbles&url=v2>`_
 
 Extrinsische Belastung
 ----------------------
@@ -44,16 +46,16 @@ kognitive Belastung noch deutlich weiter verringern.
 .. figure:: ingraham-co2-levels.jpg
    :alt: CO, Werte in einem besetzten Konferenzraum am 4. Juni 2019
 
-   Die Grafik zeigt die CO₂-Konzentration in einem Konferenzraum an einem
-   Vormittag. Das Design ist einfach und klar, aber es gibt eine Menge zu tun,
-   bevor das Diagramm vollständig verstanden werden kann:
+Die Grafik zeigt die CO₂-Konzentration in einem Konferenzraum an einem
+Vormittag. Das Design ist einfach und klar, aber es gibt eine Menge zu tun,
+bevor das Diagramm vollständig verstanden werden kann:
 
-   * Hilfreicher Titel
-   * Einheiten und Methode im Untertitel, nicht in der Legende versteckt
-   * Beschreibungen innerhalb der Grafik
-   * Gestrichelte Schwellenwertlinien zur besseren Unterscheidung
-   * Zeitleiste mit bedeutungsvollem Startpunkt und relevanten Beschreibungen
-   * Quellangabe
+* Hilfreicher Titel
+* Einheiten und Methode im Untertitel, nicht in der Legende versteckt
+* Beschreibungen innerhalb der Grafik
+* Gestrichelte Schwellenwertlinien zur besseren Unterscheidung
+* Zeitleiste mit bedeutungsvollem Startpunkt und relevanten Beschreibungen
+* Quellangabe
 
 Lernbezogene Belastung
 ----------------------
@@ -69,7 +71,7 @@ deutlich.
 Auch die Verwendung von weniger gebräuchlichen Diagrammtypen kann zu einer
 höheren lernbezogenen Belastung führen. Aktienhändler*innen können in
 Candlestick-Diagrammen vermutlich sofort die Tage erkennen, an denen die Aktien
-verkauft oder gekkauft werden sollen. Andere werden einige Zeit mit dem Diagramm
+verkauft oder gekauft werden sollen. Andere werden einige Zeit mit dem Diagramm
 benötigen, bevor sie es verstehen können:
 
 .. figure:: datavizcatalogue-candlestick.svg
@@ -89,8 +91,25 @@ vermittelt wird, bevor der eigentliche Unterricht beginnt. Der Inhalt der Daten
 kann dann auf dem vertrauten neuen Vokabular aufbauen, die kognitive Belastung
 durch den neuen Inhalt wird nicht mehr durch das neue Vokabular verstärkt.
 
-.. figure:: preteaching-ft.png
-   :alt: Brexit banking
+.. raw:: html
+   :file: preteaching-ft.svg
+   :class: align-center
+
+.. raw:: html
+
+   <style>
+   text {
+      fill:var(--color-foreground-primary)}
+   g[id="greyText"] text {
+      fill:rgb(137,137,137);
+   }
+   g[id="invText"] text {
+      fill:white;
+   }
+   g[class="blackText"] text {
+      fill:black;
+   }
+   </style>
 
 Effekt der geteilten Aufmerksamkeit (Chunking)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

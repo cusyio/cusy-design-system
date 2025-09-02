@@ -8,3 +8,91 @@ div.sphinxsidebarwrapper p.logo {
 div.sphinxsidebar p.logo a, div.sphinxsidebar p.logo a:hover {
     border-bottom: 1px dotted #999;
 }
+.no-click * {
+    pointer-events: none;
+    cursor: default;
+}
+/* vega-altair specific */
+.vega-embed svg g.mark-text text {
+    fill: var(--color-foreground-primary) !important;
+}
+.vega-embed svg {
+    background-color: transparent !important;
+}
+/* background grid lines */
+.vega-embed svg g.mark-rule.role-axis-grid line {
+    stroke: var(--color-foreground-muted) !important;
+    opacity: 0.2 !important;
+}
+/* border surrounding plot */
+.vega-embed svg path.background {
+    opacity: 0 !important;
+}
+
+/* center caption below svg */
+#farbe .svg-container + p {
+    text-align: center;
+}
+
+/* cusy fonts */
+@font-face {
+    font-family: 'cusy Text';
+    src: url('fonts/cusyText-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'cusy Text';
+    src: url('fonts/cusyText-RegularItalic.otf') format('opentype');
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'cusy Text';
+    src: url('fonts/cusyText-Medium.otf') format('opentype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'cusy Text';
+    src: url('fonts/cusyText-MediumItalic.otf') format('opentype');
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'cusy Text';
+    src: url('fonts/cusyText-Bold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'cusy Text';
+    src: url('fonts/cusyText-BoldItalic.otf') format('opentype');
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'cusy Text';
+    src: url('fonts/cusyText-Heavy.otf') format('opentype');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'cusy Text';
+    src: url('fonts/cusyText-BoldItalic.otf') format('opentype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'cusy Mono';
+    src: url('fonts/cusyMono-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'cusy Mono';
+    src: url('fonts/cusyMono-Bold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}

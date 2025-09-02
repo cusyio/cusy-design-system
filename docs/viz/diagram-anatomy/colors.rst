@@ -18,11 +18,11 @@ Datenvisualisierung sind. Ein gängiges Muster ist die Verwendung
    * für unterstützende Diagrammelemente, wie Achsenbeschriftungen und
      Gitterlinien
 
-.. figure:: colour-hierarchy.png
-   :alt: Farbhierarchie
+.. raw:: html
+   :file: tiobe-index-python.svg
 
-   Quelle: `Do vaccine mandates actually work?
-   <https://www.economist.com/graphic-detail/2022/01/22/do-vaccine-mandates-actually-work>`_
+Quelle: `TIOBE
+<https://www.tiobe.com/tiobe-index#container>`_
 
 .. _colour-hierarchy:
 
@@ -33,11 +33,11 @@ Pixeln (dps)
 <https://m2.material.io/design/layout/pixel-density.html#density-independence>`_
 gemessen wird:
 
-.. figure:: material-design-3-colour-hierarchy-1.png
-   :alt: Elevation in Material Design 3
+.. raw:: html
+   :file: m3-elevation-hover-fab.svg
 
-   Quelle: `Elevation
-   <https://m3.material.io/styles/elevation/applying-elevation>`_
+Quelle: `Elevation
+<https://m3.material.io/styles/elevation/applying-elevation>`_
 
 Farbpaletten
 ------------
@@ -74,45 +74,44 @@ Die Farben dieser Palette sollten nacheinander genau wie unten beschrieben
 angewendet werden. Die Sequenz wird sorgfältig kuratiert, um den Kontrast
 zwischen benachbarten Farben zu maximieren und die visuelle Unterscheidung zu
 erleichtern.
+Die cusy Palette sollte nur für Daten und Darstellungen verwendet werden,
+die den Werten von cusy entsprechen.
 
-.. figure:: palettes-14cat.png
-   :alt: Farbpalette für Standardkategorien für helles und dunkles Theme
+.. raw:: html
+   :file: categorical-colors.html
 
-Alternativen für das Light Theme
-::::::::::::::::::::::::::::::::
+Alternative kleinere Sets
+:::::::::::::::::::::::::
 
-.. figure:: alts-light-1.png
-   :alt: Einfarbige Alternative für das Light Theme
+.. raw:: html
+   :file: alternative-palettes.svg
 
-.. figure:: alts-light-2.png
-   :alt: Zweifarbige Alternative für das Light Theme
+Farbdifferenzen nach CIEDE2000
+::::::::::::::::::::::::::::::
 
-.. figure:: alts-light-3.png
-   :alt: Dreifarbige Alternative für das Light Theme
+.. raw:: html
+   :file: chord-ciede2000.html
 
-.. figure:: alts-light-4.png
-   :alt: Vierfarbige Alternative für das Light Theme
+.. csv-table::
+   :file: ciede2000.csv
+   :align: center
+   :width: 100%
+   :widths: 10, 10, 10, 10, 10, 10, 10, 10, 10, 10
 
-.. figure:: alts-light-5.png
-   :alt: Fünffarbige Alternative für das Light Theme
+Formen
+::::::
 
-Alternativen für das Dark Theme
-:::::::::::::::::::::::::::::::
+Um größtmögliche Zugänglichkeit zu erreichen und Farbenblinde zu unterstützen
+empfehlen wir die Verwendung von mehreren Faktoren, wie auch in `No use of color alone <https://observablehq.com/@frankelavsky/no-use-of-color-alone-in-data-visualization>`_
+beschrieben.
+Wir schlagen folgende Formen vor:
 
-.. figure:: alts-dark-1.png
-   :alt: Einfarbige Alternative für das Dark Theme
+.. figure:: color-shapes.svg
 
-.. figure:: alts-dark-2.png
-   :alt: Zweifarbige Alternative für das Dark Theme
+In flächigen Diagrammen, wie Balken- und Kreisdiagrammen, können die Formen
+zu annähernd flächendeckenden Mustern angeordnet werden:
 
-.. figure:: alts-dark-3.png
-   :alt: Dreifarbige Alternative für das Dark Theme
-
-.. figure:: alts-dark-4.png
-   :alt: Vierfarbige Alternative für das Dark Theme
-
-.. figure:: alts-dark-5.png
-   :alt: Fünffarbige Alternative für das Dark Theme
+.. figure:: categorical-map.svg
 
 Sequenzen
 ---------
@@ -121,11 +120,15 @@ Einfarbig
 ~~~~~~~~~
 
 Monochromatische Paletten eignen sich gut für Beziehungs- und Trenddiagramme.
-Beim hellen Theme bezeichnet die dunkelste Farbe die größten Werte. In dunklen
-Themes bezeichnet die hellste Farbe die größten Werte.
+Hier empfehlen wir für Zugänglichkeit die Anpassung der Größe,
+:abbr:`bzw. (beziehungsweise)` Strichstärke der Formen.
 
-.. figure:: palettes-mono-1.png
-.. figure:: palettes-mono-2.png
+.. raw:: html
+   :file: sequence-mono-purple.svg
+
+.. raw:: html
+   :file: sequence-mono-blue.svg
+
 
 Warm-Kalt
 ~~~~~~~~~
@@ -133,12 +136,20 @@ Warm-Kalt
 Die Rot-Cyan-Palette hat einen natürlichen Zusammenhang mit der Temperatur.
 Verwendet diese Palette für Daten, die heiß-vs-kalt darstellen sollen.
 
-.. figure:: palettes-div1.png
+.. raw:: html
+   :file: palettes-red-cyan-sequence.svg
 
 Verläufe ohne Farbassoziationen
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. figure:: palettes-div2.png
+.. raw:: html
+   :file: palettes-purple-teal-sequence.svg
+
+SVG Muster Generator
+~~~~~~~~~~~~~~~~~~~~~
+
+.. raw:: html
+   :file: svg-pattern-generator.html
 
 Alarm
 ~~~~~
@@ -147,7 +158,8 @@ Warnfarben werden verwendet, um den Status wiederzugeben. In der Regel steht Rot
 für Gefahr oder Fehler. Orange ist eine ernsthafte Warnung. Gelb steht für eine
 einfache Warnung und Grün für Normal oder Erfolg.
 
-.. figure:: palettes-alert.png
+.. raw:: html
+   :file: palettes-alert.svg
 
 Farbverlauf
 ~~~~~~~~~~~
@@ -161,9 +173,14 @@ oder Divergenz darzustellen.
 .. note::
    Verwendet niemals einen Farbverlauf anstelle einer sequentiellen Palette.
 
-.. figure:: gradient.png
+.. raw:: html
+   :file: gradient-utilization-bpm.svg
 
 .. seealso::
    * `Paul Tol <https://sronpersonalpages.nl/~pault/>`_
    * `bokeh Accessible Palettes
      <https://docs.bokeh.org/en/latest/docs/reference/palettes.html#accessible-palettes>`_
+
+.. Code für extra Buttons zum Wechseln des Themes:
+.. raw:: html
+   :file: theme-toggle.html

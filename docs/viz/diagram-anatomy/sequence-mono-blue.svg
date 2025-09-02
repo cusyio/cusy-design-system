@@ -1,0 +1,179 @@
+<svg width="100%" height="100%" viewBox="0 0 1360 240" version="1.1" xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/"
+  style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+  <defs>
+    <pattern id="spiralpattern-100" x="0" y="0" width="141.305462" height="80.921615" patternUnits="userSpaceOnUse"
+      patternTransform="skewX(-10.342516055954842) scale(0.2)">
+      <g id="base-spiral-100" transform="matrix(0.571164,-0.0466398,0.152429,0.579676,-0.714298,6.4775)">
+        <path d="M82.17,0C81.17,-44.829 44.829,-81.17 -0,-81.17C-40.754,-81.17 -73.791,-48.133 -73.791,-7.379C-73.791,28.846 -44.424,58.213 -8.199,58.213C23.498,58.213 49.194,32.517 49.194,0.82C49.194,-26.349 27.169,-48.374 -0,-48.374C-22.641,-48.374 -40.995,-30.02 -40.995,-7.379C-40.995,10.734 -26.312,25.417 -8.199,25.417C5.386,25.417 16.398,14.404 16.398,0.82C16.398,-8.236 9.056,-15.578 -0,-15.578C-4.528,-15.578 -8.199,-11.907 -8.199,-7.379" style="fill:none;stroke:rgb(6,99,181);stroke-width:21.36px;" />
+      </g>
+      <use xlink:href="#base-spiral-100" transform="translate(70.6527313,40.460808)" />
+      <use xlink:href="#base-spiral-100" transform="translate(141.305463,0)" />
+      <use xlink:href="#base-spiral-100" transform="translate(141.305463,80.921616)" />
+      <use xlink:href="#base-spiral-100" transform="translate(141.305463,80.921616)" />
+      <use xlink:href="#base-spiral-100" transform="translate(0,80.921616)" />
+      <use xlink:href="#base-spiral-100" transform="translate(70.652732,-40.460807)" />
+    </pattern>
+    <pattern id="spiralpattern-90" x="0" y="0" width="141.305462" height="80.921615" patternUnits="userSpaceOnUse"
+      patternTransform="skewX(-10.342516055954842) scale(0.2)">
+      <g id="base-spiral-90" transform="matrix(0.571164,-0.0466398,0.152429,0.579676,-0.714298,6.4775)">
+        <path d="M82.17,0C81.17,-44.829 44.829,-81.17 -0,-81.17C-40.754,-81.17 -73.791,-48.133 -73.791,-7.379C-73.791,28.846 -44.424,58.213 -8.199,58.213C23.498,58.213 49.194,32.517 49.194,0.82C49.194,-26.349 27.169,-48.374 -0,-48.374C-22.641,-48.374 -40.995,-30.02 -40.995,-7.379C-40.995,10.734 -26.312,25.417 -8.199,25.417C5.386,25.417 16.398,14.404 16.398,0.82C16.398,-8.236 9.056,-15.578 -0,-15.578C-4.528,-15.578 -8.199,-11.907 -8.199,-7.379" style="fill:none;stroke:rgb(6,99,181);stroke-width:19.224px;" />
+      </g>
+      <use xlink:href="#base-spiral-90" transform="translate(70.6527313,40.460808)" />
+      <use xlink:href="#base-spiral-90" transform="translate(141.305463,0)" />
+      <use xlink:href="#base-spiral-90" transform="translate(141.305463,80.921616)" />
+      <use xlink:href="#base-spiral-90" transform="translate(141.305463,80.921616)" />
+      <use xlink:href="#base-spiral-90" transform="translate(0,80.921616)" />
+      <use xlink:href="#base-spiral-90" transform="translate(70.652732,-40.460807)" />
+    </pattern>
+    <pattern id="spiralpattern-80" x="0" y="0" width="141.305462" height="80.921615" patternUnits="userSpaceOnUse"
+      patternTransform="skewX(-10.342516055954842) scale(0.2)">
+      <g id="base-spiral-80" transform="matrix(0.571164,-0.0466398,0.152429,0.579676,-0.714298,6.4775)">
+        <path d="M82.17,0C81.17,-44.829 44.829,-81.17 -0,-81.17C-40.754,-81.17 -73.791,-48.133 -73.791,-7.379C-73.791,28.846 -44.424,58.213 -8.199,58.213C23.498,58.213 49.194,32.517 49.194,0.82C49.194,-26.349 27.169,-48.374 -0,-48.374C-22.641,-48.374 -40.995,-30.02 -40.995,-7.379C-40.995,10.734 -26.312,25.417 -8.199,25.417C5.386,25.417 16.398,14.404 16.398,0.82C16.398,-8.236 9.056,-15.578 -0,-15.578C-4.528,-15.578 -8.199,-11.907 -8.199,-7.379" style="fill:none;stroke:rgb(6,99,181);stroke-width:17.088px;" />
+      </g>
+      <use xlink:href="#base-spiral-80" transform="translate(70.6527313,40.460808)" />
+      <use xlink:href="#base-spiral-80" transform="translate(141.305463,0)" />
+      <use xlink:href="#base-spiral-80" transform="translate(141.305463,80.921616)" />
+      <use xlink:href="#base-spiral-80" transform="translate(141.305463,80.921616)" />
+      <use xlink:href="#base-spiral-80" transform="translate(0,80.921616)" />
+      <use xlink:href="#base-spiral-80" transform="translate(70.652732,-40.460807)" />
+    </pattern>
+    <pattern id="spiralpattern-70" x="0" y="0" width="141.305462" height="80.921615" patternUnits="userSpaceOnUse"
+      patternTransform="skewX(-10.342516055954842) scale(0.2)">
+      <g id="base-spiral-70" transform="matrix(0.571164,-0.0466398,0.152429,0.579676,-0.714298,6.4775)">
+        <path d="M82.17,0C81.17,-44.829 44.829,-81.17 -0,-81.17C-40.754,-81.17 -73.791,-48.133 -73.791,-7.379C-73.791,28.846 -44.424,58.213 -8.199,58.213C23.498,58.213 49.194,32.517 49.194,0.82C49.194,-26.349 27.169,-48.374 -0,-48.374C-22.641,-48.374 -40.995,-30.02 -40.995,-7.379C-40.995,10.734 -26.312,25.417 -8.199,25.417C5.386,25.417 16.398,14.404 16.398,0.82C16.398,-8.236 9.056,-15.578 -0,-15.578C-4.528,-15.578 -8.199,-11.907 -8.199,-7.379" style="fill:none;stroke:rgb(6,99,181);stroke-width:14.952px;" />
+      </g>
+      <use xlink:href="#base-spiral-70" transform="translate(70.6527313,40.460808)" />
+      <use xlink:href="#base-spiral-70" transform="translate(141.305463,0)" />
+      <use xlink:href="#base-spiral-70" transform="translate(141.305463,80.921616)" />
+      <use xlink:href="#base-spiral-70" transform="translate(141.305463,80.921616)" />
+      <use xlink:href="#base-spiral-70" transform="translate(0,80.921616)" />
+      <use xlink:href="#base-spiral-70" transform="translate(70.652732,-40.460807)" />
+    </pattern>
+    <pattern id="spiralpattern-60" x="0" y="0" width="141.305462" height="80.921615" patternUnits="userSpaceOnUse"
+      patternTransform="skewX(-10.342516055954842) scale(0.2)">
+      <g id="base-spiral-60" transform="matrix(0.571164,-0.0466398,0.152429,0.579676,-0.714298,6.4775)">
+        <path d="M82.17,0C81.17,-44.829 44.829,-81.17 -0,-81.17C-40.754,-81.17 -73.791,-48.133 -73.791,-7.379C-73.791,28.846 -44.424,58.213 -8.199,58.213C23.498,58.213 49.194,32.517 49.194,0.82C49.194,-26.349 27.169,-48.374 -0,-48.374C-22.641,-48.374 -40.995,-30.02 -40.995,-7.379C-40.995,10.734 -26.312,25.417 -8.199,25.417C5.386,25.417 16.398,14.404 16.398,0.82C16.398,-8.236 9.056,-15.578 -0,-15.578C-4.528,-15.578 -8.199,-11.907 -8.199,-7.379" style="fill:none;stroke:rgb(6,99,181);stroke-width:12.816px;" />
+      </g>
+      <use xlink:href="#base-spiral-60" transform="translate(70.6527313,40.460808)" />
+      <use xlink:href="#base-spiral-60" transform="translate(141.305463,0)" />
+      <use xlink:href="#base-spiral-60" transform="translate(141.305463,80.921616)" />
+      <use xlink:href="#base-spiral-60" transform="translate(141.305463,80.921616)" />
+      <use xlink:href="#base-spiral-60" transform="translate(0,80.921616)" />
+      <use xlink:href="#base-spiral-60" transform="translate(70.652732,-40.460807)" />
+    </pattern>
+    <pattern id="spiralpattern-50" x="0" y="0" width="141.305462" height="80.921615" patternUnits="userSpaceOnUse"
+      patternTransform="skewX(-10.342516055954842) scale(0.2)">
+      <g id="base-spiral-50" transform="matrix(0.571164,-0.0466398,0.152429,0.579676,-0.714298,6.4775)">
+        <path d="M82.17,0C81.17,-44.829 44.829,-81.17 -0,-81.17C-40.754,-81.17 -73.791,-48.133 -73.791,-7.379C-73.791,28.846 -44.424,58.213 -8.199,58.213C23.498,58.213 49.194,32.517 49.194,0.82C49.194,-26.349 27.169,-48.374 -0,-48.374C-22.641,-48.374 -40.995,-30.02 -40.995,-7.379C-40.995,10.734 -26.312,25.417 -8.199,25.417C5.386,25.417 16.398,14.404 16.398,0.82C16.398,-8.236 9.056,-15.578 -0,-15.578C-4.528,-15.578 -8.199,-11.907 -8.199,-7.379" style="fill:none;stroke:rgb(6,99,181);stroke-width:10.68px;" />
+      </g>
+      <use xlink:href="#base-spiral-50" transform="translate(70.6527313,40.460808)" />
+      <use xlink:href="#base-spiral-50" transform="translate(141.305463,0)" />
+      <use xlink:href="#base-spiral-50" transform="translate(141.305463,80.921616)" />
+      <use xlink:href="#base-spiral-50" transform="translate(141.305463,80.921616)" />
+      <use xlink:href="#base-spiral-50" transform="translate(0,80.921616)" />
+      <use xlink:href="#base-spiral-50" transform="translate(70.652732,-40.460807)" />
+    </pattern>
+    <pattern id="spiralpattern-40" x="0" y="0" width="141.305462" height="80.921615" patternUnits="userSpaceOnUse"
+      patternTransform="skewX(-10.342516055954842) scale(0.2)">
+      <g id="base-spiral-40" transform="matrix(0.571164,-0.0466398,0.152429,0.579676,-0.714298,6.4775)">
+        <path d="M82.17,0C81.17,-44.829 44.829,-81.17 -0,-81.17C-40.754,-81.17 -73.791,-48.133 -73.791,-7.379C-73.791,28.846 -44.424,58.213 -8.199,58.213C23.498,58.213 49.194,32.517 49.194,0.82C49.194,-26.349 27.169,-48.374 -0,-48.374C-22.641,-48.374 -40.995,-30.02 -40.995,-7.379C-40.995,10.734 -26.312,25.417 -8.199,25.417C5.386,25.417 16.398,14.404 16.398,0.82C16.398,-8.236 9.056,-15.578 -0,-15.578C-4.528,-15.578 -8.199,-11.907 -8.199,-7.379" style="fill:none;stroke:rgb(6,99,181);stroke-width:8.544px;" />
+      </g>
+      <use xlink:href="#base-spiral-40" transform="translate(70.6527313,40.460808)" />
+      <use xlink:href="#base-spiral-40" transform="translate(141.305463,0)" />
+      <use xlink:href="#base-spiral-40" transform="translate(141.305463,80.921616)" />
+      <use xlink:href="#base-spiral-40" transform="translate(141.305463,80.921616)" />
+      <use xlink:href="#base-spiral-40" transform="translate(0,80.921616)" />
+      <use xlink:href="#base-spiral-40" transform="translate(70.652732,-40.460807)" />
+    </pattern>
+    <pattern id="spiralpattern-30" x="0" y="0" width="141.305462" height="80.921615" patternUnits="userSpaceOnUse"
+      patternTransform="skewX(-10.342516055954842) scale(0.2)">
+      <g id="base-spiral-30" transform="matrix(0.571164,-0.0466398,0.152429,0.579676,-0.714298,6.4775)">
+        <path d="M82.17,0C81.17,-44.829 44.829,-81.17 -0,-81.17C-40.754,-81.17 -73.791,-48.133 -73.791,-7.379C-73.791,28.846 -44.424,58.213 -8.199,58.213C23.498,58.213 49.194,32.517 49.194,0.82C49.194,-26.349 27.169,-48.374 -0,-48.374C-22.641,-48.374 -40.995,-30.02 -40.995,-7.379C-40.995,10.734 -26.312,25.417 -8.199,25.417C5.386,25.417 16.398,14.404 16.398,0.82C16.398,-8.236 9.056,-15.578 -0,-15.578C-4.528,-15.578 -8.199,-11.907 -8.199,-7.379" style="fill:none;stroke:rgb(6,99,181);stroke-width:6.408px;" />
+      </g>
+      <use xlink:href="#base-spiral-30" transform="translate(70.6527313,40.460808)" />
+      <use xlink:href="#base-spiral-30" transform="translate(141.305463,0)" />
+      <use xlink:href="#base-spiral-30" transform="translate(141.305463,80.921616)" />
+      <use xlink:href="#base-spiral-30" transform="translate(141.305463,80.921616)" />
+      <use xlink:href="#base-spiral-30" transform="translate(0,80.921616)" />
+      <use xlink:href="#base-spiral-30" transform="translate(70.652732,-40.460807)" />
+    </pattern>
+    <pattern id="spiralpattern-20" x="0" y="0" width="141.305462" height="80.921615" patternUnits="userSpaceOnUse"
+      patternTransform="skewX(-10.342516055954842) scale(0.2)">
+      <g id="base-spiral-20" transform="matrix(0.571164,-0.0466398,0.152429,0.579676,-0.714298,6.4775)">
+        <path d="M82.17,0C81.17,-44.829 44.829,-81.17 -0,-81.17C-40.754,-81.17 -73.791,-48.133 -73.791,-7.379C-73.791,28.846 -44.424,58.213 -8.199,58.213C23.498,58.213 49.194,32.517 49.194,0.82C49.194,-26.349 27.169,-48.374 -0,-48.374C-22.641,-48.374 -40.995,-30.02 -40.995,-7.379C-40.995,10.734 -26.312,25.417 -8.199,25.417C5.386,25.417 16.398,14.404 16.398,0.82C16.398,-8.236 9.056,-15.578 -0,-15.578C-4.528,-15.578 -8.199,-11.907 -8.199,-7.379" style="fill:none;stroke:rgb(6,99,181);stroke-width:4.272px;" />
+      </g>
+      <use xlink:href="#base-spiral-20" transform="translate(70.6527313,40.460808)" />
+      <use xlink:href="#base-spiral-20" transform="translate(141.305463,0)" />
+      <use xlink:href="#base-spiral-20" transform="translate(141.305463,80.921616)" />
+      <use xlink:href="#base-spiral-20" transform="translate(141.305463,80.921616)" />
+      <use xlink:href="#base-spiral-20" transform="translate(0,80.921616)" />
+      <use xlink:href="#base-spiral-20" transform="translate(70.652732,-40.460807)" />
+    </pattern>
+    <pattern id="spiralpattern-10" x="0" y="0" width="141.305462" height="80.921615" patternUnits="userSpaceOnUse"
+      patternTransform="skewX(-10.342516055954842) scale(0.2)">
+      <g id="base-spiral-10" transform="matrix(0.571164,-0.0466398,0.152429,0.579676,-0.714298,6.4775)">
+        <path d="M82.17,0C81.17,-44.829 44.829,-81.17 -0,-81.17C-40.754,-81.17 -73.791,-48.133 -73.791,-7.379C-73.791,28.846 -44.424,58.213 -8.199,58.213C23.498,58.213 49.194,32.517 49.194,0.82C49.194,-26.349 27.169,-48.374 -0,-48.374C-22.641,-48.374 -40.995,-30.02 -40.995,-7.379C-40.995,10.734 -26.312,25.417 -8.199,25.417C5.386,25.417 16.398,14.404 16.398,0.82C16.398,-8.236 9.056,-15.578 -0,-15.578C-4.528,-15.578 -8.199,-11.907 -8.199,-7.379" style="fill:none;stroke:rgb(6,99,181);stroke-width:2.136px;" />
+      </g>
+      <use xlink:href="#base-spiral-10" transform="translate(70.6527313,40.460808)" />
+      <use xlink:href="#base-spiral-10" transform="translate(141.305463,0)" />
+      <use xlink:href="#base-spiral-10" transform="translate(141.305463,80.921616)" />
+      <use xlink:href="#base-spiral-10" transform="translate(141.305463,80.921616)" />
+      <use xlink:href="#base-spiral-10" transform="translate(0,80.921616)" />
+      <use xlink:href="#base-spiral-10" transform="translate(70.652732,-40.460807)" />
+    </pattern>
+  </defs>
+
+  <rect id="spiral-100" x="80" y="35.449219" width="120" height="120" fill="url(#spiralpattern-100)" />
+  <rect id="spiral-90" x="200" y="35.449219" width="120" height="120" fill="url(#spiralpattern-90)" />
+  <rect id="spiral-80" x="320" y="35.449219" width="120" height="120" fill="url(#spiralpattern-80)" />
+  <rect id="spiral-70" x="440" y="35.449219" width="120" height="120" fill="url(#spiralpattern-70)" />
+  <rect id="spiral-60" x="560" y="35.449219" width="120" height="120" fill="url(#spiralpattern-60)" />
+  <rect id="spiral-50" x="680" y="35.449219" width="120" height="120" fill="url(#spiralpattern-50)" />
+  <rect id="spiral-40" x="800" y="35.449219" width="120" height="120" fill="url(#spiralpattern-40)" />
+  <rect id="spiral-30" x="920" y="35.449219" width="120" height="120" fill="url(#spiralpattern-30)" />
+  <rect id="spiral-20" x="1040" y="35.449219" width="120" height="120" fill="url(#spiralpattern-20)" />
+  <rect id="spiral-10" x="1160" y="35.449219" width="120" height="120" fill="url(#spiralpattern-10)" />
+
+  <g transform="matrix(1,0,0,1,3.41061e-13,-24.5508)">
+    <g transform="matrix(1,0,0,1,-42.418,-781.367)">
+      <g transform="matrix(40,0,0,40,207.672,1010)">
+      </g>
+      <text x="119px" y="1010px"
+        style="font-family:'cusyText-Bold', 'cusy Text';font-weight:700;font-size:40px;">Blue</text>
+    </g>
+
+    <g id="Overlay">
+      <g id="Blue-100" serif:id="Blue 100" transform="matrix(1,0,0,1,-193,-203)">
+        <rect x="273" y="263" width="120" height="120" style="fill:none;stroke-width:2px;stroke-miterlimit:1.5;" />
+      </g>
+      <g id="Blue-90" serif:id="Blue 90" transform="matrix(1,0,0,1,-73,-203)">
+        <rect x="273" y="263" width="120" height="120" style="fill:none;stroke-width:2px;stroke-miterlimit:1.5;" />
+      </g>
+      <g id="Blue-80" serif:id="Blue 80" transform="matrix(1,0,0,1,47,-203)">
+        <rect x="273" y="263" width="120" height="120" style="fill:none;stroke-width:2px;stroke-miterlimit:1.5;" />
+      </g>
+      <g id="Blue-70" serif:id="Blue 70" transform="matrix(1,0,0,1,167,-203)">
+        <rect x="273" y="263" width="120" height="120" style="fill:none;stroke-width:2px;stroke-miterlimit:1.5;" />
+      </g>
+      <g id="Blue-60" serif:id="Blue 60" transform="matrix(1,0,0,1,287,-203)">
+        <rect x="273" y="263" width="120" height="120" style="fill:none;stroke-width:2px;stroke-miterlimit:1.5;" />
+      </g>
+      <g id="Blue-50" serif:id="Blue 50" transform="matrix(1,0,0,1,407,-203)">
+        <rect x="273" y="263" width="120" height="120" style="fill:none;stroke-width:2px;stroke-miterlimit:1.5;" />
+      </g>
+      <g id="Blue-40" serif:id="Blue 40" transform="matrix(1,0,0,1,527,-203)">
+        <rect x="273" y="263" width="120" height="120" style="fill:none;stroke-width:2px;stroke-miterlimit:1.5;" />
+      </g>
+      <g id="Blue-30" serif:id="Blue 30" transform="matrix(1,0,0,1,647,-203)">
+        <rect x="273" y="263" width="120" height="120" style="fill:none;stroke-width:2px;stroke-miterlimit:1.5;" />
+      </g>
+      <g id="Blue-20" serif:id="Blue 20" transform="matrix(1,0,0,1,767,-203)">
+        <rect x="273" y="263" width="120" height="120" style="fill:none;stroke-width:2px;stroke-miterlimit:1.5;" />
+      </g>
+      <g id="Blue-10" serif:id="Blue 10" transform="matrix(1,0,0,1,887,-203)">
+        <rect x="273" y="263" width="120" height="120" style="fill:none;stroke-width:2px;stroke-miterlimit:1.5;" />
+      </g>
+    </g>
+  </g>
+</svg>

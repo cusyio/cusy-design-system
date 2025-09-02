@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 159.002264 183.6">
+    <defs>
+        <pattern id="gen-dotspattern" x="0" y="0" width="159.002264" height="183.6" patternUnits="userSpaceOnUse" patternTransform="scale(0.25)">
+          <g id="gen-dot" transform="translate(79.501132,91.8)">
+            <circle class="resize"  r="44.5459745" fill="#753bbd"/>
+          </g>
+          <use href="#gen-dot" transform="translate(-79.501132,45.9)" />
+          <use href="#gen-dot" transform="translate(-79.501132,-45.9)" />
+          <use href="#gen-dot" transform="translate(79.501132,45.9)" />
+          <use href="#gen-dot" transform="translate(79.501132,-45.9)" />
+          <use href="#gen-dot" transform="translate(0,91.8)" />
+          <use href="#gen-dot" transform="translate(0,-91.8)" />
+        </pattern>
+    </defs>
+
+    <rect x="0" y="0" width="159.002264" height="183.6" fill="url(#gen-dotspattern)"/>
+</svg>
