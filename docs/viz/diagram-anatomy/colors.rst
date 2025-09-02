@@ -164,6 +164,6 @@ oder Divergenz darzustellen.
 .. figure:: gradient.png
 
 .. seealso::
-   * `Paul Tol <https://personal.sron.nl/~pault/>`_
+   * `Paul Tol <https://sronpersonalpages.nl/~pault/>`_
    * `bokeh Accessible Palettes
      <https://docs.bokeh.org/en/latest/docs/reference/palettes.html#accessible-palettes>`_
