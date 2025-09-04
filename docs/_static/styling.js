@@ -52,12 +52,8 @@ function fixBokehSvgPatternsInFirefox() {
     ]
 
     patterns.forEach((pattern, i) => {
-      const width=pattern.getAttribute('width');
-
-      if (width==='0') {
-        pattern.setAttribute('width', measurements[i].width);
-        pattern.setAttribute('height', "150");
-      }
+      pattern.setAttribute('width', measurements[i].width);
+      pattern.setAttribute('height', "150");
     });
   }
 
