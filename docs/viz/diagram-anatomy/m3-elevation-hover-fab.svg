@@ -128,14 +128,10 @@
     <path id="_1dp-line" serif:id="1dp line" d="M1864,399L1224,399" style="fill:none;stroke:#e7e1ef;stroke-width:2px;"/>
     <g transform="matrix(1,0,0,1,-1.02598,13.1988)">
         <text x="1143.02px" y="394.391px" style="font-family:'cusyText-Regular', 'cusy Text';font-size:28px;">1</text>
-        <g transform="matrix(28,0,0,28,1192.66,394.391)">
-        </g>
         <text x="1158.37px" y="394.391px" style="font-family:'cusyText-Regular', 'cusy Text';font-size:28px;">dp</text>
     </g>
     <g transform="matrix(1,0,0,1,-3.46641,-98.7368)">
         <text x="1141.05px" y="394.391px" style="font-family:'cusyText-Regular', 'cusy Text';font-size:28px;">6</text>
-        <g transform="matrix(28,0,0,28,1195.14,394.391)">
-        </g>
         <text x="1160.85px" y="394.391px" style="font-family:'cusyText-Regular', 'cusy Text';font-size:28px;">dp</text>
     </g>
     <g id="_6dp" serif:id="6dp" transform="matrix(1.24471,0,0,1.34933,1226.32,-160.516)">
@@ -152,8 +148,6 @@
         <path d="M1535,289L1535,399" style="fill:none;stroke:var(--color-foreground-primary);stroke-width:2px;"/>
         <g transform="matrix(1,0,0,1,-5,9.50715)">
             <text x="1474.08px" y="342.327px" style="font-family:'cusyText-Regular', 'cusy Text';font-size:28px;">5</text>
-            <g transform="matrix(28,0,0,28,1535.52,342.327)">
-            </g>
             <text x="1493.35px" y="342.327px" style="font-family:'cusyText-Regular', 'cusy Text';font-size:28px;">dp</text>
         </g>
     </g>
