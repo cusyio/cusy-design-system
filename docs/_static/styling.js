@@ -52,12 +52,8 @@ function fixBokehSvgPatternsInFirefox() {
     ]
 
     patterns.forEach((pattern, i) => {
-      const width=pattern.getAttribute('width');
-
-      if (width==='0') {
-        pattern.setAttribute('width', measurements[i].width);
-        pattern.setAttribute('height', "150");
-      }
+      pattern.setAttribute('width', measurements[i].width);
+      pattern.setAttribute('height', "150");
     });
   }
 
@@ -78,13 +74,13 @@ function fixBokehSvgPatternsInFirefox() {
   }
 }
 
-if(window.location.href.endsWith("colors.html")){
+if(window.location.href.endsWith("colors-implementation.html")){
   document.addEventListener('DOMContentLoaded', styleBokehPlot);
 }
 document.addEventListener('DOMContentLoaded', fixBokehSvgPatternsInFirefox);
 
 const observer=new MutationObserver(() => {
-  if(window.location.href.endsWith("colors.html")){
+  if(window.location.href.endsWith("colors-implementation.html")){
     document.addEventListener('DOMContentLoaded', styleBokehPlot);
   }
   setTimeout(fixBokehSvgPatternsInFirefox, 100);

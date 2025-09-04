@@ -1,5 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="80%" height="80%" viewBox="0 0 600 768" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-miterlimit:1.5;">
     <use id="Background" xlink:href="#_Image1" x="125" y="260" width="475px" height="496px"/>
     <g id="grid-columns-curve" transform="matrix(1,0,0,1,-0.306349,0.365821)">
@@ -158,85 +156,61 @@
     </g>
     <g transform="matrix(1,0,0,1,-2.12002,3.77305)">
         <g transform="matrix(0.92,0,0,1,0.352156,0)">
-            <g transform="matrix(16,0,0,16,132.449,281.178)">
-            </g>
             <text x="4.402px" y="281.178px" style="font-family:'Arial-BoldMT', 'Arial';font-weight:700;font-size:16px;">Deutsche Bank**</text>
         </g>
     </g>
     <g transform="matrix(1,0,0,1,-2.12002,126.906)">
         <g transform="matrix(0.92,0,0,1,6.43968,0)">
-            <g transform="matrix(16,0,0,16,125.832,281.178)">
-            </g>
             <text x="80.496px" y="281.178px" style="font-family:'Arial-BoldMT', 'Arial';font-weight:700;font-size:16px;">HSBC</text>
         </g>
     </g>
     <g transform="matrix(1,0,0,1,-2.12002,290.643)">
         <g transform="matrix(0.92,0,0,1,0.876556,0)">
-            <g transform="matrix(16,0,0,16,131.879,281.178)">
-            </g>
             <text x="10.957px" y="281.178px" style="font-family:'Arial-BoldMT', 'Arial';font-weight:700;font-size:16px;">Goldman Sachs</text>
         </g>
     </g>
     <g transform="matrix(1,0,0,1,21.8772,45.0328)">
         <g transform="matrix(0.92,0,0,1,0.352156,0)">
-            <g transform="matrix(16,0,0,16,106.66,281.178)">
-            </g>
             <text x="4.402px" y="281.178px" style="font-family:'Arial-BoldMT', 'Arial';font-weight:700;font-size:16px;">Credit Suisse</text>
         </g>
     </g>
     <g transform="matrix(1,0,0,1,21.8772,168.166)">
         <g transform="matrix(0.92,0,0,1,2.18583,0)">
-            <g transform="matrix(16,0,0,16,104.667,281.178)">
-            </g>
             <text x="27.323px" y="281.178px" style="font-family:'Arial-BoldMT', 'Arial';font-weight:700;font-size:16px;">JPMorgan</text>
         </g>
     </g>
     <g transform="matrix(1,0,0,1,21.8772,331.903)">
         <g transform="matrix(0.92,0,0,1,-1.36732,0)">
-            <g transform="matrix(16,0,0,16,108.529,281.178)">
-            </g>
             <text x="-17.091px" y="281.178px" style="font-family:'Arial-BoldMT', 'Arial';font-weight:700;font-size:16px;">Bank of <tspan x="45.38px 56.935px " y="281.178px 281.178px ">Am</tspan>erica</text>
         </g>
     </g>
     <g transform="matrix(1,0,0,1,21.8772,85.7336)">
         <g transform="matrix(0.92,0,0,1,5.98141,0)">
-            <g transform="matrix(16,0,0,16,100.541,281.178)">
-            </g>
             <text x="74.768px" y="281.178px" style="font-family:'Arial-BoldMT', 'Arial';font-weight:700;font-size:16px;">Citi</text>
         </g>
     </g>
     <g transform="matrix(1,0,0,1,21.8772,249.471)">
         <g transform="matrix(0.92,0,0,1,2.96783,0)">
-            <g transform="matrix(16,0,0,16,103.817,281.178)">
-            </g>
             <text x="37.098px" y="281.178px" style="font-family:'Arial-BoldMT', 'Arial';font-weight:700;font-size:16px;">Barclays</text>
         </g>
     </g>
     <g transform="matrix(1,0,0,1,21.8772,208.867)">
         <g transform="matrix(0.92,0,0,1,5.39203,0)">
-            <g transform="matrix(16,0,0,16,101.182,281.178)">
-            </g>
             <text x="67.4px" y="281.178px" style="font-family:'Arial-BoldMT', 'Arial';font-weight:700;font-size:16px;">UBS</text>
         </g>
     </g>
     <g transform="matrix(1,0,0,1,21.8772,372.604)">
         <g transform="matrix(0.92,0,0,1,-0.889844,0)">
-            <g transform="matrix(16,0,0,16,108.01,281.178)">
-            </g>
             <text x="-11.123px" y="281.178px" style="font-family:'Arial-BoldMT', 'Arial';font-weight:700;font-size:16px;">Morgan Stanley</text>
         </g>
     </g>
     <g transform="matrix(1,0,0,1,-1.69916,8.72119)">
         <text x="4.552px" y="25.751px" style="font-family:'ArialMT', 'Arial';font-size:22px;">The Brexit banking matrix: <tspan x="265.813px 279.251px " y="25.751px 25.751px ">Th</tspan>e contenders lining up for</text>
-        <g transform="matrix(22,0,0,22,157.961,53.7515)">
-        </g>
         <text x="4.552px" y="53.751px" style="font-family:'ArialMT', 'Arial';font-size:22px;">London&apos;s crown</text>
     </g>
     <g transform="matrix(1,0,0,1,-4.03548,6.58012)">
         <text x="71.789px" y="103.483px" style="font-family:'ArialMT', 'Arial';font-size:16px;">The highest level</text>
         <text x="71.789px" y="121.483px" style="font-family:'ArialMT', 'Arial';font-size:16px;">of presence in</text>
-        <g transform="matrix(16,0,0,16,134.93,139.483)">
-        </g>
         <text x="71.789px" y="139.483px" style="font-family:'ArialMT', 'Arial';font-size:16px;">each city</text>
     </g>
     <g transform="matrix(1,0,0,1,-4.25316,3.38758)">
@@ -244,8 +218,6 @@
         <text x="287.549px" y="117.644px" style="font-family:'ArialMT', 'Arial';font-size:16px;">indicate strong</text>
         <text x="287.549px" y="135.644px" style="font-family:'ArialMT', 'Arial';font-size:16px;">presence in</text>
         <text x="287.549px" y="153.644px" style="font-family:'ArialMT', 'Arial';font-size:16px;">a</text>
-        <g transform="matrix(16,0,0,16,328.463,153.644)">
-        </g>
         <text x="300.893px" y="153.644px" style="font-family:'Arial-BoldMT', 'Arial';font-weight:700;font-size:16px;">city</text>
     </g>
     <g transform="matrix(1,0,0,1,202.954,3.38758)">
@@ -253,70 +225,50 @@
         <text x="287.549px" y="117.644px" style="font-family:'ArialMT', 'Arial';font-size:16px;">indicate broad</text>
         <text x="287.549px" y="135.644px" style="font-family:'ArialMT', 'Arial';font-size:16px;">presence of</text>
         <text x="287.549px" y="153.644px" style="font-family:'ArialMT', 'Arial';font-size:16px;">a</text>
-        <g transform="matrix(16,0,0,16,338.237,153.644)">
-        </g>
         <text x="300.893px" y="153.644px" style="font-family:'Arial-BoldMT', 'Arial';font-weight:700;font-size:16px;">bank</text>
     </g>
     <g transform="matrix(0.707107,-0.707107,0.707107,0.707107,-127.947,181.594)">
         <g transform="matrix(0.92,0,0,1,11.6782,0)">
-            <g transform="matrix(16,0,0,16,198.415,245.432)">
-            </g>
             <text x="145.978px" y="245.432px" style="font-family:'Arial-BoldMT', 'Arial';font-weight:700;font-size:16px;">Lisbon</text>
         </g>
     </g>
     <g transform="matrix(0.707107,-0.707107,0.707107,0.707107,73.2839,181.594)">
         <g transform="matrix(0.92,0,0,1,11.6782,0)">
-            <g transform="matrix(16,0,0,16,195.743,245.432)">
-            </g>
             <text x="145.978px" y="245.432px" style="font-family:'Arial-BoldMT', 'Arial';font-weight:700;font-size:16px;">Dublin</text>
         </g>
     </g>
     <g transform="matrix(0.707107,-0.707107,0.707107,0.707107,-25.446,181.594)">
         <g transform="matrix(0.92,0,0,1,11.6782,0)">
-            <g transform="matrix(16,0,0,16,186.868,245.432)">
-            </g>
             <text x="145.978px" y="245.432px" style="font-family:'Arial-BoldMT', 'Arial';font-weight:700;font-size:16px;">Milan</text>
         </g>
     </g>
     <g transform="matrix(0.707107,-0.707107,0.707107,0.707107,175.784,181.594)">
         <g transform="matrix(0.92,0,0,1,11.6782,0)">
-            <g transform="matrix(16,0,0,16,242.868,245.432)">
-            </g>
             <text x="145.978px" y="245.432px" style="font-family:'Arial-BoldMT', 'Arial';font-weight:700;font-size:16px;">Luxembourg</text>
         </g>
     </g>
     <g transform="matrix(0.707107,-0.707107,0.707107,0.707107,-76.8533,181.594)">
         <g transform="matrix(0.92,0,0,1,11.6782,0)">
-            <g transform="matrix(16,0,0,16,234.009,245.432)">
-            </g>
             <text x="145.978px" y="245.432px" style="font-family:'Arial-BoldMT', 'Arial';font-weight:700;font-size:16px;">Amsterdam</text>
         </g>
     </g>
     <g transform="matrix(0.707107,-0.707107,0.707107,0.707107,124.377,181.594)">
         <g transform="matrix(0.92,0,0,1,11.6782,0)">
-            <g transform="matrix(16,0,0,16,185.118,245.432)">
-            </g>
             <text x="145.978px" y="245.432px" style="font-family:'Arial-BoldMT', 'Arial';font-weight:700;font-size:16px;">Paris</text>
         </g>
     </g>
     <g transform="matrix(0.707107,-0.707107,0.707107,0.707107,23.6473,181.594)">
         <g transform="matrix(0.92,0,0,1,11.6782,0)">
-            <g transform="matrix(16,0,0,16,198.423,245.432)">
-            </g>
             <text x="145.978px" y="245.432px" style="font-family:'Arial-BoldMT', 'Arial';font-weight:700;font-size:16px;">Madrid</text>
         </g>
     </g>
     <g transform="matrix(0.707107,-0.707107,0.707107,0.707107,224.878,181.594)">
         <g transform="matrix(0.92,0,0,1,11.6782,0)">
-            <g transform="matrix(16,0,0,16,216.204,245.432)">
-            </g>
             <text x="145.978px" y="245.432px" style="font-family:'Arial-BoldMT', 'Arial';font-weight:700;font-size:16px;">Frankfurt</text>
         </g>
     </g>
     <g transform="matrix(1,0,0,1,-2.95477,6.1132)">
         <g transform="matrix(0.95,0,0,1,26.7038,0)">
-            <g transform="matrix(14,0,0,14,594.739,244.837)">
-            </g>
             <text x="534.077px" y="244.837px" style="font-family:'Arial-BoldMT', 'Arial';font-weight:700;font-size:14px;">LONDON</text>
         </g>
     </g>
@@ -331,45 +283,29 @@
     </g>
     <g id="greyText" transform="matrix(1,0,0,1,-1,6)">
         <g transform="matrix(0.99,0,0,1,0.024246,0)">
-            <g transform="matrix(12,0,0,12,521.384,692.722)">
-            </g>
-            <g transform="matrix(12,0,0,12,524.718,692.722)">
-            </g>
             <text x="2.425px" y="692.722px" style="font-family:'ArialMT', 'Arial';font-size:12px;fill:rgb(137,137,137);">* Broker dealer branches are included for Morgan Stanley and Goldman Sachs as they are a signiﬁcant part of</text>
         </g>
         <g transform="matrix(0.99,0,0,1,0.024246,0)">
-            <g transform="matrix(12,0,0,12,129.831,706.722)">
-            </g>
             <text x="2.425px" y="706.722px" style="font-family:'ArialMT', 'Arial';font-size:12px;fill:rgb(137,137,137);">their European network</text>
         </g>
     </g>
     <g id="greyText1" serif:id="greyText" transform="matrix(1,0,0,1,-1,35.0852)">
         <g transform="matrix(0.99,0,0,1,0.024246,0)">
-            <g transform="matrix(12,0,0,12,388.634,692.722)">
-            </g>
             <text x="2.425px" y="692.722px" style="font-family:'ArialMT', 'Arial';font-size:12px;fill:rgb(137,137,137);">** Deutsche Baml has a London subsidiary but its main entity is a branch</text>
         </g>
     </g>
     <g id="greyText2" serif:id="greyText" transform="matrix(1,0,0,1,-1,61.8726)">
         <g transform="matrix(0.99,0,0,1,0.024246,0)">
-            <g transform="matrix(12,0,0,12,315.456,692.722)">
-            </g>
             <text x="2.425px" y="692.722px" style="font-family:'ArialMT', 'Arial';font-size:12px;fill:rgb(137,137,137);">FT<tspan x="16.866px 20.2px " y="692.722px 692.722px "> g</tspan>raphic <tspan x="62.222px 70.226px " y="692.722px 692.722px ">Al</tspan>an Smith, Laura Noonan   Source: FT<tspan x="272.109px 275.443px " y="692.722px 692.722px "> r</tspan>esearch</text>
         </g>
     </g>
     <g id="invText" transform="matrix(1,0,0,1,-2.54735,3.96503)">
-        <g transform="matrix(14,0,0,14,46.4243,101.144)">
-        </g>
         <text x="14.514px" y="101.144px" style="font-family:'ArialMT', 'Arial';font-size:14px;fill:white;">Bank</text>
     </g>
     <g class="blackText" transform="matrix(1,0,0,1,-2.54735,26.0403)">
-        <g transform="matrix(14,0,0,14,58.8725,101.144)">
-        </g>
         <text x="14.514px" y="101.144px" style="font-family:'ArialMT', 'Arial';font-size:14px;">Branch</text>
     </g>
     <g class="blackText" transform="matrix(1,0,0,1,-2.54735,48.1156)">
-        <g transform="matrix(14,0,0,14,54.9761,101.144)">
-        </g>
         <text x="14.514px" y="101.144px" style="font-family:'ArialMT', 'Arial';font-size:14px;">Other*</text>
     </g>
     <defs>
