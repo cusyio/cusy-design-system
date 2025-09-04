@@ -99,6 +99,7 @@ function downloadSingleTile(svg, fileName, patternName) {
 
 document.addEventListener("DOMContentLoaded", () => {
     const svgContainer = document.getElementById("svg-gen-container");
+    if(!svgContainer) return;
     const patternSelect = document.getElementById("pattern-select");
     const percentageInput = document.getElementById("percentage-input");
     const downloadButton = document.getElementById("download-button");
