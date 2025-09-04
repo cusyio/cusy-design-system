@@ -111,8 +111,6 @@
     <rect id="dots-10" x="1160" y="31.738281" width="120" height="120" fill="url(#dotspattern-10)"/>
     <g transform="matrix(1,0,0,1,1.13687e-13,-28.2617)">
         <g transform="matrix(1,0,0,1,-41.9102,-781.367)">
-            <g transform="matrix(40,0,0,40,250.367,1010)">
-            </g>
             <text x="119px" y="1010px" style="font-family:'cusyText-Bold', 'cusy Text';font-weight:700;font-size:40px;">Pur<tspan x="188.648px " y="1010px ">p</tspan>le</text>
         </g>
 
