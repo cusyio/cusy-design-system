@@ -78,13 +78,13 @@ function fixBokehSvgPatternsInFirefox() {
   }
 }
 
-if(window.location.href.endsWith("colors.html")){
+if(window.location.href.endsWith("colors-implementation.html")){
   document.addEventListener('DOMContentLoaded', styleBokehPlot);
 }
 document.addEventListener('DOMContentLoaded', fixBokehSvgPatternsInFirefox);
 
 const observer=new MutationObserver(() => {
-  if(window.location.href.endsWith("colors.html")){
+  if(window.location.href.endsWith("colors-implementation.html")){
     document.addEventListener('DOMContentLoaded', styleBokehPlot);
   }
   setTimeout(fixBokehSvgPatternsInFirefox, 100);
