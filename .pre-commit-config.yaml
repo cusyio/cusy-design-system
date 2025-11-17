@@ -15,11 +15,11 @@ repos:
         types: [file]  # override `types: [json]`
         files: \.(json|ipynb)$
   - repo: https://github.com/psf/black
-    rev: "25.9.0"
+    rev: "25.11.0"
     hooks:
       - id: black
   - repo: https://github.com/asottile/reorder_python_imports
-    rev: "v3.15.0"
+    rev: "v3.16.0"
     hooks:
     -   id: reorder-python-imports
   - repo: https://github.com/pycqa/flake8
@@ -28,7 +28,7 @@ repos:
       - id: flake8
         language_version: python3
   - repo: https://github.com/sphinx-contrib/sphinx-lint
-    rev: v1.0.0
+    rev: v1.0.1
     hooks:
     - id: sphinx-lint
       types: [rst]
