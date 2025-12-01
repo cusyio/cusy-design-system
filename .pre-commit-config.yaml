@@ -14,11 +14,11 @@ repos:
     -   id: check-json
         types: [file]  # override `types: [json]`
         files: \.(json|ipynb)$
-  - repo: https://github.com/psf/black
+  - repo: https://github.com/psf/black-pre-commit-mirror
     rev: "25.11.0"
     hooks:
       - id: black
-  - repo: https://github.com/asottile/reorder_python_imports
+  - repo: https://github.com/asottile/reorder-python-imports
     rev: "v3.16.0"
     hooks:
     -   id: reorder-python-imports
@@ -28,7 +28,7 @@ repos:
       - id: flake8
         language_version: python3
   - repo: https://github.com/sphinx-contrib/sphinx-lint
-    rev: v1.0.1
+    rev: v1.0.2
     hooks:
     - id: sphinx-lint
       types: [rst]
