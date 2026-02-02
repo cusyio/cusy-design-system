@@ -89,4 +89,5 @@ Verwendet bei Prozeduren die folgende Reihenfolge:
      Shell-Konfiguration richtig und wirksam.
 
 .. seealso::
+   * :doc:`wordlist`
    * :doc:`python-basics:document/sphinx/placeholder`
