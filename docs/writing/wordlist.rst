@@ -17,11 +17,33 @@ Wortliste
 
 .. glossary::
 
+    Autonomous System Numbers
+    ASN
+        IANA hat für Autonomous System Numbers zwei Blöcke aufeinanderfolgender
+        Nummern reserviert:
+
+        * ``64496``–``64511`` für 16bit
+        * ``65536``–``65551`` für 32bit
+
+    ✅ 3D
+        nicht ❌ 3-D
+
+    Ethernet-Adressen
+    MAC-Adressen
+        In  :rfc:`7042` sind die Adressen festgelegt, die für die Dokumentation
+        verwendet werden sollten, :abbr:`z. B. (zum Beispiel)`
+
+        * ``00-00-5E-00-53-00 bis 00-00-5E-00-53-FF`` für Unicast EUI-48
+        * ``01-00-5E-90-10-00 bis 01-00-5E-90-10-FF`` für Multicast EUI-48
+
+        .. seealso::
+           *  :rfc:`7042` für 64-bit Extended Unique Identifier (EUI-64)
+
     ❌ :samp:`1.2.3.4`
     IP-Adressen
         Verwendet in Beispielkonfigurationen keine öffentlich zugänglichen
         IP-Adressen, die ihr nicht selbst kontrollieren könnt. Verwendet
-        stattdessen die in :rfc:`6890`, :rfc:`5737` und :rfc:`3849`
+        stattdessen die in :rfc:`6890`, :rfc:`5737`, :rfc:`3849` und :rfc:`9637`
         dokumentierten IPv4- und IPv6-Bereiche:
 
         * ✅ ``192.0.2.0/24``
@@ -29,10 +51,24 @@ Wortliste
         * ✅ ``203.0.113.0/24``
         * ✅ ``2001:db8::/32``
 
-        Siehe auch :term:`Domänennamen`.
+        .. seealso::
+           * :term:`Domänennamen`.
+           * :rfc:`6034` für IPv4 Multicast-Adressen
+           * :rfc:`6676` für IPv6-Multicast-Dokumentationsadressen
 
-    ✅ 3D
-        nicht ❌ 3-D
+    Telefonnummern
+        Die Bundesnetzagentur stellt für Filme, Bücher und andere Medien
+        :abbr:`sog. (sogenannte)` *Drama Numbers* zur Verfügung. Dies sind
+        Rufnummern, denen dauerhaft keine Teilnehmenden zugeteilt sind, die
+        beliebig angerufen und genehmigungsfrei *„in Medien gezeigt, abgedruckt
+        und gesprochen verwendet werden können“*.
+
+        .. seealso::
+           * Bundesnetzagentur: `Nummerierung
+             <https://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Nummerierung/start.html>`_)
+             <https://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Nummerierung/start.html#doc866026bodyText7>`_
+           * `Rufnummern für Medienproduktionen („Drama Numbers“)
+             <https://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Nummerierung/_DL/mittlg148_2021.pdf?__blob=publicationFile&v=1>`_
 
 Symbole
 ~~~~~~~
@@ -98,9 +134,22 @@ A-Z
         kontrollieren könnt. Verwendet stattdessen einen der verfügbaren
         reservierten Domänennamen, die in :rfc:`2606` dokumentiert sind, wie
 
+        * ✅ ``.example`` für Dokumentationen
+        * ✅ ``.test`` für Tests im DNS-Bereich
+        * ✅ ``.invalid`` für Domänennamen, die als ungültig erkannt werden
+        * ✅ ``.localhost`` sollte in Host-Implementierungen einen A-Record auf
+          Loopback bereitstellen
         * ✅ ``example.com``
         * ✅ ``example.net``
-        * ✅ ``.example``
+        * ✅ ``example.org``
+
+        .. seealso::
+           * :rfc:`6761`
+           * :rfc:`6762`
+           * :rfc:`7686`
+           * :rfc:`9476`
+           * ICANN: `Reserving .INTERNAL for Private-Use Applications
+             <https://www.icann.org/en/board-activities-and-meetings/materials/approved-resolutions-special-meeting-of-the-icann-board-29-07-2024-en#section2.a>`_
 
     ❌ Hier klicken
         solltet ihr nicht verwenden; für Details und Alternativen siehe
@@ -142,6 +191,22 @@ A-Z
 
         Siehe :term:`❌ Slave`.
 
+    Medientypen
+        Wenn in einer Dokumentation nicht relevant ist, um welchen Medientyp es
+        konkret gehen soll, empfiehlt :rfc:`4735` folgende Platzhalter:
+
+        Media Type:
+            ``example``
+        Media Subtypes:
+            * ``application/example``
+            * ``audio/example``
+            * ``image/example``
+            * ``message/example``
+            * ``model/example``
+            * ``multipart/example``
+            * ``text/example``
+            * ``video/example``
+
     ✅ N/A
         nicht NA. Erläutert es bei der ersten Verwendung als *nicht verfügbar*
         oder *nicht anwendbar*.
@@ -149,6 +214,13 @@ A-Z
     ❌ oberhalb
         verwendet es nicht, da es ein spezifisches Layout voraussetzt; verwendet
         stattdessen *vorausgehend*.
+
+    Passwörter
+        Wir beschreiben für Passwörter, wie diese :abbr:`z. B. (zum Beispiel)`
+        mit `pwgen <https://sourceforge.net/projects/pwgen/>`_ generiert werden
+        können, da wir die Gefahr sehen, dass ein konkretes Beispiel wie
+        ``ChangeMe`` oder ``MySuperSecretPassword`` zu leicht übernommen werden
+        kann.
 
     ❌ Pros
         Verwendet stattdessen *Vorteile*.
@@ -197,8 +269,8 @@ A-Z
 
         Wenn der Befehl oder Code, den ihr dokumentiert, wörtlich *Slave*
         verwendet, dann formattiert ihn als Code und macht deutlich, worauf ihr
-        euch bezieht. Verwendet danach einen spezifischeren Begriff, :abbr:`z.B.
-        (zum Beispiel)`
+        euch bezieht. Verwendet danach einen spezifischeren Begriff,
+        :abbr:`z. B. (zum Beispiel)`
 
             Startet den sekundären Prozess mit ``slave:start``, wenn ihr
             Probleme zwischen dem primären und sekundären Prozess analysieren
