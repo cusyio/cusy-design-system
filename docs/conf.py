@@ -13,6 +13,7 @@
 # sys.path.insert(0, os.path.abspath('.'))
 import os
 import re
+from datetime import date
 
 # Set canonical URL from the Read the Docs Domain
 html_baseurl = "https://www.cusy.design/"
@@ -25,8 +26,9 @@ if os.environ.get("READTHEDOCS", "") == "True":
 # -- Project information -----------------------------------------------------
 
 project = "cusy Design-System"
-copyright = "2020–2024, cusy GmbH"
 author = "Veit Schiele, cusy GmbH"
+current_year = date.today().year
+copyright = f"2015–{current_year}, {author}"
 
 # The full version, including alpha/beta/rc tags
 release = re.sub("^v", "", os.popen("git describe --abbrev=0").read().strip())
