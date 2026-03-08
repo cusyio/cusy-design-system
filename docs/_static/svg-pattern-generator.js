@@ -1,6 +1,6 @@
 async function generateSVG(patternName, percentage) {
     try {
-        const response = await fetch(`../../_static/pattern/generator/${patternName}.svg`);
+        const response = await fetch(`../../../_static/pattern/generator/${patternName}.svg`);
         const data = await response.text();
         return resizeSVG(data, percentage, patternName);
     } catch (error) {

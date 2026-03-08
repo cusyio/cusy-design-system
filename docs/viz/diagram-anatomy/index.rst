@@ -100,7 +100,5 @@ Leistungskennzahl
     axes-and-labels
     legends
     aspect-ratios
-    colors
-    colors-implementation.ipynb
-    maps-implementation.ipynb
+    colours-textures/index
     multilingualism
