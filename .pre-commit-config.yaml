@@ -6,7 +6,7 @@ ci:
 
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: 3e8a8703264a2f4a69428a0aa4dcb512790b2c8c # v6.0.0
+    rev: v6.0.0 # v6.0.0
     hooks:
     - id: check-json
       types: [file]  # override `types: [json]`
@@ -16,7 +16,7 @@ repos:
     - id: end-of-file-fixer
     - id: trailing-whitespace
   - repo: https://github.com/tox-dev/pyproject-fmt
-    rev: 7482d629adc2b03afb85a2538570d1c20908a58c # frozen: v2.29.2
+    rev: a72ae8edd6eeddb9d942168912362945651212f8  # frozen: v2.30.1
     hooks:
     - id: pyproject-fmt
   - repo: https://github.com/abravalheri/validate-pyproject
@@ -24,18 +24,18 @@ repos:
     hooks:
     - id: validate-pyproject
   - repo: https://github.com/astral-sh/ruff-pre-commit
-    rev: 1f1e8bf348ff38fc88619a38d3ca4d9c56abea49 # frozen: v0.16.5
+    rev: f12be1ebaa5351c1fc76472de98db2c3446c8253  # frozen: v0.16.10
     hooks:
       - id: ruff-check
         args: [--fix, --exit-non-zero-on-fix]
       - id: ruff-format
   - repo: https://github.com/sphinx-contrib/sphinx-lint
-    rev: c883505f64b59c3c5c9375191e4ad9f98e727ccd # v1.0.2
+    rev: v1.0.2 # v1.0.2
     hooks:
     - id: sphinx-lint
       types: [rst]
   - repo: https://github.com/adamchainz/blacken-docs
-    rev: fda77690955e9b63c6687d8806bafd56a526e45f # 1.20.0
+    rev: 1.20.0 # 1.20.0
     hooks:
     - id: blacken-docs
       args: [--line-length=79]
