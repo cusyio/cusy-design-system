@@ -1,27 +1,26 @@
 Datenvisualisierung
 ===================
 
-Dazu unterscheiden wir zunächst die beiden Hauptzwecke der Datenvisualisierung:
+Datenvisualisierung stellt dichte und komplexe Informationen in grafischer Form
+dar. Die resultierenden Visualisierungen können den Vergleich der Daten
+vereinfachen und verwendet werden, um :doc:`eine Geschichte zu erzählen
+<data-storytelling>` – beides kann bei der Entscheidungsfindung helfen.
 
-explorative Datenvisualisierung
-    ist von Analysten für Analysten. Sie dient dazu,
+Genau
+    Legt Wert auf die `Datenqualität
+    <https://slides.cusy.io/data-quality/index.html>`_ und stellt Informationen
+    unverzerrt dar.
+Hilfreich
+    Unterstützt User bei der Navigation durch die Daten mit Kontext und
+    Bedienelementen, die das Erkunden und Vergleichen fördern.
+Skalierbar
+    Passt Visualisierungen an verschiedene Gerätegrößen an und berücksichtigt
+    dabei die Bedürfnisse der User hinsichtlich Datentiefe, Komplexität und
+    Darstellungsform.
 
-    * sich mit einem Datensatz vertraut zu machen
-    * Fragen zu den Daten zu beantworten
-
-    Dabei sind nur einige Design-Elemente von Bedeutung. Wichtiger sind schnelle
-    Iterationen zwischen verschiedenen Diagrammtypen und
-    Datenmanipulationsschritten, wie Filterung und Aggregation.
-
-erklärende Datenvisualisierung
-    sind für ein breites Publikum gedacht. Hier ist gutes Design entscheidend.
-    Solche Datenvisualisierungen sind dem Grafikdesign sehr ähnlich. Die
-    Bausteine für das Design, wie :doc:`/typography`, Layout und Komposition,
-    bleiben dieselben. Daher wird ein gutes Verständnis der Elemente und
-    Prinzipien des Grafikdesigns diese Datenvisualisierungen verbessern.
-
-Mithilfe von cusy-Charts könnt ihr genaue und überzeugende Geschichten rund um
-Daten mit schönen und zugänglichen Visualisierungen erzählen.
+Die Datenvisualisierung kann Daten unterschiedlicher :ref:`Art <data-types>` und
+:ref:`Größe <data-size>` ausdrücken – von wenigen Datenpunkten bis hin zu großen
+multivariaten Datensätzen.
 
 .. toctree::
     :hidden:
@@ -33,4 +32,5 @@ Daten mit schönen und zugänglichen Visualisierungen erzählen.
     cognitive-load
     types/index
     data-storytelling
+    interaction
     dashboards

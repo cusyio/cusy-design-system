@@ -46,6 +46,7 @@ extensions = [
     "sphinx.ext.graphviz",
     "sphinx.ext.todo",
     "sphinxcontrib.cairosvgconverter",
+    "sphinxcontrib.video",
     "sphinx_design",
     "sphinx_sitemap",
 ]

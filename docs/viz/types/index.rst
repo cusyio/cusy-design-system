@@ -13,6 +13,8 @@ zunächst den Zweck der Visualisierung und wählt dann den geeigneten Diagrammty
      <https://github.com/Financial-Times/chart-doctor/tree/main/visual-vocabulary>`_
    * `The Data Visualisation Catalogue <https://datavizcatalogue.com/>`_
 
+.. _data-types:
+
 Datentypen
 ----------
 
@@ -223,6 +225,8 @@ Geodaten
       .. image:: map-connecting.png
          :alt: Verbindungskarte
          :target: https://www.cusy.design/viz/types/maps.html#verbindungskarten
+
+.. _data-size:
 
 Datengröße
 ----------

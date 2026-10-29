@@ -41,6 +41,7 @@ docs = [
   "sphinx-design",
   "sphinx-sitemap",
   "sphinxcontrib-svg2pdfconverter",
+  "sphinxcontrib-video",
 ]
 
 [tool.black]
